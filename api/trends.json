@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-12T15:56:11.672018+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-10-12T16:28:26.536198+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时28分 ~ 07时21分]"
+        },
+        {
+          "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
+          "url": "https://wallstreetcn.com/premium/articles/3756980?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时56分 ~ 16时28分]"
         },
         {
           "title": "美股大跌背后原因是什么",
@@ -38,6 +53,19 @@
           "time_info": "[00时28分 ~ 15时56分]"
         },
         {
+          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
+          "url": "https://www.cls.cn/detail/2166644",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时56分 ~ 16时28分]"
+        },
+        {
           "title": "美股大暴跌,白宫趁机满仓做空",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
           "source": "贴吧",
@@ -48,35 +76,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时28分 ~ 15时56分]"
-        },
-        {
-          "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
-          "url": "https://wallstreetcn.com/premium/articles/3756980?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时56分 ~ 15时56分]"
-        },
-        {
-          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
-          "url": "https://www.cls.cn/detail/2166644",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时56分 ~ 15时56分]"
+          "appearance_count": 20,
+          "time_info": "[00时28分 ~ 16时28分]"
         },
         {
           "title": "美股全线暴跌对A股冲击会有多大",
