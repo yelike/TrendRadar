@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-12T17:21:45.594047+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2025-10-12T18:23:07.686679+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时56分 ~ 17时21分]"
+          "appearance_count": 13,
+          "time_info": "[09时56分 ~ 18时23分]"
         },
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -74,11 +74,12 @@
             12,
             15,
             16,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时28分 ~ 17时21分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 18时23分]"
         },
         {
           "title": "美股全线暴跌对A股冲击会有多大",
@@ -115,7 +116,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
         }
