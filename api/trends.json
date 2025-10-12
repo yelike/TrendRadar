@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-12T21:25:41.048664+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2025-10-12T22:21:38.359057+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普对华关税恐吓，把美股吓出心脏病了",
@@ -63,8 +63,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时56分 ~ 21时25分]"
+          "appearance_count": 17,
+          "time_info": "[09时56分 ~ 22时21分]"
         },
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -80,8 +80,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时28分 ~ 21时25分]"
+          "appearance_count": 27,
+          "time_info": "[00时28分 ~ 22时21分]"
         },
         {
           "title": "美股全线暴跌对A股冲击会有多大",
@@ -121,6 +121,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时21分"
+        },
+        {
+          "title": "特朗普关税战造成美股下跌影响几何",
+          "url": "https://www.toutiao.com/trending/7560293356530585130/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
