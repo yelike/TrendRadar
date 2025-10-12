@@ -1,186 +1,22 @@
 {
-  "generated_at": "2025-10-12T23:22:15.297834+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2025-10-13T00:28:23.030142+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "特朗普对华关税恐吓，把美股吓出心脏病了",
-          "url": "https://news.ifeng.com/c/8nMSoze2N8i",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "精准预言美股再次爆金币！付鹏详解为何在专栏预先提示风险隐患？下一步怎么看？【付鹏说8】",
-          "url": "https://wallstreetcn.com/premium/articles/3756980?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 16时28分]"
-        },
-        {
-          "title": "美股大跌背后原因是什么",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C%E8%83%8C%E5%90%8E%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            21,
-            5,
-            16,
-            25,
-            23,
-            20,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 15时56分]"
-        },
-        {
-          "title": "环球下周看点：美股Q3财报季揭幕 美国经济、AI叙事面临审视",
-          "url": "https://www.cls.cn/detail/2166644",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时56分 ~ 22时21分]"
-        },
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345682&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%A4%A7%E6%9A%B4%E8%B7%8C%2C%E7%99%BD%E5%AE%AB%E8%B6%81%E6%9C%BA%E6%BB%A1%E4%BB%93%E5%81%9A%E7%A9%BA",
           "source": "贴吧",
           "ranks": [
-            11,
-            12,
-            15,
-            16,
-            19,
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时28分 ~ 23时22分]"
-        },
-        {
-          "title": "美股全线暴跌对A股冲击会有多大",
-          "url": "https://www.toutiao.com/trending/7560106683574259251/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            5,
-            16,
-            10,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时56分 ~ 15时23分]"
-        },
-        {
-          "title": "美股跳水",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 02时30分]"
-        },
-        {
-          "title": "美股暴跌下的A股周一展望",
-          "url": "https://www.toutiao.com/trending/7560227762657562122/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时21分"
-        },
-        {
-          "title": "特朗普关税战造成美股下跌影响几何",
-          "url": "https://www.toutiao.com/trending/7560293356530585130/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股重演“四月暴跌”，纳指跌超3%半年最惨，美债黄金拉升，铜油加密货币跳水",
-          "url": "https://wallstreetcn.com/articles/3756939",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
-        },
-        {
-          "title": "黄金飙升背后的逻辑，美债并不认可？",
-          "url": "https://wallstreetcn.com/articles/3756982",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时18分 ~ 09时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌前CEO警告：AI可能学会杀人",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E8%AD%A6%E5%91%8A%EF%BC%9AAI%E5%8F%AF%E8%83%BD%E5%AD%A6%E4%BC%9A%E6%9D%80%E4%BA%BA",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            4,
-            16,
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 13时24分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     }
