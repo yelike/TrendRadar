@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T06:23:32.311682+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2025-10-14T07:23:07.110138+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
@@ -25,11 +25,12 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
@@ -40,8 +41,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
         },
         {
           "title": "美股三大指数高开 稀土概念股大涨",
@@ -54,11 +55,34 @@
             10,
             16,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 07时23分]"
+        },
+        {
+          "title": "贸易紧张局势缓和，美股强劲反弹，芯片股领涨，黄金突破4100关口，期银大涨7%",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
+          "url": "https://www.cls.cn/detail/2168249",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
@@ -118,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "Arm控股美股盘后上涨超8.7%。据The Information报道，OpenAI正为了博通人工智能（AI）芯片研发而与日本软银集团旗下Arm控股合作。",
+          "url": "https://wallstreetcn.com/livenews/2986990",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股盘中）",
