@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T22:27:23.501109+08:00",
-  "total_titles_processed": 1860,
+  "generated_at": "2025-10-13T23:25:17.252369+08:00",
+  "total_titles_processed": 1950,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,20 @@
           "time_info": "[00时28分 ~ 15时27分]"
         },
         {
+          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2168011",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时52分 ~ 23时25分]"
+        },
+        {
           "title": "TACO交易？美股期货反弹，数字货币大涨，黄金续创新高，亚洲股市普跌",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
@@ -57,6 +71,17 @@
           "time_info": "[21时34分 ~ 21时35分]"
         },
         {
+          "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
+        },
+        {
           "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
@@ -68,17 +93,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时56分 ~ 13时26分]"
-        },
-        {
-          "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "TACO交易？美股纳指期货涨2%，科技股集体走高，数字货币大幅反弹，黄金续创新高",
@@ -115,19 +129,6 @@
           "time_info": "[09时56分 ~ 11时16分]"
         },
         {
-          "title": "美股三大期指明显反弹 芯片股、稀土概念涨幅居前 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2168011",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时52分 ~ 22时27分]"
-        },
-        {
           "title": "博通(AVGO.O)美股盘前直线拉涨，涨超10%。",
           "url": "https://flash.jin10.com/detail/20251013210050779800",
           "source": "金十数据",
@@ -137,6 +138,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
+        },
+        {
+          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
+          "url": "https://wallstreetcn.com/articles/3757057",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时52分 ~ 23时25分]"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
@@ -163,18 +176,6 @@
           "time_info": "[21时35分 ~ 22时27分]"
         },
         {
-          "title": "高盛交易员：上周五的美股表现更像是“保护”，而非“退出”",
-          "url": "https://wallstreetcn.com/articles/3757057",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时52分 ~ 22时27分]"
-        },
-        {
           "title": "特朗普关税威胁引美股暴跌！专家警告：市场预计美国更受伤",
           "url": "https://www.cls.cn/detail/2167222",
           "source": "财联社热门",
@@ -197,6 +198,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时56分 ~ 11时16分]"
+        },
+        {
+          "title": "美股核电股大涨，Energy Fuels涨超14%，Oklo涨超11%。",
+          "url": "https://wallstreetcn.com/livenews/2986873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
+        },
+        {
+          "title": "美股三大指数高开 稀土概念股大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A8%80%E5%9C%9F%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
+        },
+        {
+          "title": "美股三大股指集体高开，纳指盘初涨1.71%，标普500指数涨1.16%，道指涨0.82%。科技股集体反弹，费城半导体指数涨超4%，台积电涨超5%，英伟达涨超2%，苹果涨超1%；博通涨超8%，消息称OpenAI与博通计划于2026年推出定制数据中心芯片；美国稀土概念股走高，USA Rare Earth涨超17%；热门中概股普涨，纳斯达克中国金龙指数涨2.7%，阿里巴巴涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/2986864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
         },
         {
           "title": "美股期指集体反弹",
@@ -243,46 +280,13 @@
           "time_info": "21时35分"
         },
         {
-          "title": "美股核电股大涨，Energy Fuels涨超14%，Oklo涨超11%。",
-          "url": "https://wallstreetcn.com/livenews/2986873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "美股三大指数高开 稀土概念股大涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A8%80%E5%9C%9F%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览",
           "url": "https://flash.jin10.com/detail/20251013214134823800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
-          "title": "美股三大股指集体高开，纳指盘初涨1.71%，标普500指数涨1.16%，道指涨0.82%。科技股集体反弹，费城半导体指数涨超4%，台积电涨超5%，英伟达涨超2%，苹果涨超1%；博通涨超8%，消息称OpenAI与博通计划于2026年推出定制数据中心芯片；美国稀土概念股走高，USA Rare Earth涨超17%；热门中概股普涨，纳斯达克中国金龙指数涨2.7%，阿里巴巴涨超5%。",
-          "url": "https://wallstreetcn.com/livenews/2986864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -326,7 +330,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -348,7 +352,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
@@ -365,7 +369,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -376,7 +380,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
