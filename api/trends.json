@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T09:57:13.287523+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2025-10-13T11:16:46.852064+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             21,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 09时57分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 11时16分]"
         },
         {
           "title": "美股期指集体反弹",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 09时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 11时16分]"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
@@ -48,22 +50,24 @@
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 09时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 11时16分]"
         },
         {
           "title": "美股期指集体反弹",
           "url": "https://www.toutiao.com/trending/7560480850865835529/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 09时57分]"
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 11时16分]"
         },
         {
           "title": "美股期指集体反弹",
@@ -91,11 +95,12 @@
             16,
             14,
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时19分 ~ 09时57分]"
+          "appearance_count": 9,
+          "time_info": "[03时19分 ~ 11时16分]"
         }
       ]
     }
