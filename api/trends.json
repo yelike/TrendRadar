@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T16:40:37.964163+08:00",
-  "total_titles_processed": 1283,
+  "generated_at": "2025-10-13T17:31:24.319601+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -48,13 +48,24 @@
           "time_info": "[09时56分 ~ 13时26分]"
         },
         {
+          "title": "TACO交易？美股纳指期货涨2%，科技股盘前集体走高，数字货币大幅反弹，黄金续创新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "TACO交易？美股纳指期货涨2%，科技股集体走高，数字货币大幅反弹，黄金续创新高",
           "url": "https://wallstreetcn.com/articles/3757049",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -123,7 +134,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -134,7 +145,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
         },
@@ -156,9 +167,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美银：将明年黄金价格预期上调至5000美元/盎司",
+          "url": "https://flash.jin10.com/detail/20251013170704151800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         }
       ]
     },
