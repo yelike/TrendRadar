@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-13T07:22:06.718569+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-10-13T09:57:13.287523+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股大暴跌,白宫趁机满仓做空",
@@ -13,11 +13,23 @@
           "source": "贴吧",
           "ranks": [
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时28分 ~ 09时57分]"
+        },
+        {
+          "title": "美股期指集体反弹",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
@@ -30,6 +42,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时22分]"
+        },
+        {
+          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "美股期指集体反弹",
+          "url": "https://www.toutiao.com/trending/7560480850865835529/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
+        },
+        {
+          "title": "美股期指集体反弹",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%9B%86%E4%BD%93%E5%8F%8D%E5%BC%B9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26q%3D%2523%25E7%25BE%258E%25E8%2582%25A1%25E6%259C%259F%25E6%258C%2587%25E9%259B%2586%25E4%25BD%2593%25E5%258F%258D%25E5%25BC%25B9%2523%26band_rank%3D29%26pos%3D29%26realpos%3D29%26filter_type%3Drealtimehot%26c_type%3D31%26dgr%3D0%26display_time%3D1760320594%26pre_seqid%3D176032059462003754951127",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 09时57分]"
         }
       ]
     },
@@ -45,11 +90,12 @@
             19,
             16,
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时19分 ~ 07时22分]"
+          "appearance_count": 8,
+          "time_info": "[03时19分 ~ 09时57分]"
         }
       ]
     }
