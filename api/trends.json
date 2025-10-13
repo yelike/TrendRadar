@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-13T12:30:24.848974+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2025-10-13T13:26:24.517189+08:00",
+  "total_titles_processed": 969,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,21 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 12时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 13时26分]"
+        },
+        {
+          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 13时26分]"
         },
         {
           "title": "美股期指集体反弹",
@@ -33,19 +46,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时56分 ~ 11时16分]"
-        },
-        {
-          "title": "TACO交易？亚洲开盘，黄金续创新高，风险资产全线走高：美股反弹，数字货币大涨",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 12时30分]"
         },
         {
           "title": "美股期货高开逾1%，油价走高",
@@ -89,7 +89,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         }
@@ -109,11 +109,12 @@
             14,
             12,
             11,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时19分 ~ 12时30分]"
+          "appearance_count": 11,
+          "time_info": "[03时19分 ~ 13时26分]"
         }
       ]
     }
