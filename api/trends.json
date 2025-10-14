@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T01:20:51.538054+08:00",
-  "total_titles_processed": 390,
+  "generated_at": "2025-10-15T02:35:35.335651+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股三大股指低开，金银油下跌，数字货币重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
@@ -38,8 +38,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时31分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 02时35分]"
         },
         {
           "title": "澳股美股稀土板块持续飙涨",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251015012805608800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     },
