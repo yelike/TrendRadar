@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T11:06:47.974451+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2025-10-14T12:29:54.039464+08:00",
+  "total_titles_processed": 1041,
   "failed_sources": [],
   "trends": [
     {
@@ -46,6 +46,19 @@
           "time_info": "[00时32分 ~ 11时06分]"
         },
         {
+          "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
+          "url": "https://www.cls.cn/detail/2168249",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 12时29分]"
+        },
+        {
           "title": "美股三大指数高开 稀土概念股大涨",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+%E7%A8%80%E5%9C%9F%E6%A6%82%E5%BF%B5%E8%82%A1%E5%A4%A7%E6%B6%A8",
           "source": "百度热搜",
@@ -64,16 +77,26 @@
           "time_info": "[00时32分 ~ 07时23分]"
         },
         {
-          "title": "美股收盘：三大指数强势反弹 中国金龙指数涨超3%",
-          "url": "https://www.cls.cn/detail/2168249",
-          "source": "财联社热门",
+          "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
+          "url": "https://wallstreetcn.com/articles/3757049",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 11时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时29分]"
+        },
+        {
+          "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
+          "url": "https://www.cls.cn/detail/2168275",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时50分 ~ 12时29分]"
         },
         {
           "title": "贸易紧张局势缓和，美股强劲反弹，芯片股领涨，黄金突破4100关口，期银大涨7%",
@@ -85,28 +108,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时22分 ~ 07时23分]"
-        },
-        {
-          "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
-          "url": "https://wallstreetcn.com/articles/3757049",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时06分]"
-        },
-        {
-          "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
-          "url": "https://www.cls.cn/detail/2168275",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时06分]"
         },
         {
           "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
