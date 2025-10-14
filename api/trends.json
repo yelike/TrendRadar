@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-14T20:55:17.503341+08:00",
-  "total_titles_processed": 1866,
+  "generated_at": "2025-10-14T21:36:46.635973+08:00",
+  "total_titles_processed": 1940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "TACO交易！科技股力撑美股反弹，博通涨近10%，黄金突破4100关口，历史性逼空助白银新高",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时50分 ~ 20时55分]"
+          "appearance_count": 15,
+          "time_info": "[09时50分 ~ 21时36分]"
         },
         {
           "title": "美股三大股指集体高开，博通涨超8%，科技股集体反弹，热门中概股普涨，黄金续创新高",
@@ -111,15 +111,26 @@
           "time_info": "[07时22分 ~ 07时23分]"
         },
         {
-          "title": "高盛美股盘前跌幅扩大至3%。",
-          "url": "https://wallstreetcn.com/livenews/2987553",
+          "title": "美股三大股指低开，道指跌0.42%，标普500指数跌0.95%，纳指跌1.37%。",
+          "url": "https://wallstreetcn.com/livenews/2987574",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时55分"
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美股开盘，道指跌0.42%，标普500指数跌0.95%，纳指跌1.37%。纳微半导体(NVTS.O)大涨23%，公司在为英伟达研发芯片方面取得进展。AMD(AMD.O)涨1.1%，其获甲骨文5万块芯片大单；英伟达(NVDA.O)跌2.08%。纳斯达克中国金龙指数跌2.5%。",
+          "url": "https://flash.jin10.com/detail/20251014213025597800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "纳微半导体(NVTS.O)美股盘前大涨24%，此前公司宣布在为英伟达数据中心基础设施研发芯片方面取得进展。",
@@ -133,6 +144,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "沃尔玛美股盘前涨超3%，据彭博，沃尔玛与OpenAI合作，在ChatGPT平台上提供购物服务。",
+          "url": "https://wallstreetcn.com/livenews/2987569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251014040517860800",
           "source": "金十数据",
@@ -143,6 +165,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时27分 ~ 05时22分]"
+        },
+        {
+          "title": "高盛美股盘前跌幅扩大至3%。",
+          "url": "https://wallstreetcn.com/livenews/2987553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时36分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超3%",
@@ -193,6 +227,18 @@
           "time_info": "[05时22分 ~ 06时23分]"
         },
         {
+          "title": "AMD美股盘前涨超1%，CNBC消息，甲骨文云将于2026年下半年开始部署5万颗AMD AI芯片。",
+          "url": "https://wallstreetcn.com/livenews/2987532",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时55分 ~ 21时36分]"
+        },
+        {
           "title": "美股盘前中概股走低，阿里巴巴(BABA.N)下跌3.7%，拼多多(PDD.O)下跌2.4%，百度(BIDU.O)下跌3.6%。",
           "url": "https://flash.jin10.com/detail/20251014171305290800",
           "source": "金十数据",
@@ -215,6 +261,17 @@
           "time_info": "16时31分"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2987563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "华尔街警告：美股估值高企与不确定性恐引发新一轮波动",
           "url": "https://flash.jin10.com/detail/20251014175234213800",
           "source": "金十数据",
@@ -224,6 +281,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时26分"
+        },
+        {
+          "title": "美股三大期指盘前明显下跌 稀土概念股逆市走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2169365",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "华尔街警示美股逢低买家：诱惑背后 或暗藏更多波澜",
@@ -246,17 +314,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
-        {
-          "title": "AMD美股盘前涨超1%，CNBC消息，甲骨文云将于2026年下半年开始部署5万颗AMD AI芯片。",
-          "url": "https://wallstreetcn.com/livenews/2987532",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         },
         {
           "title": "金十图示：2025年10月13日（周一）美股热门股票行情一览（美股收盘）",
@@ -472,8 +529,19 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "业内：黄金价格仍然有上涨冲动",
+          "url": "https://www.toutiao.com/trending/7561048370240818727/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
         {
           "title": "盛屯矿业：全资下属公司盛屯黄金安大略拟以每股1.38加元的价格，现金方式收购Loncor现有全部已发行且流通的普通股及待稀释股份。收购完成后，公司将通过买方持有Loncor 100%股权。本次收购的交易金额约为2.61亿加元，约合1.9亿美元，人民币13.5亿元。",
           "url": "https://wallstreetcn.com/livenews/2987520",
@@ -481,7 +549,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         }
