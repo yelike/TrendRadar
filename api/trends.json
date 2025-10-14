@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T09:50:40.937595+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2025-10-14T11:06:47.974451+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 09时50分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 11时06分]"
         },
         {
           "title": "美股三大指数高开 稀土概念股大涨",
@@ -71,8 +72,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 09时50分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 11时06分]"
         },
         {
           "title": "贸易紧张局势缓和，美股强劲反弹，芯片股领涨，黄金突破4100关口，期银大涨7%",
@@ -92,9 +93,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时06分]"
         },
         {
           "title": "【早报】美联储发声，美股全线反弹、国际金银价格飙升；中方对美船舶收取特别港务费，今起正式施行",
@@ -103,9 +104,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时06分]"
         },
         {
           "title": "金十图示：2025年10月13日（周一）热门中概股行情一览（美股收盘）",
