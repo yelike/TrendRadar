@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T16:36:13.793322+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2025-10-15T17:28:04.669243+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -120,6 +120,18 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
+          "url": "https://wallstreetcn.com/livenews/2988064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时28分]"
+        },
+        {
           "title": "金十图示：2025年10月14日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251015040522568800",
           "source": "金十数据",
@@ -178,17 +190,6 @@
           "time_info": "03时21分"
         },
         {
-          "title": "美股黄金股盘前普涨，哈莫尼黄金涨近5%，金田涨4.5%。",
-          "url": "https://wallstreetcn.com/livenews/2988064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
-        },
-        {
           "title": "美股收盘：三大股指涨跌不一 英伟达跌超4%",
           "url": "https://flash.jin10.com/detail/20251015040050861800",
           "source": "金十数据",
@@ -206,9 +207,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
+        },
+        {
+          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2988089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "美股黄金股盘前普涨，哈莫尼黄金(HMY.N)涨近5%，金田(GFI.N)涨4.5%，科尔黛伦矿业(CDE.N)涨近4%，泛美白银(PAAS.O)、金罗斯黄金(KGC.N)涨超2%。",
@@ -217,7 +229,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -228,7 +240,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
