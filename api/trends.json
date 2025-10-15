@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-15T17:28:04.669243+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2025-10-15T18:28:10.874623+08:00",
+  "total_titles_processed": 1694,
   "failed_sources": [],
   "trends": [
     {
@@ -156,6 +156,18 @@
           "time_info": "[04时27分 ~ 05时22分]"
         },
         {
+          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/2988089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时28分]"
+        },
+        {
           "title": "美股费城半导体指数收跌约2.3%，小盘股指收涨约1.4%，地区银行指数涨3%",
           "url": "https://wallstreetcn.com/livenews/2987696",
           "source": "华尔街见闻-快讯",
@@ -210,17 +222,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
-        },
-        {
-          "title": "台积电美股盘前涨超4.5%，开盘势创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/2988089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美股黄金股盘前普涨，哈莫尼黄金(HMY.N)涨近5%，金田(GFI.N)涨4.5%，科尔黛伦矿业(CDE.N)涨近4%，泛美白银(PAAS.O)、金罗斯黄金(KGC.N)涨超2%。",
