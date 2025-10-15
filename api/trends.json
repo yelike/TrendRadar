@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T18:28:10.874623+08:00",
-  "total_titles_processed": 1694,
+  "generated_at": "2025-10-15T19:22:57.254896+08:00",
+  "total_titles_processed": 1789,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
@@ -224,6 +224,17 @@
           "time_info": "16时36分"
         },
         {
+          "title": "美国银行第三季交易收入（不含DVA）为53.5亿美元，预估为50.1亿美元。 第三季每股收益1.06美元。 第三季净利息收入152.3亿美元，预估150.3亿美元。 美国银行美股盘前涨逾2%。",
+          "url": "https://wallstreetcn.com/livenews/2988183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "美股黄金股盘前普涨，哈莫尼黄金(HMY.N)涨近5%，金田(GFI.N)涨4.5%，科尔黛伦矿业(CDE.N)涨近4%，泛美白银(PAAS.O)、金罗斯黄金(KGC.N)涨超2%。",
           "url": "https://flash.jin10.com/detail/20251015161157909800",
           "source": "金十数据",
@@ -271,7 +282,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "路透调查：长期美债收益率料居高不下，因通胀与债务压力削弱降息预期",
@@ -308,6 +319,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 06时23分]"
+        },
+        {
+          "title": "美债收益率下滑，贸易紧张与降息预期提振避险需求",
+          "url": "https://flash.jin10.com/detail/20251015184718161800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
+          "title": "2年期美债收益率接近2022年来最低水平",
+          "url": "https://wallstreetcn.com/livenews/2988187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     },
