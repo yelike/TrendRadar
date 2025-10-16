@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T07:23:09.614446+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2025-10-16T09:51:54.796296+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
@@ -21,22 +21,23 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
+          "url": "https://www.cls.cn/detail/2170808",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时51分]"
+        },
+        {
           "title": "贸易消息引发市场剧烈波动，美股冲高回落后收涨，黄金再创新高",
           "url": "https://wallstreetcn.com/articles/3757230",
           "source": "华尔街见闻",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 投资者关注贸易局势进展",
-          "url": "https://www.cls.cn/detail/2170808",
-          "source": "财联社热门",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 2,
