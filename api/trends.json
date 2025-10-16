@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T22:26:47.655346+08:00",
-  "total_titles_processed": 2133,
+  "generated_at": "2025-10-16T23:28:55.570745+08:00",
+  "total_titles_processed": 2211,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "强劲盈利缓解贸易冲突担忧，美股三大股指集体高开，现货黄金突破4200美元关口，白银重回53美元高位",
@@ -103,6 +103,17 @@
           "time_info": "[06时23分 ~ 07时23分]"
         },
         {
+          "title": "台积电强劲业绩带动AI乐观情绪，美股三大股指集体上涨，科技股盘前多数走高，金银维持强势，加密货币震荡",
+          "url": "https://wallstreetcn.com/articles/3757299",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
           "title": "美股收盘：三大股指涨跌不一 AMD涨超9%",
           "url": "https://flash.jin10.com/detail/20251016040058512800",
           "source": "金十数据",
@@ -134,6 +145,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时46分"
+        },
+        {
+          "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2171914",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美国合众银行三季度每股收益1.22美元，预估1.12美元。 三季度净利息收入为42.5亿美元，预估41.7亿美元。 美国合众银行美股盘前涨2%。",
@@ -175,7 +197,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -194,7 +216,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "硬刚sora2谷歌发布Veo3.1",
@@ -220,6 +242,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时28分 ~ 02时36分]"
+        },
+        {
+          "title": "纳斯达克100指数上涨1%，刷新日高，成分股美光科技涨6.4%，电商Shopify涨3.4%，Doordash涨3.1%，博通涨2.9%，Arm控股涨2.5%，谷歌A涨1.8%，英伟达涨1.7%，特许通讯则跌2.8%，VRSK跌4.4%。",
+          "url": "https://wallstreetcn.com/livenews/2989087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         },
         {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
@@ -288,11 +321,12 @@
           "source": "今日头条",
           "ranks": [
             24,
-            14
+            14,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时26分]"
+          "appearance_count": 3,
+          "time_info": "[21时46分 ~ 23时28分]"
         },
         {
           "title": "金十整理：现货黄金连续4个交易日创新高，各大投行黄金价格预期一览",
