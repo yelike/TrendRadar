@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T13:23:51.972213+08:00",
-  "total_titles_processed": 1198,
+  "generated_at": "2025-10-16T14:37:59.500764+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
@@ -139,7 +139,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
@@ -157,11 +157,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 14时37分]"
         },
         {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
@@ -173,6 +174,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8CVeo+3.1%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0%E7%A1%AC%E5%88%9ASora+2",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时37分"
         },
         {
           "title": "美国总统特朗普邀请白宫装修捐赠者参加奢华的白宫晚宴，嘉宾包括来自洛克希德马丁、微软、Meta公司、谷歌和亚马逊公司的代表。",
