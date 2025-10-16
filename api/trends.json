@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T14:37:59.500764+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2025-10-16T15:26:42.607158+08:00",
+  "total_titles_processed": 1413,
   "failed_sources": [],
   "trends": [
     {
@@ -158,11 +158,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时23分 ~ 14时37分]"
+          "appearance_count": 3,
+          "time_info": "[13时23分 ~ 15时26分]"
         },
         {
           "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
@@ -182,7 +183,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
