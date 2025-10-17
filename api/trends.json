@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T17:27:56.174847+08:00",
-  "total_titles_processed": 1611,
+  "generated_at": "2025-10-17T18:26:47.379487+08:00",
+  "total_titles_processed": 1705,
   "failed_sources": [],
   "trends": [
     {
@@ -309,7 +309,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -319,8 +319,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 17时27分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 18时26分]"
         },
         {
           "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
@@ -335,8 +335,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时07分 ~ 17时27分]"
+          "appearance_count": 11,
+          "time_info": "[11时07分 ~ 18时26分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -385,6 +385,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时22分 ~ 02时36分]"
+        },
+        {
+          "title": "美银行业“暴雷”加剧市场紧张情绪，全球股市集体下挫，欧美银行股大跌，美债、金银强势",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "10年期美债收益率再次跌破4%整数心里关口",
