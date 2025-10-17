@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T02:34:45.060894+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-10-18T03:21:11.906597+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
@@ -28,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时21分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -85,8 +85,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时34分]"
+          "appearance_count": 7,
+          "time_info": "[00时31分 ~ 03时21分]"
         }
       ]
     }
