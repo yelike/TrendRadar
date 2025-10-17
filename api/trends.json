@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-17T13:24:45.686587+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2025-10-17T14:36:54.341975+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时21分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[06时21分 ~ 14时36分]"
         },
         {
           "title": "美股三大期指集体走高 台积电业绩领芯片股普涨 | 今夜看点",
@@ -242,7 +243,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
@@ -252,8 +253,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[09时49分 ~ 14时36分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -274,11 +275,12 @@
           "ranks": [
             9,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时07分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时07分 ~ 14时36分]"
         },
         {
           "title": "两年期美债收益率跌超7个基点，投资者关注美联储年内降息前景和美国银行业信用危机",
@@ -326,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "机构：美债收益率下行开始，或预示市场情绪将发生重大转变",
+          "url": "https://flash.jin10.com/detail/20251017140925500800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时36分"
         }
       ]
     },
