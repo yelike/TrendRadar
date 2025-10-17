@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-17T15:26:08.234338+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2025-10-17T16:33:05.449607+08:00",
+  "total_titles_processed": 1514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：区域银行信贷“暴雷”引发担忧 三大指数集体收跌",
@@ -185,6 +185,17 @@
           "time_info": "05时22分"
         },
         {
+          "title": "美股明星科技股盘前普跌，英特尔(INTC.O)跌4.56%，AMD(AMD.O)、美光科技(MU.O)、甲骨文(ORCL.N)跌超4%，阿里巴巴(BABA.N)跌3.7%，特斯拉(TSLA.O)跌超3%。",
+          "url": "https://flash.jin10.com/detail/20251017160634596800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "礼来制药美股盘后跌2.7%，诺和诺德ADR跌2.8%。",
           "url": "https://wallstreetcn.com/livenews/2989196",
           "source": "华尔街见闻-快讯",
@@ -194,6 +205,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时22分"
+        },
+        {
+          "title": "美股盘前，美股三大股指期货均跌超1%。科技股普跌，甲骨文跌超3%，英伟达跌超2%，银行股走低，花旗跌近1.7%，美国银行跌超3%。诺和诺德、礼来盘前跌约3.7%。",
+          "url": "https://wallstreetcn.com/livenews/2989575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "美股盘前，科技股普跌，甲骨文跌超3%，英伟达跌超2%，银行股走低，花旗跌近1.7%，美国银行跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/2989573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
+          "title": "诺和诺德(NVO.N)、礼来(LLY.N)美股盘前跌约3.7%，此前特朗普称减肥药物价格将下调。",
+          "url": "https://flash.jin10.com/detail/20251017160213841800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         },
         {
           "title": "金十图示：2025年10月16日（周四）美股热门股票行情一览（美股盘中）",
@@ -218,6 +262,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "美股三大股指期货均跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251017155812904800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
+        },
+        {
           "title": "美股地区银行指数收跌6.3%，华尔街银行指数跌超3.6%，英伟达“护盘”半导体指数涨约0.5%",
           "url": "https://wallstreetcn.com/livenews/2989181",
           "source": "华尔街见闻-快讯",
@@ -235,7 +290,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -264,8 +319,23 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时49分 ~ 15时26分]"
+          "appearance_count": 10,
+          "time_info": "[09时49分 ~ 16时33分]"
+        },
+        {
+          "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
+          "url": "https://www.cls.cn/detail/2172233",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时07分 ~ 16时33分]"
         },
         {
           "title": "银贷担忧加剧，美股转跌，十年期美债收益率下破4.0%，金银历史新高",
@@ -278,20 +348,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时36分 ~ 06时21分]"
-        },
-        {
-          "title": "美债、黄金大涨！美国信贷“蟑螂”成群出没 区域银行危机再现？",
-          "url": "https://www.cls.cn/detail/2172233",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时07分 ~ 15时26分]"
         },
         {
           "title": "两年期美债收益率跌超7个基点，投资者关注美联储年内降息前景和美国银行业信用危机",
