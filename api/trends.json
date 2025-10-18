@@ -1,75 +1,33 @@
 {
-  "generated_at": "2025-10-18T23:22:49.739720+08:00",
-  "total_titles_processed": 1584,
+  "generated_at": "2025-10-19T00:29:29.350595+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "贸易担忧缓解，美股三大股指涨跌不一，美股区域银行股走高，黄金短线跳水失守4270美元/盎司",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时23分]"
-        },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2173368",
           "source": "财联社热门",
           "ranks": [
-            6,
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时21分 ~ 23时22分]"
-        },
-        {
-          "title": "美股三大期指跌幅收窄 银行信贷爆雷担忧降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2173194",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时31分 ~ 13时23分]"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时44分 ~ 14时33分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
           "url": "https://wallstreetcn.com/articles/3757414",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 23时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -79,245 +37,42 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 23时22分]"
-        },
-        {
-          "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
-          "url": "https://wallstreetcn.com/livenews/2989895",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时27分"
-        },
-        {
-          "title": "大豆基金收涨0.8%，和纳指ETF领涨美股大类资产类ETF，黄金ETF跌约1.9%",
-          "url": "https://wallstreetcn.com/livenews/2989930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "区域银行ETF收涨1.6%，和银行业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2989929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040735282800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 07时21分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251018040725341800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 07时21分]"
-        },
-        {
-          "title": "美股收盘：三大股指集体收涨 明星科技股涨跌不一",
-          "url": "https://flash.jin10.com/detail/20251018040554537800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 07时21分]"
-        },
-        {
-          "title": "美股地区银行指数周五反弹约1.7%，本周半导体指数涨约5.8%",
-          "url": "https://wallstreetcn.com/livenews/2989891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            27
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时22分 ~ 06时23分]"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251018004100185800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "金十图示：2025年10月17日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251018004043733800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时22分"
-        },
-        {
-          "title": "美股三大指数集体收涨",
-          "url": "https://www.toutiao.com/trending/7562026461385834537/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时44分 ~ 23时22分]"
-        },
-        {
-          "title": "银行坏账担忧冲击美股，黄金首次升破4300美元，美债拉升，“恐慌指数”涨超20%",
-          "url": "https://wallstreetcn.com/articles/3757299",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 07时21分]"
-        },
-        {
-          "title": "银行财报缓和恐慌情绪，美三大股指齐反弹，金银跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "两年期美债收益率本周跌超4个基点",
-          "url": "https://wallstreetcn.com/livenews/2989920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "gemini 毒奶",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D9%26flag%3D1%26c_type%3D31%26pos%3D9%26realpos%3D9%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26dgr%3D0%26display_time%3D1760793006%26pre_seqid%3D176079300598502732473105",
-          "source": "微博",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时28分 ~ 22时21分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
-          "url": "https://wallstreetcn.com/livenews/2989928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "小马智行旗下卢森堡部门与斯泰兰蒂斯集团Stellantis宣布，双方将在欧洲共同测试无人驾驶出租车。 未来数月，两家公司将在卢森堡共同测试无人驾驶出租车，并将在2026年拓展至欧洲的其他地区。 本周稍早，谷歌母公司Alphabet旗下无人驾驶业务Waymo宣布，计划在英国伦敦启动自动驾驶出租车业务。",
-          "url": "https://wallstreetcn.com/livenews/2989800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "[00时28分 ~ 00时29分]"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "中美通话如何影响黄金价格",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            29,
-            27
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时44分 ~ 23时22分]"
-        },
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "黄金价格“抛物线式”上涨",
-          "url": "https://www.toutiao.com/trending/7562476629914553883/",
-          "source": "今日头条",
+          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
+          "url": "https://wallstreetcn.com/articles/3757385",
+          "source": "华尔街见闻",
           "ranks": [
-            23
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         }
       ]
     }
