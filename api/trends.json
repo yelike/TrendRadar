@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-18T12:27:27.439620+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2025-10-18T13:23:40.613923+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 12时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 13时23分]"
         },
         {
           "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
@@ -44,8 +44,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 13时23分]"
+        },
+        {
+          "title": "美元大逻辑的关键验证：下一次美股大跌",
+          "url": "https://wallstreetcn.com/articles/3757381",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[07时21分 ~ 12时27分]"
+          "time_info": "[09时44分 ~ 13时23分]"
         },
         {
           "title": "美股费城金银指数下跌7.1%，创4月4日以来最差单日表现。",
@@ -79,18 +91,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "美元大逻辑的关键验证：下一次美股大跌",
-          "url": "https://wallstreetcn.com/articles/3757381",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 12时27分]"
         },
         {
           "title": "金十图示：2025年10月17日（周五）美股热门股票行情一览（美股收盘）",
@@ -199,8 +199,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时44分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[09时44分 ~ 13时23分]"
         },
         {
           "title": "银行财报缓和恐慌情绪，美三大股指齐反弹，金银跳水，美债下挫",
