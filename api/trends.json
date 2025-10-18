@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T06:21:37.666294+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-10-19T07:21:33.069367+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         },
         {
           "title": "“恐慌指数”飙升：美股平静期宣告结束？",
@@ -39,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时21分]"
         }
       ]
     },
@@ -73,11 +73,12 @@
           "url": "https://wallstreetcn.com/articles/3757385",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 07时21分]"
         }
       ]
     }
