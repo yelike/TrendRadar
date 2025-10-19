@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T22:21:47.202692+08:00",
-  "total_titles_processed": 1249,
+  "generated_at": "2025-10-19T23:22:14.360573+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时23分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 23时22分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
