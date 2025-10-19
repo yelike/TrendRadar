@@ -1,134 +1,22 @@
 {
-  "generated_at": "2025-10-19T23:22:14.360573+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2025-10-20T00:29:07.829179+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股收盘：银行信贷恐慌退潮 贸易紧张局势缓和 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2173368",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时28分 ~ 20时45分]"
-        },
-        {
-          "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
-          "url": "https://wallstreetcn.com/articles/3757414",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 10时01分]"
-        },
-        {
-          "title": "“恐慌指数”飙升：美股平静期宣告结束？",
-          "url": "https://www.cls.cn/detail/2173450",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 14时35分]"
-        },
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
           "url": "https://wallstreetcn.com/articles/3757446",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时23分 ~ 23时22分]"
-        },
-        {
-          "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
-          "url": "https://flash.jin10.com/detail/20251019091747896800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "deepseek 本地部署能做到阅读几百万字文本吗？",
-          "url": "https://www.zhihu.com/question/11521332735",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 12时30分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中美通话如何影响黄金价格",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E9%80%9A%E8%AF%9D%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            20,
-            27,
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 10时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "银行财报缓和恐慌情绪，美股反弹，金银再创新高后跳水，美债下挫",
-          "url": "https://wallstreetcn.com/articles/3757385",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 07时21分]"
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 00时29分]"
         }
       ]
     }
