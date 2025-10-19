@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-19T19:19:53.864866+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2025-10-19T20:45:28.753930+08:00",
+  "total_titles_processed": 1156,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时28分 ~ 19时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时28分 ~ 20时45分]"
         },
         {
           "title": "“4月以来最动荡一周”结束了，美股依旧上涨，但不再平静",
@@ -49,11 +50,12 @@
           "url": "https://wallstreetcn.com/articles/3757446",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 19时19分]"
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 20时45分]"
         },
         {
           "title": "韩国散户押注杠杆VIX ，对冲美股高估值风险",
