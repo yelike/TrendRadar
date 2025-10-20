@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T01:21:38.230049+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-10-21T02:36:59.946064+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -55,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时36分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
@@ -65,7 +65,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -76,7 +76,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         }
@@ -111,8 +111,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 02时36分]"
         }
       ]
     }
