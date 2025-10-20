@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T20:52:20.899168+08:00",
-  "total_titles_processed": 1638,
+  "generated_at": "2025-10-20T21:35:58.057859+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "担心“泡沫”，“赌性最大”的韩国人开始买“美股VIX”了",
@@ -19,6 +19,28 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 13时25分]"
+        },
+        {
+          "title": "贸易局势、美信贷恐慌缓解，美股盘前三大期指集体上涨，苹果股价逼近历史新高，现货黄金突破4320美元/盎司，比特币涨超4%",
+          "url": "https://wallstreetcn.com/articles/3757466",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2990719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨0.36%。",
@@ -51,7 +73,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -89,6 +111,17 @@
           "time_info": "18时27分"
         },
         {
+          "title": "现货黄金重返4300美元 美股稀土板块活跃走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2174932",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "美股盘前，台积电涨超2%。加密货币概念股普涨，Circle涨超2%，Coinbase涨超3%，Strategy涨超4%。",
           "url": "https://wallstreetcn.com/livenews/2990523",
           "source": "华尔街见闻-快讯",
@@ -109,6 +142,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-20）",
+          "url": "https://flash.jin10.com/detail/20251020205315835800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     },
@@ -168,7 +212,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         }
@@ -189,8 +233,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时26分 ~ 20时52分]"
+          "appearance_count": 8,
+          "time_info": "[15时26分 ~ 21时35分]"
         }
       ]
     }
