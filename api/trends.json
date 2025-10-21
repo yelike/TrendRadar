@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T07:23:20.110190+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2025-10-21T09:53:33.577160+08:00",
+  "total_titles_processed": 769,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时53分]"
+        },
+        {
+          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
+          "url": "https://www.cls.cn/detail/2175088",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 09时53分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -43,17 +55,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时29分]"
-        },
-        {
-          "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
-          "url": "https://www.cls.cn/detail/2175088",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
@@ -151,11 +152,12 @@
             8,
             9,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时53分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -244,11 +246,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时53分]"
         },
         {
           "title": "中长期美债收益率跌超2个基点",
