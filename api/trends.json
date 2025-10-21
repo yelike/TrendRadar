@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T20:54:35.211896+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2025-10-21T21:39:51.413740+08:00",
+  "total_titles_processed": 1864,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -33,6 +33,40 @@
           "time_info": "[00时33分 ~ 11时11分]"
         },
         {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车大涨10%，公司Q3业绩超预期，上调全年盈利指引。“人造肉第一股”BeyondMeat涨超50%，公司将在全美2000多家沃尔玛门店扩展分销。可口可乐上涨3.7%，创2月11日以来最大涨幅。黄金股普跌，金田、哈莫尼黄金跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2991288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "美股期指集体走软，现货黄金跌破4200美元/盎司，白银跌破50美元关口，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 21时39分]"
+        },
+        {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251021040647350800",
           "source": "金十数据",
@@ -56,17 +90,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时29分]"
-        },
-        {
-          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
-          "url": "https://wallstreetcn.com/articles/3757528",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 20时54分]"
         },
         {
           "title": "美股收盘：三大股指齐升 金龙指数涨超2%",
@@ -103,6 +126,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时28分]"
+        },
+        {
+          "title": "通用汽车美股盘前涨幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/2991252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时39分]"
         },
         {
           "title": "阿根廷MERVAL指数收跌0.62%，至198万点下方点。 该国与特朗普政府签署200亿美元互换协议之后，美股盘初显著地冲高回落——形成A型走势，22:30之后一直维持下跌状态。",
@@ -147,20 +182,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
         {
-          "title": "通用汽车美股盘前涨幅扩大至10%。",
-          "url": "https://wallstreetcn.com/livenews/2991252",
+          "title": "Beyond Meat美股盘前大涨逾60%，公司将在全美2000多家沃尔玛门店扩展分销。",
+          "url": "https://wallstreetcn.com/livenews/2991282",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "21时39分"
+        },
+        {
+          "title": "美股开盘，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车(GM.N)大涨10%，公司三季度业绩超预期，并上调全年盈利指引。“人造肉第一股”BeyondMeat(BYND.O)开涨52%，据悉公司将在全美2000多家沃尔玛门店扩展分销。",
+          "url": "https://flash.jin10.com/detail/20251021213058175800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2991275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "3M三季度净销售额65亿美元，同比增长3.3%。 三季度持续经营业务调整后每股收益为2.19美元，市场预期为2.07美元。 3M美股盘前跌近1%。",
@@ -180,7 +237,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -243,7 +300,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -256,8 +313,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时28分 ~ 20时54分]"
+          "appearance_count": 15,
+          "time_info": "[12时28分 ~ 21时39分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -284,11 +341,12 @@
             8,
             4,
             6,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时11分 ~ 20时54分]"
+          "appearance_count": 14,
+          "time_info": "[11时11分 ~ 21时39分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -300,8 +358,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 21时39分]"
+        },
+        {
+          "title": "DeepSeek暂列AI炒币大赛榜首",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -420,7 +489,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
