@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T21:39:51.413740+08:00",
-  "total_titles_processed": 1864,
+  "generated_at": "2025-10-21T22:25:14.824894+08:00",
+  "total_titles_processed": 1943,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -33,28 +33,6 @@
           "time_info": "[00时33分 ~ 11时11分]"
         },
         {
-          "title": "美股三大股指开盘涨跌不一，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车大涨10%，公司Q3业绩超预期，上调全年盈利指引。“人造肉第一股”BeyondMeat涨超50%，公司将在全美2000多家沃尔玛门店扩展分销。可口可乐上涨3.7%，创2月11日以来最大涨幅。黄金股普跌，金田、哈莫尼黄金跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/2991288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "美股期指集体走软，现货黄金跌破4200美元/盎司，白银跌破50美元关口，加密货币下挫",
-          "url": "https://wallstreetcn.com/articles/3757563",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
           "url": "https://wallstreetcn.com/articles/3757528",
           "source": "华尔街见闻",
@@ -63,8 +41,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时26分 ~ 21时39分]"
+          "appearance_count": 7,
+          "time_info": "[18时26分 ~ 22时25分]"
+        },
+        {
+          "title": "美股盘初三大股指涨跌不一，现货黄金跌破4200美元/盎司，白银跌破50美元关口，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
+          "title": "美股期指集体走软，现货黄金跌破4200美元/盎司，白银跌破50美元关口，加密货币下挫",
+          "url": "https://wallstreetcn.com/articles/3757563",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股收盘）",
@@ -78,6 +78,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时28分]"
+        },
+        {
+          "title": "美股三大股指开盘涨跌不一，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车大涨10%，公司Q3业绩超预期，上调全年盈利指引。“人造肉第一股”BeyondMeat涨超50%，公司将在全美2000多家沃尔玛门店扩展分销。可口可乐上涨3.7%，创2月11日以来最大涨幅。黄金股普跌，金田、哈莫尼黄金跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2991288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时25分]"
         },
         {
           "title": "金十图示：2025年10月20日（周一）热门中概股行情一览（美股收盘）",
@@ -102,6 +114,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时28分 ~ 05时29分]"
+        },
+        {
+          "title": "Beyond Meat美股盘前大涨逾60%，公司将在全美2000多家沃尔玛门店扩展分销。",
+          "url": "https://wallstreetcn.com/livenews/2991282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时39分 ~ 22时25分]"
         },
         {
           "title": "黄金ETF收涨超3.6%，和小盘股ETF、新兴市场ETF等领跑美股大类资产类ETF",
@@ -187,24 +211,13 @@
           "time_info": "20时54分"
         },
         {
-          "title": "Beyond Meat美股盘前大涨逾60%，公司将在全美2000多家沃尔玛门店扩展分销。",
-          "url": "https://wallstreetcn.com/livenews/2991282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
           "title": "美股开盘，道指涨0.02%，标普500指数涨0.03%，纳指跌0.04%。通用汽车(GM.N)大涨10%，公司三季度业绩超预期，并上调全年盈利指引。“人造肉第一股”BeyondMeat(BYND.O)开涨52%，据悉公司将在全美2000多家沃尔玛门店扩展分销。",
           "url": "https://flash.jin10.com/detail/20251021213058175800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
         },
@@ -215,9 +228,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时39分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF多数走低，黄金ETF跌近4%。",
+          "url": "https://wallstreetcn.com/livenews/2991295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "3M三季度净销售额65亿美元，同比增长3.3%。 三季度持续经营业务调整后每股收益为2.19美元，市场预期为2.07美元。 3M美股盘前跌近1%。",
@@ -303,6 +327,19 @@
       "match_count": 9,
       "titles": [
         {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时35分 ~ 22时25分]"
+        },
+        {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
           "url": "https://wallstreetcn.com/articles/3757530",
           "source": "华尔街见闻",
@@ -313,8 +350,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时28分 ~ 21时39分]"
+          "appearance_count": 17,
+          "time_info": "[12时28分 ~ 22时25分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -345,32 +382,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时11分 ~ 21时39分]"
-        },
-        {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时35分 ~ 21时39分]"
+          "appearance_count": 16,
+          "time_info": "[11时11分 ~ 22时25分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时39分 ~ 22时25分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -561,7 +586,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金周二盘初走高，价格突破4370美元/盎司，日内涨0.32%。",
@@ -574,6 +599,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时28分 ~ 07时23分]"
+        },
+        {
+          "title": "黄金价格坐过山车 后续怎么走",
+          "url": "https://www.toutiao.com/trending/7563613729208667702/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 22时25分]"
+        },
+        {
+          "title": "现货金银价格深度回调，美股黄金概念股普遍下挫，科尔黛伦矿业(CDE.N)跌16.5%，金罗斯黄金(KGC.N)、哈莫尼黄金(HMY.N)跌约10%，金田(GFI.N)跌超9%，纽蒙特矿业(NEM.N)跌8.3%。",
+          "url": "https://flash.jin10.com/detail/20251021215932334800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         }
       ]
     }
