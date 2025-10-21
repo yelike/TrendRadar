@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T15:26:07.050016+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2025-10-21T16:35:24.458734+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -118,6 +118,17 @@
           "time_info": "[05时29分 ~ 06时28分]"
         },
         {
+          "title": "现货黄金向下触及4280美元/盎司，日内跌约1.8%。 现货白银日内跌幅扩大至4%，现报50.20美元/盎司。 美股黄金概念股盘前下跌，哈莫尼黄金、泛美白银跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/2991121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "金十图示：2025年10月20日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251021003251038800",
           "source": "金十数据",
@@ -138,12 +149,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "美股黄金概念股盘前下跌，科尔黛伦矿业(CDE.N)、哈莫尼黄金(HMY.N)、泛美白银(PAAS.O)下跌4%，纽曼矿业跌2.9%。",
+          "url": "https://flash.jin10.com/detail/20251021160618165800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -170,8 +192,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时28分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[12时28分 ~ 16时35分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -184,8 +206,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时11分 ~ 15时26分]"
+          "appearance_count": 7,
+          "time_info": "[11时11分 ~ 16时35分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -200,13 +222,24 @@
           "time_info": "[07时22分 ~ 11时11分]"
         },
         {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "DeepSeek-OCR上线超算互联网 免费在线推理",
           "url": "https://wallstreetcn.com/livenews/2991082",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -258,7 +291,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
