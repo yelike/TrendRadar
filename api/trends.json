@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T17:28:02.863957+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2025-10-21T18:27:11.060471+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股收盘：三大指数均涨超1% 苹果大涨近4%",
@@ -80,6 +80,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时28分]"
+        },
+        {
+          "title": "杠杆警报！美股这个“狂热指标”已经超过了1999年和2007年",
+          "url": "https://wallstreetcn.com/articles/3757528",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时26分 ~ 18时27分]"
         },
         {
           "title": "航空业ETF收涨超2.5%，和银行ETF领跑美股行业ETF",
@@ -193,8 +204,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 17时28分]"
+          "appearance_count": 12,
+          "time_info": "[12时28分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -205,11 +216,12 @@
             5,
             8,
             4,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时11分 ~ 17时28分]"
+          "appearance_count": 11,
+          "time_info": "[11时11分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
@@ -217,11 +229,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时28分]"
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 18时27分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
