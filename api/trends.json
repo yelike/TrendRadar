@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T06:21:11.665152+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2025-10-23T07:22:41.645161+08:00",
+  "total_titles_processed": 653,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -36,11 +36,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时22分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -63,6 +64,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
+          "url": "https://www.cls.cn/detail/2177654",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "美股指普跌，动量股抛售潮继续，量子计算股重挫，原油逆市上涨",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         },
         {
           "title": "特斯拉(TSLA.O)美股盘后跌超1%。",
