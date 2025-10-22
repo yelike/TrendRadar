@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T11:19:27.176056+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2025-10-22T12:31:16.512085+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 11时19分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时31分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -38,8 +38,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 11时19分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时31分]"
         },
         {
           "title": "金十图示：2025年10月21日（周二）美股热门股票行情一览（美股收盘）",
@@ -158,7 +158,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -221,8 +221,19 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时55分 ~ 12时31分]"
+        },
+        {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时55分 ~ 11时19分]"
+          "time_info": "[11时19分 ~ 12时31分]"
         },
         {
           "title": "谷歌“登月工厂”将评估里约电网，为数据中心做准备",
@@ -282,17 +293,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         }
       ]
     },
@@ -309,8 +309,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时31分 ~ 11时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 12时31分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
