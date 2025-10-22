@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T13:25:07.610002+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2025-10-22T14:42:18.441857+08:00",
+  "total_titles_processed": 1267,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时25分 ~ 14时42分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -217,11 +217,12 @@
           "url": "https://wallstreetcn.com/articles/3757591",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时19分 ~ 13时25分]"
+          "appearance_count": 5,
+          "time_info": "[11时19分 ~ 14时42分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -364,11 +365,12 @@
           "url": "https://www.zhihu.com/question/1963713236953203912",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 13时25分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 14时42分]"
         }
       ]
     },
