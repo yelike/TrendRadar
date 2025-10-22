@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T14:42:18.441857+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2025-10-22T15:24:43.728301+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 14时42分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 15时24分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 道指创历史新高",
@@ -202,6 +202,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 15时24分]"
+        },
+        {
           "title": "OpenAI推出网络浏览器ChatGPT Atlas，谷歌(GOOG.O)现跌3.3%。",
           "url": "https://flash.jin10.com/detail/20251022010530861800",
           "source": "金十数据",
@@ -211,18 +224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 14时42分]"
         },
         {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
@@ -366,11 +367,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时24分]"
         }
       ]
     },
