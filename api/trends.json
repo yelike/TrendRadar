@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T14:36:56.578138+08:00",
-  "total_titles_processed": 1268,
+  "generated_at": "2025-10-23T15:25:23.502821+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时36分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 15时25分]"
         },
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 15时25分]"
         },
         {
           "title": "“爆炸式”上涨！美股散户大军再次“逼空”Beyond Meat，4天爆拉1300%！",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时35分 ~ 14时36分]"
+          "appearance_count": 18,
+          "time_info": "[00时35分 ~ 15时25分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -221,8 +221,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 14时36分]"
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 15时25分]"
         },
         {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
@@ -233,8 +233,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时28分 ~ 14时36分]"
+          "appearance_count": 5,
+          "time_info": "[12时28分 ~ 15时25分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
