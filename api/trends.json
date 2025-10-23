@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T11:09:27.739626+08:00",
-  "total_titles_processed": 942,
+  "generated_at": "2025-10-23T12:29:04.857593+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时09分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 12时29分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -45,17 +45,6 @@
           "time_info": "[00时35分 ~ 03时20分]"
         },
         {
-          "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时30分 ~ 06时21分]"
-        },
-        {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
           "url": "https://www.cls.cn/detail/2177654",
           "source": "财联社热门",
@@ -64,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 11时09分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 12时29分]"
         },
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -75,8 +64,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时29分]"
+        },
+        {
+          "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时30分 ~ 06时21分]"
         },
         {
           "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
@@ -209,8 +209,21 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时29分]"
+        },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
           "url": "https://wallstreetcn.com/articles/3757591",
@@ -236,16 +249,15 @@
           "time_info": "[00时35分 ~ 02时39分]"
         },
         {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
+          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
+          "url": "https://www.cls.cn/detail/2177879",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时09分]"
+          "time_info": "[12时28分 ~ 12时29分]"
         },
         {
           "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
@@ -305,11 +317,12 @@
           "source": "今日头条",
           "ranks": [
             10,
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时50分 ~ 11时09分]"
+          "appearance_count": 4,
+          "time_info": "[09时50分 ~ 12时29分]"
         },
         {
           "title": "黄金价格大跳水 金价到顶了吗",
