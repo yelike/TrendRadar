@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T22:26:12.538350+08:00",
-  "total_titles_processed": 2072,
+  "generated_at": "2025-10-23T23:26:51.488217+08:00",
+  "total_titles_processed": 2154,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时50分 ~ 22时26分]"
+          "appearance_count": 18,
+          "time_info": "[09时50分 ~ 23时26分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -223,7 +223,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -234,7 +234,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -245,7 +245,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -289,7 +289,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -335,8 +335,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时50分 ~ 22时26分]"
+          "appearance_count": 18,
+          "time_info": "[09时50分 ~ 23时26分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
