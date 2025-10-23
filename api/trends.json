@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-23T17:29:59.690938+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2025-10-23T18:27:45.707744+08:00",
+  "total_titles_processed": 1685,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 19,
       "titles": [
+        {
+          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
+          "url": "https://wallstreetcn.com/articles/3757644",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 18时27分]"
+        },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
           "url": "https://wallstreetcn.com/articles/3757563",
@@ -17,17 +28,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 06时21分]"
-        },
-        {
-          "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
-          "url": "https://wallstreetcn.com/articles/3757644",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时50分 ~ 17时29分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -53,8 +53,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时35分 ~ 17时29分]"
+          "appearance_count": 21,
+          "time_info": "[00时35分 ~ 18时27分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -254,11 +254,12 @@
           "ranks": [
             8,
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时50分 ~ 17时29分]"
+          "appearance_count": 10,
+          "time_info": "[09时50分 ~ 18时27分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
@@ -326,7 +327,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
         },
