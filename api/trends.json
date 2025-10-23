@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T19:23:00.189278+08:00",
-  "total_titles_processed": 1778,
+  "generated_at": "2025-10-23T20:53:07.202700+08:00",
+  "total_titles_processed": 1899,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时50分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时50分 ~ 20时53分]"
         },
         {
           "title": "美股涨跌互现，道指新高，金银暴跌，比特币盘中拉升",
@@ -258,8 +258,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时50分 ~ 19时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时50分 ~ 20时53分]"
         },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
