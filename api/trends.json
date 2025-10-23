@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T02:37:55.123248+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2025-10-24T03:21:21.280676+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时21分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股盘中）",
@@ -38,8 +38,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时37分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时21分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）热门中概股行情一览（美股盘中）",
@@ -59,7 +59,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -70,7 +70,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         }
