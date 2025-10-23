@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T09:50:54.877908+08:00",
-  "total_titles_processed": 825,
+  "generated_at": "2025-10-23T11:09:27.739626+08:00",
+  "total_titles_processed": 942,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时35分 ~ 09时50分]"
+          "appearance_count": 13,
+          "time_info": "[00时35分 ~ 11时09分]"
         },
         {
           "title": "美股盘初，三大股指集体下跌，现货黄金跌势复燃，美元指数突破99，加密货币下挫",
@@ -64,8 +64,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时50分]"
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 11时09分]"
         },
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -74,9 +74,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时09分]"
         },
         {
           "title": "金十图示：2025年10月22日（周三）热门中概股行情一览（美股收盘）",
@@ -236,6 +236,18 @@
           "time_info": "[00时35分 ~ 02时39分]"
         },
         {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时09分]"
+        },
+        {
           "title": "通用汽车在为在曼哈顿下城举行的“GM Forward”活动上宣布，可对话的谷歌公司人工智能（AI）大模型Gemini功能将于2026年开始在其汽车上推出。 在接下来的三年里，还计划推出一种新系统，让司机可以解放双手，不看路，但在他们需要的时候仍然可以控制车辆。 该公司还宣布了其他技术举措。",
           "url": "https://wallstreetcn.com/livenews/2992000",
           "source": "华尔街见闻-快讯",
@@ -258,17 +270,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时23分]"
-        },
-        {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
         },
         {
           "title": "Reddit(RDDT.N)：Oxylabs UAB、AWMProxy和Serpai掩盖身份，从谷歌搜索中“非法抓取”Reddit内容。",
@@ -299,6 +300,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "黄金价格为何突然大幅回调",
+          "url": "https://www.toutiao.com/trending/7564185395232001575/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时09分]"
+        },
+        {
           "title": "黄金价格大跳水 金价到顶了吗",
           "url": "https://www.toutiao.com/trending/7563965781701037609/",
           "source": "今日头条",
@@ -308,17 +321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时20分 ~ 05时19分]"
-        },
-        {
-          "title": "黄金价格为何突然大幅回调",
-          "url": "https://www.toutiao.com/trending/7564185395232001575/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
         }
       ]
     },
