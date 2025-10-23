@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T17:30:12.048907+08:00",
-  "total_titles_processed": 1602,
+  "generated_at": "2025-10-23T18:30:01.742486+08:00",
+  "total_titles_processed": 1681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 87,
+      "match_count": 90,
       "titles": [
         {
           "title": "挖掘机忙个不停，特朗普对白宫做了哪些改造？",
@@ -31,6 +31,17 @@
           "time_info": "[00时36分 ~ 07时22分]"
         },
         {
+          "title": "特朗普取消与普京会面，克里姆林宫回应",
+          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时29分 ~ 18时30分]"
+        },
+        {
           "title": "特朗普称中美元首未必会见面，外交部回应",
           "url": "https://news.ifeng.com/c/8nezfC6pmYF",
           "source": "凤凰网",
@@ -50,8 +61,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时23分 ~ 17时30分]"
+          "appearance_count": 13,
+          "time_info": "[06时23分 ~ 18时30分]"
         },
         {
           "title": "中方回应特朗普称中美将达成贸易协议",
@@ -67,17 +78,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 09时55分]"
-        },
-        {
-          "title": "特朗普取消与普京会面，克里姆林宫回应",
-          "url": "https://news.ifeng.com/c/8ngMoyIhbIn",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 17时30分]"
         },
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -121,6 +121,20 @@
           "time_info": "[00时36分 ~ 07时22分]"
         },
         {
+          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
+          "url": "https://wallstreetcn.com/articles/3757694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时29分 ~ 18时30分]"
+        },
+        {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
           "url": "https://finance.ifeng.com/c/8nf3DmipKgS",
           "source": "凤凰网",
@@ -143,6 +157,21 @@
           "time_info": "[11时10分 ~ 15时27分]"
         },
         {
+          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 18时30分]"
+        },
+        {
           "title": "特朗普开始创造性破坏白宫",
           "url": "https://www.toutiao.com/trending/7563916723658244105/",
           "source": "今日头条",
@@ -152,11 +181,12 @@
             23,
             22,
             12,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 17时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 18时30分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -214,31 +244,17 @@
           "time_info": "[09时55分 ~ 14时37分]"
         },
         {
-          "title": "从宣布到取消，特朗普与普京会晤为何被“急踩刹车”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31825556",
-          "source": "澎湃新闻",
+          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1964624412641833840",
+          "source": "知乎",
           "ranks": [
-            13,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 17时30分]"
-        },
-        {
-          "title": "特朗普上任后首次，美国对俄两大石油公司实施制裁，油价应声大涨4%",
-          "url": "https://wallstreetcn.com/articles/3757694",
-          "source": "华尔街见闻",
-          "ranks": [
+            9,
             8,
-            7,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时29分 ~ 17时30分]"
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 18时30分]"
         },
         {
           "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
@@ -288,19 +304,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时21分 ~ 12时29分]"
-        },
-        {
-          "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/1964624412641833840",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 17时30分]"
         },
         {
           "title": "特朗普称取消与普京会面",
@@ -392,6 +395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时35分 ~ 18时30分]"
         },
         {
           "title": "美国对俄施加新制裁，特朗普取消与普京会面",
@@ -531,15 +545,16 @@
           "time_info": "[12时29分 ~ 15时27分]"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
+          "title": "为何没人知晓特朗普家族如今赚多少钱",
+          "url": "https://www.toutiao.com/trending/7564312142908755510/",
+          "source": "今日头条",
           "ranks": [
-            7
+            28,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时30分]"
+          "appearance_count": 4,
+          "time_info": "[17时29分 ~ 18时30分]"
         },
         {
           "title": "特朗普普京会晤为何被“急踩刹车”",
@@ -706,17 +721,6 @@
           "time_info": "[14时37分 ~ 15时27分]"
         },
         {
-          "title": "为何没人知晓特朗普家族如今赚多少钱",
-          "url": "https://www.toutiao.com/trending/7564312142908755510/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 17时30分]"
-        },
-        {
           "title": "美国总统特朗普：通用汽车(GM.N)首席执行官Mary Barra和福特汽车(F.N)首席执行官Bill Ford刚刚打电话感谢我对中型和大型卡车征收关税。他们的股价已经飙升。他们告诉我，如果没有这些关税，美国的卡车和汽车制造商将面临一场非常艰难、漫长的“挣扎”。",
           "url": "https://flash.jin10.com/detail/20251023005736122800",
           "source": "金十数据",
@@ -726,6 +730,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "民调：逾半数美国人认为特朗普动用执法打击政敌",
+          "url": "https://flash.jin10.com/detail/20251023180310570800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
+          "title": "日本经济产业大臣赤泽亮正：将“稳步”推进海上风力发电的后续项目。 愿与G7及其他国家合作，共同探讨符合日本国家利益的必要举措。 特朗普试图改变全球秩序。 特朗普的行动导致世界可预测性下降。",
+          "url": "https://wallstreetcn.com/livenews/2992511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "市场消息：汽车制造商呼吁特朗普政府不要对工厂机器人和工业机械征收新关税。",
@@ -792,6 +818,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-23）",
+          "url": "https://flash.jin10.com/detail/20251023175958645800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "特朗普宣布：取消与普京在布达佩斯的会面",
@@ -1049,8 +1086,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 17时30分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 18时30分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1087,8 +1124,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 17时30分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 18时30分]"
         },
         {
           "title": "科技股拖累三大美股指齐跌，EDA软件股盘中跳水，黄金再跌",
@@ -1293,6 +1330,19 @@
           "time_info": "[00时36分 ~ 07时22分]"
         },
         {
+          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
+          "url": "https://www.cls.cn/detail/2177936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时26分 ~ 18时30分]"
+        },
+        {
           "title": "金价",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D0%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D25%26pos%3D24%26filter_type%3Drealtimehot%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26c_type%3D31%26dgr%3D0%26realpos%3D25%26cate%3D5001%26display_time%3D1761150158%26pre_seqid%3D17611501584580326279138",
           "source": "微博",
@@ -1318,19 +1368,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时55分 ~ 14时37分]"
-        },
-        {
-          "title": "金价历史性暴跌不等于牛市终结！以史为鉴：接下来何去何从？",
-          "url": "https://www.cls.cn/detail/2177936",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时26分 ~ 17时30分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）上海金午盘价为941.53元/克，较国际金价(943.31元/克)，低1.78元/克",
@@ -1458,8 +1495,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 17时30分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 18时30分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
@@ -1527,7 +1564,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
