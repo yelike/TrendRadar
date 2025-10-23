@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T20:55:30.386120+08:00",
-  "total_titles_processed": 1895,
+  "generated_at": "2025-10-23T21:37:12.672001+08:00",
+  "total_titles_processed": 1978,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普取消与普京会面，克里姆林宫回应",
@@ -90,8 +90,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时29分 ~ 20时55分]"
+          "appearance_count": 14,
+          "time_info": "[12时29分 ~ 21时37分]"
         },
         {
           "title": "【早报】特朗普：取消与普京会面；公募基金业绩比较基准规则征求意见稿即将发布",
@@ -135,6 +135,17 @@
           "time_info": "[00时36分 ~ 07时22分]"
         },
         {
+          "title": "特朗普访日行程公布",
+          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时35分 ~ 21时37分]"
+        },
+        {
           "title": "特朗普以「不合适」为由取消与普京会面，美欧宣布对俄制裁，「不合适」是指什么？制裁升级会产生哪些影响？",
           "url": "https://www.zhihu.com/question/1964624412641833840",
           "source": "知乎",
@@ -144,8 +155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时26分 ~ 20时55分]"
+          "appearance_count": 13,
+          "time_info": "[13时26分 ~ 21时37分]"
         },
         {
           "title": "2.3亿美元，特朗普向特朗普政府索赔",
@@ -178,11 +189,12 @@
             14,
             12,
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时55分 ~ 20时55分]"
+          "appearance_count": 16,
+          "time_info": "[09时55分 ~ 21时37分]"
         },
         {
           "title": "特朗普开始创造性破坏白宫",
@@ -195,11 +207,12 @@
             22,
             12,
             15,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时36分 ~ 20时55分]"
+          "appearance_count": 26,
+          "time_info": "[00时36分 ~ 21时37分]"
         },
         {
           "title": "中方回应特朗普称中美将达成协议",
@@ -257,17 +270,6 @@
           "time_info": "[09时55分 ~ 14时37分]"
         },
         {
-          "title": "特朗普访日行程公布",
-          "url": "https://news.ifeng.com/c/8ngeBFUGsML",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时35分 ~ 20时55分]"
-        },
-        {
           "title": "不惧“打脸”？特朗普再次扬言：印总理莫迪向我保证会少买俄油！",
           "url": "https://www.cls.cn/detail/2177223",
           "source": "财联社热门",
@@ -278,6 +280,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时39分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
+          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 21时37分]"
         },
         {
           "title": "从宣布到取消 特朗普与普京会晤为何被“急踩刹车”？",
@@ -386,17 +399,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时29分 ~ 19时22分]"
-        },
-        {
-          "title": "特朗普第二任期首次制裁俄罗斯，已对普京失去耐心？",
-          "url": "https://news.ifeng.com/c/8ngrvoE5VJT",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：美国是我们的对手，而这位自称“维和者”的特朗普正与俄罗斯走向冲突。",
@@ -590,6 +592,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时35分 ~ 17时30分]"
+        },
+        {
+          "title": "评论员：特朗普准备大降印度关税",
+          "url": "https://www.toutiao.com/trending/7564356052515294746/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 21时37分]"
         },
         {
           "title": "通用汽车（GM）股价周三冲高回落，纽约中午持平，暂报66.63美元。 福特汽车跌幅收窄至1.1%，暂报12.42美元。 美国总统特朗普称：“通用汽车的Barra和福特汽车的Bill Ford打电话给我，感谢我的关税。Barr在电话中感谢我对某些卡车加征的关税。”",
@@ -788,6 +801,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "白宫表示，特朗普政府将阿根廷牛肉的关税配额上调至8万吨，以降低价格。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/2992608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美媒称美国允许乌对俄使用远程导弹 特朗普：假新闻！",
           "url": "https://flash.jin10.com/detail/20251023042514908800",
           "source": "金十数据",
@@ -959,7 +983,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -995,17 +1019,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "评论员：特朗普准备大降印度关税",
-          "url": "https://www.toutiao.com/trending/7564356052515294746/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         },
         {
           "title": "美国总统特朗普：美国可能对哥伦比亚采取非常严厉的行动。",
@@ -1063,13 +1076,24 @@
           "time_info": "06时23分"
         },
         {
+          "title": "美国白宫：特朗普政府将阿根廷牛肉的关税配额提高至8万吨，以降低价格。",
+          "url": "https://flash.jin10.com/detail/20251023204828232800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "美国总统特朗普将于当地时间下午3点（北京时间次日凌晨3点）在华盛顿发表声明。",
           "url": "https://wallstreetcn.com/livenews/2992566",
           "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
         },
@@ -1121,7 +1145,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -1131,8 +1155,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时55分 ~ 20时55分]"
+          "appearance_count": 16,
+          "time_info": "[09时55分 ~ 21时37分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 纳指跌近1% 奈飞大跌10%",
@@ -1289,6 +1313,28 @@
           "time_info": "04时31分"
         },
         {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2992616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)美股盘前下跌9%。",
+          "url": "https://flash.jin10.com/detail/20251023211125526800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "诺基亚美股盘前上涨9.7%。诺基亚第三季度调整后营业利润4.35亿欧元，预估3.242亿欧元。",
           "url": "https://wallstreetcn.com/livenews/2992438",
           "source": "华尔街见闻-快讯",
@@ -1342,12 +1388,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-10-23）",
+          "url": "https://flash.jin10.com/detail/20251023205439447800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "金价为何暴跌？高盛交易员：黄金走势图看起来就像一只妖股的崩盘",
@@ -1464,6 +1521,17 @@
           "time_info": "[00时36分 ~ 02时39分]"
         },
         {
+          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
+          "url": "https://wallstreetcn.com/articles/3757691",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 21时37分]"
+        },
+        {
           "title": "东方汇理预计金价可能在未来三年飙升至5000美元",
           "url": "https://wallstreetcn.com/livenews/2992304",
           "source": "华尔街见闻-快讯",
@@ -1486,17 +1554,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时10分 ~ 12时29分]"
-        },
-        {
-          "title": "金价暴跌之际，高盛“坚定看涨”：维持明年底4900美元目标价，甚至有“上行风险”",
-          "url": "https://wallstreetcn.com/articles/3757691",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时55分"
         },
         {
           "title": "分析师：美政府停摆持续与地缘政治紧张局势推动金价重返4100美元上方",
@@ -1530,6 +1587,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "摩根大通策略师团队：金价未来三年内可能会翻倍",
+          "url": "https://wallstreetcn.com/livenews/2992623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
@@ -1562,8 +1630,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时55分 ~ 20时55分]"
+          "appearance_count": 16,
+          "time_info": "[09时55分 ~ 21时37分]"
         },
         {
           "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
