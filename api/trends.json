@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T22:25:33.613314+08:00",
-  "total_titles_processed": 2024,
+  "generated_at": "2025-10-24T23:29:24.023654+08:00",
+  "total_titles_processed": 2115,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时21分 ~ 22时25分]"
+          "appearance_count": 18,
+          "time_info": "[07时21分 ~ 23时29分]"
         },
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -97,11 +97,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时25分]"
+          "appearance_count": 3,
+          "time_info": "[21时35分 ~ 23时29分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -258,7 +259,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
