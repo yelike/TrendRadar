@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T21:35:59.799749+08:00",
-  "total_titles_processed": 1930,
+  "generated_at": "2025-10-24T22:25:33.613314+08:00",
+  "total_titles_processed": 2024,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美CPI数据前夕，贸易局势缓和提振股市，三大美股指普涨，原油期货一度涨超5%",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时21分 ~ 21时35分]"
+          "appearance_count": 17,
+          "time_info": "[07时21分 ~ 22时25分]"
         },
         {
           "title": "美股指普跌，动量股抛售继续，量子计算股重挫，原油逆市上涨，金银期货止跌",
@@ -90,6 +90,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
+        },
+        {
+          "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2180240",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时35分 ~ 22时25分]"
         },
         {
           "title": "金十图示：2025年10月23日（周四）美股热门股票行情一览（美股收盘）",
@@ -174,24 +186,13 @@
           "time_info": "16时32分"
         },
         {
-          "title": "美股盘前直线拉升 市场充分定价美联储10月、12月降息 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2180240",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时35分"
-        },
-        {
           "title": "周五美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/2993462",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -213,7 +214,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         },
@@ -251,13 +252,24 @@
           "time_info": "12时29分"
         },
         {
+          "title": "美国通胀低于预期，美股三大股指高开",
+          "url": "https://wallstreetcn.com/livenews/2993480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-10-24）",
           "url": "https://flash.jin10.com/detail/20251024205708119800",
           "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
         }
