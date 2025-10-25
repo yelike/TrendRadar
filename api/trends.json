@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T05:20:48.752665+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2025-10-26T06:22:34.631186+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -40,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时22分]"
         },
         {
           "title": "美股为何一直在上涨",
@@ -70,11 +70,12 @@
             4,
             5,
             10,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 06时22分]"
         }
       ]
     }
