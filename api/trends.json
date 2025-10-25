@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T11:08:51.440521+08:00",
-  "total_titles_processed": 749,
+  "generated_at": "2025-10-25T12:30:05.886817+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             6,
             5,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 11时08分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 12时30分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -42,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 11时08分]"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 12时30分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -53,8 +54,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 11时08分]"
+          "appearance_count": 5,
+          "time_info": "[09时48分 ~ 12时30分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
