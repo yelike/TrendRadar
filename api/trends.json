@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T09:49:03.736020+08:00",
-  "total_titles_processed": 692,
+  "generated_at": "2025-10-25T11:08:51.440521+08:00",
+  "total_titles_processed": 749,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,25 @@
           "ranks": [
             6,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时49分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 11时08分]"
+        },
+        {
+          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2180462",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 11时08分]"
         },
         {
           "title": "美联储年内降息预期大增，美股三大指数均破新高，苹果收创新高，原油走低",
@@ -39,20 +53,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
-        },
-        {
-          "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2180462",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时08分]"
         },
         {
           "title": "金十图示：2025年10月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -92,11 +94,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91%E8%B6%853600%E4%BA%BF%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 11时08分]"
         },
         {
           "title": "高盛：对冲基金对AI投资敞口达到近9年来新高 押注亚股和美股将上涨",
@@ -176,11 +179,12 @@
             7,
             14,
             15,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时21分 ~ 09时49分]"
+          "appearance_count": 5,
+          "time_info": "[05时21分 ~ 11时08分]"
         }
       ]
     }
