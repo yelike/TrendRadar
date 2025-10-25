@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T01:21:25.084929+08:00",
-  "total_titles_processed": 341,
+  "generated_at": "2025-10-26T02:33:39.451354+08:00",
+  "total_titles_processed": 351,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "美股收盘：通胀数据提振市场 三大指数齐创新高 纳指涨超1%",
@@ -27,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -39,19 +39,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "美股为何一直在上涨",
           "url": "https://www.toutiao.com/trending/7564074588235317290/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     },
@@ -65,11 +66,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     }
