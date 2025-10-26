@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T05:22:14.575624+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-10-27T06:25:48.110664+08:00",
+  "total_titles_processed": 394,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 06时25分]"
         },
         {
           "title": "贝森特“坦白局”：力推MAGA，但保护市场，特朗普“总是宣布高关税创造杠杆，随后降低”",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 06时25分]"
         },
         {
           "title": "胡锡进：美国最铁杆的盟友，现在却被特朗普政府百般羞辱",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 06时25分]"
         },
         {
           "title": "特朗普拆建白宫为何招非议",
@@ -52,24 +52,24 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时22分]"
-        },
-        {
-          "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 06时25分]"
         },
         {
           "title": "特朗普称因加拿大「严重歪曲事实并采取敌对行为」，对加方征收 10% 额外关税，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1965770697927300097",
           "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 06时25分]"
+        },
+        {
+          "title": "不满加拿大反关税广告，特朗普宣布对加方征收10%额外关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31837755",
+          "source": "澎湃新闻",
           "ranks": [
             16
           ],
@@ -85,11 +85,12 @@
             29,
             24,
             19,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 05时22分]"
+          "appearance_count": 8,
+          "time_info": "[01时22分 ~ 06时25分]"
         },
         {
           "title": "金十整理：下周重要事件与数据预告——美联储携加、日、欧央行轮番公布利率决议；特朗普将访问日本、欧佩克+周日举行月度会议",
@@ -98,22 +99,24 @@
           "ranks": [
             12,
             14,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时25分]"
         },
         {
           "title": "美国财长贝森特：我认为我们有能力在11月初支付军人工资。 美国正走在通往更低通胀率的“滑行通道”上。 自特朗普上任以来，总体通胀已经下降。 我相信通货膨胀率将进一步下降到美联储2%的目标。 俄罗斯将立即感受到制裁带来的痛苦，我们所做的一切将让其坐到谈判桌上。",
           "url": "https://wallstreetcn.com/livenews/2993772",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时30分 ~ 05时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时30分 ~ 06时25分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-10-26）",
@@ -133,11 +136,12 @@
           "url": "https://flash.jin10.com/detail/20251027041707138800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时22分 ~ 06时25分]"
         },
         {
           "title": "特朗普在马来西亚听了个地狱笑话",
@@ -176,8 +180,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 06时25分]"
         },
         {
           "title": "金价暴跌有大学生把生活费亏没了",
@@ -187,8 +191,36 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 06时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股三大股指期货高开，纳指期货涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20251027060229559800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
+        },
+        {
+          "title": "现货黄金跳空低开逾1%，美股期货集体上扬",
+          "url": "https://wallstreetcn.com/livenews/2993801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时25分"
         }
       ]
     },
@@ -205,8 +237,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时30分 ~ 05时22分]"
+          "appearance_count": 9,
+          "time_info": "[00时30分 ~ 06时25分]"
         }
       ]
     }
