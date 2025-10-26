@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T11:17:18.105485+08:00",
-  "total_titles_processed": 607,
+  "generated_at": "2025-10-26T12:29:32.994869+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             8,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 11时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时29分 ~ 12时29分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
