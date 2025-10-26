@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T09:57:22.333563+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2025-10-26T11:17:18.105485+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 11时17分]"
         },
         {
           "title": "美国 9 月 CPI 全线低于预期，美股三大指数盘中均创历史新高，黄金白银下跌，哪些信息值得关注？",
@@ -39,11 +39,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时29分 ~ 09时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时29分 ~ 11时17分]"
         },
         {
           "title": "美股为何一直在上涨",
