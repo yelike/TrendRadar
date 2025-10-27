@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T10:07:59.962277+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2025-10-27T11:55:49.330664+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 28,
       "titles": [
         {
           "title": "美俄代表持续接触，特朗普：暂不打算见普京",
@@ -141,7 +141,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -152,7 +152,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -183,6 +183,17 @@
           "time_info": "[02时33分 ~ 10时07分]"
         },
         {
+          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
+          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 11时55分]"
+        },
+        {
           "title": "不满加拿大反关税广告 特朗普宣布对加方额外征收10%关税",
           "url": "https://www.cls.cn/detail/2180721",
           "source": "财联社热门",
@@ -206,15 +217,59 @@
           "time_info": "[00时30分 ~ 01时22分]"
         },
         {
-          "title": "引用前总统讲话“打脸”现总统，特朗普再次怒举关税大棒",
-          "url": "https://news.ifeng.com/c/8nmaj9cyXDX",
-          "source": "凤凰网",
+          "title": "巴西总统卢拉：已与特朗普提及委内瑞拉问题。",
+          "url": "https://flash.jin10.com/detail/20251027113525618800",
+          "source": "金十数据",
           "ranks": [
-            7
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时07分"
+          "time_info": "11时55分"
+        },
+        {
+          "title": "巴西总统卢拉：特朗普可以提出任何问题，摆上桌面，我都会讨论。",
+          "url": "https://flash.jin10.com/detail/20251027113517357800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "巴西总统卢拉：美国对巴西征收关税是基于“错误信息”。 与特朗普的会晤出乎意料地顺利。 将在“几天内”与美国达成最终解决方案。",
+          "url": "https://wallstreetcn.com/livenews/2993966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "巴西总统卢拉：特朗普向我保证，我们一定会达成协议。",
+          "url": "https://flash.jin10.com/detail/20251027113242354800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "巴西总统卢拉：（就特朗普在会谈中是否作出任何承诺表示）没有，作出承诺不是总统的职责。",
+          "url": "https://flash.jin10.com/detail/20251027113232713800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "韩国考虑授予特朗普“无穷花大勋章”",
@@ -223,9 +278,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "巴西总统卢拉：博索纳罗案情严重，我告诉特朗普，他们曾密谋杀害我。",
+          "url": "https://flash.jin10.com/detail/20251027112719105800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "东盟峰会特朗普又来当主角",
@@ -234,9 +300,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "巴西总统卢拉：昨天会议上最热情的是美国总统特朗普。",
+          "url": "https://flash.jin10.com/detail/20251027112311246800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "特朗普的关税“套路”曝光",
@@ -245,7 +322,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -256,7 +333,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         }
@@ -296,15 +373,15 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 11时55分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
@@ -329,6 +406,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时22分]"
+        },
+        {
+          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
