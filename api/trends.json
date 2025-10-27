@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-10-27T13:28:40.550170+08:00",
-  "total_titles_processed": 936,
+  "generated_at": "2025-10-27T14:45:41.427885+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
+        {
+          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时28分 ~ 14时45分]"
+        },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
           "url": "https://flash.jin10.com/detail/20251027060229559800",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "美股指数期货走高，日股首破5万点、韩股首破4000点均创新高，铜、大豆上涨，黄金下挫1%",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时28分 ~ 13时28分]"
         },
         {
           "title": "美股三大股指期货延续涨势，纳指期货涨幅达1%，标普500指数期货涨0.8%，道指期货现涨0.6%。",
