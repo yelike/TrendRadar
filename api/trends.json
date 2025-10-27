@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T14:45:41.427885+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2025-10-27T15:26:50.234544+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 15时26分]"
         },
         {
           "title": "美股三大股指期货高开，纳指期货涨0.8%。",
