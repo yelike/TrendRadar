@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T22:28:37.537990+08:00",
-  "total_titles_processed": 2013,
+  "generated_at": "2025-10-28T23:31:15.445147+08:00",
+  "total_titles_processed": 2098,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 102,
       "titles": [
         {
           "title": "部署1.8万警力，高市早苗为特朗普来访准备“大礼”",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时24分]"
+        },
+        {
+          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
+          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时28分 ~ 23时31分]"
         },
         {
           "title": "日本天皇与特朗普会面：亲自在门外接送，被特朗普用手指",
@@ -42,18 +54,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 11时13分]"
-        },
-        {
-          "title": "尴尬，高市早苗多次引导特朗普“绕场”，还被特朗普落在身后",
-          "url": "https://v.ifeng.com/c/8noT1p8iWLt",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时28分 ~ 22时28分]"
         },
         {
           "title": "日本天皇用英语说很高兴见到特朗普",
@@ -201,6 +201,17 @@
           "time_info": "17时28分"
         },
         {
+          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
+          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时54分 ~ 23时31分]"
+        },
+        {
           "title": "美国总统特朗普：美日联盟是“整个世界上最卓越的关系之一”。",
           "url": "https://flash.jin10.com/detail/20251028152443500800",
           "source": "金十数据",
@@ -210,6 +221,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
+          "url": "https://news.ifeng.com/c/8np198dmCFI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时54分 ~ 23时31分]"
         },
         {
           "title": "美国总统特朗普：期待与日本首相高市早苗携手合作，共促国家发展。",
@@ -345,27 +368,15 @@
           "time_info": "[17时28分 ~ 19时22分]"
         },
         {
-          "title": "韩国民众举行反特朗普示威：停止鼓动韩国对抗中国",
-          "url": "https://news.ifeng.com/c/8np9fQhEQk8",
+          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
+          "url": "https://news.ifeng.com/c/8npJJt30xAk",
           "source": "凤凰网",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时28分]"
-        },
-        {
-          "title": "特朗普称美已在俄附近部署核潜艇，克宫发声",
-          "url": "https://news.ifeng.com/c/8np198dmCFI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时28分]"
+          "time_info": "[22时28分 ~ 23时31分]"
         },
         {
           "title": "特朗普再提2028参选可能，点名两个潜在继任者",
@@ -522,6 +533,17 @@
           "time_info": "[12时34分 ~ 13时26分]"
         },
         {
+          "title": "特朗普径自走过日本国旗未鞠躬",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%BE%84%E8%87%AA%E8%B5%B0%E8%BF%87%E6%97%A5%E6%9C%AC%E5%9B%BD%E6%97%97%E6%9C%AA%E9%9E%A0%E8%BA%AC",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
           "title": "日本天皇用英语说很高兴见到特朗普",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%97%A5%E6%9C%AC%E5%A4%A9%E7%9A%87%E7%94%A8%E8%8B%B1%E8%AF%AD%E8%AF%B4%E5%BE%88%E9%AB%98%E5%85%B4%E8%A7%81%E5%88%B0%E7%89%B9%E6%9C%97%E6%99%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D22%26q%3D%2523%25E6%2597%25A5%25E6%259C%25AC%25E5%25A4%25A9%25E7%259A%2587%25E7%2594%25A8%25E8%258B%25B1%25E8%25AF%25AD%25E8%25AF%25B4%25E5%25BE%2588%25E9%25AB%2598%25E5%2585%25B4%25E8%25A7%2581%25E5%2588%25B0%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D23%26realpos%3D22%26cate%3D5001%26flag%3D1%26display_time%3D1761616538%26pre_seqid%3D17616165379850194906405",
           "source": "微博",
@@ -589,17 +611,6 @@
           "time_info": "09时56分"
         },
         {
-          "title": "英媒：特朗普想见金正恩，但朝鲜没回应",
-          "url": "https://news.ifeng.com/c/8npJJt30xAk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
           "title": "美国总统特朗普：这将是一段比以往任何时候都更加牢固的关系。",
           "url": "https://flash.jin10.com/detail/20251028090338913800",
           "source": "金十数据",
@@ -631,6 +642,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "美国众议院议长约翰逊谈及特朗普政府的SNAP计划，称：美国农业部（USDA）的确研究过，但无法提供资金支持。 无法避免美国在11月1日发生食品券悬崖。",
+          "url": "https://wallstreetcn.com/livenews/2995214",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "俄总统助理：普京和特朗普会晤意愿依旧存在",
@@ -666,6 +688,17 @@
           "time_info": "11时13分"
         },
         {
+          "title": "美国众议院议长约翰逊：看不到特朗普第三次担任美国总统的可能性。",
+          "url": "https://wallstreetcn.com/livenews/2995213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普回应美两军机南海坠毁",
           "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E4%B8%A4%E5%86%9B%E6%9C%BA%E5%8D%97%E6%B5%B7%E5%9D%A0%E6%AF%81%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D9%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E5%259B%259E%25E5%25BA%2594%25E7%25BE%258E%25E4%25B8%25A4%25E5%2586%259B%25E6%259C%25BA%25E5%258D%2597%25E6%25B5%25B7%25E5%259D%25A0%25E6%25AF%2581%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D10%26realpos%3D9%26cate%3D5001%26flag%3D1%26display_time%3D1761616538%26pre_seqid%3D17616165379850194906405",
           "source": "微博",
@@ -697,6 +730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "针对特朗普关税武器化等问题，日本民众连日抗议日美首脑会谈",
+          "url": "https://wallstreetcn.com/livenews/2995211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美国总统特朗普：军队不再被视为政治不正确。从今以后，如果我们处于战争，我们必将赢得战争。我们将以前所未有的方式获胜。",
@@ -787,6 +831,17 @@
           "time_info": "16时35分"
         },
         {
+          "title": "特朗普正式提名迈克尔・塞利格担任美国CFTC主席",
+          "url": "https://wallstreetcn.com/livenews/2995205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "特朗普与高市早苗的“同盟秀”",
           "url": "https://www.toutiao.com/trending/7565899265139019300/",
           "source": "今日头条",
@@ -826,7 +881,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -862,6 +917,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时56分"
+        },
+        {
+          "title": "信函显示，民主党参议员反对美国总统特朗普政府的计划，该计划拟放弃前总统拜登提出的建议，即强制航空公司就承运人造成的延误向旅客提供赔偿。",
+          "url": "https://flash.jin10.com/detail/20251028223800253800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "美国总统特朗普：感谢日本首相的欢迎。 正签署一项新协议，这是一项非常公平的协议。 我们将一起开展大量贸易。",
@@ -906,6 +972,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "纽柯钢铁(NUE.N)CEO：美国总统特朗普为美国钢铁业创造了“公平的竞争环境”。",
+          "url": "https://flash.jin10.com/detail/20251028223740867800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "特朗普：美国核潜艇就在俄海岸附近",
@@ -963,13 +1040,24 @@
           "time_info": "20时54分"
         },
         {
+          "title": "美国众议院议长约翰逊：看不到美国总统特朗普寻求第三任期的路径。",
+          "url": "https://flash.jin10.com/detail/20251028223624534800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "美国高院即将就特朗普关税案进行庭审 投注网站料其败诉概率约六成",
           "url": "https://wallstreetcn.com/livenews/2995178",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -1097,261 +1185,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时24分 ~ 22时28分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
-          "url": "https://www.cls.cn/detail/2182682",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 14时40分]"
-        },
-        {
-          "title": "UPS三季度营收214亿美元，预估208.7亿美元。 三季度经调整后每股收益1.74美元，预估1.32美元。 UPS预计第四季度营收约为240亿美元，市场预估238.7亿美元。 UPS美股盘前涨近8%。",
-          "url": "https://wallstreetcn.com/livenews/2995038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
-          "url": "https://wallstreetcn.com/livenews/2994556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时24分]"
-        },
-        {
-          "title": "半导体ETF收涨2.5%，领跑美股行业ETF，标普电信板块涨2.3%",
-          "url": "https://wallstreetcn.com/livenews/2994554",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时24分]"
-        },
-        {
-          "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
-          "url": "https://flash.jin10.com/detail/20251028000829704800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 01时24分]"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2995170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时28分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040602720800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 07时24分]"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251028040534174800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普媒体科技集团美股盘前涨逾11%，公司宣布进军预测市场业务。",
-          "url": "https://wallstreetcn.com/livenews/2995148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时38分]"
-        },
-        {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 22时28分]"
-        },
-        {
-          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
-          "url": "https://flash.jin10.com/detail/20251028040154573800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时24分]"
-        },
-        {
-          "title": "美股收盘：三大指数齐刷历史新高",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时13分]"
-        },
-        {
-          "title": "美股盘前，黄金概念股普跌",
-          "url": "https://wallstreetcn.com/livenews/2994904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251028003902797800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251028003030671800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
-          "url": "https://wallstreetcn.com/livenews/2995018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
-          "url": "https://wallstreetcn.com/livenews/2995188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "美股盘初：微软涨约4%，核电股Cameco涨约18%",
-          "url": "https://wallstreetcn.com/livenews/2995181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "美股核电股盘前上涨，Cameco涨近16%",
-          "url": "https://wallstreetcn.com/livenews/2995128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251028214237483800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
@@ -1398,6 +1233,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股（IPO）的计划。",
+          "url": "https://wallstreetcn.com/livenews/2995218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
           "url": "https://flash.jin10.com/detail/20251028045401357800",
           "source": "金十数据",
@@ -1431,6 +1277,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "OpenAI CEO：将直播讨论新企业结构及其他重要内容",
+          "url": "https://flash.jin10.com/detail/20251028224945145800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
+          "title": "OpenAI发言人：OpenAI没有上市或专注于首次公开募股的计划。",
+          "url": "https://flash.jin10.com/detail/20251028224651919800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "OpenAI：OpenAI基金会初期将重点投入250亿美元资金，用于健康与疾病治疗领域，以及提升人工智能韧性的技术解决方案。",
@@ -1505,7 +1373,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -1532,6 +1400,17 @@
           "time_info": "21时38分"
         },
         {
+          "title": "OpenAI创始人Sam Altman将不会因OpenAI的盈利重组而获得股份。",
+          "url": "https://flash.jin10.com/detail/20251028222603957800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
           "url": "https://flash.jin10.com/detail/20251028210205594800",
           "source": "金十数据",
@@ -1545,8 +1424,263 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 21,
+      "titles": [
+        {
+          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
+          "url": "https://wallstreetcn.com/articles/3757937",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[07时24分 ~ 23时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
+          "url": "https://www.cls.cn/detail/2182682",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 14时40分]"
+        },
+        {
+          "title": "UPS三季度营收214亿美元，预估208.7亿美元。 三季度经调整后每股收益1.74美元，预估1.32美元。 UPS预计第四季度营收约为240亿美元，市场预估238.7亿美元。 UPS美股盘前涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/2995038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
+          "url": "https://wallstreetcn.com/livenews/2994556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "半导体ETF收涨2.5%，领跑美股行业ETF，标普电信板块涨2.3%",
+          "url": "https://wallstreetcn.com/livenews/2994554",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "美股延续涨势，标普500指数上涨1%，纳指涨1.62%，道指涨0.56%。",
+          "url": "https://flash.jin10.com/detail/20251028000829704800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时34分 ~ 01时24分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2995170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时28分]"
+        },
+        {
+          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2183910",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时38分 ~ 23时31分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040602720800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时24分]"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251028040534174800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普媒体科技集团美股盘前涨逾11%，公司宣布进军预测市场业务。",
+          "url": "https://wallstreetcn.com/livenews/2995148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 21时38分]"
+        },
+        {
+          "title": "美股收盘：三大股指齐创新高 苹果市值逼近4万亿美元",
+          "url": "https://flash.jin10.com/detail/20251028040154573800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时24分 ~ 06时24分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，全球航空业ETF跌1.6%，公用事业ETF跌1.05%，科技行业ETF涨0.56%。",
+          "url": "https://wallstreetcn.com/livenews/2995188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时28分 ~ 23时31分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐刷历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%BD%90%E5%88%B7%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时56分 ~ 11时13分]"
+        },
+        {
+          "title": "美股盘前，黄金概念股普跌",
+          "url": "https://wallstreetcn.com/livenews/2994904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251028003902797800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "金十图示：2025年10月27日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251028003030671800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "新东方第一财季调整后每ADS收益1.61美元，预估1.65美元。 第一财季经营利润3.108亿美元，预估3.008亿美元。 第一财季净营收15.2亿美元，预估15.1亿美元。 第一财季资本支出5,540万美元。 新东方美股盘前涨0.68%。",
+          "url": "https://wallstreetcn.com/livenews/2995018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
+          "title": "美股盘初：微软涨约4%，核电股Cameco涨约18%",
+          "url": "https://wallstreetcn.com/livenews/2995181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "美股核电股盘前上涨，Cameco涨近16%",
+          "url": "https://wallstreetcn.com/livenews/2995128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251028214237483800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "跌破4000美元，金价较高点已跌9%，此前7周飙升27%，业内高管“金价需要先下跌才能走高”",
@@ -1558,8 +1692,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时34分 ~ 22时28分]"
+          "appearance_count": 15,
+          "time_info": "[12时34分 ~ 23时31分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -1573,6 +1707,18 @@
           "time_info": "[09时56分 ~ 15时31分]"
         },
         {
+          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
+          "url": "https://wallstreetcn.com/articles/3758026",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时31分 ~ 23时31分]"
+        },
+        {
           "title": "金价突然杀跌原因何在",
           "url": "https://www.toutiao.com/trending/7565674495126847531/",
           "source": "今日头条",
@@ -1584,18 +1730,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[15时30分 ~ 18时31分]"
-        },
-        {
-          "title": "黄金下一步看3800，重要支撑线在3600美元？两大因素将是金价能否反弹的关键",
-          "url": "https://wallstreetcn.com/articles/3758026",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 22时28分]"
         },
         {
           "title": "伦敦金银市场协会（LBMA）调查：金价一年后料达每盎司4980.3美元。",
@@ -1677,6 +1811,17 @@
           "time_info": "18时31分"
         },
         {
+          "title": "彭博汇编数据显示，10月27日金价跌穿4000美元整数位心理关口当天，道富旗下SPDR Gold Shares（全球第一大黄金ETF）遭遇10亿美元净资金外流，创4月22日以来最大外流规模。",
+          "url": "https://wallstreetcn.com/livenews/2995204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "金十图示：2025年10月28日（周二）上海金午盘价为899.11元/克，较国际金价(899.41元/克)，低0.3元/克",
           "url": "https://flash.jin10.com/detail/20251028150537606800",
           "source": "金十数据",
@@ -1705,7 +1850,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         }
@@ -1713,7 +1858,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌宣布重启一核电站为AI基础设施供电",
@@ -1819,6 +1964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "比特币矿商+数据中心运营商TeraWulf（WULF）维持超过23%的涨幅，刷新2021年12月以来盘中最高位。 该公司同意，通过新的168 MW人工智能（AI）计算合资公司拓展与Fluidstack的合作关系。 该合资公司得到谷歌公司13亿美元租赁的支持。 位于美国得州Abernathy园区、长达25年的186 MW关键性IT负荷租赁协议意味着，该合资公司能通过承包产生大约95亿美元收入。",
+          "url": "https://wallstreetcn.com/livenews/2995212",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
