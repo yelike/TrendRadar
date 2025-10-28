@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T14:38:15.043878+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2025-10-28T15:26:25.111721+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 15时26分]"
+        },
+        {
+          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
+          "url": "https://www.cls.cn/detail/2182699",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时22分 ~ 14时38分]"
+          "time_info": "[09时51分 ~ 15时26分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时22分 ~ 14时38分]"
-        },
-        {
-          "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
-          "url": "https://www.cls.cn/detail/2182699",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时51分 ~ 14时38分]"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
