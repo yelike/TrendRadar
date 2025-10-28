@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T11:12:43.864830+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-10-28T12:29:35.619938+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 12时29分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时22分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 12时29分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时29分]"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
@@ -288,6 +288,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "随着持续的利好消息影响市场风险偏好，周二金银价格延续疲势，早盘时段现货黄金4000美元关口得而复失，白银回落至47美元下方；有消息称欧佩克+倾向于再度小幅增产，令油价承压，当前白银及美油显现卖出信号，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251028110428303800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时29分"
         }
       ]
     }
