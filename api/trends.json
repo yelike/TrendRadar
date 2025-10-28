@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T16:36:07.134328+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2025-10-28T17:27:54.101962+08:00",
+  "total_titles_processed": 1455,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时22分 ~ 16时36分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 17时27分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -157,7 +157,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         }
