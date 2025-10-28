@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T13:25:40.851722+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2025-10-28T14:38:15.043878+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时22分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 14时38分]"
         },
         {
           "title": "【早报】证监会连续出手！出台保护中小投资者政策举措、优化QFII制度；美股再创历史新高，国际金价失守4000美元",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 13时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时51分 ~ 14时38分]"
         },
         {
           "title": "纳指ETF收涨将近1.8%，和大豆基金领跑美股大类资产类ETF，黄金ETF则跌约2.8%",
@@ -162,7 +162,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
