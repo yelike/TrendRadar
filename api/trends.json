@@ -1,386 +1,138 @@
 {
-  "generated_at": "2025-10-29T23:30:16.141377+08:00",
-  "total_titles_processed": 2163,
+  "generated_at": "2025-10-30T04:32:14.875412+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 26,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
       "titles": [
         {
-          "title": "贸易缓和提振美股新高，人民币两月最大涨幅，黄金失守4000美元，伦铜收创新高",
-          "url": "https://wallstreetcn.com/articles/3757937",
-          "source": "华尔街见闻",
+          "title": "谷歌母公司Alphabet三季度营收1023.5亿美元，分析师预期998.5亿美元。 三季度ex-tac（不包含流量获取陈本）营收874.7亿美元，分析师预期851.1亿美元。 三季度谷歌云营收151.6亿美元，分析师预期147.5亿美元。 三季度谷歌服务营收870.5亿美元，分析师预期846.7亿美元。 三季度谷歌搜索和其他收入565.7亿美元，分析师预期549.9亿美元。 三季度YouTube广告营收102.6亿美元，分析师预期100.3亿美元。 三季度谷歌广告收入741.8亿美元，分析师预期724.6亿美元。 三季度末谷歌云订单积压1550亿美元。 多个主要业务实现两位数百分比增幅。 Gemini APP拥有超过6.5亿月活用户数。 预计全年资本开支910亿-930亿美元，分析师预期840.4亿美元，公司原本预计大约850亿美元。 谷歌A美股盘后涨7.7%。",
+          "url": "https://wallstreetcn.com/livenews/2996201",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时45分 ~ 07时25分]"
-        },
-        {
-          "title": "美股收盘：三大指数再刷历史新高 英伟达大会发威涨近5%",
-          "url": "https://www.cls.cn/detail/2184098",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时24分 ~ 15时25分]"
-        },
-        {
-          "title": "美股三大期指集体走高 黄仁勋将发表主题演讲 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2183910",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 09时59分]"
-        },
-        {
-          "title": "礼来(LLY.N)美股盘前涨近1%，公司宣布沃尔玛将提供Zepbound注射剂的取药服务。",
-          "url": "https://flash.jin10.com/detail/20251029191217764800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "礼来美股盘前拉升，现涨近1%。此前礼来公司宣布，沃尔玛将提供Zepbound注射剂的取药服务。",
-          "url": "https://wallstreetcn.com/livenews/2995926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
-          "url": "https://wallstreetcn.com/articles/3758056",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时22分 ~ 06时24分]"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 英伟达涨近5%",
-          "url": "https://flash.jin10.com/detail/20251029040108535800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时24分]"
-        },
-        {
-          "title": "美股盘前，半导体股普涨，英伟达涨约3%，美光科技涨约2%，AMD涨约2%。",
-          "url": "https://wallstreetcn.com/livenews/2995734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时28分]"
-        },
-        {
-          "title": "Fiserv美股盘前大跌35%，指引和业绩均大幅低于预期",
-          "url": "https://wallstreetcn.com/livenews/2995988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 21时37分]"
-        },
-        {
-          "title": "费城金银指数收涨1.28%，报278.09点。 纽约证交所ARCA金矿开采商指数收涨0.30%，报1980.77点；北京时间21:30美股开盘之前维持跌势、持稳于1960点附近，之后跳空“低开”、逼近1930点，随后反弹并逐步上涨。 金银矿业股多数收涨，科尔黛伦矿业涨3.39%，赫克拉矿业涨3.16%，金田涨2.66%，金矿股ETF涨1.59%，泛美白银涨1.47%，黄金矿工因素指数ETF涨1.43%，白银ETF涨0.71%。 黄金ETF则至少收跌0.72%，B2Gold跌1.21%，Blue Gold跌7.76%。",
-          "url": "https://wallstreetcn.com/livenews/2995368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "布油基金收跌约2.1%，和地产ETF领跌美股大类资产类ETF，大豆基金涨超0.9%",
-          "url": "https://wallstreetcn.com/livenews/2995384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时25分]"
-        },
-        {
-          "title": "全球科技股指数ETF收涨将近1.4%，领跑美股行业ETF，标普房地产板块跌超2.2%",
-          "url": "https://wallstreetcn.com/livenews/2995363",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251029040619024800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251029040615964800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "美股三大股指续创新高 英伟达涨近5%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E7%BB%AD%E5%88%9B%E6%96%B0%E9%AB%98+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%BF%915%25",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 11时21分]"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2996013",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251029005409163800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "金十图示：2025年10月28日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251029005055544800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "英伟达美股盘前涨逾3%，有望成为全球首家市值5万亿美元的公司",
-          "url": "https://wallstreetcn.com/livenews/2995751",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时28分"
-        },
-        {
-          "title": "美股盘初：半导体股普涨，英伟达成为史上首家市值站上5万亿美元的公司",
-          "url": "https://wallstreetcn.com/livenews/2996031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF涨近2%，全球科技股指数ETF涨超1%，日常消费品ETF跌超1%，金融业ETF跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2996056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时30分"
+          "time_info": "04时32分"
         },
         {
-          "title": "美股三大股指走高，纳指涨超1%，标普500指数涨0.43%，道指涨0.57%。",
-          "url": "https://flash.jin10.com/detail/20251029030928567800",
+          "title": "Alphabet(GOOG.O)：Gemini应用程序的月活跃用户已超过6.5亿。",
+          "url": "https://flash.jin10.com/detail/20251030041555585800",
           "source": "金十数据",
           "ranks": [
-            20
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时31分"
+          "time_info": "04时32分"
         },
         {
-          "title": "金十图示：2025年10月29日（周三）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20251029215338456800",
+          "title": "Alphabet(GOOG.O)：欧盟委员会决定处以35亿美元罚款，该罚款已计入截至9月30日季度谷歌服务部门的一般及管理费用中。",
+          "url": "https://flash.jin10.com/detail/20251030041537308800",
           "source": "金十数据",
           "ranks": [
-            20
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时28分"
+          "time_info": "04时32分"
         },
         {
-          "title": "美股七巨头收盘播报｜英伟达收涨将近5%，获得其股权投资的诺基亚ADR涨约23%",
-          "url": "https://wallstreetcn.com/livenews/2995351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "卡特彼勒第三季度营收176.4亿美元，预估167.1亿美元。 第三季度调整后每股收益4.95美元，预估4.51美元。 第三季度每股收益4.88美元，上年同期5.06美元。 第三季度调整后运营收益30.9亿美元，预估27.4亿美元。 卡特彼勒美股盘前涨近5%。",
-          "url": "https://wallstreetcn.com/livenews/2995885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时23分"
-        },
-        {
-          "title": "Fiserv美股盘前大跌27%，此前下调财年调整后每股收益指引。",
-          "url": "https://wallstreetcn.com/livenews/2995936",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Adobe(ADBE.O)：客户将可访问谷歌(GOOG.O)的先进人工智能模型。",
-          "url": "https://flash.jin10.com/detail/20251029000236073800",
+          "title": "Alphabet(GOOG.O)：三季度谷歌广告收入741.8亿美元，YouTube广告收入102.6亿美元，谷歌搜索收入为565.67亿美元，三季度营业利润率31%。",
+          "url": "https://flash.jin10.com/detail/20251030041438967800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
+          "time_info": "04时32分"
         },
         {
-          "title": "Adobe(ADBE.O)与谷歌云扩大战略合作伙伴关系，共同推动创意人工智能的未来发展。",
-          "url": "https://flash.jin10.com/detail/20251029000225070800",
+          "title": "公布财报后，谷歌A(GOOGL.O)美股盘后大涨超6%，微软(MSFT.O)跌4%，Meta Platforms(META.O)跌超7%。",
+          "url": "https://flash.jin10.com/detail/20251030040729871800",
           "source": "金十数据",
           "ranks": [
-            9
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货黄金突破4030美元/盎司，日内涨近2%。现货白银价格上涨近3%，报48.36美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251029201558008800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "time_info": "04时32分"
         },
         {
-          "title": "隔夜金价一度跌破3900美元，投行纷纷下调黄金价格预期；特朗普又向鲍威尔“开炮”，称其不是无能就是坏；在政府停摆、数据缺失的背景下，万众瞩目的美联储决议将于明日凌晨公布，当前黄金空头占优，白银卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251029105537246800",
+          "title": "Alphabet(GOOGL.O)2025年Q3谷歌云服务收入151.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20251030040424583800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时21分"
+          "time_info": "04时32分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
         {
-          "title": "周二（10月28日）纽约尾盘，美国10年期国债收益率涨0.19个基点，报3.9814%，日内交投于3.9680%-4.0025%区间。 两年期美债收益率涨0.41个基点，报3.4918%；30年期美债收益率跌0.28个基点。 2/10年期美债收益率利差跌0.328个基点，报+48.560个基点。 10年期通胀保值国债（TIPS）收益率跌0.44个基点，至1.6875%；两年期TIPS收益率涨3.08个基点，至0.8442%；30年期TIPS收益率跌1.25个基点，至2.3258%。",
-          "url": "https://wallstreetcn.com/livenews/2995344",
+          "title": "扎克伯格旗下Meta Platforms Inc.三季度营收512.4亿美元，分析师预期495.9亿美元。 三季度广告收入500.8亿美元，分析师预期485.9亿美元。 三季度运营利润205.4亿美元，同比增长18%。 因税单而一次性计提159.3亿美元非现金费用。 预计全年总体开支1160亿-1180亿美元，公司原本预计1140亿-1180亿美元。 预计四季度总体收入将介于560亿-590亿美元。 Meta美股盘后跌8.7%。",
+          "url": "https://wallstreetcn.com/livenews/2996204",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            25
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "利率决议、业绩报告在即，美股指数集体上涨，英伟达总市值突破5万亿美元，黄金突破4000美元关口",
+          "url": "https://wallstreetcn.com/articles/3758166",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时23分]"
+          "time_info": "[04时31分 ~ 04时32分]"
+        },
+        {
+          "title": "金十图示：2025年10月29日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251030040527140800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "金十图示：2025年10月29日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251030040526552800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
+        },
+        {
+          "title": "美股收盘：鲍威尔鹰派言论扰动大盘 西部数据大涨13%",
+          "url": "https://flash.jin10.com/detail/20251030040110792800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时32分"
         }
       ]
     }
