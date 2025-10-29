@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T11:21:55.672512+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2025-10-29T12:32:35.502013+08:00",
+  "total_titles_processed": 1082,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[06时24分 ~ 12时32分]"
         },
         {
           "title": "美股三大指数集体上涨，苹果总市值首次升破4万亿美元，现货黄金失守3900美元关口，加密货币下跌",
@@ -226,7 +226,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时21分"
         }
