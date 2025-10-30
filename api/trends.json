@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T01:24:26.768292+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2025-10-31T02:37:27.068217+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -26,8 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
@@ -36,7 +36,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
         },
@@ -76,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -87,8 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
         }
       ]
     },
@@ -104,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[00时35分 ~ 02时37分]"
         }
       ]
     }
