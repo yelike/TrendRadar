@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T00:35:39.638561+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-31T01:24:26.768292+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时24分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -26,8 +26,30 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时24分]"
+        },
+        {
+          "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251031003149362800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "01时24分"
+        },
+        {
+          "title": "金十图示：2025年10月30日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251031003044643800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         },
         {
           "title": "美股盘初，主要行业ETF涨跌不一，金融业ETF、银行业ETF涨近1%，网络股指数ETF、可选消费ETF跌超1%。",
@@ -54,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时24分]"
         },
         {
           "title": "鲍威尔发布会称12月降息并非必然，美股、美债、黄金、比特币盘中跳水，美元涨",
@@ -65,8 +87,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时24分]"
         }
       ]
     },
@@ -82,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时24分]"
         }
       ]
     }
