@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T22:26:52.745864+08:00",
-  "total_titles_processed": 1997,
+  "generated_at": "2025-10-31T23:25:16.090604+08:00",
+  "total_titles_processed": 2093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时22分 ~ 22时26分]"
+          "appearance_count": 19,
+          "time_info": "[07时22分 ~ 23时25分]"
         },
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
@@ -80,6 +80,17 @@
           "time_info": "18时27分"
         },
         {
+          "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
+          "url": "https://wallstreetcn.com/livenews/2997795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "金十图示：2025年10月30日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251031040546902800",
           "source": "金十数据",
@@ -116,6 +127,19 @@
           "time_info": "[05时23分 ~ 06时30分]"
         },
         {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时34分 ~ 23时25分]"
+        },
+        {
           "title": "苹果(AAPL.O)美股盘后涨1.6%，此前一度跌近3%。",
           "url": "https://flash.jin10.com/detail/20251031044225667800",
           "source": "金十数据",
@@ -126,18 +150,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时30分]"
-        },
-        {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时34分 ~ 22时26分]"
         },
         {
           "title": "周五美股盘前你需要了解的全球要闻",
@@ -198,6 +210,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时51分 ~ 21时35分]"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2997769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时25分]"
         },
         {
           "title": "Strategy美股盘前涨近6%，公司三季度营收高于预期。",
@@ -266,24 +290,13 @@
           "time_info": "19时22分"
         },
         {
-          "title": "美股盘初，主要行业ETF涨跌不一，可选消费ETF涨近3%，网络股指数ETF涨近2%，区域银行业ETF、银行业ETF跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2997769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
           "title": "美股盘初：纳指涨1.5%，亚马逊涨约12%，苹果涨约2%",
           "url": "https://wallstreetcn.com/livenews/2997765",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
         },
@@ -305,9 +318,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时26分"
+        },
+        {
+          "title": "房地美股价下跌7%，跌至当日低点。",
+          "url": "https://flash.jin10.com/detail/20251031222848337800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "房利美股价跌超10%，跌至8月11日以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20251031222759471800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "美银策略师：黄金与中国股市是对冲美股AI泡沫的最佳工具",
@@ -368,8 +403,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时32分 ~ 22时26分]"
+          "appearance_count": 9,
+          "time_info": "[16时32分 ~ 23时25分]"
         },
         {
           "title": "标普500指数初步收跌1%，可选消费板块跌2.4%，电信板块跌1.8%，科技板块跌1.3%，房地产板块涨0.8%。 纳斯达克100指数初步收跌1.4%，成分股中，Meta初步收跌约11%，MSTR跌7.1%，特斯拉跌4.4%，核电股Constellation Energy跌4.2%，亚马逊跌3%，谷歌A、MercadoLibre、VRSK、格芯至少涨超2%。 波音初步收跌6%，和VZ、联合健康、亚马逊、微软、英伟达领跌道指成分股，摩根大通、迪士尼、Salesforce、思科则至少涨1%。",
@@ -399,11 +434,12 @@
           "url": "https://wallstreetcn.com/livenews/2997771",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时25分]"
         },
         {
           "title": "据华尔街日报：谷歌推出首支完全由人工智能生成的广告片，将于今日起在电视上播出。",
@@ -474,8 +510,25 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时31分 ~ 22时26分]"
+          "appearance_count": 15,
+          "time_info": "[12时31分 ~ 23时25分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "摩根士丹利：由于ETF和各国央行的强劲实物需求，以及经济前景依然不确定，黄金价格有望在2026年年中升至每盎司4500美元（此前预计为2026年下半年达到4500美元）。",
+          "url": "https://wallstreetcn.com/livenews/2997790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         }
       ]
     }
