@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-31T14:36:38.830924+08:00",
-  "total_titles_processed": 1211,
+  "generated_at": "2025-10-31T15:26:04.617773+08:00",
+  "total_titles_processed": 1285,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
+          "url": "https://wallstreetcn.com/articles/3758264",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 15时26分]"
+        },
         {
           "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
           "url": "https://www.cls.cn/detail/2186587",
@@ -31,17 +42,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[06时30分 ~ 13时26分]"
-        },
-        {
-          "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
-          "url": "https://wallstreetcn.com/articles/3758264",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时22分 ~ 14时36分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -287,11 +287,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时31分 ~ 14时36分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 15时26分]"
         }
       ]
     }
