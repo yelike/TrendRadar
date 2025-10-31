@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T06:24:01.038962+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2025-11-01T07:22:17.194163+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时22分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时22分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 07时22分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股收盘）",
@@ -50,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 07时22分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -62,8 +62,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 07时22分]"
         },
         {
           "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
@@ -74,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 06时24分]"
+          "appearance_count": 4,
+          "time_info": "[04时28分 ~ 07时22分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -83,11 +83,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
         },
         {
           "title": "可选消费ETF收涨超2.6%，领跑美股行业ETF，标普可选消费板块收涨约4.1%",
@@ -95,11 +96,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            13
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
+        },
+        {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时24分]"
+          "time_info": "[07时21分 ~ 07时22分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时22分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
@@ -157,11 +181,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            14
+            14,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时24分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时22分]"
         }
       ]
     },
@@ -179,8 +204,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 06时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时33分 ~ 07时22分]"
         }
       ]
     },
