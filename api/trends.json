@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T13:26:02.189728+08:00",
-  "total_titles_processed": 1113,
+  "generated_at": "2025-10-31T14:36:38.830924+08:00",
+  "total_titles_processed": 1211,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 14时36分]"
         },
         {
           "title": "美股指数集体低开，纳指跌超1%，Meta跌12%，比特币跌近4%",
@@ -290,8 +290,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时26分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 14时36分]"
         }
       ]
     }
