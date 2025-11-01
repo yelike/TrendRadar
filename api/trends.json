@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T18:24:12.859712+08:00",
-  "total_titles_processed": 1275,
+  "generated_at": "2025-11-01T19:19:04.418787+08:00",
+  "total_titles_processed": 1333,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时21分 ~ 18时24分]"
+          "appearance_count": 16,
+          "time_info": "[07时21分 ~ 19时19分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -39,11 +39,12 @@
             5,
             6,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时21分 ~ 18时24分]"
+          "appearance_count": 16,
+          "time_info": "[07时21分 ~ 19时19分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -223,11 +224,12 @@
           "url": "https://wallstreetcn.com/articles/3758466",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 18时24分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 19时19分]"
         },
         {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
