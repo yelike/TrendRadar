@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T17:23:16.425529+08:00",
-  "total_titles_processed": 1197,
+  "generated_at": "2025-11-01T18:24:12.859712+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时21分 ~ 17时23分]"
+          "appearance_count": 14,
+          "time_info": "[07时21分 ~ 18时24分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时21分 ~ 17时23分]"
+          "appearance_count": 14,
+          "time_info": "[07时21分 ~ 18时24分]"
         },
         {
           "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
@@ -219,6 +219,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "12月降息悬了？美联储内部现六年来罕见分歧，“老债王”格罗斯出手做空美债！",
+          "url": "https://wallstreetcn.com/articles/3758466",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 18时24分]"
+        },
+        {
           "title": "两年期美债收益率在美联储降息当周涨约12个基点，10年期美债收益率10月份跌约6个基点",
           "url": "https://wallstreetcn.com/livenews/2997882",
           "source": "华尔街见闻-快讯",
@@ -230,17 +241,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 06时24分]"
-        },
-        {
-          "title": "12月降息悬了？美联储内部现六年来罕见分歧，“老债王”格罗斯出手做空美债！",
-          "url": "https://wallstreetcn.com/articles/3758466",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 17时23分]"
         }
       ]
     },
