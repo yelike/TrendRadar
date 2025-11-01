@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T13:23:52.943577+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2025-11-01T14:34:41.999062+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -19,20 +19,6 @@
           "time_info": "[00时33分 ~ 07时22分]"
         },
         {
-          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2188280",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 13时23分]"
-        },
-        {
           "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3758419",
           "source": "华尔街见闻",
@@ -41,8 +27,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时23分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时34分]"
+        },
+        {
+          "title": "美股三大期指集体上涨 亚马逊盘前大涨超13% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2188280",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 14时34分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -51,11 +52,12 @@
           "ranks": [
             9,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时23分]"
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时34分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
