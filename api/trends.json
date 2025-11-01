@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T07:22:17.194163+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2025-11-01T09:59:20.915005+08:00",
+  "total_titles_processed": 742,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股延续美联储会后颓势，Meta重挫拖累科技股，加密货币大跌，亚马逊苹果绩后大涨",
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2188280",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时33分 ~ 07时22分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 09时59分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）美股热门股票行情一览（美股收盘）",
@@ -35,11 +36,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[04时28分 ~ 09时59分]"
         },
         {
           "title": "金十图示：2025年10月31日（周五）热门中概股行情一览（美股收盘）",
@@ -47,11 +49,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            5
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时28分 ~ 09时59分]"
+        },
+        {
+          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
+          "url": "https://wallstreetcn.com/articles/3758419",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[04时28分 ~ 07时22分]"
+          "time_info": "[07时21分 ~ 09时59分]"
         },
         {
           "title": "美股三大指数月线均至少六连涨 创多年最长月度连涨纪录",
@@ -59,11 +74,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            6
+            6,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时28分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[04时28分 ~ 09时59分]"
         },
         {
           "title": "美股收盘：三大股指齐涨 亚马逊涨近10%",
@@ -76,6 +92,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时22分]"
+        },
+        {
+          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
+          "url": "https://www.cls.cn/detail/2188490",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 09时59分]"
         },
         {
           "title": "布油基金收涨将近1.1%，领跑美股大类资产类ETF，黄金ETF跌超0.5%",
@@ -104,26 +132,15 @@
           "time_info": "[05时20分 ~ 07时22分]"
         },
         {
-          "title": "亚马逊靓丽业绩提振科技股，美股三大股指收高为十月画上句号，加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3758419",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
-        },
-        {
-          "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
-          "url": "https://www.cls.cn/detail/2188490",
+          "title": "美股上市公司CEO的一句玩笑话 扒开美国金融监管的大漏洞",
+          "url": "https://www.cls.cn/detail/2188453",
           "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时22分]"
+          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "房利美股价跌超10%，创8月11日以来盘中新低。 房地美也跌7%。",
