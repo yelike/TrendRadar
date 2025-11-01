@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T04:25:41.634425+08:00",
-  "total_titles_processed": 377,
+  "generated_at": "2025-11-02T05:19:52.401045+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "高盛交易员：美股涨势\"极端窄化\"，七巨头屡创新高但整体跑输全球市场",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时19分]"
         },
         {
           "title": "美股收盘：亚马逊升近10%创新高 纳指连涨七个月",
@@ -42,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时19分]"
         }
       ]
     },
@@ -60,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 04时25分]"
+          "appearance_count": 9,
+          "time_info": "[00时26分 ~ 05时19分]"
         }
       ]
     }
