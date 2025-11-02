@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-02T20:46:53.222628+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2025-11-02T21:30:11.789778+08:00",
+  "total_titles_processed": 1235,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             6,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时51分 ~ 20时46分]"
+          "appearance_count": 15,
+          "time_info": "[11时51分 ~ 21时30分]"
         },
         {
           "title": "【早报】美方称中美贸易协定或于下周签署，外交部回应；特朗普尚未决定是否对委内瑞拉境内地面目标发动袭击",
@@ -49,6 +50,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时04分 ~ 15时23分]"
+        },
+        {
+          "title": "奥巴马又怼特朗普政府：无法无天！",
+          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时30分]"
+        },
+        {
+          "title": "特朗普下令“战争部”做好准备",
+          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时22分 ~ 21时30分]"
         },
         {
           "title": "美防长：特朗普和我都认为美中关系从未如此之好",
@@ -98,17 +121,6 @@
           "time_info": "[00时29分 ~ 07时27分]"
         },
         {
-          "title": "奥巴马又怼特朗普政府：无法无天！",
-          "url": "https://news.ifeng.com/c/8nxDSaDqx8B",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时46分]"
-        },
-        {
           "title": "特朗普允许韩国在费城制造核动力潜艇，会对韩国海军实力有怎样的提升？",
           "url": "https://www.zhihu.com/question/1967205319198372105",
           "source": "知乎",
@@ -136,17 +148,6 @@
           "time_info": "[00时29分 ~ 07时27分]"
         },
         {
-          "title": "特朗普下令“战争部”做好准备",
-          "url": "https://news.ifeng.com/c/8nxI8KJ96Gm",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时46分]"
-        },
-        {
           "title": "美国打击升级？报道称很快要打委内瑞拉地面军事目标，特朗普否认，原油上窜下跳",
           "url": "https://wallstreetcn.com/articles/3758448",
           "source": "华尔街见闻",
@@ -157,6 +158,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时20分]"
+        },
+        {
+          "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
+          "url": "https://news.ifeng.com/c/8nxFfh4rZIk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 21时30分]"
         },
         {
           "title": "克里姆林宫：解决乌克兰局势需要细致入微的工作，而不是安排普京与特朗普的会晤。",
@@ -178,22 +190,34 @@
           "source": "金十数据",
           "ranks": [
             3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时46分]"
-        },
-        {
-          "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
-          "url": "https://news.ifeng.com/c/8nxFfh4rZIk",
-          "source": "凤凰网",
-          "ranks": [
-            9
+            22,
+            25
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时46分]"
+          "time_info": "[19时19分 ~ 21时30分]"
+        },
+        {
+          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
+          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时19分 ~ 21时30分]"
+        },
+        {
+          "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时46分 ~ 21时30分]"
         },
         {
           "title": "邵永灵：特朗普又将矛头对准尼日利亚",
@@ -208,15 +232,16 @@
           "time_info": "[15时22分 ~ 16时29分]"
         },
         {
-          "title": "台名嘴评高市早苗对特朗普进行谄媚外交：失态",
-          "url": "https://v.ifeng.com/c/8nx3gSMpzKH",
-          "source": "凤凰网",
+          "title": "以色列总理内塔尼亚胡：解除哈马斯的武装、实现加沙地带的非军事化是我们坚持的原则，这是我与特朗普总统共同达成的共识，我们正是以此为明确纲领开展行动。当然，如果这种方法行不通，我们将会采取另一种方法。",
+          "url": "https://flash.jin10.com/detail/20251102194256163800",
+          "source": "金十数据",
           "ranks": [
-            12
+            10,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时46分]"
+          "time_info": "[20时46分 ~ 21时30分]"
         },
         {
           "title": "特朗普主动提“G2” 中国为何不接招",
@@ -242,28 +267,6 @@
           "time_info": "10时04分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：解除哈马斯的武装、实现加沙地带的非军事化是我们坚持的原则，这是我与特朗普总统共同达成的共识，我们正是以此为明确纲领开展行动。当然，如果这种方法行不通，我们将会采取另一种方法。",
-          "url": "https://flash.jin10.com/detail/20251102194256163800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
-          "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
-        },
-        {
           "title": "特朗普威胁对尼日利亚采取军事行动",
           "url": "https://www.toutiao.com/trending/7567545340048670729/",
           "source": "今日头条",
@@ -278,8 +281,33 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "伊朗总统称将重建核设施",
+          "url": "https://news.ifeng.com/c/8nxK7re1nrp",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时24分 ~ 21时30分]"
+        },
+        {
+          "title": "伊朗政府：我们已收到恢复与华盛顿谈判的消息，我们将在适当时候透露细节。",
+          "url": "https://wallstreetcn.com/livenews/2998129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时24分 ~ 21时30分]"
+        },
         {
           "title": "伊朗外长警告：若以色列再次进攻伊朗，则必须等待另一场失败",
           "url": "https://wallstreetcn.com/livenews/2998105",
@@ -295,28 +323,17 @@
           "time_info": "[16时29分 ~ 19时19分]"
         },
         {
-          "title": "伊朗政府：我们已收到恢复与华盛顿谈判的消息，我们将在适当时候透露细节。",
-          "url": "https://wallstreetcn.com/livenews/2998129",
+          "title": "伊朗总统：伊朗将重建核设施 但不寻求制造核武器",
+          "url": "https://wallstreetcn.com/livenews/2998131",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            12,
-            18
+            10,
+            16,
+            23
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时46分]"
-        },
-        {
-          "title": "伊朗总统称将重建核设施",
-          "url": "https://news.ifeng.com/c/8nxK7re1nrp",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时24分 ~ 20时46分]"
+          "time_info": "[19时19分 ~ 21时30分]"
         },
         {
           "title": "市场消息：伊朗方面称其已收到恢复与华盛顿谈判的消息，将在适当的时候公布细节。",
@@ -343,18 +360,6 @@
           "time_info": "[17时23分 ~ 18时24分]"
         },
         {
-          "title": "伊朗总统：伊朗将重建核设施 但不寻求制造核武器",
-          "url": "https://wallstreetcn.com/livenews/2998131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时19分 ~ 20时46分]"
-        },
-        {
           "title": "伊朗总统：德黑兰将“以更强大的力量”重建其核设施。",
           "url": "https://flash.jin10.com/detail/20251102160948763800",
           "source": "金十数据",
@@ -371,22 +376,35 @@
           "url": "https://flash.jin10.com/detail/20251102193928484800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时30分]"
         },
         {
           "title": "伊朗政府发言人：收到了与美国会谈的邀请",
           "url": "https://flash.jin10.com/detail/20251102193411282800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时46分 ~ 21时30分]"
+        },
+        {
+          "title": "伊朗已做好应对以色列再次袭击的准备",
+          "url": "https://www.toutiao.com/trending/7567289908600143926/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时29分 ~ 21时30分]"
         },
         {
           "title": "伊朗总统：伊朗将重建核设施",
@@ -395,7 +413,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时46分"
         }
@@ -442,8 +460,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时29分 ~ 20时46分]"
+          "appearance_count": 14,
+          "time_info": "[12时29分 ~ 21时30分]"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
