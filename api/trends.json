@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T14:40:18.781223+08:00",
-  "total_titles_processed": 969,
+  "generated_at": "2025-11-03T15:26:34.361202+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -63,8 +63,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时28分 ~ 14时40分]"
+          "appearance_count": 18,
+          "time_info": "[00时28分 ~ 15时26分]"
         },
         {
           "title": "美媒爆料：叙利亚政权领导人将到访白宫，会晤特朗普",
@@ -158,6 +158,17 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "特朗普：中美可以通过合作变得更加强大",
+          "url": "https://news.ifeng.com/c/8nyo3aIzAVP",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
           "title": "核武专家都在猜 特朗普这话什么意思",
           "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
           "source": "百度热搜",
@@ -170,6 +181,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时04分 ~ 14时40分]"
+        },
+        {
+          "title": "全世界静待美国最高法怎么判，特朗普又改口说“不去了”",
+          "url": "https://news.ifeng.com/c/8nyjSz2usjQ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
+        },
+        {
+          "title": "特朗普对委内瑞拉“动手”有三个目标，但都和毒品无关",
+          "url": "https://news.ifeng.com/c/8nyd0LY05uS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -233,6 +266,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时04分 ~ 11时53分]"
+        },
+        {
+          "title": "特朗普拒绝重启与加拿大的贸易谈判",
+          "url": "https://www.toutiao.com/trending/7567532659673727026/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 15时26分]"
         },
         {
           "title": "美国总统特朗普：我认为委内瑞拉总统马杜罗的日子已经屈指可数了。",
@@ -307,7 +352,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -321,17 +366,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时04分"
-        },
-        {
-          "title": "特朗普拒绝重启与加拿大的贸易谈判",
-          "url": "https://www.toutiao.com/trending/7567532659673727026/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
         },
         {
           "title": "特朗普称，他对币安赵长鹏获赦免一事并不了解。 特朗普表示，他不知道赵长鹏是谁；他百分百支持加密货币行业。",
@@ -373,7 +407,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -434,7 +468,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
         },
@@ -472,6 +506,20 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
+          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
+          "url": "https://www.cls.cn/detail/2189006",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 15时26分]"
+        },
+        {
           "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
           "url": "https://flash.jin10.com/detail/20251103070259111800",
           "source": "金十数据",
@@ -492,20 +540,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 14时40分]"
         }
       ]
     },
@@ -553,7 +587,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金价",
@@ -567,6 +601,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时04分 ~ 13时29分]"
+        },
+        {
+          "title": "金十图示：2025年11月03日（周一）上海金午盘价为919.45元/克，较国际金价(919.53元/克)，低0.08元/克",
+          "url": "https://flash.jin10.com/detail/20251103150150080800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时26分"
         }
       ]
     }
