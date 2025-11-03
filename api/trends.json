@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T22:27:07.786135+08:00",
-  "total_titles_processed": 1668,
+  "generated_at": "2025-11-03T23:27:53.786757+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时43分 ~ 22时27分]"
+          "appearance_count": 11,
+          "time_info": "[16时43分 ~ 23时27分]"
         },
         {
           "title": "美国政府关门时长逼近历史记录，特朗普误判民主党决心，“关键时刻”到来！",
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时27分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时27分]"
         },
         {
           "title": "特朗普：和中国合作能让我们更强大",
@@ -70,11 +70,12 @@
           "ranks": [
             29,
             1,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时27分]"
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时27分]"
         },
         {
           "title": "特朗普：道歉没用，不谈！",
@@ -111,6 +112,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时23分]"
+        },
+        {
+          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
+          "url": "https://www.cls.cn/detail/2189459",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时31分 ~ 23时27分]"
         },
         {
           "title": "特朗普威胁对尼日利亚动武",
@@ -174,20 +190,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时26分 ~ 20时54分]"
-        },
-        {
-          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
-          "url": "https://www.cls.cn/detail/2189459",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 22时27分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -266,6 +268,30 @@
           "time_info": "18时32分"
         },
         {
+          "title": "美国众议长约翰逊：已经在上周末与总统特朗普讨论过和食品补贴相关的SNAP。",
+          "url": "https://wallstreetcn.com/livenews/2998654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            15,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 23时27分]"
+        },
+        {
           "title": "核武专家都在猜 特朗普这话什么意思",
           "url": "https://www.baidu.com/s?wd=%E6%A0%B8%E6%AD%A6%E4%B8%93%E5%AE%B6%E9%83%BD%E5%9C%A8%E7%8C%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E8%AF%9D%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D",
           "source": "百度热搜",
@@ -281,16 +307,16 @@
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1",
-          "source": "百度热搜",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE70%25E5%2588%2586%25E9%2592%259F%25E9%2587%2587%25E8%25AE%25BF%25E6%258F%2590%25E5%258F%258A%25E4%25B8%25AD%25E5%259B%25BD41%25E6%25AC%25A1%2523%26realpos%3D16%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D16%26pos%3D17%26display_time%3D1762176861%26pre_seqid%3D17621768614910339557613&launchid=10000360-page_H5",
+          "source": "微博",
           "ranks": [
-            25,
-            15,
-            12
+            16,
+            14,
+            19
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[20时54分 ~ 22时27分]"
+          "time_info": "[21时35分 ~ 23时27分]"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -332,18 +358,6 @@
           "time_info": "[20时54分 ~ 22时27分]"
         },
         {
-          "title": "特朗普70分钟采访提及中国41次",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE70%25E5%2588%2586%25E9%2592%259F%25E9%2587%2587%25E8%25AE%25BF%25E6%258F%2590%25E5%258F%258A%25E4%25B8%25AD%25E5%259B%25BD41%25E6%25AC%25A1%2523%26realpos%3D16%26cate%3D5001%26flag%3D1%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D16%26pos%3D17%26display_time%3D1762176861%26pre_seqid%3D17621768614910339557613&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时35分 ~ 22时27分]"
-        },
-        {
           "title": "特朗普的三角外交玩不转了吗",
           "url": "https://www.toutiao.com/trending/7568318449886170651/",
           "source": "今日头条",
@@ -381,6 +395,18 @@
           "time_info": "[04时26分 ~ 07时23分]"
         },
         {
+          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时27分]"
+        },
+        {
           "title": "特朗普称美将干预内塔尼亚胡受审",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
           "source": "百度热搜",
@@ -403,6 +429,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时22分 ~ 20时54分]"
+        },
+        {
+          "title": "多家能源巨头CEO警告：特朗普对俄制裁将冲击石油供应",
+          "url": "https://wallstreetcn.com/livenews/2998615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时27分]"
         },
         {
           "title": "奥巴马怼特朗普政府“无法无天”",
@@ -428,17 +466,6 @@
           "time_info": "[21时35分 ~ 21时36分]"
         },
         {
-          "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31880772",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
-        },
-        {
           "title": "特朗普拒绝重启与加拿大的贸易谈判",
           "url": "https://www.toutiao.com/trending/7567532659673727026/",
           "source": "今日头条",
@@ -449,17 +476,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时40分 ~ 15时26分]"
-        },
-        {
-          "title": "多家能源巨头CEO警告：特朗普对俄制裁将冲击石油供应",
-          "url": "https://wallstreetcn.com/livenews/2998615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         },
         {
           "title": "据Tradeweb数据，在美国总统特朗普威胁采取军事行动后，尼日利亚主权债券下跌多达0.5美分。",
@@ -619,7 +635,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
@@ -638,6 +654,18 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
+          "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价回落，比特币跌近3%",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时26分 ~ 23时27分]"
+        },
+        {
           "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价走高，比特币跌超3%",
           "url": "https://wallstreetcn.com/articles/3758543",
           "source": "华尔街见闻",
@@ -647,17 +675,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时54分 ~ 21时36分]"
-        },
-        {
-          "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价回落，比特币跌近3%",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
@@ -696,17 +713,6 @@
           "time_info": "07时23分"
         },
         {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2998617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "Iren美股盘前涨超14%，报道称微软与澳大利亚的Iren签署97亿美元的AI云协议。",
           "url": "https://wallstreetcn.com/livenews/2998551",
           "source": "华尔街见闻-快讯",
@@ -718,6 +724,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时22分 ~ 21时36分]"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2998617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时27分]"
         },
         {
           "title": "北美地区冬令时 美股延至22:30开盘",
@@ -797,9 +815,64 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
+        },
+        {
+          "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
+          "url": "https://wallstreetcn.com/livenews/2998634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "Iren美股盘初上涨25%，有望创2024年以来最佳单日表现。",
+          "url": "https://wallstreetcn.com/livenews/2998631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "道指美股盘初转跌。",
+          "url": "https://wallstreetcn.com/livenews/2998629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "Kimberly-Clark Corp.（KMB）美股盘初下跌13%，创2008年以来最差盘中表现。",
+          "url": "https://wallstreetcn.com/livenews/2998636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "亚马逊美股盘初涨5.2%，英伟达涨3%。",
+          "url": "https://wallstreetcn.com/livenews/2998633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "英伟达(NVDA.O)美股盘前小幅走高，现涨2.12%。",
@@ -825,7 +898,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -834,11 +907,12 @@
           "url": "https://wallstreetcn.com/livenews/2998620",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时27分]"
         },
         {
           "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
@@ -883,7 +957,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -894,7 +968,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -905,7 +979,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -916,7 +990,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -927,7 +1001,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
@@ -956,8 +1030,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时35分 ~ 22时27分]"
+          "appearance_count": 5,
+          "time_info": "[21时35分 ~ 23时27分]"
         },
         {
           "title": "伊朗明年将启用首座核能海水淡化厂",
@@ -1075,7 +1149,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1149,6 +1223,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时54分 ~ 23时27分]"
+        },
+        {
           "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
           "url": "https://flash.jin10.com/detail/20251103162225875800",
           "source": "金十数据",
@@ -1158,18 +1245,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时44分"
-        },
-        {
-          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时54分 ~ 22时27分]"
         },
         {
           "title": "黄金税收新规出台后，招行实体金条价格已含税",
@@ -1182,6 +1257,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 18时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国ISM制造业指数不及预期，美元指数DXY小幅走低，现报99.86。",
+          "url": "https://flash.jin10.com/detail/20251103230328996800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     }
