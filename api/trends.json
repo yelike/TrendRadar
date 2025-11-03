@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T19:22:40.529711+08:00",
-  "total_titles_processed": 1427,
+  "generated_at": "2025-11-03T20:54:49.559456+08:00",
+  "total_titles_processed": 1532,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普下令“战争部”做好准备",
@@ -53,6 +53,17 @@
           "time_info": "[10时04分 ~ 14时40分]"
         },
         {
+          "title": "特朗普称中方秘密测试核武器，外交部回应",
+          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 20时54分]"
+        },
+        {
           "title": "特朗普下令战争部做好准备：可能对尼日利亚动武",
           "url": "https://m.thepaper.cn/newsDetail_forward_31878970",
           "source": "澎湃新闻",
@@ -76,17 +87,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时28分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普称中方秘密测试核武器，外交部回应",
-          "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 19时22分]"
         },
         {
           "title": "特朗普威胁对尼日利亚动武",
@@ -148,8 +148,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时26分 ~ 19时22分]"
+          "appearance_count": 7,
+          "time_info": "[15时26分 ~ 20时54分]"
+        },
+        {
+          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
+          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时54分]"
         },
         {
           "title": "特朗普拒绝重启与加拿大的任何贸易谈判",
@@ -178,15 +189,17 @@
           "time_info": "[15时26分 ~ 16时44分]"
         },
         {
-          "title": "距离史上最长“停摆”纪录只差1天，特朗普回应",
-          "url": "https://news.ifeng.com/c/8nyxD7T9Bvw",
-          "source": "凤凰网",
+          "title": "特朗普：和中国合作能让我们更强大",
+          "url": "https://www.toutiao.com/trending/7567809473297809450/",
+          "source": "今日头条",
           "ranks": [
-            3
+            29,
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时22分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时54分]"
         },
         {
           "title": "美国财长贝森特：特朗普还没有对加拿大征收10%的关税。",
@@ -217,6 +230,17 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://www.toutiao.com/trending/7567997679352250410/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "菲律宾与阿联酋申请加入TPP以应对特朗普关税政策",
           "url": "https://flash.jin10.com/detail/20251103181946624800",
           "source": "金十数据",
@@ -242,16 +266,15 @@
           "time_info": "[10时04分 ~ 14时40分]"
         },
         {
-          "title": "特朗普：和中国合作能让我们更强大",
-          "url": "https://www.toutiao.com/trending/7567809473297809450/",
-          "source": "今日头条",
+          "title": "尼日利亚资产大幅走低 特朗普称有可能在尼日利亚部署地面部队或发动空袭",
+          "url": "https://wallstreetcn.com/livenews/2998585",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29,
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美媒：美国民主党参议员敦促特朗普直接参与结束政府关门的谈判",
@@ -280,6 +303,20 @@
           "time_info": "[05时21分 ~ 07时23分]"
         },
         {
+          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
+          "url": "https://www.cls.cn/detail/2189459",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时54分]"
+        },
+        {
           "title": "特朗普的三角外交玩不转了吗",
           "url": "https://www.toutiao.com/trending/7568318449886170651/",
           "source": "今日头条",
@@ -305,19 +342,6 @@
           "time_info": "[04时26分 ~ 07时23分]"
         },
         {
-          "title": "特朗普称中方“正在秘密测试核武器”，外交部回应",
-          "url": "https://www.cls.cn/detail/2189459",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时22分]"
-        },
-        {
           "title": "特朗普称美将干预内塔尼亚胡受审",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%B0%86%E5%B9%B2%E9%A2%84%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%8F%97%E5%AE%A1",
           "source": "百度热搜",
@@ -328,6 +352,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时40分 ~ 16时44分]"
+        },
+        {
+          "title": "特朗普拒答是否会打击委内瑞拉",
+          "url": "https://wallstreetcn.com/livenews/2998540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时54分]"
         },
         {
           "title": "奥巴马怼特朗普政府“无法无天”",
@@ -352,17 +388,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时40分 ~ 15时26分]"
-        },
-        {
-          "title": "特朗普拒答是否会打击委内瑞拉",
-          "url": "https://wallstreetcn.com/livenews/2998540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
         },
         {
           "title": "据Tradeweb数据，在美国总统特朗普威胁采取军事行动后，尼日利亚主权债券下跌多达0.5美分。",
@@ -475,13 +500,24 @@
           "time_info": "10时04分"
         },
         {
+          "title": "特朗普70分钟采访提及中国41次",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-11-03）",
           "url": "https://flash.jin10.com/detail/20251103183554238800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -522,7 +558,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
@@ -555,17 +591,6 @@
           "time_info": "[11时53分 ~ 15时26分]"
         },
         {
-          "title": "Iren美股盘前涨超14%，报道称微软与澳大利亚的Iren签署97亿美元的AI云协议。",
-          "url": "https://wallstreetcn.com/livenews/2998551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        },
-        {
           "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
           "url": "https://flash.jin10.com/detail/20251103070259111800",
           "source": "金十数据",
@@ -586,6 +611,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价走高，比特币跌超3%",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "Iren美股盘前涨超14%，报道称微软与澳大利亚的Iren签署97亿美元的AI云协议。",
+          "url": "https://wallstreetcn.com/livenews/2998551",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时54分]"
         },
         {
           "title": "美光科技美股盘前涨超4%。报道称DDR5现货价格飙升25%，三星暂停DDR5合约价报价。",
@@ -617,15 +665,59 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "BioNTech三季度营收15.2亿欧元，预估7.843亿欧元。 三季度每股亏损0.12欧元，预估每股亏损0.96欧元。 BioNTech预计全财年营收26-28亿欧元，此前预计17-22亿欧元。 BioNTech预计全财年资本支出2-2.5亿欧元，此前预计2.5-3.5亿欧元。 BioNTech美股盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/2998564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "kenvue美股盘前涨超29%，报道称金佰利将收购kenvue",
+          "url": "https://wallstreetcn.com/livenews/2998563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "Iren美股盘前大涨近30%，戴尔科技涨超5%，报道称微软与Iren签署97亿美元的AI云协议",
+          "url": "https://wallstreetcn.com/livenews/2998560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
+          "title": "英伟达(NVDA.O)美股盘前小幅走高，现涨2.12%。",
+          "url": "https://flash.jin10.com/detail/20251103200846813800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "伊朗总统称将重建核设施",
@@ -679,9 +771,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
+        },
+        {
+          "title": "想与伊朗合作？哈梅内伊向美开出三大条件",
+          "url": "https://wallstreetcn.com/livenews/2998568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "美国内政部长：伊朗不能拥有核武器。",
@@ -803,7 +906,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
@@ -827,6 +930,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 18时32分]"
+        },
+        {
+          "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         }
       ]
     },
