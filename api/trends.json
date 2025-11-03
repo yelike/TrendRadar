@@ -1,376 +1,61 @@
 {
-  "generated_at": "2025-11-03T23:27:21.909715+08:00",
-  "total_titles_processed": 1773,
+  "generated_at": "2025-11-04T00:29:46.627484+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "95 岁巴菲特年底将卸任，伯克希尔现金储备 3817 亿美元再创新高，美股高位背景下，传递出怎样的市场信号？",
-          "url": "https://www.zhihu.com/question/1968075475093034371",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12,
-            10,
-            9,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时21分]"
-        },
-        {
-          "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价回落，比特币跌近3%",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时25分 ~ 23时27分]"
-        },
-        {
-          "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价走高，比特币跌超3%",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时54分 ~ 21时36分]"
-        },
-        {
-          "title": "美光科技美股盘前涨超4%。",
-          "url": "https://wallstreetcn.com/livenews/2998506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "美股三大股指期货周一开盘走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
-          "url": "https://flash.jin10.com/detail/20251103070259111800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "亚市盘初，现货黄金、现货白银小幅低开。 WTI开盘上涨0.6%，此前彭博报道，OPEC+将在明年一季度暂停增产石油。 美股三大股指期货开盘小幅走高，道指期货0.11涨%、标普500指数期货涨0.15%，纳指期货涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/2998191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
-          "url": "https://www.cls.cn/detail/2189006",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时25分 ~ 15时26分]"
-        },
-        {
-          "title": "Iren美股盘前涨超14%，报道称微软与澳大利亚的Iren签署97亿美元的AI云协议。",
-          "url": "https://wallstreetcn.com/livenews/2998551",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时29分 ~ 21时36分]"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2998617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时26分 ~ 23时27分]"
-        },
-        {
-          "title": "北美地区冬令时 美股延至22:30开盘",
-          "url": "https://flash.jin10.com/detail/20251103160624228800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 22时26分]"
-        },
-        {
-          "title": "BioNTech三季度营收15.2亿欧元，预估7.843亿欧元。 三季度每股亏损0.12欧元，预估每股亏损0.96欧元。 BioNTech预计全财年营收26-28亿欧元，此前预计17-22亿欧元。 BioNTech预计全财年资本支出2-2.5亿欧元，此前预计2.5-3.5亿欧元。 BioNTech美股盘前涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/2998564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时36分]"
-        },
-        {
-          "title": "美光科技美股盘前涨超4%。报道称DDR5现货价格飙升25%，三星暂停DDR5合约价报价。",
-          "url": "https://wallstreetcn.com/livenews/2998506",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时29分]"
-        },
-        {
-          "title": "kenvue美股盘前涨超29%，报道称金佰利将收购kenvue",
-          "url": "https://wallstreetcn.com/livenews/2998563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时36分]"
-        },
-        {
-          "title": "Iren美股盘前大涨近30%，戴尔科技涨超5%，报道称微软与Iren签署97亿美元的AI云协议",
-          "url": "https://wallstreetcn.com/livenews/2998560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时54分 ~ 21时36分]"
-        },
-        {
-          "title": "全球股市11月开门红，美股期货延续涨势，伦铝将创逾三年来最高收盘价，油价走高，比特币跌近3%",
-          "url": "https://wallstreetcn.com/articles/3758543",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-11-03）",
-          "url": "https://flash.jin10.com/detail/20251103214246698800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
         {
           "title": "美股行业ETF盘初涨跌各异，全球科技股指数ETF涨1.39%，半导体ETF与可选消费ETF涨超1%，网络股指数ETF与科技行业ETF涨约0.8%，银行业ETF则跌1.41%，区域银行ETF跌1.45%。",
           "url": "https://wallstreetcn.com/livenews/2998634",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时27分"
+          "time_info": "00时29分"
         },
         {
           "title": "Iren美股盘初上涨25%，有望创2024年以来最佳单日表现。",
           "url": "https://wallstreetcn.com/livenews/2998631",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时27分"
+          "time_info": "00时29分"
         },
         {
           "title": "道指美股盘初转跌。",
           "url": "https://wallstreetcn.com/livenews/2998629",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "Kimberly-Clark Corp.（KMB）美股盘初下跌13%，创2008年以来最差盘中表现。",
-          "url": "https://wallstreetcn.com/livenews/2998636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "亚马逊美股盘初涨5.2%，英伟达涨3%。",
-          "url": "https://wallstreetcn.com/livenews/2998633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        },
-        {
-          "title": "英伟达(NVDA.O)美股盘前小幅走高，现涨2.12%。",
-          "url": "https://flash.jin10.com/detail/20251103200846813800",
-          "source": "金十数据",
-          "ranks": [
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌母公司Alphabet启动分八部分美元债券发行。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2998596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 22时26分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
-          "url": "https://wallstreetcn.com/livenews/2998517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时30分 ~ 19时29分]"
-        },
-        {
-          "title": "报道：谷歌母公司Alphabet寻求通过美元债发行筹集150亿美元",
-          "url": "https://wallstreetcn.com/livenews/2998610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时26分"
-        },
-        {
-          "title": "谷歌母公司Alphabet(GOOG.O)启动八部分美元债券发行。",
-          "url": "https://flash.jin10.com/detail/20251103205814111800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时36分"
+          "time_info": "00时29分"
         }
       ]
     },
     {
       "keyword_group": "黄金",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "黄金税收新规出台后，工行、建行暂停受理提取实体金条，招行金条价格已含税",
           "url": "https://m.thepaper.cn/newsDetail_forward_31881405",
           "source": "澎湃新闻",
           "ranks": [
-            10,
-            8,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时54分 ~ 23时27分]"
-        },
-        {
-          "title": "土耳其中央银行以传统方式（多重价格招标）启动3吨黄金的1周期“黄金换里拉”卖方掉期拍卖。",
-          "url": "https://flash.jin10.com/detail/20251103162225875800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
-          "title": "黄金税收新规出台后，招行实体金条价格已含税",
-          "url": "https://wallstreetcn.com/livenews/2998489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时30分]"
-        },
-        {
-          "title": "瑞银：如果政治或金融市场波动再次加剧，黄金价格存在上行风险，可能升至4700美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251103181615614800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时30分"
+          "time_info": "00时29分"
         }
       ]
     }
