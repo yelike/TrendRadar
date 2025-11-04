@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-04T22:30:34.073691+08:00",
-  "total_titles_processed": 1996,
+  "generated_at": "2025-11-04T23:29:27.076062+08:00",
+  "total_titles_processed": 2075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 55,
       "titles": [
+        {
+          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
+          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时30分 ~ 23时29分]"
+        },
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
           "url": "https://news.ifeng.com/c/8nyu6nRPtUJ",
@@ -40,18 +52,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
-          "url": "https://news.ifeng.com/c/8o0cBvF0n9M",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时30分 ~ 22时30分]"
         },
         {
           "title": "“中美处得挺好”，特朗普：与其一味打压不如与中方合作",
@@ -221,11 +221,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            4
+            4,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时39分 ~ 22时30分]"
+          "appearance_count": 4,
+          "time_info": "[21时39分 ~ 23时29分]"
         },
         {
           "title": "美国总统特朗普的政府官员们表示，将对“补充营养援助计划”（SNAP）提供局部资金。 特朗普的司法部称，11月份将可以获得50%的食品救济资金。 此前，特朗普政府因为联邦政府关门期间的SNAP资金问题而败诉。",
@@ -259,6 +260,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
+        },
+        {
+          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时58分 ~ 23时29分]"
         },
         {
           "title": "周泳宏：特朗普想与中国和睦相处",
@@ -382,19 +396,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时32分 ~ 05时25分]"
-        },
-        {
-          "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时58分 ~ 22时30分]"
         },
         {
           "title": "中方回应特朗普威胁对尼日利亚动武",
@@ -521,7 +522,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -672,7 +673,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -682,8 +683,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时58分 ~ 22时30分]"
+          "appearance_count": 19,
+          "time_info": "[09时58分 ~ 23时29分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -707,17 +708,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "Metsera Inc.股票将在美东时间09:50（北京时间22:50，美股开盘后20分钟）恢复交易。 诺和诺德欧股目前跌0.81%，暂报312.75。 辉瑞制药美股盘前暂时跌1.09%。",
-          "url": "https://wallstreetcn.com/livenews/2999262",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时30分"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨4%，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -753,6 +743,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时58分 ~ 13时26分]"
+        },
+        {
+          "title": "Metsera Inc.股票将在美东时间09:50（北京时间22:50，美股开盘后20分钟）恢复交易。 诺和诺德欧股目前跌0.81%，暂报312.75。 辉瑞制药美股盘前暂时跌1.09%。",
+          "url": "https://wallstreetcn.com/livenews/2999262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 23时29分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股收盘）",
@@ -817,6 +819,18 @@
           "time_info": "[20时58分 ~ 22时30分]"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2999257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 23时29分]"
+        },
+        {
           "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
           "url": "https://wallstreetcn.com/livenews/2999122",
           "source": "华尔街见闻-快讯",
@@ -827,6 +841,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时31分 ~ 18时31分]"
+        },
+        {
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 23时29分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，美元兑日元涨0.13%，报154.19日元，日内交投区间为153.93-154.30日元，北京时间21:40刷新日高，美股盘初显著跳水，23:00刷新日低。",
@@ -877,28 +903,6 @@
           "time_info": "[17时31分 ~ 18时31分]"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2999257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时30分"
-        },
-        {
-          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2191076",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时30分"
-        },
-        {
           "title": "华尔街高管警示美股未来或显著回调 但健康调整属市场常态",
           "url": "https://flash.jin10.com/detail/20251104135328234800",
           "source": "金十数据",
@@ -943,6 +947,17 @@
           "time_info": "14时40分"
         },
         {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
+          "url": "https://wallstreetcn.com/livenews/2999272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251104013024718800",
           "source": "金十数据",
@@ -974,6 +989,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251104224011768800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊涨4%创收盘历史新高，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -1026,7 +1052,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时30分"
         },
@@ -1062,6 +1088,80 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时58分 ~ 16时36分]"
+        },
+        {
+          "title": "恒天然：11月4日全球乳品贸易（GDT）拍卖价格指数下降2.4%，奶粉各合同期FAS拍卖均价3,768美元/吨。 批发奶粉价格指数下降2.7%，报3,503美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/2999277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美元指数DXY突破100大关，为8月1日来首次。",
+          "url": "https://flash.jin10.com/detail/20251104091430231800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
+          "url": "https://wallstreetcn.com/livenews/2998742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美元指数DXY一度升破100整数关口，创三个月新高，隔夜ISM数据显示美国制造业活动连续第八个月萎缩，但12月降息前景仍迷雾重重，米兰力推降息的同时，古尔斯比、库克继续表达谨慎……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251104103250106800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时16分"
+        },
+        {
+          "title": "美元指数突破100大关，为8月1日来首次。",
+          "url": "https://wallstreetcn.com/livenews/2998858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
         }
       ]
     },
@@ -1125,69 +1225,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
-          "url": "https://www.cls.cn/detail/2190136",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时58分 ~ 16时36分]"
-        },
-        {
-          "title": "美元指数DXY突破100大关，为8月1日来首次。",
-          "url": "https://flash.jin10.com/detail/20251104091430231800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
-          "url": "https://wallstreetcn.com/livenews/2998742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美元指数DXY一度升破100整数关口，创三个月新高，隔夜ISM数据显示美国制造业活动连续第八个月萎缩，但12月降息前景仍迷雾重重，米兰力推降息的同时，古尔斯比、库克继续表达谨慎……后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251104103250106800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时16分"
-        },
-        {
-          "title": "美元指数突破100大关，为8月1日来首次。",
-          "url": "https://wallstreetcn.com/livenews/2998858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
         }
       ]
     },
