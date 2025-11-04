@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T07:25:46.103274+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2025-11-04T09:59:02.569351+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普称中方秘密测试核武器，外交部回应",
@@ -42,19 +42,6 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
-          "title": "特朗普：大型台企将生产线向美国转移",
-          "url": "https://www.toutiao.com/trending/7567605280260292627/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
           "title": "“中美处得挺好”，特朗普：与其一味打压不如与中方合作",
           "url": "https://m.thepaper.cn/newsDetail_forward_31882601",
           "source": "澎湃新闻",
@@ -63,6 +50,20 @@
             16,
             8,
             6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时59分]"
+        },
+        {
+          "title": "特朗普：大型台企将生产线向美国转移",
+          "url": "https://www.toutiao.com/trending/7567605280260292627/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            1,
             4
           ],
           "is_new": false,
@@ -77,11 +78,12 @@
             12,
             13,
             16,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时59分]"
         },
         {
           "title": "特朗普称中方正秘密测试核武，外交部驳斥：恪守暂停核试验承诺",
@@ -89,11 +91,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时25分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时59分]"
         },
         {
           "title": "特朗普70分钟采访提及中国41次",
@@ -233,6 +236,17 @@
           "time_info": "[00时32分 ~ 05时25分]"
         },
         {
+          "title": "美稀土磁体初创公司与特朗普政府敲定14亿美元交易",
+          "url": "https://www.cls.cn/detail/2190068",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
           "title": "加拿大央行行长Tiff Macklem：美国民众在极大程度承担了（总统特朗普挑起的）关税成本。",
           "url": "https://wallstreetcn.com/livenews/2998714",
           "source": "华尔街见闻-快讯",
@@ -299,7 +313,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -340,8 +354,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
+        {
+          "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
+          "url": "https://wallstreetcn.com/articles/3758543",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
           "url": "https://wallstreetcn.com/articles/3758543",
@@ -349,7 +374,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
         },
@@ -363,6 +388,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
+          "url": "https://www.cls.cn/detail/2190089",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 09时59分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）热门中概股行情一览（美股收盘）",
@@ -401,6 +438,17 @@
           "time_info": "[05时25分 ~ 06时26分]"
         },
         {
+          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2189932",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
           "title": "周一（11月3日）纽约尾盘，美元兑日元涨0.13%，报154.19日元，日内交投区间为153.93-154.30日元，北京时间21:40刷新日高，美股盘初显著跳水，23:00刷新日低。",
           "url": "https://wallstreetcn.com/livenews/2998745",
           "source": "华尔街见闻-快讯",
@@ -423,17 +471,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
-          "url": "https://www.cls.cn/detail/2190089",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时25分"
         },
         {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股盘中）",
@@ -526,6 +563,56 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "美元指数四连阳 币圈再现黑客袭击以太坊跳水8% | 环球市场",
+          "url": "https://www.cls.cn/detail/2190136",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
+        },
+        {
+          "title": "美元指数DXY突破100大关，为8月1日来首次。",
+          "url": "https://flash.jin10.com/detail/20251104091430231800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
+          "url": "https://wallstreetcn.com/livenews/2998742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美元指数突破100大关，为8月1日来首次。",
+          "url": "https://wallstreetcn.com/livenews/2998858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -560,9 +647,40 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时25分 ~ 09时59分]"
+        },
+        {
+          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
+          "url": "https://www.cls.cn/detail/2190043",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 09时59分]"
         }
       ]
     },
@@ -625,25 +743,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时25分 ~ 07时25分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -676,25 +775,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周一（11月3日）纽约尾盘，ICE美元指数涨0.07%，报99.872点，日内交投区间为99.708-99.988点。 彭博美元指数涨0.03%，报1221.25点，日内交投区间为1219.75-1222.54点。",
-          "url": "https://wallstreetcn.com/livenews/2998742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时59分]"
         }
       ]
     }
