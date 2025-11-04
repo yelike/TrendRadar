@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T15:25:34.750310+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2025-11-04T16:35:05.446984+08:00",
+  "total_titles_processed": 1453,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[09时55分 ~ 16时35分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时30分 ~ 15时25分]"
+          "appearance_count": 12,
+          "time_info": "[07时30分 ~ 16时35分]"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -323,7 +323,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -361,8 +361,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 15时25分]"
+          "appearance_count": 21,
+          "time_info": "[00时29分 ~ 16时35分]"
         }
       ]
     }
