@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T14:39:13.194873+08:00",
-  "total_titles_processed": 1266,
+  "generated_at": "2025-11-04T15:25:34.750310+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时55分 ~ 14时39分]"
+          "appearance_count": 9,
+          "time_info": "[09时55分 ~ 15时25分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时30分 ~ 14时39分]"
+          "appearance_count": 10,
+          "time_info": "[07时30分 ~ 15时25分]"
         },
         {
           "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
@@ -132,7 +132,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -143,7 +143,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -165,7 +165,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时39分"
         },
@@ -291,7 +291,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "30年期美债收益率涨约3.7个基点",
@@ -315,6 +315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "荷兰国际：美债收益率曲线仍过于平坦",
+          "url": "https://flash.jin10.com/detail/20251104144102291800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         }
       ]
     },
@@ -350,8 +361,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时29分 ~ 14时39分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 15时25分]"
         }
       ]
     }
