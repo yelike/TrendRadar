@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T02:36:19.644821+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2025-11-05T03:22:15.556141+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -51,7 +51,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
         }
@@ -70,19 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时36分]"
-        },
-        {
-          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251105013105408800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时36分"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时22分]"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
@@ -93,8 +82,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时30分 ~ 02时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 03时22分]"
+        },
+        {
+          "title": "金十图示：2025年11月04日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251105013105408800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时36分 ~ 03时22分]"
         },
         {
           "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
