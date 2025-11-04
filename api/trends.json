@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T12:30:48.417381+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2025-11-04T13:25:16.067864+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时30分]"
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 13时25分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -27,8 +27,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 12时30分]"
+          "appearance_count": 7,
+          "time_info": "[07时30分 ~ 13时25分]"
+        },
+        {
+          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2189932",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 13时25分]"
         },
         {
           "title": "算力协议力撑科技股，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -63,18 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "美股期指涨跌不一 IREN盘前大涨超21% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2189932",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时55分 ~ 12时30分]"
         },
         {
           "title": "金十图示：2025年11月03日（周一）美股热门股票行情一览（美股收盘）",
@@ -295,7 +296,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         }
@@ -316,8 +317,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 12时30分]"
+          "appearance_count": 16,
+          "time_info": "[00时29分 ~ 13时25分]"
         }
       ]
     }
