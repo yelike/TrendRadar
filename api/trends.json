@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T21:38:58.528943+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2025-11-04T22:26:40.137226+08:00",
+  "total_titles_processed": 1991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 29,
+      "match_count": 33,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时55分 ~ 21时38分]"
+          "appearance_count": 17,
+          "time_info": "[09时55分 ~ 22时26分]"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
@@ -53,6 +53,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "Metsera Inc.股票将在美东时间09:50（北京时间22:50，美股开盘后20分钟）恢复交易。 诺和诺德欧股目前跌0.81%，暂报312.75。 辉瑞制药美股盘前暂时跌1.09%。",
+          "url": "https://wallstreetcn.com/livenews/2999262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "美股七巨头收盘播报｜亚马逊收涨4%，特斯拉和英伟达涨超2%，Meta则跌超2%",
@@ -113,6 +124,32 @@
           "time_info": "[05时23分 ~ 06时24分]"
         },
         {
+          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/2999213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 22时26分]"
+        },
+        {
+          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/2999210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 22时26分]"
+        },
+        {
           "title": "美股盘前，Palantir跌约6%，公司此前公布了三季度财报； 半导体股普跌，英特尔跌约2%，台积电跌约1%，英伟达跌约1%。 中概股多数下跌，阿里巴巴跌约2%，蔚来跌约2%。",
           "url": "https://wallstreetcn.com/livenews/2999122",
           "source": "华尔街见闻-快讯",
@@ -123,30 +160,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时30分 ~ 18时29分]"
-        },
-        {
-          "title": "Shopify第三季度营收28.4亿美元，预估27.6亿美元。 三季度营业利润3.43亿美元，预估3.114亿美元。 三季度每股收益0.2美元。 Shopify美股盘前跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/2999213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时38分]"
-        },
-        {
-          "title": "优步三季度营收134.7亿美元，预估132.6亿美元。 三季度每股收益3.11美元。 三季度调整后税息折旧及摊销前利润22.6亿美元，预期22.7亿美元。 三季度总预订额497.4亿美元，预估489.6亿美元。 优步预计第四季度调整后税息折旧及摊销前利润将在24.1亿至25.1亿美元之间，市场预估24.9亿美元。 优步预计第四季度总预订额将在522.5亿至537.5亿美元之间，市场预估523.3亿美元。 优步美股盘前一度跌近5%。",
-          "url": "https://wallstreetcn.com/livenews/2999210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 21时38分]"
         },
         {
           "title": "周一（11月3日）纽约尾盘，美元兑日元涨0.13%，报154.19日元，日内交投区间为153.93-154.30日元，北京时间21:40刷新日高，美股盘初显著跳水，23:00刷新日低。",
@@ -183,6 +196,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时30分 ~ 18时29分]"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2999257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
+          "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2191076",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
         },
         {
           "title": "华尔街高管警示美股未来或显著回调 但健康调整属市场常态",
@@ -317,6 +352,17 @@
           "time_info": "00时29分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-04）",
+          "url": "https://flash.jin10.com/detail/20251104214109676800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时26分"
+        },
+        {
           "title": "Iren美股盘初上涨25%，有望创2024年以来最佳单日表现。",
           "url": "https://wallstreetcn.com/livenews/2998631",
           "source": "华尔街见闻-快讯",
@@ -386,7 +432,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -397,7 +443,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         }
@@ -407,6 +453,18 @@
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
+        {
+          "title": "摩根大通美债客户调查显示净多头占比升至9月29日以来最高",
+          "url": "https://wallstreetcn.com/livenews/2999233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 22时26分]"
+        },
         {
           "title": "30年期美债收益率涨约3.7个基点",
           "url": "https://wallstreetcn.com/livenews/2998743",
@@ -418,17 +476,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "摩根大通美债客户调查显示净多头占比升至9月29日以来最高",
-          "url": "https://wallstreetcn.com/livenews/2999233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时38分"
         },
         {
           "title": "美国国债价格跌幅扩大，10年期美债收益率则涨约4个基点至4.1202%——突破上周顶部，逼近10月10日盘中最高位4.1384%。 日线图上，10年期美债收益率5月22日达到4.6247%以来，持续震荡下行。",
