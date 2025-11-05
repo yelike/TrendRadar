@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T13:27:32.554659+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-11-05T14:38:19.046823+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 14时38分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时23分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[07时23分 ~ 14时38分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -62,11 +62,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 14时38分]"
         },
         {
           "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
@@ -78,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时17分 ~ 13时27分]"
+          "appearance_count": 5,
+          "time_info": "[11时17分 ~ 14时38分]"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -310,8 +311,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时55分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时55分 ~ 14时38分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
