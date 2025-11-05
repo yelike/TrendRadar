@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T11:18:51.729978+08:00",
-  "total_titles_processed": 961,
+  "generated_at": "2025-11-05T12:30:57.793673+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,18 @@
           "time_info": "[00时32分 ~ 07时25分]"
         },
         {
+          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
+          "source": "澎湃新闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时30分]"
+        },
+        {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
           "url": "https://news.ifeng.com/c/8o11vuaIumr",
           "source": "凤凰网",
@@ -44,17 +56,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时00分 ~ 11时18分]"
-        },
-        {
-          "title": "从伊拉克战争幕后推手到特朗普批评者，美国“影子总统”切尼逝世",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31894185",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         },
         {
           "title": "匈牙利外交部长Peter Szijjarto：匈牙利计划与美国加强核合作。 总理Viktor Orban将于周五会见美国总统特朗普，匈牙利计划届时提高这方面的合作水平。",
@@ -193,6 +194,18 @@
           "time_info": "[03时21分 ~ 04时30分]"
         },
         {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 12时30分]"
+        },
+        {
           "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
           "url": "https://flash.jin10.com/detail/20251105030214488800",
           "source": "金十数据",
@@ -215,18 +228,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时22分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 11时18分]"
         },
         {
           "title": "白宫：（谈美印关系）贸易团队仍在进行认真磋商。特朗普与印度总理莫迪经常通话。",
@@ -330,7 +331,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -396,7 +397,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -418,7 +419,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -459,7 +460,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -495,8 +496,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 11时18分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时30分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -507,19 +508,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 11时18分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时30分]"
         },
         {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
           "url": "https://www.zhihu.com/question/1969182296755122552",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时30分]"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -556,6 +558,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时26分]"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时30分]"
         },
         {
           "title": "费城金银指数收跌4.51%，报265.03点，跳空低开之后，大部分时间低位震荡。 纽约证交所ARCA金矿开采商指数收跌3.98%，报1926.21点；北京时间22:30美股开盘之前维持微幅下跌状态，主要持稳于2000-1990点区间，之后跳空下挫，后续低位震荡。",
@@ -599,7 +613,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -621,7 +635,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -635,17 +649,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         },
         {
           "title": "戴尔科技美股盘后跌3.7%，投资者关注超微电脑业绩报告。",
@@ -698,9 +701,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "金十整理：美股“一夜变天”，华尔街对美股未来走势争论不休",
+          "url": "https://flash.jin10.com/detail/20251105113353093800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "行业ETF美股盘初普遍下跌，半导体ETF大跌2.32%，全球科技股指数ETF跌2.16%，科技行业ETF跌2.13%，网络股指数ETF跌1.76%，能源业ETF跌1.75%。",
@@ -787,8 +801,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 11时18分]"
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 12时30分]"
         },
         {
           "title": "据网络状况监测网站DownDetector：用户报告显示，截至美东时间上午11:51（北京时间00:51），美国有1650名用户遭遇谷歌服务中断。",
@@ -850,7 +864,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
@@ -937,11 +951,23 @@
           "url": "https://wallstreetcn.com/livenews/2999584",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时30分]"
+        },
+        {
+          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时18分 ~ 12时30分]"
         },
         {
           "title": "AMD：AI芯片的机会超过5000亿美元。 与OpenAI的协议是一个独一无二的结构。",
@@ -964,17 +990,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时00分"
-        },
-        {
-          "title": "OpenAI 被传禁止 ChatGPT 提供专业医疗法律金融建议后表示说法不实，这些建议应该被禁止吗？",
-          "url": "https://www.zhihu.com/question/1968690991750967598",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时18分"
         }
       ]
     },
