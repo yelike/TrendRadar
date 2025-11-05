@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T16:37:30.856886+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2025-11-05T17:29:59.077488+08:00",
+  "total_titles_processed": 1571,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 16时37分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 17时29分]"
+        },
+        {
+          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
+          "url": "https://wallstreetcn.com/articles/3758648",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时00分 ~ 17时29分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -45,19 +58,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时25分]"
-        },
-        {
-          "title": "最高法院周三见分晓，特朗普关税命运系于其亲手任命的三位大法官",
-          "url": "https://wallstreetcn.com/articles/3758648",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时00分 ~ 16时37分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -93,6 +93,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时38分]"
+        },
+        {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时25分 ~ 17时29分]"
         },
         {
           "title": "美国总统特朗普：只有当激进左翼民主党人重新开放政府时，才会发放SNAP福利。",
@@ -144,6 +157,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时38分]"
+        },
+        {
+          "title": "白宫降半旗悼念切尼 特朗普沉默",
+          "url": "https://www.toutiao.com/trending/7568870591252906035/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 17时29分]"
         },
         {
           "title": "美媒：特朗普政府考虑控制委内瑞拉油田",
@@ -216,18 +241,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时30分]"
-        },
-        {
-          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
-          "url": "https://wallstreetcn.com/articles/3758705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时25分 ~ 16时37分]"
         },
         {
           "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
@@ -482,17 +495,6 @@
           "time_info": "11时18分"
         },
         {
-          "title": "白宫降半旗悼念切尼 特朗普沉默",
-          "url": "https://www.toutiao.com/trending/7568870591252906035/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时37分"
-        },
-        {
           "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
           "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
           "source": "澎湃新闻",
@@ -529,7 +531,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 29,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -539,8 +541,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时25分 ~ 16时37分]"
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 17时29分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -565,6 +567,21 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时25分 ~ 14时40分]"
+        },
+        {
+          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
+          "url": "https://www.cls.cn/detail/2191349",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            6,
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 17时29分]"
         },
         {
           "title": "全球风险资产遭遇黑色星期二，美股全线大跌，黄金下破 3930 美元，比特币跌破 10.3 万美元，发生了什么？",
@@ -592,20 +609,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时32分 ~ 11时18分]"
-        },
-        {
-          "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
-          "url": "https://www.cls.cn/detail/2191349",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 16时37分]"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -723,6 +726,39 @@
           "time_info": "05时24分"
         },
         {
+          "title": "AMD(AMD.O)美股盘前跌超3%，公司三季度营收大超预期但指引不及市场预期激进；至少有一家券商下调了目标价。",
+          "url": "https://flash.jin10.com/detail/20251105170556716800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)美股盘前跌超8%，公司第一季度营收低于预期。",
+          "url": "https://flash.jin10.com/detail/20251105170437887800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
+          "title": "美股盘前，超微电脑跌约9%，公司第一财季净销售额不及预期。 诺和诺德涨约2%，公司此前公布了三季度财报。",
+          "url": "https://wallstreetcn.com/livenews/2999794",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
+        },
+        {
           "title": "戴尔科技美股盘后跌3.7%，投资者关注超微电脑业绩报告。",
           "url": "https://wallstreetcn.com/livenews/2999416",
           "source": "华尔街见闻-快讯",
@@ -740,7 +776,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时37分"
         },
@@ -1098,7 +1134,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美元指数突破100大关，为8月1日来首次",
@@ -1110,6 +1146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "汇市风向骤变！美元指数攻克100大关 有“大动静”正在酝酿？",
+          "url": "https://www.cls.cn/detail/2191412",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时29分"
         },
         {
           "title": "民生宏观：美元指数再破100 但升值周期未至",
