@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T20:52:58.106512+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2025-11-05T21:37:04.719569+08:00",
+  "total_titles_processed": 1918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时23分 ~ 20时52分]"
+          "appearance_count": 18,
+          "time_info": "[07时23分 ~ 21时37分]"
         },
         {
           "title": "美股收盘：“大空头”点燃估值忧虑 纳指跌超2%",
@@ -85,17 +85,6 @@
           "time_info": "[00时30分 ~ 11时17分]"
         },
         {
-          "title": "美国银行(BAC.N)美股股价盘前跌1.9%。",
-          "url": "https://flash.jin10.com/detail/20251105204332629800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时52分"
-        },
-        {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
           "url": "https://flash.jin10.com/detail/20251105061222244800",
           "source": "金十数据",
@@ -118,6 +107,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时22分]"
+        },
+        {
+          "title": "美国银行(BAC.N)美股股价盘前跌1.9%。",
+          "url": "https://flash.jin10.com/detail/20251105204332629800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时52分 ~ 21时37分]"
         },
         {
           "title": "超微电脑第一财季净销售50.2亿美元，分析师预期60.9亿美元。预计全年净销售至少360亿美元，公司原本预计至少330亿美元。预计第二财季净销售100亿-110亿美元，分析师预期80.5亿美元。超微电脑美股盘后跌超10%。",
@@ -154,6 +155,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时24分]"
+        },
+        {
+          "title": "敏感时刻，美股警报连连！著名估值指标“史上第二次”突破红线，上一次是1999年",
+          "url": "https://wallstreetcn.com/articles/3758685",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时36分 ~ 21时37分]"
         },
         {
           "title": "Pinterest美股盘后下跌15%，该公司业绩欠佳，给出的指引也疲软。",
@@ -318,7 +330,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时52分"
         },
@@ -481,8 +493,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时30分 ~ 20时52分]"
+          "appearance_count": 5,
+          "time_info": "[18时30分 ~ 21时37分]"
         },
         {
           "title": "投资者重新估值AI市场，美债收益率普遍跌超2个基点",
