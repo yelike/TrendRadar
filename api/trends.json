@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-05T15:25:58.564290+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-11-05T16:37:30.856886+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 44,
       "titles": [
         {
           "title": "民主党人领跑市长选战，特朗普威胁或对纽约“断供”",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时37分]"
         },
         {
           "title": "佩洛西：特朗普是地表最坏的家伙",
@@ -56,8 +56,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时00分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[10时00分 ~ 16时37分]"
         },
         {
           "title": "特朗普突然威胁对尼日利亚动武，就因为他看了条福克斯新闻报道",
@@ -77,7 +77,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -218,6 +218,18 @@
           "time_info": "[03时21分 ~ 04时30分]"
         },
         {
+          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
+          "url": "https://wallstreetcn.com/articles/3758705",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时37分]"
+        },
+        {
           "title": "根据提交给美国贸易代表办公室的文件，通用汽车(GM.N)、特斯拉(TSLA.O)、丰田敦促特朗普政府延长美墨加协定。",
           "url": "https://flash.jin10.com/detail/20251105030214488800",
           "source": "金十数据",
@@ -338,17 +350,6 @@
           "time_info": "[14时40分 ~ 15时25分]"
         },
         {
-          "title": "市场的“美国中选风向标”：特朗普任内第一场大选，民主党“压倒式胜利”",
-          "url": "https://wallstreetcn.com/articles/3758705",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
           "title": "特朗普选择Jared Isaacman为美国国家航空航天局（NASA）局长。 Jared Isaacman是太空探索公司SpaceX首席执行官（CEO）马斯克的盟友。",
           "url": "https://wallstreetcn.com/livenews/2999440",
           "source": "华尔街见闻-快讯",
@@ -421,7 +422,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -481,6 +482,17 @@
           "time_info": "11时18分"
         },
         {
+          "title": "白宫降半旗悼念切尼 特朗普沉默",
+          "url": "https://www.toutiao.com/trending/7568870591252906035/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "内塔尼亚胡因涉嫌受贿受审，特朗普：美国将出手干预帮他脱身",
           "url": "https://m.thepaper.cn/newsDetail_forward_31886729",
           "source": "澎湃新闻",
@@ -517,7 +529,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "“黑色星期二”：纳指领跌美股，英伟达跌4%，币圈连遭血洗，金银油齐跌，美元五连阳",
@@ -527,8 +539,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时25分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[07时25分 ~ 16时37分]"
         },
         {
           "title": "算力协议力挺Mag 7，亚马逊股价新高，美股分化加剧，加密货币大跌，以太坊重挫",
@@ -588,11 +600,12 @@
           "ranks": [
             13,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 15时25分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 16时37分]"
         },
         {
           "title": "美股散户指数创特朗普关税日以来的最大跌幅",
@@ -721,6 +734,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "美股散户“黑色星期二”有多惨",
+          "url": "https://www.toutiao.com/trending/7569095245124603438/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "AMD美股盘后跌幅重新扩大至1.88%，该公司CEO苏姿丰正在分析师电话会议上讲话。",
           "url": "https://wallstreetcn.com/livenews/2999433",
           "source": "华尔街见闻-快讯",
@@ -771,7 +795,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -900,7 +924,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -927,11 +951,12 @@
           "url": "https://www.douyin.com/hot/2295060",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 16时37分]"
         },
         {
           "title": "金价大涨，周大生一年关闭 560 家门店，这背后的原因是什么？",
@@ -986,7 +1011,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -1002,11 +1027,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时00分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[10时00分 ~ 16时37分]"
         },
         {
           "title": "谷歌(GOOG.O)：宣布与Planet公司合作开展一项学习任务，计划于2027年初前发射两颗原型卫星，以在轨测试我们的硬件。",
@@ -1153,7 +1179,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1164,7 +1190,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
