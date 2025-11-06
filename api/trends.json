@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T15:26:10.241007+08:00",
-  "total_titles_processed": 1304,
+  "generated_at": "2025-11-06T16:34:21.486972+08:00",
+  "total_titles_processed": 1427,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 16时34分]"
         },
         {
           "title": "美股收盘：三大指数回暖收涨 美光科技再创历史新高",
@@ -66,8 +66,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 16时34分]"
         },
         {
           "title": "逢低买盘再现，美股上演普涨反弹，小盘股领涨",
@@ -383,7 +383,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
@@ -404,8 +404,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 16时34分]"
+        },
+        {
+          "title": "美债惨遭抛售！美国财政部暗示未来将扩大长债发行规模",
+          "url": "https://www.cls.cn/detail/2192526",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "美债收益率继续上涨，10年期收益率日内涨6.6个基点，报4.157%。",
