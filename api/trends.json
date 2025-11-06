@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T19:22:36.707563+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2025-11-06T20:52:38.998236+08:00",
+  "total_titles_processed": 1836,
   "failed_sources": [],
   "trends": [
     {
@@ -87,7 +87,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -462,8 +462,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时56分 ~ 19时22分]"
+          "appearance_count": 13,
+          "time_info": "[09时56分 ~ 20时52分]"
         },
         {
           "title": "美股三大股指涨跌不一，美债短线下挫，加密货币反弹，以太坊涨超4%",
