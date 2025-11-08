@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T13:24:43.377594+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2025-11-08T14:36:23.594393+08:00",
+  "total_titles_processed": 1025,
   "failed_sources": [],
   "trends": [
     {
@@ -20,6 +20,18 @@
           "time_info": "[01时22分 ~ 06时25分]"
         },
         {
+          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
+          "url": "https://www.cls.cn/detail/2194839",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 14时36分]"
+        },
+        {
           "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2194710",
           "source": "财联社热门",
@@ -30,20 +42,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时28分 ~ 13时24分]"
-        },
-        {
-          "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
-          "url": "https://www.cls.cn/detail/2194839",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时21分 ~ 13时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时28分 ~ 14时36分]"
         },
         {
           "title": "美政府停摆现转机，美股尾盘拉升，科技股拖累纳指走低，微软八连跌，加密货币大反弹",
@@ -99,11 +99,12 @@
           "ranks": [
             11,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时08分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时08分 ~ 14时36分]"
         },
         {
           "title": "逢低买盘消退，美股指数集体低开，现货黄金涨幅收窄，比特币一度跌破10万美元",
@@ -245,11 +246,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时36分]"
         }
       ]
     },
