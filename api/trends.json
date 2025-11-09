@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-09T11:47:26.912280+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2025-11-09T12:29:21.274356+08:00",
+  "total_titles_processed": 656,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 11时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时29分]"
         },
         {
           "title": "美国总统特朗普：参议院应将医疗保险资金直接发放给民众。",
@@ -40,8 +40,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 11时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时29分]"
         },
         {
           "title": "南非政府发表声明驳斥特朗普言论",
@@ -51,8 +51,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 11时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时29分]"
         },
         {
           "title": "美国总统特朗普：参议院共和党应该将政府资金提供给众多医疗保险公司。 参议院应当直接将医疗保险资金直接派送给民众。",
@@ -110,9 +110,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时29分]"
         },
         {
           "title": "拜登强烈批评特朗普称其家族赚了18亿",
@@ -121,7 +121,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -151,7 +151,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗总统：“美国想让伊朗一直跪着”",
@@ -190,33 +190,47 @@
           "url": "https://wallstreetcn.com/livenews/3001631",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
-        },
-        {
-          "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
-          "url": "https://flash.jin10.com/detail/20251109101328383800",
-          "source": "金十数据",
-          "ranks": [
+            3,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时29分]"
         },
         {
           "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
           "url": "https://wallstreetcn.com/livenews/3001630",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时29分]"
+        },
+        {
+          "title": "伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
+          "url": "https://flash.jin10.com/detail/20251109101328383800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时29分]"
+        },
+        {
+          "title": "伊朗总统：美国想让伊朗一直跪着",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E7%BE%8E%E5%9B%BD%E6%83%B3%E8%AE%A9%E4%BC%8A%E6%9C%97%E4%B8%80%E7%9B%B4%E8%B7%AA%E7%9D%80",
+          "source": "百度热搜",
+          "ranks": [
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时47分"
+          "time_info": "12时29分"
         }
       ]
     },
@@ -272,8 +286,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 11时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 12时29分]"
         }
       ]
     }
