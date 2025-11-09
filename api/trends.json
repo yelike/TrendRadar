@@ -1,8 +1,25 @@
 {
-  "generated_at": "2025-11-09T16:28:23.726114+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2025-11-09T17:22:44.242856+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek罕见公开发声，资深研究员陈德里：长期看，AI可能会取代绝大部分人类工作，这不是危言耸听",
+          "url": "https://wallstreetcn.com/articles/3758988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 1,
