@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T14:39:40.126729+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2025-11-10T15:25:49.625814+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时39分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 15时25分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -29,11 +29,12 @@
           "ranks": [
             3,
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时00分 ~ 14时39分]"
+          "appearance_count": 6,
+          "time_info": "[10时00分 ~ 15时25分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -78,8 +79,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 14时39分]"
+          "appearance_count": 4,
+          "time_info": "[12时33分 ~ 15时25分]"
         }
       ]
     },
