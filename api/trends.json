@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-10T14:40:57.632647+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-11-10T15:26:24.672930+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 15时26分]"
         },
         {
           "title": "“特朗普外交政策，万变不离中国”",
@@ -70,6 +70,20 @@
           "time_info": "[10时05分 ~ 12时34分]"
         },
         {
+          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
+          "url": "https://www.cls.cn/detail/2195415",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 15时26分]"
+        },
+        {
           "title": "特朗普提名约翰·科尔为美国驻白俄罗斯特使",
           "url": "https://flash.jin10.com/detail/20251109225052216800",
           "source": "金十数据",
@@ -98,6 +112,18 @@
           "time_info": "[00时28分 ~ 06时23分]"
         },
         {
+          "title": "泽连斯基：全世界都怕特朗普但我不怕",
+          "url": "https://www.toutiao.com/trending/7569890031507144723/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时26分]"
+        },
+        {
           "title": "最美词汇：特朗普对关税到底有什么误解？",
           "url": "https://news.ifeng.com/c/8o9xDTJ6QSA",
           "source": "凤凰网",
@@ -118,31 +144,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
-          "title": "泽连斯基：全世界都怕特朗普但我不怕",
-          "url": "https://www.toutiao.com/trending/7569890031507144723/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时40分]"
-        },
-        {
-          "title": "每人2000美元？特朗普扬言要撒“关税红利”，贝森特暗示通过减税实现！",
-          "url": "https://www.cls.cn/detail/2195415",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 14时40分]"
         },
         {
           "title": "牛弹琴：特朗普宣布一个大消息",
@@ -356,6 +357,18 @@
           "time_info": "[12时34分 ~ 14时40分]"
         },
         {
+          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时27分 ~ 15时26分]"
+        },
+        {
           "title": "美国政府停摆 特朗普享乐被痛批",
           "url": "https://www.toutiao.com/trending/7569948276263731251/",
           "source": "今日头条",
@@ -390,17 +403,6 @@
           "time_info": "[11时53分 ~ 11时54分]"
         },
         {
-          "title": "上次访美不愉快？泽连斯基：全世界都怕特朗普，但我不怕他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31930491",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时27分 ~ 14时40分]"
-        },
-        {
           "title": "美参议院据悉已有足够票数推动结束“停摆”的法案、特朗普称希望继续在布达佩斯与普京会晤、中国央行连续第12个月增持黄金......现货黄金亚盘重回4050美元上方，当前多头持续占优，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251110104051679800",
           "source": "金十数据",
@@ -429,8 +431,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 14时40分]"
+          "appearance_count": 19,
+          "time_info": "[00时28分 ~ 15时26分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -439,11 +441,12 @@
           "ranks": [
             3,
             10,
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时05分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[10时05分 ~ 15时26分]"
         },
         {
           "title": "欧美股指期货走高 纳指期货涨1%",
@@ -488,8 +491,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时34分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[12时34分 ~ 15时26分]"
         }
       ]
     },
@@ -503,11 +506,12 @@
           "source": "微博",
           "ranks": [
             22,
-            25
+            25,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 14时40分]"
+          "appearance_count": 6,
+          "time_info": "[11时53分 ~ 15时26分]"
         },
         {
           "title": "金十图示：2025年11月10日（周一）上海金早盘价为926.44元/克，较国际金价(926.8元/克)，低0.36元/克",
