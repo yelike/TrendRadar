@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T15:25:30.711564+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2025-11-11T16:33:51.766608+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时18分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[11时18分 ~ 16时33分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
