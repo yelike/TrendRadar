@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T12:31:02.837230+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2025-11-11T13:25:43.420341+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时56分 ~ 12时31分]"
+          "appearance_count": 7,
+          "time_info": "[09时56分 ~ 13时25分]"
         },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 12时31分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 13时25分]"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -55,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 12时31分]"
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 13时25分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
@@ -77,8 +77,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时18分 ~ 12时31分]"
+          "appearance_count": 5,
+          "time_info": "[11时18分 ~ 13时25分]"
         },
         {
           "title": "加密货币与加密货币关联指数收跌0.77%，报82.51点，美股盘初呈现出高开低走状态。 周一（11月10日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘涨1.73%，至接近10.6万美元的水平。 CME以太币期货DCR主力合约涨1.86%，报3540美元。 北京时间05:54，现货比特币涨0.82%，以太坊跌1.14%，Solana跌0.34%，狗狗币跌0.39%，XRP涨7.46%。",
@@ -270,6 +270,18 @@
           "time_info": "05时23分"
         },
         {
+          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
+          "url": "https://flash.jin10.com/detail/20251111115436400800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 13时25分]"
+        },
+        {
           "title": "谷歌：Gemini for TV将在未来几周内开始向Google TV流媒体设备推送。",
           "url": "https://flash.jin10.com/detail/20251111010942677800",
           "source": "金十数据",
@@ -292,24 +304,13 @@
           "time_info": "07时24分"
         },
         {
-          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
-          "url": "https://flash.jin10.com/detail/20251111115436400800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时31分"
-        },
-        {
           "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
           "url": "https://flash.jin10.com/detail/20251111115423827800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时31分"
         },
