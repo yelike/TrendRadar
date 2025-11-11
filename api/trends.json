@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T14:38:28.638720+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2025-11-11T15:25:30.711564+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时56分 ~ 14时38分]"
+          "appearance_count": 9,
+          "time_info": "[09时56分 ~ 15时25分]"
         },
         {
           "title": "美股收盘：美国政府有望结束停摆 纳指反弹2.3% 英伟达涨超5%",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 14时38分]"
+          "appearance_count": 10,
+          "time_info": "[07时24分 ~ 15时25分]"
         },
         {
           "title": "美政府停摆危机化解在即，美股史诗级逼空行情一触即发？",
@@ -64,11 +64,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时18分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[11时18分 ~ 15时25分]"
         },
         {
           "title": "美政府关门有望结束，科技股引领美股强劲反弹，英伟达涨超5%，金银大涨",
