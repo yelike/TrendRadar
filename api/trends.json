@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T03:22:17.004514+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2025-11-13T04:29:13.657642+08:00",
+  "total_titles_processed": 548,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时29分]"
         },
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -67,8 +67,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时29分]"
         },
         {
           "title": "美国财长贝森特：选民们授权总统特朗普让美国恢复经济承受能力。 巩固国债市场是这个使命的一部分。 在2025年的发达国家市场，美债表现最佳。 美债的日常现金交易大约1万亿美元。 将继续考虑改善美债回购计划。 投资者对美债需求是如此的强烈，将继续监控投资者的需求。 不会改变债务发行的整体协议。 维持债市健康是我的头等大事。",
@@ -95,8 +95,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时34分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时34分 ~ 04时29分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -104,11 +104,12 @@
           "source": "今日头条",
           "ranks": [
             25,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时34分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[02时34分 ~ 04时29分]"
         }
       ]
     }
