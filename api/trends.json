@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-12T07:23:14.523334+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2025-11-12T09:56:11.882194+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
+          "url": "https://www.cls.cn/detail/2197739",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时56分]"
+        },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251112050821592800",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时22分 ~ 06时25分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
-          "url": "https://www.cls.cn/detail/2197739",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "金十图示：2025年11月11日（周二）热门中概股行情一览（美股收盘）",
@@ -186,11 +187,12 @@
           "url": "https://wallstreetcn.com/articles/3759125",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
+          "appearance_count": 4,
+          "time_info": "[07时22分 ~ 09时56分]"
         }
       ]
     }
