@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T22:27:09.577234+08:00",
-  "total_titles_processed": 1964,
+  "generated_at": "2025-11-12T23:30:40.684530+08:00",
+  "total_titles_processed": 2063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -133,7 +133,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -147,6 +147,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时55分"
+        },
+        {
+          "title": "AMD积极前景驱动基准指数走强 美股仍处于复杂情绪交织中",
+          "url": "https://flash.jin10.com/detail/20251112230532535800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "金十图示：2025年11月11日（周二）美股热门股票行情一览（美股盘中）",
@@ -329,7 +340,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -341,8 +352,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时22分 ~ 22时27分]"
+          "appearance_count": 22,
+          "time_info": "[07时22分 ~ 23时30分]"
+        },
+        {
+          "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3759214",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时29分 ~ 23时30分]"
         },
         {
           "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
@@ -362,7 +384,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
