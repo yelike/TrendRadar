@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T11:20:57.017154+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2025-11-13T12:31:03.743609+08:00",
+  "total_titles_processed": 1055,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 11时20分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 12时31分]"
         },
         {
           "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
@@ -202,11 +202,12 @@
           "ranks": [
             19,
             15,
-            17
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 11时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时34分 ~ 12时31分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
