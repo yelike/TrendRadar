@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T20:54:27.800816+08:00",
-  "total_titles_processed": 1839,
+  "generated_at": "2025-11-13T21:37:23.700031+08:00",
+  "total_titles_processed": 1948,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -72,7 +72,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -141,6 +141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-13）",
+          "url": "https://flash.jin10.com/detail/20251113210734667800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "京东美股盘前涨超3%，此前公布业绩数据。",
