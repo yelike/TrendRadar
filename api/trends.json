@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T06:24:19.706739+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2025-11-14T07:24:04.372618+08:00",
+  "total_titles_processed": 709,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美政府重开利好消化，美股低开低走，标普500指数跌超1%，美元走软",
@@ -14,22 +14,48 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 06时24分]"
+          "appearance_count": 12,
+          "time_info": "[00时31分 ~ 07时24分]"
+        },
+        {
+          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
+          "url": "https://www.cls.cn/detail/2200254",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时24分 ~ 07时24分]"
         },
         {
           "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3004404",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
+          "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
+          "url": "https://wallstreetcn.com/livenews/3004400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股收盘）",
@@ -43,17 +69,6 @@
           "time_info": "05时23分"
         },
         {
-          "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
-          "url": "https://wallstreetcn.com/livenews/3004400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
           "title": "金十图示：2025年11月13日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251114050519736800",
           "source": "金十数据",
@@ -65,15 +80,15 @@
           "time_info": "05时23分"
         },
         {
-          "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
-          "url": "https://www.cls.cn/detail/2200254",
-          "source": "财联社热门",
+          "title": "应用材料美股盘后跌超4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3004422",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时24分"
+          "time_info": "07时24分"
         },
         {
           "title": "小盘股指ETF收跌2.8%，领跌美股大类资产类ETF",
@@ -82,7 +97,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -93,7 +108,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -126,7 +141,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
         },
@@ -159,6 +174,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美股七巨头收盘播报｜特斯拉重挫超6.6%，英伟达跌约3.6%，谷歌A跌超2.8%",
+          "url": "https://wallstreetcn.com/livenews/3004398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时24分 ~ 07时24分]"
+        },
+        {
           "title": "欧盟就网站搜索排名问题对谷歌启动调查",
           "url": "https://wallstreetcn.com/livenews/3004312",
           "source": "华尔街见闻-快讯",
@@ -169,17 +196,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时36分 ~ 03时21分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉重挫超6.6%，英伟达跌约3.6%，谷歌A跌超2.8%",
-          "url": "https://wallstreetcn.com/livenews/3004398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时24分"
         }
       ]
     },
