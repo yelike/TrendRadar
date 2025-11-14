@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T02:35:49.604538+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2025-11-15T03:20:33.157215+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时20分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时20分]"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时20分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -49,8 +49,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时20分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -71,7 +71,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -82,7 +82,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -123,8 +123,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 02时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 03时20分]"
         }
       ]
     }
