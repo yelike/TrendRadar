@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T12:30:57.219248+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2025-11-14T13:26:35.083310+08:00",
+  "total_titles_processed": 1162,
   "failed_sources": [],
   "trends": [
     {
@@ -46,11 +46,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 12时30分]"
+          "appearance_count": 5,
+          "time_info": "[10时01分 ~ 13时26分]"
         },
         {
           "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
@@ -87,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时19分 ~ 11时20分]"
+        },
+        {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时30分 ~ 13时26分]"
         },
         {
           "title": "国际货币基金组织（IMF）因特朗普政府关门事件而推迟与美国的“第四条款磋商”（US Article IV discussions），原定11月进行。 IMF通讯主管Julie Kozack在一次新闻发布会上表示：“数据的缺失最近使我们难以评估美国经济状况，也难以开展第四条款磋商的初步工作。” 尚未确定磋商的新日期，但IMF将与美国当局协商新的时间表。 第四条款磋商是对IMF成员国经济进行的年度审查，通常涵盖货币、财政和其他政策。",
@@ -171,17 +183,6 @@
           "time_info": "00时33分"
         },
         {
-          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
-          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时30分"
-        },
-        {
           "title": "市场消息：特朗普签署行政令以扩大寄养服务。",
           "url": "https://flash.jin10.com/detail/20251114033236655800",
           "source": "金十数据",
@@ -232,7 +233,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         },
@@ -365,8 +366,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时25分 ~ 12时30分]"
+          "appearance_count": 8,
+          "time_info": "[06时25分 ~ 13时26分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -541,8 +542,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 12时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 13时26分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -556,8 +557,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 12时30分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 13时26分]"
         },
         {
           "title": "微软CEO：祝OpenAI甲骨文好运",
