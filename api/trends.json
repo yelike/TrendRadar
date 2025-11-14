@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T11:18:34.087949+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2025-11-14T12:30:50.014852+08:00",
+  "total_titles_processed": 1081,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时24分 ~ 11时18分]"
+          "appearance_count": 6,
+          "time_info": "[06时24分 ~ 12时30分]"
+        },
+        {
+          "title": "美股大跌 特斯拉跌超6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时56分 ~ 12时30分]"
         },
         {
           "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
@@ -57,18 +70,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时24分 ~ 07时24分]"
-        },
-        {
-          "title": "美股大跌 特斯拉跌超6%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%856%25",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 11时18分]"
         },
         {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股收盘）",
@@ -176,7 +177,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
         },
