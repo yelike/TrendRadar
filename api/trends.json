@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T11:20:30.801752+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2025-11-14T12:30:57.219248+08:00",
+  "total_titles_processed": 1078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "美国总统特朗普的法律团队表示，特朗普尚未对英国广播公司（BBC）提起诉讼。",
@@ -41,6 +41,18 @@
           "time_info": "07时25分"
         },
         {
+          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
+          "url": "https://www.cls.cn/detail/2200266",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时30分]"
+        },
+        {
           "title": "特朗普将在美东时间下午2点（北京时间凌晨3点）签署新的行政命令。",
           "url": "https://flash.jin10.com/detail/20251114025925256800",
           "source": "金十数据",
@@ -51,18 +63,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时29分]"
-        },
-        {
-          "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
-          "url": "https://www.cls.cn/detail/2200266",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 11时20分]"
         },
         {
           "title": "美国小企业管理局（SBA）：特朗普政府关门妨碍SBA向小企业投放50亿美元（资金支持措施）。",
@@ -171,6 +171,17 @@
           "time_info": "00时33分"
         },
         {
+          "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
+          "url": "https://news.ifeng.com/c/8oGsK5I0blR",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
+        },
+        {
           "title": "市场消息：特朗普签署行政令以扩大寄养服务。",
           "url": "https://flash.jin10.com/detail/20251114033236655800",
           "source": "金十数据",
@@ -213,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时29分"
+        },
+        {
+          "title": "人事主管表示，特朗普政府已雇佣了5万名新员工，其中大部分从事国家安全相关工作。",
+          "url": "https://flash.jin10.com/detail/20251114112519082800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "13G报告显示：Jane Street Group对特朗普媒体科技集团持股3.7%。",
@@ -343,8 +365,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 11时20分]"
+          "appearance_count": 7,
+          "time_info": "[06时25分 ~ 12时30分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -352,11 +374,12 @@
           "source": "百度热搜",
           "ranks": [
             19,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 11时20分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时30分]"
         },
         {
           "title": "美股费城金银指数收跌2.63%，报297.06点，微幅高开后持续下挫，北京时间02:25开始一波加速下跌的行情。 纽约证交所ARCA金矿开采商指数收跌1.60%，报2183.49点，22:38（美股盘初）迅速涨至2245.18点刷新日高，之后持续下挫，02:21短线加速下跌。",
@@ -518,8 +541,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 11时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 12时30分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -529,11 +552,12 @@
             18,
             17,
             16,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 11时20分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 12时30分]"
         },
         {
           "title": "微软CEO：祝OpenAI甲骨文好运",
