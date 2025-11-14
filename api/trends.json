@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T01:23:06.526825+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2025-11-15T02:35:49.604538+08:00",
+  "total_titles_processed": 454,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
           "url": "https://wallstreetcn.com/articles/3759375",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -48,8 +49,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         },
         {
           "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
@@ -62,6 +63,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时23分]"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251115013327366800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
+        },
+        {
+          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251115013245907800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         },
         {
           "title": "纳斯达克金龙中国指数美股盘初跌1.7%。 中概股世纪华联跌6.3%，小马智行跌6%，阿特斯太阳能跌5%，小鹏跌4.7%，大全新能源跌4.2%，文远知行跌3.8%，京东、蔚来跌3.3%，百度跌2.7%，腾讯音乐则涨0.8%，B站涨1.9%，雾芯科技/悦刻电子烟涨8.4%。 ETF中，CQQQ跌1.75%，KWEB跌0.57%。",
@@ -96,11 +119,12 @@
           "url": "https://wallstreetcn.com/articles/3759409",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时32分 ~ 01时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时32分 ~ 02时35分]"
         }
       ]
     }
