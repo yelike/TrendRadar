@@ -1,438 +1,83 @@
 {
-  "generated_at": "2025-11-15T23:22:42.547296+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2025-11-16T00:28:05.942351+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "科技股反弹，美股纳指转涨，黄金跌幅收窄，币圈分化",
-          "url": "https://wallstreetcn.com/articles/3759354",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时23分]"
-        },
-        {
-          "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
-          "url": "https://wallstreetcn.com/articles/3759375",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 14时34分]"
-        },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
           "url": "https://www.cls.cn/detail/2201442",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[07时23分 ~ 23时22分]"
-        },
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时32分 ~ 23时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
           "url": "https://www.cls.cn/detail/2201450",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时11分 ~ 23时22分]"
-        },
-        {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
-          "ranks": [
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 14时34分]"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数跌3.46%，报65.37点，本周累计下跌21.39%，从87.87点持续、平滑地下跌至63.64点。 周五（11月14日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.14%，报95045美元，本周累跌8.64%。 CME以太币期货DCR主力合约大致持平，报3168.00美元，本周累跌8.85%。",
-          "url": "https://wallstreetcn.com/livenews/3005073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
-          "url": "https://wallstreetcn.com/livenews/3005057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            16
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "纳指转涨，标普几乎完全收复美股盘初失地，半导体指数转涨，罗素2000指数目前跌0.4%，道指仍然跌340点跌幅超过0.7%。中概指数收复盘初大部分失地。 比特币目前跌1.68%，以太坊涨0.94%，Solana跌0.08%，狗狗币涨1.29%，XRP涨0.32%。",
-          "url": "https://wallstreetcn.com/livenews/3004953",
-          "source": "华尔街见闻-快讯",
+          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2201293",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            30
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时23分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251115094343913800",
-          "source": "金十数据",
+          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
+          "url": "https://www.cls.cn/detail/2201578",
+          "source": "财联社热门",
           "ranks": [
-            15,
-            21
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时52分 ~ 11时12分]"
-        },
-        {
-          "title": "美股暴涨暴跌意味着什么",
-          "url": "https://www.toutiao.com/trending/7572733950527802886/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时11分 ~ 11时12分]"
-        },
-        {
-          "title": "Clearwater Analytics美股盘后涨近16%，彭博报道称，华平投资（Warburg）与私募股权公司Permira拟收购Clearwater Analytics。",
-          "url": "https://wallstreetcn.com/livenews/3005095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251115094829363800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251115013327366800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "金十图示：2025年11月14日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20251115013245907800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时35分"
-        },
-        {
-          "title": "纳斯达克金龙中国指数美股盘初跌1.7%。 中概股世纪华联跌6.3%，小马智行跌6%，阿特斯太阳能跌5%，小鹏跌4.7%，大全新能源跌4.2%，文远知行跌3.8%，京东、蔚来跌3.3%，百度跌2.7%，腾讯音乐则涨0.8%，B站涨1.9%，雾芯科技/悦刻电子烟涨8.4%。 ETF中，CQQQ跌1.75%，KWEB跌0.57%。",
-          "url": "https://wallstreetcn.com/livenews/3004929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "行业ETF美股盘初普跌，半导体ETF跌2.8%，科技行业ETF跌1.9%，网络股指数ETF、全球科技股指数ETF跌约1.8%，能源业ETF涨约0.2%。",
-          "url": "https://wallstreetcn.com/livenews/3004928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "美股三大股指集体低开 特斯拉跌超3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E7%89%B9%E6%96%AF%E6%8B%89%E8%B7%8C%E8%B6%853%25",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "[00时27分 ~ 00时28分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
           "url": "https://wallstreetcn.com/articles/3759431",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            3,
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时11分 ~ 23时22分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
           "url": "https://www.cls.cn/detail/2201480",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8,
-            7,
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时52分 ~ 23时22分]"
-        },
-        {
-          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
-          "url": "https://wallstreetcn.com/articles/3759409",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时32分 ~ 20时45分]"
-        },
-        {
-          "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
-          "url": "https://wallstreetcn.com/livenews/3005075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
-          "url": "https://flash.jin10.com/detail/20251115093238774800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            7,
-            14,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时52分 ~ 14时34分]"
-        },
-        {
-          "title": "印度官员：谷歌预计将把印度数据中心项目投资金额提高至逾150亿美元",
-          "url": "https://flash.jin10.com/detail/20251115162742778800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 19时19分]"
-        },
-        {
-          "title": "13F报告显示：Point72 Europe London LLP.三季度建仓Strategy（MSTR）、Merck、强生等。 清仓MasterCard、台积电等。 增持Meta、亚马逊等。 减持伯克希尔哈撒韦B类股、富国银行、微软等。 重仓谷歌A、亚马逊、Meta、MSTR等。",
-          "url": "https://wallstreetcn.com/livenews/3005059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
-          "url": "https://wallstreetcn.com/livenews/3005032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时24分]"
-        },
-        {
-          "title": "13F报告显示：Soros Fund Management LLC.三季度建仓做多Brown & Brown、Aramark、iShares 7-10年期美国国债ETF、Idacorp、JBT Marel。 清仓阿斯利康、摩根大通、纳斯达克等。 增持英伟达、Snowflake、KKR等。 减持SPDR标普500 ETF信托、谷歌A、高盛等。",
-          "url": "https://wallstreetcn.com/livenews/3005054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "13F数据显示，Tiger Global Management LLC.三季度建仓做多奈飞、MongoDB、Bullish、Figma、以及Accelerant等。 清仓礼来、CrowdStrike、诺和诺德、ZKH等。 增持博通、GE Vernova、Coupang、亚马逊、Block。 减持Meta、Sherwin-Williams、Zillow（C类股+A类股）、Reddit。 重仓微软、Sea Ltd.、谷歌A、亚马逊、英伟达。",
-          "url": "https://wallstreetcn.com/livenews/3005015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时23分]"
-        },
-        {
-          "title": "谷歌将在美国得州投资400亿美元，新建三个数据中心",
-          "url": "https://wallstreetcn.com/livenews/3005043",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
-          "url": "https://wallstreetcn.com/livenews/3005068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "云南铜业：黄金价格上涨对公司整体业绩增长影响有限",
-          "url": "https://wallstreetcn.com/livenews/3005134",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11,
-            13,
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时12分 ~ 15时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美债收益率本周普遍涨超4个基点",
-          "url": "https://wallstreetcn.com/livenews/3005071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "[00时27分 ~ 00时28分]"
         }
       ]
     }
