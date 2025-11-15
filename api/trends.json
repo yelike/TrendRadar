@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T18:24:09.364778+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2025-11-15T19:19:12.518824+08:00",
+  "total_titles_processed": 1361,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 18时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时32分 ~ 19时19分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -58,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时23分 ~ 18时24分]"
+          "appearance_count": 15,
+          "time_info": "[07时23分 ~ 19时19分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -71,8 +71,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时11分 ~ 18时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 19时19分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -238,8 +238,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时11分 ~ 18时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时11分 ~ 19时19分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -255,8 +255,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时52分 ~ 18时24分]"
+          "appearance_count": 14,
+          "time_info": "[09时52分 ~ 19时19分]"
         },
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -270,8 +270,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时32分 ~ 18时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时32分 ~ 19时19分]"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
@@ -305,11 +305,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            11
+            11,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时24分]"
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 19时19分]"
         },
         {
           "title": "13F报告显示：Point72 Europe London LLP.三季度建仓Strategy（MSTR）、Merck、强生等。 清仓MasterCard、台积电等。 增持Meta、亚马逊等。 减持伯克希尔哈撒韦B类股、富国银行、微软等。 重仓谷歌A、亚马逊、Meta、MSTR等。",
