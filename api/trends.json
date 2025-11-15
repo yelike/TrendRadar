@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T13:24:02.975523+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2025-11-15T14:34:24.496880+08:00",
+  "total_titles_processed": 1059,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 13时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 14时34分]"
         },
         {
           "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
@@ -44,19 +44,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 13时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 14时34分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/1972596571733497781",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 14时34分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -68,8 +69,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 13时24分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 14时34分]"
+        },
+        {
+          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
+          "url": "https://www.cls.cn/detail/2201450",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 14时34分]"
         },
         {
           "title": "美股加密货币与加密货币关联指数跌3.46%，报65.37点，本周累计下跌21.39%，从87.87点持续、平滑地下跌至63.64点。 周五（11月14日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.14%，报95045美元，本周累跌8.64%。 CME以太币期货DCR主力合约大致持平，报3168.00美元，本周累跌8.85%。",
@@ -81,18 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 13时24分]"
         },
         {
           "title": "美股费城金银指数收跌0.89%，报294.43点，本周累计上涨5.71%。 纽约证交所ARCA金矿开采商指数收跌1.16%，报2158.20点，本周累涨6.45%。",
@@ -235,8 +236,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时32分 ~ 13时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 14时34分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -247,8 +248,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时11分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时11分 ~ 14时34分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -258,11 +259,12 @@
             11,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时52分 ~ 13时24分]"
+          "appearance_count": 7,
+          "time_info": "[09时52分 ~ 14时34分]"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
@@ -283,11 +285,12 @@
             3,
             7,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时52分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[09时52分 ~ 14时34分]"
         },
         {
           "title": "13F报告显示：Point72 Europe London LLP.三季度建仓Strategy（MSTR）、Merck、强生等。 清仓MasterCard、台积电等。 增持Meta、亚马逊等。 减持伯克希尔哈撒韦B类股、富国银行、微软等。 重仓谷歌A、亚马逊、Meta、MSTR等。",
@@ -384,11 +387,12 @@
           "ranks": [
             2,
             11,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时12分 ~ 13时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时12分 ~ 14时34分]"
         }
       ]
     },
