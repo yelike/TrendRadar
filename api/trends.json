@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-15T16:30:37.636841+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2025-11-15T17:23:26.042109+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 16时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 17时23分]"
         },
         {
           "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
@@ -54,11 +54,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时23分 ~ 16时30分]"
+          "appearance_count": 11,
+          "time_info": "[07时23分 ~ 17时23分]"
         },
         {
           "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
@@ -78,11 +79,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时11分 ~ 16时30分]"
+          "appearance_count": 9,
+          "time_info": "[11时11分 ~ 17时23分]"
         },
         {
           "title": "美股加密货币与加密货币关联指数跌3.46%，报65.37点，本周累计下跌21.39%，从87.87点持续、平滑地下跌至63.64点。 周五（11月14日）纽约尾盘，CME比特币期货BTC主力合约较周四纽约尾盘跌3.14%，报95045美元，本周累跌8.64%。 CME以太币期货DCR主力合约大致持平，报3168.00美元，本周累跌8.85%。",
@@ -223,7 +225,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -231,11 +233,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时11分 ~ 16时30分]"
+          "appearance_count": 9,
+          "time_info": "[11时11分 ~ 17时23分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -251,8 +254,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时52分 ~ 16时30分]"
+          "appearance_count": 10,
+          "time_info": "[09时52分 ~ 17时23分]"
         },
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -262,11 +265,12 @@
             9,
             8,
             7,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 16时30分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 17时23分]"
         },
         {
           "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
@@ -293,6 +297,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时52分 ~ 14时34分]"
+        },
+        {
+          "title": "印度官员：谷歌预计将把印度数据中心项目投资金额提高至逾150亿美元",
+          "url": "https://flash.jin10.com/detail/20251115162742778800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时23分"
         },
         {
           "title": "13F报告显示：Point72 Europe London LLP.三季度建仓Strategy（MSTR）、Merck、强生等。 清仓MasterCard、台积电等。 增持Meta、亚马逊等。 减持伯克希尔哈撒韦B类股、富国银行、微软等。 重仓谷歌A、亚马逊、Meta、MSTR等。",
