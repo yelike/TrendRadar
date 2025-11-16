@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T18:24:52.788744+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2025-11-16T19:19:02.702365+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
             13,
             10,
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 18时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 19时19分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -75,11 +76,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 18时24分]"
+          "appearance_count": 24,
+          "time_info": "[00时27分 ~ 19时19分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -101,8 +103,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时30分 ~ 18时24分]"
+          "appearance_count": 5,
+          "time_info": "[16时30分 ~ 19时19分]"
         }
       ]
     }
