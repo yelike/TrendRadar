@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T17:24:19.448172+08:00",
-  "total_titles_processed": 982,
+  "generated_at": "2025-11-16T18:24:52.788744+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 17时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 18时24分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -31,8 +32,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 17时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 18时24分]"
         },
         {
           "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
@@ -77,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时27分 ~ 17时24分]"
+          "appearance_count": 22,
+          "time_info": "[00时27分 ~ 18时24分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -96,11 +97,12 @@
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时30分 ~ 17时24分]"
+          "appearance_count": 3,
+          "time_info": "[16时30分 ~ 18时24分]"
         }
       ]
     }
