@@ -1,112 +1,39 @@
 {
-  "generated_at": "2025-11-16T23:22:48.358851+08:00",
-  "total_titles_processed": 1332,
+  "generated_at": "2025-11-17T00:28:33.237651+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：科技股反弹纳指止步三连跌 焦点转向英伟达财报",
-          "url": "https://www.cls.cn/detail/2201442",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时27分 ~ 18时24分]"
-        },
-        {
-          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
-          "url": "https://www.cls.cn/detail/2201578",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时27分 ~ 23时22分]"
-        },
-        {
-          "title": "高瓴HHLR三季度美股持仓：持股总市值暴增70亿 持续加大中国资产配置",
-          "url": "https://www.cls.cn/detail/2201450",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时27分 ~ 16时30分]"
-        },
-        {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 06时20分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
-          "url": "https://www.cls.cn/detail/2201480",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时27分 ~ 19时19分]"
-        },
-        {
-          "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
-          "url": "https://wallstreetcn.com/articles/3759431",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 05时20分]"
-        },
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            4,
-            3,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时30分 ~ 23时22分]"
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
+          "url": "https://www.cls.cn/detail/2201578",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时28分"
         }
       ]
     }
