@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T20:53:06.680682+08:00",
-  "total_titles_processed": 1634,
+  "generated_at": "2025-11-17T21:36:49.510225+08:00",
+  "total_titles_processed": 1734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股盘前涨幅扩大，纳指期货涨1%，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[17时31分 ~ 21时36分]"
         },
         {
           "title": "中国顶流私募“美股成绩单”出炉：阿里、拼多多成香饽饽",
@@ -106,7 +106,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -122,6 +122,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "美股三大股指期货均转跌，纳指期货此前一度涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3005902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "阿里巴巴(BABA.N)美股夜盘一度上涨5%。此前阿里巴巴宣布千问APP公测版上线，与ChatGPT展开正面竞争。",
           "url": "https://flash.jin10.com/detail/20251117103913637800",
           "source": "金十数据",
@@ -133,13 +144,24 @@
           "time_info": "11时22分"
         },
         {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-17）",
+          "url": "https://flash.jin10.com/detail/20251117210242767800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
           "title": "量子计算概念股Quantum Computing美股盘前一度涨25%。",
           "url": "https://flash.jin10.com/detail/20251117202236451800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -150,7 +172,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -164,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
+        },
+        {
+          "title": "诺和诺德美股盘前跌超1%，礼来盘前跌约0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3005883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
@@ -199,8 +232,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时31分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[12时31分 ~ 21时36分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -223,7 +256,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
