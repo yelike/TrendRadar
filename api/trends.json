@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-18T15:25:13.717190+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2025-11-18T16:34:13.175233+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "这一幕昨夜再现：美股、黄金、加密货币齐跌……",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 15时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 16时34分]"
         },
         {
           "title": "美股收盘：估值担忧再度主导市场 三大指数集体收跌 道指跌超1%",
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时23分 ~ 15时25分]"
+          "appearance_count": 14,
+          "time_info": "[07时23分 ~ 16时34分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -41,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 15时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 16时34分]"
         },
         {
           "title": "美股期货回吐涨幅，金价三连跌，加密货币回暖，英伟达财报成市场焦点",
@@ -182,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
+          "url": "https://flash.jin10.com/detail/20251118154840821800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "分析师：美股逢低买入动能消退 市场在英伟达财报前感到焦虑",
@@ -341,8 +352,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时55分 ~ 15时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时55分 ~ 16时34分]"
         },
         {
           "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
@@ -354,8 +365,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时16分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[11时16分 ~ 16时34分]"
         },
         {
           "title": "美股三大指数跌超1%，美债美元走强，金价三连跌，加密货币再大挫",
