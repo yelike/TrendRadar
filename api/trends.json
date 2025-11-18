@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-18T21:40:08.083876+08:00",
-  "total_titles_processed": 1780,
+  "generated_at": "2025-11-18T22:30:15.449154+08:00",
+  "total_titles_processed": 1788,
   "failed_sources": [
     "toutiao",
     "baidu",
@@ -13,7 +13,6 @@
     "wallstreetcn-quick",
     "tieba",
     "weibo",
-    "douyin",
     "zhihu"
   ],
   "trends": [
