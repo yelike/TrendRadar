@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T03:20:54.930936+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2025-11-19T04:30:39.852956+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,28 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
+          "url": "https://www.cls.cn/detail/2204017",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时30分]"
+        },
+        {
           "title": "谷歌正式发布Gemini3",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83Gemini3",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时30分]"
         },
         {
           "title": "OpenAI首席执行官：祝贺谷歌推出Gemini 3，这款模型看起来很棒。",
@@ -28,18 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        },
-        {
-          "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
-          "url": "https://www.cls.cn/detail/2204017",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时20分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -101,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时30分]"
         },
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -112,8 +113,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时30分]"
         },
         {
           "title": "美股三大期指盘前集体走低 AI怀疑论打压风险偏好 | 今夜看点",
@@ -123,19 +124,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时30分]"
         },
         {
           "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
           "url": "https://flash.jin10.com/detail/20251119025030602800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时20分 ~ 04时30分]"
         },
         {
           "title": "房地美股价触及盘中高点，上涨2.2%。",
@@ -172,7 +174,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
         }
@@ -190,8 +192,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时30分]"
         }
       ]
     }
