@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T16:38:03.525847+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2025-11-19T17:30:24.581763+08:00",
+  "total_titles_processed": 1327,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 16时38分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 17时30分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -51,22 +52,12 @@
             9,
             8,
             14,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时31分 ~ 16时38分]"
-        },
-        {
-          "title": "特朗普再次呼吁吊销ABC执照 并否认与爱泼斯坦有任何关系",
-          "url": "https://flash.jin10.com/detail/20251119031700998800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "appearance_count": 9,
+          "time_info": "[12时31分 ~ 17时30分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -79,8 +70,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时27分 ~ 16时38分]"
+          "appearance_count": 8,
+          "time_info": "[13时27分 ~ 17时30分]"
+        },
+        {
+          "title": "特朗普再次呼吁吊销ABC执照 并否认与爱泼斯坦有任何关系",
+          "url": "https://flash.jin10.com/detail/20251119031700998800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时22分"
         },
         {
           "title": "美国财长贝森特：可以肯定地说，我不会成为美联储主席。 特朗普将在感恩节后会见三位美联储主席候选人。 特朗普可能在圣诞节前宣布下一任美联储主席。",
@@ -215,6 +217,18 @@
           "time_info": "[02时39分 ~ 03时22分]"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时37分 ~ 17时30分]"
+        },
+        {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
           "url": "https://news.ifeng.com/c/8oPCfhjamik",
           "source": "凤凰网",
@@ -262,15 +276,15 @@
           "time_info": "[02时39分 ~ 03时22分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -329,6 +343,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 00时37分]"
+        },
+        {
+          "title": "特朗普为何在爱泼斯坦案上罕见低头",
+          "url": "https://www.toutiao.com/trending/7574277845409598995/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
+        },
+        {
+          "title": "欧盟拟简化AI与隐私法规，批评者称为安抚科技巨头与特朗普",
+          "url": "https://flash.jin10.com/detail/20251119171218728800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
         },
         {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
@@ -609,7 +645,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -706,6 +742,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时18分 ~ 12时31分]"
+        },
+        {
+          "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
+          "url": "https://www.cls.cn/detail/2204885",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时29分 ~ 17时30分]"
         },
         {
           "title": "美股银行股濒临跌破关键支撑位 将对整体股市发出严重警告",
@@ -835,19 +882,29 @@
       "match_count": 16,
       "titles": [
         {
-          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2204501",
-          "source": "财联社热门",
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
           "ranks": [
-            10,
-            7,
-            5,
             6,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 16时38分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 17时30分]"
+        },
+        {
+          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
+          "url": "https://wallstreetcn.com/articles/3759673",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时18分 ~ 17时30分]"
         },
         {
           "title": "Gemini3为何是目前最强AI",
@@ -861,6 +918,21 @@
             16,
             7,
             20
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 17时30分]"
+        },
+        {
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            7,
+            5,
+            6,
+            3
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -880,17 +952,6 @@
           "time_info": "[00时36分 ~ 07时24分]"
         },
         {
-          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
-          "url": "https://wallstreetcn.com/articles/3759657",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时59分 ~ 16时38分]"
-        },
-        {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
           "url": "https://www.cls.cn/detail/2204346",
           "source": "财联社热门",
@@ -901,18 +962,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时59分 ~ 13时27分]"
-        },
-        {
-          "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
-          "url": "https://wallstreetcn.com/articles/3759673",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 16时38分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -926,6 +975,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时38分 ~ 07时24分]"
+        },
+        {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            24,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 17时30分]"
         },
         {
           "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
@@ -959,19 +1022,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时38分 ~ 16时38分]"
         },
         {
           "title": "【谷歌推出最新一代AI模型Gemini 3，强调立即投入盈利产品】Alphabet旗下的谷歌推出其最新版本的人工智能模型Gemini 3，并强调这些新功能将立即在多个盈利产品中投入使用，例如其搜索引擎。 Gemini 3是在第二代模型发布11个月后推出的。从表面上看，它似乎将谷歌保持在人工智能竞赛的前沿。在一次新闻发布会上，高管们强调，在衡量人工智能模型性能的几个热门行业排行榜上，Gemini 3处于领先地位。 首席执行官桑达尔·皮查伊（Sundar Pichai）在一篇公司博客文章中将其描述为“我们最智能的模型”。",
@@ -1096,6 +1146,34 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "哥伦比亚船舶管理公司表示，伊朗已释放成品油轮塔拉拉号，21名船员全部安全。",
+          "url": "https://flash.jin10.com/detail/20251119165452836800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
+        },
+        {
+          "title": "沙特王储：将尽最大努力推动伊朗协议。",
+          "url": "https://flash.jin10.com/detail/20251119014943997800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -1108,8 +1186,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时59分 ~ 15时26分]"
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 17时30分]"
         }
       ]
     },
@@ -1144,23 +1222,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "沙特王储：将尽最大努力推动伊朗协议。",
-          "url": "https://flash.jin10.com/detail/20251119014943997800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
         }
       ]
     }
