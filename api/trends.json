@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-19T20:53:03.560404+08:00",
-  "total_titles_processed": 1636,
+  "generated_at": "2025-11-19T21:36:24.516534+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             12,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时28分 ~ 20时53分]"
+          "appearance_count": 7,
+          "time_info": "[17时28分 ~ 21时36分]"
         },
         {
           "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
@@ -254,7 +255,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
@@ -266,8 +267,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时55分 ~ 20时53分]"
+          "appearance_count": 16,
+          "time_info": "[09时55分 ~ 21时36分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -280,27 +281,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时16分 ~ 20时53分]"
-        },
-        {
-          "title": "Gemini3为何是目前最强AI",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            4,
-            12,
-            13,
-            16,
-            7,
-            20,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时55分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[11时16分 ~ 21时36分]"
         },
         {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
@@ -318,6 +300,26 @@
           "time_info": "[09时55分 ~ 16时34分]"
         },
         {
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            4,
+            12,
+            13,
+            16,
+            7,
+            20,
+            28,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[09时55分 ~ 21时36分]"
+        },
+        {
           "title": "王自如深度体验谷歌AI",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
           "source": "bilibili 热搜",
@@ -329,8 +331,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时37分 ~ 20时53分]"
+          "appearance_count": 12,
+          "time_info": "[14时37分 ~ 21时36分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -382,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "如何评价 Google 于 11 月 19 日凌晨正式发布的 Gemini 3 Pro 模型?",
+          "url": "https://www.zhihu.com/question/1974273046480184125",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
           "title": "谷歌DeepMind在新加坡设立人工智能研究实验室。",
