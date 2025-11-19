@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T07:28:24.127926+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2025-11-19T09:55:56.667905+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股、币圈、黄金“三杀”，美股跌破关键支撑位，美国市场遭遇“全面抛售”",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 07时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 09时55分]"
         },
         {
           "title": "美股收盘：担忧情绪持续发酵 三大指数齐跌 道指、纳指跌超1%",
@@ -47,11 +47,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 07时28分]"
+          "appearance_count": 3,
+          "time_info": "[06时25分 ~ 09时55分]"
         },
         {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
@@ -99,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美股科技股遭抛售 英伟达跌近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E9%81%AD%E6%8A%9B%E5%94%AE+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B7%8C%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "周二（11月18日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨1.25%，报93120美元，日内交投于89325-93960美元区间。 CME以太币期货DCR主力合约涨4.09%，报3129.50美元，日内交投于2948-3175.50美元区间。 美股加密货币与加密货币关联指数收涨2.74%，报65.33点。 MarketVector数字资产100小盘指数最近24小时涨约2.90%，暂报19435.73点。",
@@ -192,7 +204,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "谷歌CEO：如果AI泡沫破裂 没有一家公司能够毫发无损",
@@ -215,11 +227,45 @@
             3,
             14,
             8,
-            22
+            22,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时37分 ~ 07时28分]"
+          "appearance_count": 6,
+          "time_info": "[02时37分 ~ 09时55分]"
+        },
+        {
+          "title": "Gemini3为何是目前最强AI",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E4%B8%BA%E4%BD%95%E6%98%AF%E7%9B%AE%E5%89%8D%E6%9C%80%E5%BC%BAAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "如何评价谷歌正式发布的 Gemini 3？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1974260216498500253",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
+          "url": "https://www.cls.cn/detail/2204346",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "OpenAI首席执行官：祝贺谷歌推出Gemini 3，这款模型看起来很棒。",
@@ -257,6 +303,17 @@
           "time_info": "[02时37分 ~ 03时20分]"
         },
         {
+          "title": "谷歌最强大AI模型来了！Gemini 3发布首日即投入搜索、App和开发者平台同步上线",
+          "url": "https://wallstreetcn.com/articles/3759657",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
           "title": "谷歌发布超强模型Gemini 3 推理与编码能力实现巨大飞跃",
           "url": "https://flash.jin10.com/detail/20251119000857307800",
           "source": "金十数据",
@@ -277,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2204501",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "谷歌计划在澳大利亚的圣诞岛建设数据中心",
@@ -313,7 +381,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
