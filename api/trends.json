@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T02:37:16.461580+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2025-11-21T03:20:51.248765+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -27,19 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "Gemini3",
           "url": "https://s.weibo.com/weibo?q=Gemini3&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 02时37分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 03时20分]"
         },
         {
           "title": "美机器人初创公司获6亿美元融资 由谷歌旗下基金领投",
@@ -113,8 +114,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时20分]"
         },
         {
           "title": "科兴生物被美股“劝退”",
@@ -147,7 +148,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         },
@@ -158,7 +159,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
         }
@@ -178,8 +179,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 03时20分]"
         }
       ]
     }
