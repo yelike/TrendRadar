@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T09:54:18.863132+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2025-11-20T11:14:53.934074+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 11时14分]"
         },
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -29,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 09时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 11时14分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -42,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 09时54分]"
+          "appearance_count": 5,
+          "time_info": "[06时24分 ~ 11时14分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -181,7 +182,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -216,11 +217,12 @@
             5,
             6,
             10,
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 11时14分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -233,8 +235,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时33分 ~ 09时54分]"
+          "appearance_count": 12,
+          "time_info": "[00时33分 ~ 11时14分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -243,11 +245,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时37分 ~ 09时54分]"
+          "appearance_count": 9,
+          "time_info": "[02时37分 ~ 11时14分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
@@ -296,6 +299,17 @@
           "time_info": "01时23分"
         },
         {
+          "title": "谷歌(GOOG.O)：台湾地区的人工智能基础设施中心是美国以外地区最大的。",
+          "url": "https://flash.jin10.com/detail/20251120104126755800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
           "url": "https://flash.jin10.com/detail/20251120005103639800",
           "source": "金十数据",
@@ -305,6 +319,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在台湾地区开设人工智能基础设施工程中心。",
+          "url": "https://flash.jin10.com/detail/20251120103853378800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
