@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T19:22:28.918746+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2025-11-20T20:52:18.214781+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -61,11 +61,12 @@
             11,
             9,
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时33分 ~ 19时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时33分 ~ 20时52分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -156,6 +157,17 @@
           "time_info": "[16时35分 ~ 17时27分]"
         },
         {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 20时52分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 谷歌创新高",
           "url": "https://flash.jin10.com/detail/20251120050112244800",
           "source": "金十数据",
@@ -237,8 +249,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时26分 ~ 19时22分]"
+          "appearance_count": 18,
+          "time_info": "[07时26分 ~ 20时52分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
