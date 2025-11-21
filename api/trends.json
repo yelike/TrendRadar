@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-21T16:36:26.944056+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2025-11-21T17:28:52.960502+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -70,6 +70,18 @@
           "time_info": "[00时34分 ~ 04时30分]"
         },
         {
+          "title": "特朗普批鲍威尔：想立刻炒了你",
+          "url": "https://www.douyin.com/hot/2313190",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时27分 ~ 17时28分]"
+        },
+        {
           "title": "特朗普签署命令 免除部分巴西农产品40%的关税",
           "url": "https://flash.jin10.com/detail/20251121060251003800",
           "source": "金十数据",
@@ -92,18 +104,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时30分]"
-        },
-        {
-          "title": "特朗普批鲍威尔：想立刻炒了你",
-          "url": "https://www.douyin.com/hot/2313190",
-          "source": "抖音",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时27分 ~ 16时36分]"
         },
         {
           "title": "特朗普政府重组能源部 取消清洁能源办公室",
@@ -375,7 +375,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时36分"
         },
@@ -439,8 +439,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 17时28分]"
+        },
+        {
+          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
+          "url": "https://www.cls.cn/detail/2206908",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[09时59分 ~ 16时36分]"
+          "time_info": "[11时17分 ~ 17时28分]"
         },
         {
           "title": "美股收盘：英伟达财报未能稳住市场 三大指数集体收跌 纳指大跌逾2%",
@@ -456,17 +469,18 @@
           "time_info": "[06时23分 ~ 15时26分]"
         },
         {
-          "title": "英伟达光环消失！美股惨烈高台跳水 华尔街全在问：为什么？",
-          "url": "https://www.cls.cn/detail/2206908",
-          "source": "财联社热门",
+          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
+          "url": "https://wallstreetcn.com/articles/3759847",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
+            6,
             4,
-            3,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时17分 ~ 16时36分]"
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 17时28分]"
         },
         {
           "title": "【早报】美股上演“过山车式”大跳水；磷酸铁锂行业推进反内卷",
@@ -481,6 +495,19 @@
           "time_info": "[07时24分 ~ 16时36分]"
         },
         {
+          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
+          "url": "https://www.cls.cn/detail/2206941",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时30分 ~ 17时28分]"
+        },
+        {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
           "url": "https://wallstreetcn.com/articles/3759700",
           "source": "华尔街见闻",
@@ -492,33 +519,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时34分 ~ 07时24分]"
-        },
-        {
-          "title": "隔夜，美股为何巨震暴跌？高盛给出九大理由",
-          "url": "https://wallstreetcn.com/articles/3759847",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时59分 ~ 16时36分]"
-        },
-        {
-          "title": "降息前景存疑！亚太市场追随美股下挫 科技股成重灾区",
-          "url": "https://www.cls.cn/detail/2206941",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时30分 ~ 16时36分]"
         },
         {
           "title": "美股为何巨震暴跌",
@@ -554,6 +554,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时24分 ~ 06时23分]"
+        },
+        {
+          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
+          "url": "https://wallstreetcn.com/articles/3759849",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时39分 ~ 17时28分]"
         },
         {
           "title": "金十图示：2025年11月20日（周四）热门中概股行情一览（美股收盘）",
@@ -593,18 +605,6 @@
           "time_info": "[13时27分 ~ 16时36分]"
         },
         {
-          "title": "美股大跌的“罪魁祸首”！英伟达日内惨跌7%，“大空头”财报后密集“放炮”",
-          "url": "https://wallstreetcn.com/articles/3759849",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时39分 ~ 16时36分]"
-        },
-        {
           "title": "科兴生物被美股“劝退”",
           "url": "https://www.toutiao.com/trending/7574778331892026934/",
           "source": "今日头条",
@@ -628,6 +628,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时24分]"
+        },
+        {
+          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
+          "url": "https://www.cls.cn/detail/2207216",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时36分 ~ 17时28分]"
         },
         {
           "title": "（美股）费城金银指数收跌5.06%，报281.81点，美股盘初微幅上涨至301.10点刷新日高，随后逐步回吐涨幅并转跌，01:00过后持续低位震荡。 纽约证交所ARCA金矿开采商指数收跌4.02%，报2065.29点。",
@@ -708,17 +720,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
-        },
-        {
-          "title": "美国消费“凉了”？美股45年来首次出现这一幕……",
-          "url": "https://www.cls.cn/detail/2207216",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时36分"
         },
         {
           "title": "美股尾盘，标普500指数跌1.3%，道指跌0.65%，纳指跌443点跌幅2%，纳斯达克100指数跌526点跌幅2.14%，半导体指数跌2.59%。",
@@ -1212,8 +1213,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时59分 ~ 16时36分]"
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 17时28分]"
         },
         {
           "title": "英伟达业绩驱散悲观情绪，“悲喜交织”就业数据后，美股指数高开高走，美债上扬",
