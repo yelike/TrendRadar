@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T12:29:05.353589+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2025-11-22T13:23:53.136765+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
@@ -79,8 +79,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 12时29分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 13时23分]"
         },
         {
           "title": "小盘股指ETF收涨超3.8%，和地产ETF领跑美股大类资产类ETF",
@@ -90,11 +90,12 @@
             1,
             8,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时23分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -104,11 +105,12 @@
             4,
             11,
             20,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时23分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.82%，报284.12点，本周累计下跌3.50%，11月20日美股早盘出现一波显著的下跌行情。 纽约证交所ARCA金矿开采商指数收跌0.11%，报2063.11点，本周累跌4.41%。",
@@ -242,7 +244,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -253,8 +255,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时50分 ~ 12时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时50分 ~ 13时23分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -288,8 +290,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 13时23分]"
         },
         {
           "title": "Gemini3玩法大全",
@@ -300,8 +302,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时09分 ~ 12时29分]"
+          "appearance_count": 4,
+          "time_info": "[11时09分 ~ 13时23分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
@@ -314,6 +316,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时21分]"
+        },
+        {
+          "title": "“王者归来”之后 谷歌再下重注：世界模型将迎来“ChatGPT时刻”",
+          "url": "https://www.cls.cn/detail/2207169",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         },
         {
           "title": "谷歌推出BigQuery AI",
@@ -384,11 +397,12 @@
             8,
             15,
             24,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 13时23分]"
         }
       ]
     }
