@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-22T14:34:17.507528+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2025-11-22T15:22:29.206853+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -53,8 +53,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 14时34分]"
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 15时22分]"
         },
         {
           "title": "风险资产迎来多空激战 美股三大期指盘前翻红 | 今夜看点",
@@ -92,11 +92,12 @@
             17,
             21,
             23,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时22分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 15时22分]"
         },
         {
           "title": "全球航空业ETF收涨3.5%，和银行业ETF领跑美股行业ETF，本周半导体ETF跌超5.4%、科技行业ETF累跌超5%",
@@ -126,6 +127,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时25分 ~ 11时09分]"
+        },
+        {
+          "title": "美股深夜反弹 中国资产爆发",
+          "url": "https://www.toutiao.com/trending/7575388560119827987/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时33分 ~ 15时22分]"
         },
         {
           "title": "英伟达股价短线拉升，日内整体上涨1.9%，美股早盘一度下跌超4%。 标普500指数上涨1.75%，道指涨811点涨幅1.77%，纳指涨399点涨幅1.81%，纳斯达克100指数涨406点涨幅1.66%，半导体指数涨1.99%。",
@@ -174,17 +187,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时22分]"
-        },
-        {
-          "title": "美股深夜反弹 中国资产爆发",
-          "url": "https://www.toutiao.com/trending/7575388560119827987/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 14时34分]"
         },
         {
           "title": "美股三大股指均涨超1%，英伟达(NVDA.O)日内转涨，此前一度跌4%。",
@@ -267,8 +269,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时50分 ~ 14时34分]"
+          "appearance_count": 9,
+          "time_info": "[09时50分 ~ 15时22分]"
+        },
+        {
+          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
+          "url": "https://wallstreetcn.com/articles/3759885",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时09分 ~ 15时22分]"
+        },
+        {
+          "title": "Gemini3玩法大全",
+          "url": "https://www.douyin.com/hot/2314134",
+          "source": "抖音",
+          "ranks": [
+            10,
+            11,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时09分 ~ 15时22分]"
         },
         {
           "title": "谷歌公司推出BigQuery AI。",
@@ -280,31 +308,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
-        },
-        {
-          "title": "承认谷歌超越！奥特曼内部信曝光：OpenAI领先优势缩小，预警“艰难时刻”到来",
-          "url": "https://wallstreetcn.com/articles/3759885",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时09分 ~ 14时34分]"
-        },
-        {
-          "title": "Gemini3玩法大全",
-          "url": "https://www.douyin.com/hot/2314134",
-          "source": "抖音",
-          "ranks": [
-            10,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时09分 ~ 14时34分]"
         },
         {
           "title": "谷歌反垄断案：美国法官询问拆分广告技术业务的补救措施生效时间，称“时间至关重要”",
@@ -324,11 +327,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时23分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[13时23分 ~ 15时22分]"
         },
         {
           "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
