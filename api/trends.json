@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T06:23:15.963409+08:00",
-  "total_titles_processed": 386,
+  "generated_at": "2025-11-23T07:23:32.648905+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -29,8 +29,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -42,11 +42,12 @@
             29,
             26,
             22,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "Gemini-3-pro 为什么提升那么大?",
@@ -55,11 +56,12 @@
           "ranks": [
             10,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时33分 ~ 06时23分]"
+          "appearance_count": 7,
+          "time_info": "[02时33分 ~ 07时23分]"
         }
       ]
     },
@@ -76,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -88,8 +90,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 06时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 07时23分]"
         }
       ]
     }
