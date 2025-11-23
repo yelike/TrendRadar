@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T10:09:49.220204+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2025-11-23T11:59:36.831199+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 11时59分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -43,11 +43,12 @@
             9,
             12,
             16,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时33分 ~ 10时09分]"
+          "appearance_count": 9,
+          "time_info": "[02时33分 ~ 11时59分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -63,8 +64,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时28分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时28分 ~ 11时59分]"
         }
       ]
     },
@@ -81,8 +82,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 11时59分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
@@ -94,8 +95,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时09分]"
+          "appearance_count": 11,
+          "time_info": "[00时28分 ~ 11时59分]"
         }
       ]
     }
