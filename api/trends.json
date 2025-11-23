@@ -1,124 +1,22 @@
 {
-  "generated_at": "2025-11-23T23:23:17.735432+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2025-11-24T00:29:28.452632+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "谷歌、微软“双杀”逼近，OpenAI陷入空前危机！",
-          "url": "https://wallstreetcn.com/articles/3759931",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 15时23分]"
-        },
-        {
-          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
-          "url": "https://wallstreetcn.com/articles/3759917",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时28分 ~ 10时09分]"
-        },
-        {
-          "title": "Gemini-3-pro 为什么提升那么大?",
-          "url": "https://www.zhihu.com/question/1974915118199509365",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9,
-            12,
-            16,
-            15,
-            14,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时33分 ~ 13时24分]"
-        },
-        {
-          "title": "Gemini3适合用来编程吗",
-          "url": "https://www.douyin.com/hot/2314319",
-          "source": "抖音",
-          "ranks": [
-            23,
-            18,
-            29,
-            26,
-            22,
-            24,
-            19,
-            14,
-            9,
-            21,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时28分 ~ 17时24分]"
-        },
         {
           "title": "Gemini3.0炸裂玩法合集",
           "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
           "source": "bilibili 热搜",
           "ranks": [
-            20,
-            30,
-            10,
-            13,
-            26
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时24分 ~ 23时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：美联储“鸽声”提振市场 三大指数集体反弹 道指涨超1%",
-          "url": "https://www.cls.cn/detail/2207916",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时28分 ~ 18时24分]"
-        },
-        {
-          "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
-          "url": "https://wallstreetcn.com/articles/3759920",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 11时59分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
