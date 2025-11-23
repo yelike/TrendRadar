@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-23T14:35:30.188439+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2025-11-23T15:23:37.034756+08:00",
+  "total_titles_processed": 778,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 15时23分]"
         },
         {
           "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
@@ -64,11 +64,12 @@
             22,
             24,
             19,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时28分 ~ 14时35分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 15时23分]"
         }
       ]
     },
@@ -86,8 +87,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 14时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 15时23分]"
         },
         {
           "title": "美股惊魂一周，纳指创4月来最大三周跌幅，华尔街现在很焦虑！",
