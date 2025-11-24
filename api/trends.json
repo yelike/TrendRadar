@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T00:29:46.415664+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-25T01:24:58.080993+08:00",
+  "total_titles_processed": 368,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -26,19 +26,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "降息预期重燃市场信心 美股三大期指集体走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2209422",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "appearance_count": 2,
+          "time_info": "[00时29分 ~ 01时24分]"
         },
         {
           "title": "减肥药概念股涨跌各异，ANAB美股盘初涨4.7%，Hims & Hers涨4.3%，渤健BIIB涨2.7%，礼来则微跌，雅培跌超0.6%，诺和诺德ADR跌超9%。",
