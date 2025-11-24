@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T12:41:00.240871+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2025-11-24T13:27:55.340183+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
@@ -23,8 +23,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时29分 ~ 11时59分]"
+          "appearance_count": 15,
+          "time_info": "[00时29分 ~ 13时27分]"
         },
         {
           "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
@@ -32,11 +32,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            10
+            10,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 13时27分]"
         },
         {
           "title": "中信证券：英伟达指引、Google Gemini 3超预期 持续看好AI PCB板块",
