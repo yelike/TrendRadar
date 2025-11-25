@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T16:35:05.753803+08:00",
-  "total_titles_processed": 1407,
+  "generated_at": "2025-11-25T17:30:18.991802+08:00",
+  "total_titles_processed": 1505,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时26分 ~ 16时35分]"
+          "appearance_count": 7,
+          "time_info": "[13时26分 ~ 17时30分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -73,11 +73,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时25分 ~ 16时35分]"
+          "appearance_count": 5,
+          "time_info": "[15时25分 ~ 17时30分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
@@ -123,6 +124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘前上涨2.6%，此前有消息称Meta公司正洽谈斥资数十亿美元购买谷歌的芯片。",
+          "url": "https://flash.jin10.com/detail/20251125170751435800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时30分"
         },
         {
           "title": "英伟达盘后跌2%，报道称，Meta寻求为自家数据中心采用谷歌TPUs。",
