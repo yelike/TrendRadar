@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T17:30:18.991802+08:00",
-  "total_titles_processed": 1505,
+  "generated_at": "2025-11-25T18:31:07.614134+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -28,11 +28,25 @@
           "ranks": [
             8,
             7,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时26分 ~ 18时31分]"
+        },
+        {
+          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
+          "url": "https://wallstreetcn.com/articles/3760047",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时26分 ~ 17时30分]"
+          "time_info": "[15时25分 ~ 18时31分]"
         },
         {
           "title": "谷歌A收涨6.31%，报318.58美元，市值3.84万亿美元。",
@@ -68,17 +82,15 @@
           "time_info": "07时24分"
         },
         {
-          "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
-          "url": "https://wallstreetcn.com/articles/3760047",
-          "source": "华尔街见闻",
+          "title": "AI芯片竞赛升级！Meta据悉转向谷歌TPU 英伟达“王位”不稳？",
+          "url": "https://www.cls.cn/detail/2210305",
+          "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时25分 ~ 17时30分]"
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
@@ -132,7 +144,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时30分"
         },
@@ -239,7 +251,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股高开，中概指数早盘涨超2%跑赢大盘，比特币持续位于8.7万美元下方",
@@ -279,6 +291,17 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时29分 ~ 14时39分]"
+        },
+        {
+          "title": "蔚来美股盘前涨超9%，公司展望第四季度总营收将在327.58亿元至340.39亿元之间；预计2025年第四季度的汽车交付量将在120,000辆至125,000辆之间。",
+          "url": "https://wallstreetcn.com/livenews/3010161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "美联储12月降息预期飙升，美股科技股领衔“万物齐涨”，加密货币和黄金同步走高",
@@ -400,6 +423,17 @@
           "time_info": "[02时37分 ~ 03时19分]"
         },
         {
+          "title": "美股三大股指期货跌幅扩大，道指期货跌0.19%，标普500指数期货跌0.28%，纳斯达克100指数期货跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3010137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
+        },
+        {
           "title": "闪迪(SNDK.O)美股盘后大涨超10%，此前公司被纳入标普500指数。",
           "url": "https://flash.jin10.com/detail/20251125062141366800",
           "source": "金十数据",
@@ -420,6 +454,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时24分"
+        },
+        {
+          "title": "分析：美股若震荡加剧，或迫使美联储降息",
+          "url": "https://flash.jin10.com/detail/20251125180247597800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时31分"
         },
         {
           "title": "标普道琼斯指数公司宣布，将Sandisk纳入标普500指数，取代Interpublic Group（IPG）。 将PTC Therapeutics纳入标普600小盘股指。 Sandisk（SNDK）美股盘后涨7%，PTC涨3%。",
@@ -458,7 +503,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "多家黄金珠宝品牌足金饰品价格升至1315元/克左右",
@@ -471,6 +516,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时31分 ~ 13时26分]"
+        },
+        {
+          "title": "今日各大金店黄金价格",
+          "url": "https://www.toutiao.com/trending/7576557054421110281/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时30分 ~ 18时31分]"
         },
         {
           "title": "美国银行：黄金价格2026年或将达到5000美元",
