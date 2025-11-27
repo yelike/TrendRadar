@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T18:29:45.849243+08:00",
-  "total_titles_processed": 1675,
+  "generated_at": "2025-11-27T19:23:12.177676+08:00",
+  "total_titles_processed": 1727,
   "failed_sources": [],
   "trends": [
     {
@@ -211,8 +211,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时54分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时54分 ~ 19时23分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -224,6 +224,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时24分]"
+        },
+        {
+          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
+          "url": "https://www.cls.cn/detail/2212466",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时38分 ~ 19时23分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -248,20 +263,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 07时24分]"
-        },
-        {
-          "title": "“AI新王”强势崛起！大摩：2027年谷歌TPU外销量或达100万颗",
-          "url": "https://www.cls.cn/detail/2212466",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 18时29分]"
         },
         {
           "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
@@ -307,11 +308,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            18
+            18,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时29分 ~ 18时29分]"
+          "appearance_count": 3,
+          "time_info": "[17时29分 ~ 19时23分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，成分股Applovin涨5.6%，迈威尔科技涨5.4%，阿斯麦ADR涨4.8%，AMD涨3.6%，英特尔涨3.4%，谷歌A则跌1.2%。 标普500指数涨超0.8%，道指涨352点涨幅0.7%，纳指涨超0.9%。半导体指数涨2.8%。",
@@ -393,8 +395,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时28分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[17时28分 ~ 19时23分]"
         }
       ]
     }
