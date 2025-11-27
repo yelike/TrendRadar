@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T21:37:11.771357+08:00",
-  "total_titles_processed": 1868,
+  "generated_at": "2025-11-27T22:27:18.597145+08:00",
+  "total_titles_processed": 1933,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时58分 ~ 21时37分]"
+          "appearance_count": 19,
+          "time_info": "[09时58分 ~ 22时27分]"
         },
         {
           "title": "特朗普先后与中日领导人通话，对日本的“战略冒进”踩下刹车",
@@ -62,24 +62,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时34分 ~ 16时36分]"
-        },
-        {
-          "title": "特朗普施压高市别在台湾问题上挑衅",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            7,
-            11,
-            15,
-            13,
-            21,
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时18分 ~ 21时37分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -100,6 +82,25 @@
           "time_info": "[00时34分 ~ 20时55分]"
         },
         {
+          "title": "特朗普施压高市别在台湾问题上挑衅",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            7,
+            11,
+            15,
+            13,
+            21,
+            29,
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时18分 ~ 22时27分]"
+        },
+        {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32049650",
           "source": "澎湃新闻",
@@ -113,8 +114,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时18分 ~ 21时37分]"
+          "appearance_count": 17,
+          "time_info": "[11时18分 ~ 22时27分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -226,6 +227,20 @@
           "time_info": "[11时18分 ~ 15时27分]"
         },
         {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            22,
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时23分 ~ 22时27分]"
+        },
+        {
           "title": "特朗普称不再给乌克兰设最后期限",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%B8%8D%E5%86%8D%E7%BB%99%E4%B9%8C%E5%85%8B%E5%85%B0%E8%AE%BE%E6%9C%80%E5%90%8E%E6%9C%9F%E9%99%90",
           "source": "百度热搜",
@@ -249,19 +264,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "特朗普所有刑事指控已终结",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时23分 ~ 21时37分]"
         },
         {
           "title": "特朗普为何称明年G20峰会不邀请南非",
@@ -729,8 +731,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时58分 ~ 21时37分]"
+          "appearance_count": 19,
+          "time_info": "[09时58分 ~ 22时27分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -799,11 +801,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时55分 ~ 21时37分]"
+          "appearance_count": 4,
+          "time_info": "[20时55分 ~ 22时27分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -896,19 +899,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时27分 ~ 21时37分]"
+          "appearance_count": 13,
+          "time_info": "[13时27分 ~ 22时27分]"
         },
         {
           "title": "OpenAI真要成“烧钱无底洞”？汇丰：到2030年仍难以盈利",
           "url": "https://www.cls.cn/detail/2213059",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时36分 ~ 21时37分]"
+          "appearance_count": 3,
+          "time_info": "[21时36分 ~ 22时27分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -984,11 +988,12 @@
           "url": "https://wallstreetcn.com/livenews/3011557",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时27分]"
         },
         {
           "title": "用DeepSeek搜巴黎男乒冠军显示王楚钦",
