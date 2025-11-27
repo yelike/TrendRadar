@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T04:26:10.055349+08:00",
-  "total_titles_processed": 472,
+  "generated_at": "2025-11-28T05:22:28.798108+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时22分]"
         },
         {
           "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时22分]"
         }
       ]
     },
@@ -45,8 +46,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时22分]"
         }
       ]
     },
@@ -77,11 +78,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 04时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 05时22分]"
         }
       ]
     }
