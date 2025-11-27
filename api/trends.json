@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T14:39:16.911615+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2025-11-27T15:26:27.181926+08:00",
+  "total_titles_processed": 1378,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 14时39分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 15时26分]"
         },
         {
           "title": "降息预期升温，全球股市齐涨，美股集体高开，甲骨文涨超6%",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时23分 ~ 14时39分]"
+          "appearance_count": 10,
+          "time_info": "[07时23分 ~ 15时26分]"
         },
         {
           "title": "市场情绪持续回暖 美股三大期指集体走高 | 今夜看点",
@@ -222,8 +222,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时54分 ~ 14时39分]"
+          "appearance_count": 8,
+          "time_info": "[09时54分 ~ 15时26分]"
         },
         {
           "title": "英伟达大跌后罕见安抚市场：我司GPU比谷歌AI芯片领先一代",
@@ -292,11 +292,12 @@
           "url": "https://www.cls.cn/detail/2212466",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时26分]"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至1%，成分股Applovin涨5.6%，迈威尔科技涨5.4%，阿斯麦ADR涨4.8%，AMD涨3.6%，英特尔涨3.4%，谷歌A则跌1.2%。 标普500指数涨超0.8%，道指涨352点涨幅0.7%，纳指涨超0.9%。半导体指数涨2.8%。",
@@ -320,11 +321,12 @@
           "url": "https://www.toutiao.com/trending/7576229938517852170/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时38分 ~ 14时39分]"
+          "appearance_count": 3,
+          "time_info": "[14时38分 ~ 15时26分]"
         }
       ]
     },
