@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-28T09:54:48.949667+08:00",
-  "total_titles_processed": 746,
+  "generated_at": "2025-11-28T11:16:38.704634+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek开源新模型",
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 09时54分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 11时16分]"
         },
         {
           "title": "如何看待 DeepSeek 发布的新模型 DeepSeek-Math-V2？",
@@ -27,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 09时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 11时16分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -39,8 +40,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时23分 ~ 09时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时23分 ~ 11时16分]"
+        },
+        {
+          "title": "DeepSeek推出新模型",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%8E%A8%E5%87%BA%E6%96%B0%E6%A8%A1%E5%9E%8B%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
@@ -84,11 +96,12 @@
           "url": "https://wallstreetcn.com/articles/3760251",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时54分 ~ 11时16分]"
         },
         {
           "title": "提醒：美股周四休市，周五将提前三个小时收盘",
