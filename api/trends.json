@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T22:22:44.757852+08:00",
-  "total_titles_processed": 1434,
+  "generated_at": "2025-11-29T23:24:14.397106+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -242,6 +242,18 @@
           "time_info": "[00时31分 ~ 07时23分]"
         },
         {
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时22分 ~ 23时24分]"
+        },
+        {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
           "url": "https://wallstreetcn.com/articles/3760369",
           "source": "华尔街见闻",
@@ -251,17 +263,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[21时30分 ~ 21时31分]"
-        },
-        {
-          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
-          "url": "https://www.zhihu.com/question/1923520417756321577",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
         }
       ]
     },
@@ -280,8 +281,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时25分 ~ 22时22分]"
+          "appearance_count": 14,
+          "time_info": "[13时25分 ~ 23时24分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -296,8 +297,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时54分 ~ 22时22分]"
+          "appearance_count": 17,
+          "time_info": "[09时54分 ~ 23时24分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
@@ -310,8 +311,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时19分 ~ 22时22分]"
+          "appearance_count": 8,
+          "time_info": "[19时19分 ~ 23时24分]"
         }
       ]
     },
