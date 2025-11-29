@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T14:35:57.829021+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2025-11-29T15:23:45.624148+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,22 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时35分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
+          "url": "https://www.cls.cn/detail/2214656",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时23分 ~ 15时23分]"
         },
         {
           "title": "美股三大股指收涨 英特尔涨超10%",
@@ -102,20 +116,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时28分 ~ 09时54分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五个交易日 英特尔股价暴升10%",
-          "url": "https://www.cls.cn/detail/2214656",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时23分 ~ 14时35分]"
         },
         {
           "title": "黄金ETF收涨超1.2%，和布油基金领跑美股大类资产类ETF，黄金ETF今年已涨超60%",
@@ -239,8 +239,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时54分 ~ 14时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 15时23分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -251,8 +251,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时23分]"
         }
       ]
     },
