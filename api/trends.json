@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T10:08:32.778308+08:00",
-  "total_titles_processed": 547,
+  "generated_at": "2025-11-30T11:59:42.991206+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 10时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 11时59分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -37,11 +38,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 10时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 11时59分]"
         }
       ]
     },
@@ -57,11 +59,12 @@
             5,
             4,
             3,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 10时08分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 11时59分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
