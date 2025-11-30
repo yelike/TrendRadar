@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T04:27:54.502860+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2025-12-01T05:22:38.476028+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时22分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -41,8 +42,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     },
@@ -58,8 +59,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时29分 ~ 04时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时29分 ~ 05时22分]"
         }
       ]
     }
