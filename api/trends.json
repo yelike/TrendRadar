@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T07:23:47.100158+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2025-11-30T10:08:32.778308+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -16,30 +16,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 10时08分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 10时08分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 10时08分]"
         }
       ]
     },
@@ -58,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时23分]"
+          "appearance_count": 10,
+          "time_info": "[00时30分 ~ 10时08分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -67,11 +69,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时20分 ~ 07时23分]"
+          "appearance_count": 6,
+          "time_info": "[03时20分 ~ 10时08分]"
         }
       ]
     },
@@ -86,7 +89,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         }
