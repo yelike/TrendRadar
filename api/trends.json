@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T13:25:47.086005+08:00",
-  "total_titles_processed": 740,
+  "generated_at": "2025-11-30T14:37:35.769007+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             5,
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 13时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 14时37分]"
         }
       ]
     },
@@ -61,11 +62,12 @@
             4,
             3,
             2,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时30分 ~ 13时25分]"
+          "appearance_count": 15,
+          "time_info": "[00时30分 ~ 14时37分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
