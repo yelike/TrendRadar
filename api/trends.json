@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T21:31:15.875911+08:00",
-  "total_titles_processed": 1171,
+  "generated_at": "2025-11-30T22:22:40.069910+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
@@ -53,22 +53,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 22时22分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时47分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[20时47分 ~ 22时22分]"
         }
       ]
     },
@@ -89,11 +91,12 @@
             16,
             14,
             15,
-            19
+            19,
+            11
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时30分 ~ 21时31分]"
+          "appearance_count": 25,
+          "time_info": "[00时30分 ~ 22时22分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
