@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T02:42:02.373088+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2025-12-02T03:26:50.503667+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -41,8 +41,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -53,8 +53,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时26分]"
         }
       ]
     },
@@ -70,8 +70,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -82,30 +82,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 03时26分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251202013128346800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时26分]"
         },
         {
           "title": "金十图示：2025年12月01日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251202013125562800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时26分]"
         }
       ]
     }
