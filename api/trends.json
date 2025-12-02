@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T14:40:22.202965+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2025-12-02T15:28:02.461381+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -193,8 +193,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 14时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 15时28分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -207,8 +207,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时36分 ~ 14时40分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 15时28分]"
         },
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -218,8 +218,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 15时28分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -232,6 +232,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时36分 ~ 07时25分]"
+        },
+        {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 15时28分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -249,20 +263,6 @@
           "time_info": "[00时36分 ~ 06时24分]"
         },
         {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时40分]"
-        },
-        {
           "title": "DeepSeek新模型追平Gemini",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
           "source": "bilibili 热搜",
@@ -273,8 +273,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 15时28分]"
         },
         {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
@@ -283,9 +283,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 15时28分]"
         }
       ]
     },
@@ -302,8 +302,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时59分 ~ 14时40分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 15时28分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -336,11 +336,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时40分]"
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 15时28分]"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
