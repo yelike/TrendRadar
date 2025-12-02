@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T03:24:39.175355+08:00",
-  "total_titles_processed": 484,
+  "generated_at": "2025-12-03T04:31:18.158122+08:00",
+  "total_titles_processed": 507,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
@@ -27,8 +27,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -38,8 +38,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时24分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
         },
         {
           "title": "英特尔(INTC.O)美股涨超8%。",
@@ -98,11 +98,23 @@
           "ranks": [
             10,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
+        },
+        {
+          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
+          "url": "https://www.cls.cn/detail/2217188",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
         },
         {
           "title": "亚马逊急推最新AI芯片，挑战英伟达和谷歌",
@@ -115,17 +127,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时27分]"
-        },
-        {
-          "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
-          "url": "https://www.cls.cn/detail/2217188",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 03时24分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -152,11 +153,12 @@
             8,
             10,
             9,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
@@ -167,8 +169,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "DeepSeek新模型追平Gemini",
@@ -180,8 +182,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
@@ -192,8 +194,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时36分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时36分 ~ 04时31分]"
         }
       ]
     }
