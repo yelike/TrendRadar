@@ -1,33 +1,57 @@
 {
-  "generated_at": "2025-12-04T00:37:34.462307+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-04T01:28:09.913073+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
           "url": "https://wallstreetcn.com/articles/3760523",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时28分]"
         },
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
           "url": "https://wallstreetcn.com/articles/3760624",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时28分]"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时28分]"
+        },
+        {
+          "title": "美股机器人概念股走强",
+          "url": "https://flash.jin10.com/detail/20251204010100994800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时28分"
         },
         {
           "title": "微软(MSFT.O)美股跌幅收窄，现跌1.5%。",
@@ -51,11 +75,12 @@
           "url": "https://www.zhihu.com/question/1979307622185341611",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时28分]"
         }
       ]
     },
@@ -68,11 +93,12 @@
           "url": "https://wallstreetcn.com/articles/3760564",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时28分]"
         }
       ]
     }
