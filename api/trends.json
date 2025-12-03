@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T07:36:44.128239+08:00",
-  "total_titles_processed": 687,
+  "generated_at": "2025-12-03T09:58:45.958786+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -20,6 +20,18 @@
           "time_info": "[00时36分 ~ 06时28分]"
         },
         {
+          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2217558",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时40分 ~ 09时58分]"
+        },
+        {
           "title": "美股三大指数小幅高开 英伟达涨超1%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
           "source": "百度热搜",
@@ -31,26 +43,26 @@
           "time_info": "[00时36分 ~ 06时28分]"
         },
         {
-          "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2217558",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时40分 ~ 07时36分]"
-        },
-        {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
           "url": "https://www.cls.cn/detail/2217711",
           "source": "财联社热门",
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 09时58分]"
+        },
+        {
+          "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时36分"
+          "time_info": "09时58分"
         },
         {
           "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股收盘）",
@@ -70,7 +82,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
@@ -192,7 +204,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -208,6 +220,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 07时36分]"
+        },
+        {
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时58分"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -250,9 +273,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 09时58分]"
         },
         {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
@@ -282,8 +305,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时36分 ~ 07时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时36分 ~ 09时58分]"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
