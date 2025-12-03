@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T22:28:28.313476+08:00",
-  "total_titles_processed": 1993,
+  "generated_at": "2025-12-03T23:31:10.453862+08:00",
+  "total_titles_processed": 2078,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时58分 ~ 22时28分]"
+          "appearance_count": 19,
+          "time_info": "[09时58分 ~ 23时31分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -67,6 +67,17 @@
           "time_info": "[00时36分 ~ 06时28分]"
         },
         {
+          "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
+          "url": "https://wallstreetcn.com/articles/3760624",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时30分 ~ 23时31分]"
+        },
+        {
           "title": "金十图示：2025年12月02日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251203050515362800",
           "source": "金十数据",
@@ -111,6 +122,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时55分 ~ 21时40分]"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时31分]"
         },
         {
           "title": "周二（12月2日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘涨5.42%，报91860美元，北京时间22:00之前大致持平，之后显著走高，03:41刷新日高至92705美元。 CME以太币期货DCR主力合约涨7.37%，报3000美元。 美股加密货币与加密货币关联指数跌2.70%，报66.63点。 最近24小时，MarketVector数字资产100小盘指数涨6.31%，暂报18906.56点。",
@@ -167,7 +190,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -178,7 +201,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -227,24 +250,13 @@
           "time_info": "02时40分"
         },
         {
-          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2218814",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
-        },
-        {
           "title": "周三美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3014495",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -266,7 +278,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -280,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "能源业ETF涨0.65%，在美股盘初领跑行业ETF，半导体ETF则跌0.22%，科技行业ETF跌0.6%，全球科技股指数ETF跌0.72%。",
+          "url": "https://wallstreetcn.com/livenews/3014514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "甲骨文(ORCL.N)美股盘前上涨1.8%；富国银行首次覆盖并给予“超配评级”。",
@@ -307,8 +330,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时58分 ~ 22时28分]"
+          "appearance_count": 19,
+          "time_info": "[09时58分 ~ 23时31分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -402,7 +425,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时28分"
         },
@@ -486,17 +509,18 @@
           "url": "https://www.zhihu.com/question/1979307622185341611",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时28分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时28分 ~ 23时31分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美债收益率小幅走低 市场聚焦ADP就业和ISM服务业数据",
@@ -508,6 +532,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "在美国11月ISM非制造业PMI公布后，美债收益率短暂延续跌势，10年期收益率跌1.9个基点，报4.069%。",
+          "url": "https://flash.jin10.com/detail/20251203230409250800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     }
