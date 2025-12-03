@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T16:36:17.049800+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2025-12-03T17:31:07.042457+08:00",
+  "total_titles_processed": 1531,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时58分 ~ 16时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 17时31分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -217,8 +217,22 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时58分 ~ 16时36分]"
+          "appearance_count": 10,
+          "time_info": "[09时58分 ~ 17时31分]"
+        },
+        {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时34分 ~ 17时31分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -234,20 +248,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 07时36分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时34分 ~ 16时36分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
