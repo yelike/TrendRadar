@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T03:22:50.380386+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2025-12-04T04:31:25.391088+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时31分]"
         },
         {
           "title": "小非农超预期降温，美股集体低开，美元短线跳水，伦铜涨破纪录，白银高位震荡，比特币短线V形反弹",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时31分]"
         },
         {
           "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
@@ -40,8 +41,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时27分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时27分 ~ 04时31分]"
         },
         {
           "title": "美股机器人概念股走强",
@@ -62,11 +63,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时31分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）美股热门股票行情一览（美股盘中）",
@@ -131,8 +133,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时31分]"
         }
       ]
     },
@@ -149,8 +151,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时31分]"
         }
       ]
     }
