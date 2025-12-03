@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T18:31:45.347018+08:00",
-  "total_titles_processed": 1620,
+  "generated_at": "2025-12-03T19:25:04.800130+08:00",
+  "total_titles_processed": 1697,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 19时25分]"
         },
         {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
@@ -206,7 +206,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -217,8 +217,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时58分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[09时58分 ~ 19时25分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -231,8 +231,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时34分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[12时34分 ~ 19时25分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -248,6 +248,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时36分 ~ 07时36分]"
+        },
+        {
+          "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
+          "url": "https://flash.jin10.com/detail/20251203190054995800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
