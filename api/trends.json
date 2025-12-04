@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T10:00:12.635146+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2025-12-04T11:26:46.878220+08:00",
+  "total_titles_processed": 900,
   "failed_sources": [],
   "trends": [
     {
@@ -34,18 +34,6 @@
           "time_info": "[00时37分 ~ 06时26分]"
         },
         {
-          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2218814",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 06时26分]"
-        },
-        {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
@@ -53,8 +41,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 11时26分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -65,8 +53,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 10时00分]"
+          "appearance_count": 5,
+          "time_info": "[07时22分 ~ 11时26分]"
+        },
+        {
+          "title": "美国11月ADP就业减少3.2万 美股三大期指集体上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2218814",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时27分 ~ 06时26分]"
         },
         {
           "title": "美股机器人概念股走强",
