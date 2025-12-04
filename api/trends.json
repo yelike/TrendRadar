@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-04T13:26:27.525465+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-12-04T14:39:28.965545+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
@@ -40,11 +40,12 @@
           "ranks": [
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 13时26分]"
+          "appearance_count": 8,
+          "time_info": "[07时22分 ~ 14时39分]"
         },
         {
           "title": "美股机器人板块整体走强 据称美国政府已准备布局这一领域",
