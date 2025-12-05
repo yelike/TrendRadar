@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T00:33:54.145620+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-06T01:24:04.885267+08:00",
+  "total_titles_processed": 373,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3760711",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         },
         {
           "title": "PCE公布前，美股集体高开，美债承压，金银油涨，比特币跌幅扩大",
           "url": "https://wallstreetcn.com/articles/3760797",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 01时24分]"
         }
       ]
     },
@@ -40,11 +42,12 @@
           "url": "https://flash.jin10.com/detail/20251205235821569800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时24分]"
         }
       ]
     }
