@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T20:53:35.919190+08:00",
-  "total_titles_processed": 1771,
+  "generated_at": "2025-12-05T21:37:13.540400+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
@@ -35,17 +35,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时37分 ~ 06时24分]"
-        },
-        {
-          "title": "华纳兄弟美股盘前抹去早前跌幅，上涨1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3015951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
         },
         {
           "title": "Cloudflare(NET.N)美股盘前跌幅收窄至约2%，公司在北京时间17:12称已对此前出现的问题进行修复，正在监控结果。",
@@ -96,6 +85,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时25分 ~ 07时25分]"
+        },
+        {
+          "title": "华纳兄弟美股盘前抹去早前跌幅，上涨1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3015951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 21时37分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 英特尔跌超7%",
@@ -191,7 +192,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -202,7 +203,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -224,7 +225,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -235,7 +236,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -257,7 +258,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -279,7 +280,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         },
@@ -320,8 +321,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时59分 ~ 20时53分]"
+          "appearance_count": 17,
+          "time_info": "[09时59分 ~ 21时37分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
