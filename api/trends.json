@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T01:21:05.551142+08:00",
-  "total_titles_processed": 340,
+  "generated_at": "2025-12-07T02:33:47.366893+08:00",
+  "total_titles_processed": 358,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3760832",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
@@ -45,8 +46,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -56,8 +57,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     },
@@ -87,11 +88,12 @@
           "url": "https://www.zhihu.com/question/1980690727324312412",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时29分 ~ 02时33分]"
         }
       ]
     }
