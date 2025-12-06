@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T13:25:07.302012+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2025-12-06T14:35:54.042531+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 13时25分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 14时35分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时35分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -40,11 +40,12 @@
             13,
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时24分 ~ 13时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时35分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -256,11 +257,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 14时35分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
