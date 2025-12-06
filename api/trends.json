@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T18:25:41.152191+08:00",
-  "total_titles_processed": 1250,
+  "generated_at": "2025-12-06T19:20:18.240282+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时53分 ~ 18时25分]"
+          "appearance_count": 13,
+          "time_info": "[09时53分 ~ 19时20分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时24分 ~ 18时25分]"
+          "appearance_count": 14,
+          "time_info": "[07时24分 ~ 19时20分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -45,8 +45,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时24分 ~ 18时25分]"
+          "appearance_count": 14,
+          "time_info": "[07时24分 ~ 19时20分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -214,11 +214,12 @@
             13,
             6,
             15,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时29分 ~ 18时25分]"
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 19时20分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -274,8 +275,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 18时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时24分 ~ 19时20分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
