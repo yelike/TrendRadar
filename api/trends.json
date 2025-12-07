@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T16:32:49.119854+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2025-12-07T17:25:52.125929+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
@@ -63,11 +63,12 @@
             4,
             10,
             14,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时40分 ~ 16时32分]"
+          "appearance_count": 6,
+          "time_info": "[12时40分 ~ 17时25分]"
         },
         {
           "title": "美国发生特大诈骗案 特朗普怒批",
@@ -92,11 +93,12 @@
             1,
             7,
             11,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时25分 ~ 16时32分]"
+          "appearance_count": 5,
+          "time_info": "[13时25分 ~ 17时25分]"
         },
         {
           "title": "年终总结特朗普重返白宫",
@@ -242,8 +244,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时36分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时36分 ~ 17时25分]"
         }
       ]
     },
