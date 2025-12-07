@@ -1,156 +1,39 @@
 {
-  "generated_at": "2025-12-07T23:22:50.124354+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2025-12-08T00:29:38.291559+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "预计下周二！OpenAI“紧急提前”发布GPT 5.2，应对Gemini 3的火爆",
-          "url": "https://wallstreetcn.com/articles/3760832",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时19分 ~ 07时23分]"
-        },
-        {
-          "title": "Anthropic CEO 暗讽谷歌、 OpenAI，认为深耕企业 AI 更具优势，如何评价其商业策略？",
-          "url": "https://www.zhihu.com/question/1979858915077404344",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时29分 ~ 01时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "国际乒联混合团体世界杯，国乒 8-4 瑞典队，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1980690727324312412",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时26分]"
-        },
         {
           "title": "2025 国际乒联混合团体世界杯中国 8-1 日本，蝉联冠军，如何评价本场比赛双方的表现？",
           "url": "https://www.zhihu.com/question/1981088309150183515",
           "source": "知乎",
           "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时22分 ~ 23时22分]"
-        },
-        {
-          "title": "2025 国际乒联混合团体世界杯半决赛，国乒 8-3 韩国队，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1980971148910022690",
-          "source": "知乎",
-          "ranks": [
-            8,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "标普逼近纪录高位，纳指四连涨，银铜齐创新高，比特币和美股脱钩，一度跌近5%",
-          "url": "https://wallstreetcn.com/articles/3760797",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时29分 ~ 07时23分]"
-        },
-        {
-          "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
-          "url": "https://www.cls.cn/detail/2221625",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 15时23分]"
-        },
-        {
-          "title": "美股三大指数小幅收涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E6%94%B6%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            16
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时23分"
+          "time_info": "00时29分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "第二波DeepSeek冲击：V3.2 改写中国云生态与芯片生态",
-          "url": "https://wallstreetcn.com/articles/3760844",
-          "source": "华尔街见闻",
+          "title": "【金十数据整理：周日重要消息汇总】 国内新闻： <span class=\"section-news\">1. 北京大兴机场年旅客吞吐量首次突破5000万人次。</span> <span class=\"section-news\">2. 2025医保药品目录公布：新增药品114种，50种为1类创新药。</span> <span class=\"section-news\">3. 辽宁舰正常训练遭日机滋扰，中国海军严正要求日方停止污蔑抹黑。</span> <span class=\"section-news\">4. 百度：正就分拆昆仑芯进行上市进行评估，并不保证分拆及上市将会进行。</span> <span class=\"section-news\">5. 中国驻日大使就日本自卫队飞机滋扰中国海军航母编队训练提出严正交涉。</span> <span class=\"section-news\">6. 中国央行：中国11月末黄金储备报7412万盎司，环比增加3万盎司，为连续第13个月增持黄金。</span> <span class=\"section-news\">7. 五粮液回应核心单品价格降至900元每瓶：第八代五粮液出厂价并未调整，市场所传“降价”，实为公司相关补贴支持政策落地后的价格变化。</span> 国际新闻： <span class=\"section-news\">1. 瑞银拟在2027年前再削减万名职位。</span> <span class=\"section-news\">2. 泽连斯基：本周俄向乌发射超1600架无人机。</span> <span class=\"section-news\">3. 以色列总理内塔尼亚胡拒绝退出政坛换取赦免。</span> <span class=\"section-news\">4. 尼日利亚外长：尼寻求成为金砖国家正式成员。</span> <span class=\"section-news\">5. 泰柬边境再发冲突，泰称两人受伤，柬称未还击。</span> <span class=\"section-news\">6. 消息人士：欧盟委员会可能会在12月16日宣布一项支持汽车行业的一揽子计划。</span>",
+          "url": "https://flash.jin10.com/detail/20251207230000001800",
+          "source": "金十数据",
           "ranks": [
-            7,
-            6,
-            5,
-            4,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时29分 ~ 15时23分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
