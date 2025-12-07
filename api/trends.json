@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T21:30:52.711111+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2025-12-07T22:23:01.197439+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,50 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际乒联混合团体世界杯，国乒 8-4 瑞典队，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1980690727324312412",
+          "source": "知乎",
+          "ranks": [
+            3,
+            5,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 04时26分]"
+        },
+        {
+          "title": "2025 国际乒联混合团体世界杯中国 8-1 日本，蝉联冠军，如何评价本场比赛双方的表现？",
+          "url": "https://www.zhihu.com/question/1981088309150183515",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 22时23分]"
+        },
+        {
+          "title": "2025 国际乒联混合团体世界杯半决赛，国乒 8-3 韩国队，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1980971148910022690",
+          "source": "知乎",
+          "ranks": [
+            8,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时31分 ~ 18时24分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -85,39 +129,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际乒联混合团体世界杯，国乒 8-4 瑞典队，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1980690727324312412",
-          "source": "知乎",
-          "ranks": [
-            3,
-            5,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时29分 ~ 04时26分]"
-        },
-        {
-          "title": "2025 国际乒联混合团体世界杯半决赛，国乒 8-3 韩国队，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1980971148910022690",
-          "source": "知乎",
-          "ranks": [
-            8,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时31分 ~ 18时24分]"
         }
       ]
     },
