@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T22:23:01.197439+08:00",
-  "total_titles_processed": 1286,
+  "generated_at": "2025-12-07T23:22:50.124354+08:00",
+  "total_titles_processed": 1338,
   "failed_sources": [],
   "trends": [
     {
@@ -69,11 +69,12 @@
           "url": "https://www.zhihu.com/question/1981088309150183515",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时22分 ~ 22时23分]"
+          "appearance_count": 3,
+          "time_info": "[22时22分 ~ 23时22分]"
         },
         {
           "title": "2025 国际乒联混合团体世界杯半决赛，国乒 8-3 韩国队，如何评价本场比赛？",
