@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T10:00:38.881912+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2025-12-09T11:25:38.719004+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 10时00分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 11时25分]"
         },
         {
           "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 10时00分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 11时25分]"
         },
         {
           "title": "周一（12月8日），彭博电动汽车价格回报指数涨1.11%，报3465.35点。 亚太盘初持续走高，北京时间14:35刷新日高至3479.12点，之后持续高位震荡；美股开盘后回吐部分涨幅。",
@@ -213,11 +213,12 @@
           "ranks": [
             12,
             11,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时35分 ~ 10时00分]"
+          "appearance_count": 15,
+          "time_info": "[00时35分 ~ 11时25分]"
         },
         {
           "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
@@ -227,8 +228,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 11时25分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -242,6 +243,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时26分 ~ 03时22分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 11时25分]"
         },
         {
           "title": "NextEra携手谷歌与埃克森，布局美国数据中心能源供应",
@@ -278,17 +291,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时22分]"
-        },
-        {
-          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
-          "url": "https://www.cls.cn/detail/2223387",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
@@ -351,8 +353,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 10时00分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 11时25分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
