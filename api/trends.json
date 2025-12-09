@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T02:35:42.047157+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2025-12-10T03:19:53.587873+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时19分]"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -27,8 +27,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时19分]"
+        },
+        {
+          "title": "美股费城银行指数转跌，此前一度上涨1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3017849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股盘中）",
@@ -37,7 +48,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
         },
@@ -55,6 +66,45 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI：与Anthropic和Block共同在Linux基金会下创立AAIF，并获得谷歌、微软、AWS、彭博和Cloudflare的支持。",
+          "url": "https://flash.jin10.com/detail/20251210010957028800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时26分"
+        },
+        {
+          "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
+          "url": "https://wallstreetcn.com/livenews/3017850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
+          "url": "https://flash.jin10.com/detail/20251210023813881800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -66,8 +116,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时19分]"
         },
         {
           "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
@@ -93,28 +143,12 @@
           "ranks": [
             9,
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：与Anthropic和Block共同在Linux基金会下创立AAIF，并获得谷歌、微软、AWS、彭博和Cloudflare的支持。",
-          "url": "https://flash.jin10.com/detail/20251210010957028800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时26分"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时19分]"
         }
       ]
     }
