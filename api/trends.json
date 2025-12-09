@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-12-09T14:44:36.850701+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2025-12-09T15:27:26.892775+08:00",
+  "total_titles_processed": 1309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
+        {
+          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
+          "url": "https://www.cls.cn/detail/2223379",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 15时27分]"
+        },
         {
           "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
@@ -20,18 +32,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时35分 ~ 07时25分]"
-        },
-        {
-          "title": "美股收盘：三大股指集体收跌 投资者等待美联储利率决议",
-          "url": "https://www.cls.cn/detail/2223379",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 14时44分]"
         },
         {
           "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
@@ -216,8 +216,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 14时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 15时27分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -244,8 +244,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 14时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 15时27分]"
         },
         {
           "title": "据了解沟通情况的机构买家们透露，谷歌公司将于2026年在Gemini提供广告服务。（ADWeek）",
@@ -390,11 +390,12 @@
           "url": "https://www.zhihu.com/question/1981658527434053567",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 15时27分]"
         }
       ]
     },
@@ -411,8 +412,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时59分 ~ 14时44分]"
+          "appearance_count": 7,
+          "time_info": "[09时59分 ~ 15时27分]"
         },
         {
           "title": "美债收益率冲高回落，投资者对美联储降息预期一度降温",
