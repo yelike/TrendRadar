@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T01:26:28.988944+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2025-12-10T02:35:42.047157+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
         },
         {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
@@ -27,8 +27,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
+        },
+        {
+          "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251210020030904800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         },
         {
           "title": "纳斯达克金龙中国指数跌幅收窄至不足1.7%，重新逼近7710点，美股开盘后一度跌2.01%、刷新日低至7680.18点。 热门中概股里，文远知行目前跌5.4%，贝壳跌4.4%，理想跌4.2%，百度跌4%，小鹏跌3.7%，名创优品、阿特斯太阳能至少跌2.9%。",
@@ -55,8 +66,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
         },
         {
           "title": "美国10年期国债收益率短线从4.15%反弹至4.18%上方，在北京时间23:00发布美国职位空缺数据后刷新日高。 两年期美债收益率也从日低3.5628%附近拉升至3.6064%，刷新日高；“影子美联储主席”、白宫顾问哈塞特谈论美联储降息问题、自己对特朗普政策利率态度的看法并未带来“丝毫”波动。",
@@ -81,11 +92,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 01时26分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 02时35分]"
         }
       ]
     },
@@ -100,7 +112,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
         }
