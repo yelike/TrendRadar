@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-11T06:27:13.046264+08:00",
-  "total_titles_processed": 641,
+  "generated_at": "2025-12-11T07:40:36.976274+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 38,
       "titles": [
-        {
-          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
-          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 06时27分]"
-        },
         {
           "title": "高市早苗求见特朗普",
           "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
@@ -26,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时32分 ~ 06时27分]"
+          "appearance_count": 6,
+          "time_info": "[04时32分 ~ 07时40分]"
+        },
+        {
+          "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
+          "url": "https://news.ifeng.com/c/8oyaoHd0S2N",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时47分 ~ 07时40分]"
         },
         {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -141,9 +141,31 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "高市早苗求见特朗普",
+          "url": "https://flash.jin10.com/detail/20251211072431284800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "美联储降息后 特朗普发声",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%E5%90%8E+%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "美国总统特朗普：我们刚刚在委内瑞拉附近扣押了一艘油轮。",
@@ -212,6 +234,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "特朗普警告哥伦比亚总统“最好放聪明点”",
+          "url": "https://wallstreetcn.com/livenews/3018703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "美国总统特朗普就柬埔寨与泰国问题表示：我认为我能让他们停止争斗。",
           "url": "https://flash.jin10.com/detail/20251211045830104800",
           "source": "金十数据",
@@ -251,7 +284,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -262,9 +295,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "特朗普称计划在明年初公布“加沙和平委员会”成员名单",
+          "url": "https://flash.jin10.com/detail/20251211064549059800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "鲍威尔：如果（特朗普政府）不实施新的关税，商品通胀可能会在2026年一季度见顶。 现存关税通胀应当有十分之几。",
@@ -287,6 +331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普：泽连斯基必须现实一点",
+          "url": "https://flash.jin10.com/detail/20251211064229195800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "美国总统特朗普：（谈乌克兰问题）他们希望我们在周末前往欧洲参加一场会议。我们将根据他们带回的内容做出判断。",
@@ -317,7 +372,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -344,6 +399,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "“特朗普黄金卡”开始接受申请",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "特朗普证实美国在委内瑞拉附近扣押一艘油轮",
           "url": "https://flash.jin10.com/detail/20251211044315426800",
           "source": "金十数据",
@@ -353,12 +419,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "特朗普百万美元金卡签证开始接受申请",
+          "url": "https://flash.jin10.com/detail/20251211060659681800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
@@ -373,13 +450,24 @@
           "time_info": "[01时29分 ~ 06时27分]"
         },
         {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "周三（12月10日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.63%，报92755美元，在美联储宣布降息、鲍威尔新闻发布会、美股收盘之后这段时间冲高回落。 CME以太币期货DCR主力合约涨0.82%，报3364.50美元，鲍威尔新闻发布会临近结束时也一度刷新日高。 美股加密货币与加密货币关联指数跌1.47%，报71.88点。 最近24小时，MarketVector数字资产100小盘指数跌0.86%，暂报4175.18点，曾在鲍威尔新闻发布会临近结束时刷新日高。",
           "url": "https://wallstreetcn.com/livenews/3018682",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -420,13 +508,24 @@
           "time_info": "[05时29分 ~ 06时27分]"
         },
         {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.43%，报326.61点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.50%，报2326.70点。",
           "url": "https://wallstreetcn.com/livenews/3018679",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -448,7 +547,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -459,7 +558,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -481,7 +580,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         }
@@ -489,7 +588,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
@@ -498,7 +597,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -542,9 +641,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        },
+        {
+          "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
+          "url": "https://wallstreetcn.com/livenews/3018705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         },
         {
           "title": "谷歌(GOOG.O)：推出适用于移动网页的YouTube Shorts广告服务。",
@@ -561,8 +671,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "OpenAI：所有安卓设备上的ChatGPT服务已全面恢复。",
+          "url": "https://flash.jin10.com/detail/20251211073101861800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
         {
           "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
           "url": "https://flash.jin10.com/detail/20251211040355307800",
@@ -586,6 +707,17 @@
           "time_info": "04时33分"
         },
         {
+          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
+          "url": "https://flash.jin10.com/detail/20251211064706062800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
           "title": "OpenAI未来的那些模型可能会构成“较高的”网络（安全）风险。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3018627",
           "source": "华尔街见闻-快讯",
@@ -600,7 +732,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
@@ -635,6 +767,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时29分"
+        },
+        {
+          "title": "两年期美债收益率于美联储降息日跌超7.6个基点",
+          "url": "https://wallstreetcn.com/livenews/3018697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         }
       ]
     },
@@ -705,7 +848,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         }
