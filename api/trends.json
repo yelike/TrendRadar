@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T11:57:55.806505+08:00",
-  "total_titles_processed": 1041,
+  "generated_at": "2025-12-10T12:40:19.688657+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时48分 ~ 11时57分]"
+          "appearance_count": 7,
+          "time_info": "[06时48分 ~ 12时40分]"
         },
         {
           "title": "金十图示：2025年12月09日（周二）热门中概股行情一览（美股收盘）",
@@ -194,11 +194,12 @@
           "url": "https://wallstreetcn.com/articles/3760995",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时40分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -259,8 +260,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时01分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时01分 ~ 12时40分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
