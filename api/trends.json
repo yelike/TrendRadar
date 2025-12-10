@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T16:36:39.792891+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2025-12-10T17:31:25.135908+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
@@ -243,6 +243,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
+          "url": "https://wallstreetcn.com/articles/3760999",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 17时31分]"
+        },
+        {
           "title": "三大美股指跌，H200消息刺激英伟达反弹，美债收益率两个月来新高，伦铜续创新高",
           "url": "https://wallstreetcn.com/articles/3760903",
           "source": "华尔街见闻",
@@ -252,17 +263,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时34分 ~ 07时25分]"
-        },
-        {
-          "title": "美利率决议前摩根大通拖累美股，盘中美债转跌、加密货币拉升，白银首次突破60美元",
-          "url": "https://wallstreetcn.com/articles/3760999",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 16时36分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
