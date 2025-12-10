@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-10T15:28:18.707136+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2025-12-10T16:36:39.792891+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
@@ -261,8 +261,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 15时28分]"
+          "appearance_count": 9,
+          "time_info": "[10时01分 ~ 16时36分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
