@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T03:23:39.607005+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-12-11T04:31:53.292132+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -98,8 +98,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时23分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 04时31分]"
         },
         {
           "title": "美股三大股指小幅走高，道指涨0.5%，标普500指数涨0.2%，纳指跌幅收窄至0.1%。",
@@ -108,7 +108,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -149,8 +149,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 03时23分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "市场反应：美联储决议声明发布后，美债、金价走高，道指涨幅扩大",
@@ -159,7 +159,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         },
@@ -170,7 +170,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时23分"
         }
