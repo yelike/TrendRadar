@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-11T07:40:36.976274+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2025-12-11T10:08:09.263286+08:00",
+  "total_titles_processed": 884,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "高市早苗求见特朗普",
           "url": "https://news.ifeng.com/c/8oz1gOzpqEt",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时32分 ~ 07时40分]"
+          "appearance_count": 8,
+          "time_info": "[04时32分 ~ 10时08分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -99,6 +100,18 @@
           "time_info": "[00时48分 ~ 01时29分]"
         },
         {
+          "title": "“特朗普黄金卡”开始接受申请",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 10时08分]"
+        },
+        {
           "title": "美国总统特朗普：我们有“很好的借口”拦截“委内瑞拉油轮”。",
           "url": "https://wallstreetcn.com/livenews/3018654",
           "source": "华尔街见闻-快讯",
@@ -109,6 +122,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
+          "url": "https://www.cls.cn/detail/2225986",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
         },
         {
           "title": "高通、戴尔等科技公司的CEO们出席美国总统特朗普在白宫举办的圆桌会议。",
@@ -135,6 +159,28 @@
           "time_info": "[04时33分 ~ 05时29分]"
         },
         {
+          "title": "特朗普回应美联储降息：幅度太小",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF%EF%BC%9A%E5%B9%85%E5%BA%A6%E5%A4%AA%E5%B0%8F",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
+          "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时07分 ~ 10时08分]"
+        },
+        {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
           "url": "https://flash.jin10.com/detail/20251211054743918800",
           "source": "金十数据",
@@ -152,7 +198,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -163,7 +209,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -240,7 +286,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -306,7 +352,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -339,7 +385,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -399,17 +445,6 @@
           "time_info": "05时29分"
         },
         {
-          "title": "“特朗普黄金卡”开始接受申请",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E5%8D%A1%E2%80%9D%E5%BC%80%E5%A7%8B%E6%8E%A5%E5%8F%97%E7%94%B3%E8%AF%B7",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
-        },
-        {
           "title": "特朗普证实美国在委内瑞拉附近扣押一艘油轮",
           "url": "https://flash.jin10.com/detail/20251211044315426800",
           "source": "金十数据",
@@ -427,7 +462,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         }
@@ -454,11 +489,24 @@
           "url": "https://wallstreetcn.com/articles/3761091",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 10时08分]"
+        },
+        {
+          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
+          "url": "https://www.cls.cn/detail/2225967",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 10时08分]"
         },
         {
           "title": "周三（12月10日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.63%，报92755美元，在美联储宣布降息、鲍威尔新闻发布会、美股收盘之后这段时间冲高回落。 CME以太币期货DCR主力合约涨0.82%，报3364.50美元，鲍威尔新闻发布会临近结束时也一度刷新日高。 美股加密货币与加密货币关联指数跌1.47%，报71.88点。 最近24小时，MarketVector数字资产100小盘指数跌0.86%，暂报4175.18点，曾在鲍威尔新闻发布会临近结束时刷新日高。",
@@ -506,17 +554,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时29分 ~ 06时27分]"
-        },
-        {
-          "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
-          "url": "https://www.cls.cn/detail/2225967",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时40分"
         },
         {
           "title": "（美股）费城金银指数收涨1.43%，报326.61点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.50%，报2326.70点。",
@@ -652,7 +689,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -680,7 +717,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -713,7 +750,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -775,9 +812,48 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美元指数DXY向下触及99，日内跌0.24%。",
+          "url": "https://flash.jin10.com/detail/20251211010203679800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20251211045554004800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时29分"
+        },
+        {
+          "title": "美元指数跌至98.543，为10月21日以来最低。",
+          "url": "https://wallstreetcn.com/livenews/3018784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时08分"
         }
       ]
     },
@@ -806,34 +882,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数DXY向下触及99，日内跌0.24%。",
-          "url": "https://flash.jin10.com/detail/20251211010203679800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美元指数10日下跌",
-          "url": "https://flash.jin10.com/detail/20251211045554004800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时29分"
         }
       ]
     },
