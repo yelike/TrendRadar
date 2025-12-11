@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T06:27:14.869310+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2025-12-12T07:25:47.982784+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时25分]"
         },
         {
           "title": "纳斯达克金龙中国指数初步收跌0.1%，美股早盘出现V形反转，后续维持微涨状态。 热门中概股里，金山云初步收跌5.4%，Boss直聘跌3.4%，再鼎医药跌2.6%，小鹏跌2.4%，新东方跌1.6%，百度涨1.5%，蔚来涨1.7%，世纪互联涨2.1%，小马智行涨3.1%，阿特斯太阳能涨3.3%。 ETF中，CQQQ跌0.7%，KWEB跌0.6%。",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "博通美股盘后跌幅扩大至5.18%。",
+          "url": "https://wallstreetcn.com/livenews/3019447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "金十图示：2025年12月11日（周四）美股热门股票行情一览（美股收盘）",
@@ -71,11 +82,47 @@
           "url": "https://wallstreetcn.com/livenews/3019429",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时25分]"
+        },
+        {
+          "title": "（美股）费城金银指数收涨4.53%，报341.39点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨3.63%，报2411.21点，美股开盘之前一直大致持平，之后迅速上涨。",
+          "url": "https://wallstreetcn.com/livenews/3019426",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时25分]"
+        },
+        {
+          "title": "博通(AVGO.O)美股盘后涨4%。",
+          "url": "https://flash.jin10.com/detail/20251212051638252800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时25分]"
+        },
+        {
+          "title": "美股收盘：道指、标普携手刷新收盘纪录 甲骨文拖累纳指走低",
+          "url": "https://www.cls.cn/detail/2227262",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时27分"
+          "time_info": "07时25分"
         },
         {
           "title": "美股收盘：道指创新高 甲骨文跌超10%",
@@ -89,15 +136,15 @@
           "time_info": "05时28分"
         },
         {
-          "title": "（美股）费城金银指数收涨4.53%，报341.39点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨3.63%，报2411.21点，美股开盘之前一直大致持平，之后迅速上涨。",
-          "url": "https://wallstreetcn.com/livenews/3019426",
+          "title": "博通美股盘后跌3.36%。",
+          "url": "https://wallstreetcn.com/livenews/3019441",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时27分"
+          "time_info": "07时25分"
         },
         {
           "title": "博通第四财季调整后净营收180.2亿美元，分析师预期174.7亿美元。 第四财季半导体解决方案营收110.7亿美元，分析师预期107.4亿美元。 第一财季营收大约191亿美元，分析师预期184.8亿美元。 预计AI半导体营收将同比翻倍，至82亿美元。 股息季环比提高10%，至每股0.65美元。 博通股价（AVGO）美股盘后涨4%。",
@@ -106,18 +153,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        },
-        {
-          "title": "博通(AVGO.O)美股盘后涨4%。",
-          "url": "https://flash.jin10.com/detail/20251212051638252800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -128,7 +164,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -292,7 +328,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -333,7 +369,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国纽约联储披露短期美债购买情况：美联储周五将购买82亿美元国库券。",
@@ -358,6 +394,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时26分]"
+        },
+        {
+          "title": "美债收益率于美股盘中持续走高",
+          "url": "https://wallstreetcn.com/livenews/3019443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     }
