@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T21:01:16.340704+08:00",
-  "total_titles_processed": 1927,
+  "generated_at": "2025-12-11T21:48:35.127393+08:00",
+  "total_titles_processed": 2017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 62,
       "titles": [
         {
           "title": "特朗普威胁哥伦比亚总统：马杜罗之后，就是你",
@@ -32,6 +32,17 @@
           "time_info": "[04时32分 ~ 10时08分]"
         },
         {
+          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
+          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 21时48分]"
+        },
+        {
           "title": "特朗普炮轰美联储决议：降息幅度太小，本应至少翻倍！",
           "url": "https://www.cls.cn/detail/2225986",
           "source": "财联社热门",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[10时07分 ~ 16时38分]"
-        },
-        {
-          "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEe",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时01分]"
         },
         {
           "title": "洪都拉斯现任总统：由于特朗普“干预选举”，此次大选“无效”",
@@ -86,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时32分 ~ 21时01分]"
+          "appearance_count": 7,
+          "time_info": "[17时32分 ~ 21时48分]"
         },
         {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
@@ -121,6 +121,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时33分"
+        },
+        {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时33分 ~ 21时48分]"
         },
         {
           "title": "美国总统特朗普：今天与前美联储官员凯文·沃什会面。",
@@ -159,18 +172,6 @@
           "time_info": "[00时48分 ~ 01时29分]"
         },
         {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时33分 ~ 21时01分]"
-        },
-        {
           "title": "美威胁国际刑事法院：不要调查特朗普",
           "url": "https://www.toutiao.com/trending/7582367829178269750/",
           "source": "今日头条",
@@ -181,6 +182,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时30分 ~ 16时38分]"
+        },
+        {
+          "title": "特朗普为何突然搞“西半球优先”",
+          "url": "https://www.toutiao.com/trending/7581978972871917594/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时00分 ~ 21时48分]"
         },
         {
           "title": "“特朗普黄金卡”开始接受申请",
@@ -251,17 +264,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时07分 ~ 10时08分]"
-        },
-        {
-          "title": "特朗普为何突然搞“西半球优先”",
-          "url": "https://www.toutiao.com/trending/7581978972871917594/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时00分 ~ 21时01分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -358,7 +360,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -490,7 +492,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -594,6 +596,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "美国商务部长卢特尼克：（谈英伟达H200芯片）是美国总统特朗普与英伟达CEO之间的交易。",
+          "url": "https://flash.jin10.com/detail/20251211210900621800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "博主：特朗普金卡收割富人的智商税",
           "url": "https://www.toutiao.com/trending/7582469315815804457/",
           "source": "今日头条",
@@ -671,6 +684,17 @@
           "time_info": "16时38分"
         },
         {
+          "title": "泰国为何拒绝特朗普介入调停",
+          "url": "https://www.toutiao.com/trending/7582541154202160690/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "特朗普百万美元金卡签证开始接受申请",
           "url": "https://flash.jin10.com/detail/20251211060659681800",
           "source": "金十数据",
@@ -685,7 +709,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -696,8 +720,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时40分 ~ 21时01分]"
+          "appearance_count": 19,
+          "time_info": "[07时40分 ~ 21时48分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -894,6 +918,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时01分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-11）",
+          "url": "https://flash.jin10.com/detail/20251211211225908800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         }
       ]
     },
@@ -1047,7 +1082,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
