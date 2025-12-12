@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T04:29:49.733694+08:00",
-  "total_titles_processed": 529,
+  "generated_at": "2025-12-13T05:24:22.514267+08:00",
+  "total_titles_processed": 544,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时39分 ~ 04时29分]"
+          "appearance_count": 6,
+          "time_info": "[02时39分 ~ 05时24分]"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -88,8 +88,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时32分 ~ 04时29分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 05时24分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -149,11 +149,12 @@
           "ranks": [
             16,
             20,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 05时24分]"
         },
         {
           "title": "30年期美债收益率升至9月以来最高，几名美联储官员提及通胀担忧",
