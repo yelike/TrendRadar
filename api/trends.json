@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T19:26:04.823332+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2025-12-12T20:55:15.270538+08:00",
+  "total_titles_processed": 1922,
   "failed_sources": [],
   "trends": [
     {
@@ -241,8 +241,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时59分 ~ 19时26分]"
+          "appearance_count": 13,
+          "time_info": "[11时59分 ~ 20时55分]"
         },
         {
           "title": "摩根大通：将谷歌母公司Alphabet目标价由340美元上调至385美元。",
@@ -292,6 +292,18 @@
           "time_info": "[00时39分 ~ 01时31分]"
         },
         {
+          "title": "UP主解读OpenAI和谷歌的AI大战",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时25分 ~ 20时55分]"
+        },
+        {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
           "url": "https://wallstreetcn.com/articles/3761169",
           "source": "华尔街见闻",
@@ -313,17 +325,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 04时30分]"
-        },
-        {
-          "title": "UP主解读OpenAI和谷歌的AI大战",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBOpenAI%E5%92%8C%E8%B0%B7%E6%AD%8C%E7%9A%84AI%E5%A4%A7%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 19时26分]"
         },
         {
           "title": "谷歌(GOOG.O)：推出交互API，为与我们的模型、Gemini 3 Pro以及Gemini深度研究等智能体进行交互提供统一接口。",
