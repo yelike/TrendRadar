@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T03:22:05.648443+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2025-12-13T04:29:49.733694+08:00",
+  "total_titles_processed": 529,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 03时22分]"
+          "appearance_count": 4,
+          "time_info": "[02时39分 ~ 04时29分]"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -88,8 +88,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时32分 ~ 04时29分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -143,6 +143,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美银认为：美联储国库券购买操作或令10年期美债收益率承压",
+          "url": "https://wallstreetcn.com/livenews/3020094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时39分 ~ 04时29分]"
+        },
+        {
           "title": "30年期美债收益率升至9月以来最高，几名美联储官员提及通胀担忧",
           "url": "https://wallstreetcn.com/livenews/3020069",
           "source": "华尔街见闻-快讯",
@@ -153,18 +166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时25分]"
-        },
-        {
-          "title": "美银认为：美联储国库券购买操作或令10年期美债收益率承压",
-          "url": "https://wallstreetcn.com/livenews/3020094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时22分]"
         }
       ]
     },
