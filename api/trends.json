@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-13T12:32:09.618664+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2025-12-13T13:27:15.825948+08:00",
+  "total_titles_processed": 952,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 10,
       "titles": [
-        {
-          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
-          "url": "https://wallstreetcn.com/articles/3761271",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时39分 ~ 06时27分]"
-        },
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
           "url": "https://www.cls.cn/detail/2228565",
@@ -28,8 +17,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[06时26分 ~ 13时27分]"
+        },
+        {
+          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[06时26分 ~ 12时32分]"
+          "time_info": "[02时39分 ~ 06时27分]"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
