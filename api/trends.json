@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T21:31:53.427287+08:00",
-  "total_titles_processed": 1423,
+  "generated_at": "2025-12-13T22:23:17.564099+08:00",
+  "total_titles_processed": 1498,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             11,
             5,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时26分 ~ 21时31分]"
+          "appearance_count": 22,
+          "time_info": "[06时26分 ~ 22时23分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
