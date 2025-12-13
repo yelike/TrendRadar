@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T16:33:19.741741+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2025-12-13T17:26:48.132152+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -54,8 +54,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时34分 ~ 16时33分]"
+          "appearance_count": 21,
+          "time_info": "[00时34分 ~ 17时26分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -70,6 +70,20 @@
           "time_info": "[07时25分 ~ 10时01分]"
         },
         {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 17时26分]"
+        },
+        {
           "title": "分析人士：特朗普的人工智能行政令可能无法阻止各州立法",
           "url": "https://flash.jin10.com/detail/20251213034901959800",
           "source": "金十数据",
@@ -80,19 +94,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时31分 ~ 10时01分]"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 16时33分]"
         },
         {
           "title": "特朗普称泰柬已同意停火 泰方否认",
@@ -164,6 +165,31 @@
           "time_info": "[11时22分 ~ 14时38分]"
         },
         {
+          "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
+          "url": "https://flash.jin10.com/detail/20251213164027529800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
+          "url": "https://flash.jin10.com/detail/20251213131305142800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            6,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时26分]"
+        },
+        {
           "title": "柬埔寨首相：已与美国总统特朗普和马来西亚领导人安瓦尔就停火问题进行了通话。柬埔寨坚持其立场，寻求和平解决争端。",
           "url": "https://flash.jin10.com/detail/20251213092310404800",
           "source": "金十数据",
@@ -216,19 +242,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时23分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普说倾向选择沃什或哈西特接任美联储主席",
-          "url": "https://flash.jin10.com/detail/20251213131305142800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时33分]"
         },
         {
           "title": "美国总统特朗普：在俄罗斯与乌克兰问题上取得了许多“进展”。",
@@ -371,6 +384,18 @@
           "time_info": "[02时40分 ~ 05时25分]"
         },
         {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时27分 ~ 17时26分]"
+        },
+        {
           "title": "爱泼斯坦案新影像曝光，有特朗普与6女子合照",
           "url": "https://news.ifeng.com/c/8p315VNzI20",
           "source": "凤凰网",
@@ -380,18 +405,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时38分 ~ 15时28分]"
-        },
-        {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 16时33分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -416,6 +429,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 11时22分]"
+        },
+        {
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
         },
         {
           "title": "特朗普称泰柬双方同意停火",
@@ -495,17 +519,6 @@
           "time_info": "02时40分"
         },
         {
-          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
-        },
-        {
           "title": "美国总统特朗普：泰国和柬埔寨已经同意从今晚起停止一切交火行动。",
           "url": "https://flash.jin10.com/detail/20251213013909297800",
           "source": "金十数据",
@@ -576,11 +589,12 @@
             6,
             7,
             8,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时25分 ~ 16时33分]"
+          "appearance_count": 12,
+          "time_info": "[07时25分 ~ 17时26分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -703,8 +717,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时27分 ~ 16时33分]"
+          "appearance_count": 13,
+          "time_info": "[06时27分 ~ 17时26分]"
         },
         {
           "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
@@ -890,7 +904,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据伊朗国家媒体报道，伊朗在阿曼湾查获一艘载有600万升走私柴油的外国油轮。",
@@ -905,16 +919,28 @@
           "time_info": "[04时31分 ~ 10时01分]"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗与巴基斯坦表态致力于深化双边关系，加速推进各项合作协议。",
+          "url": "https://flash.jin10.com/detail/20251213165710609800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
           "title": "伊朗媒体称，在阿曼湾被扣押的外国油轮的18名船员因涉嫌运输“走私燃料”而被拘留。",
           "url": "https://flash.jin10.com/detail/20251213151317078800",
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时28分 ~ 16时33分]"
+          "appearance_count": 3,
+          "time_info": "[15时28分 ~ 17时26分]"
         },
         {
           "title": "美军被曝突袭从中国驶往伊朗货轮",
@@ -923,9 +949,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 17时26分]"
         },
         {
           "title": "美军被曝突袭从中国驶往伊朗货轮",
