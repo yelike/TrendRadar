@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T11:21:38.811431+08:00",
-  "total_titles_processed": 823,
+  "generated_at": "2025-12-13T12:32:09.618664+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时26分 ~ 11时21分]"
+          "appearance_count": 8,
+          "time_info": "[06时26分 ~ 12时32分]"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -137,11 +137,12 @@
           "ranks": [
             8,
             7,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 11时21分]"
+          "appearance_count": 17,
+          "time_info": "[00时32分 ~ 12时32分]"
         },
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
