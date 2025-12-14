@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T12:02:34.442199+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2025-12-14T13:26:49.634871+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时26分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -42,11 +42,29 @@
           "url": "https://wallstreetcn.com/livenews/3020321",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 13时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时02分"
+          "time_info": "13时26分"
         }
       ]
     }
