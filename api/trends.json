@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T13:27:58.321078+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2025-12-14T14:38:56.971408+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
     {
@@ -101,6 +101,17 @@
           "time_info": "[00时32分 ~ 10时20分]"
         },
         {
+          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
+          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时38分]"
+        },
+        {
           "title": "特朗普倾向于让沃什或哈塞特担任美联储主席，希望一年后利率1%或更低",
           "url": "https://wallstreetcn.com/articles/3761314",
           "source": "华尔街见闻",
@@ -110,17 +121,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 04时28分]"
-        },
-        {
-          "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
-          "url": "https://news.ifeng.com/c/8p4UvIdlABH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时27分]"
         },
         {
           "title": "美国与墨西哥达成供水协议，此前特朗普威胁要加征5%的关税",
@@ -163,11 +163,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时38分]"
         },
         {
           "title": "美士兵遇袭死亡 特朗普誓言报复",
@@ -181,6 +182,17 @@
           "time_info": "10时20分"
         },
         {
+          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
+          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时20分 ~ 14时38分]"
+        },
+        {
           "title": "泰国外长：对特朗普关于泰柬冲突的言论感到失望",
           "url": "https://wallstreetcn.com/livenews/3020226",
           "source": "华尔街见闻-快讯",
@@ -192,15 +204,28 @@
           "time_info": "[00时32分 ~ 03时21分]"
         },
         {
-          "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
-          "url": "https://news.ifeng.com/c/8p4BJFCiQzZ",
-          "source": "凤凰网",
+          "title": "特朗普对其经济政策能否助力中期选举存疑",
+          "url": "https://flash.jin10.com/detail/20251214101831272800",
+          "source": "金十数据",
           "ranks": [
-            6
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时20分 ~ 13时27分]"
+          "time_info": "[12时03分 ~ 14时38分]"
+        },
+        {
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时38分]"
         },
         {
           "title": "特朗普说中国团结一心干大事",
@@ -213,28 +238,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普对其经济政策能否助力中期选举存疑",
-          "url": "https://flash.jin10.com/detail/20251214101831272800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时27分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时27分]"
         },
         {
           "title": "特朗普：不确定经济政策能否带来中期选举的胜利",
@@ -338,11 +341,12 @@
           "url": "https://flash.jin10.com/detail/20251214105538781800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时03分 ~ 13时27分]"
+          "appearance_count": 3,
+          "time_info": "[12时03分 ~ 14时38分]"
         }
       ]
     },
@@ -356,11 +360,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 13时27分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 14时38分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -403,11 +408,12 @@
           "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 14时38分]"
         }
       ]
     }
