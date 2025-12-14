@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-14T14:37:18.996172+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2025-12-14T15:24:48.755467+08:00",
+  "total_titles_processed": 888,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时31分 ~ 14时37分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 15时24分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -62,11 +62,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 14时37分]"
+          "appearance_count": 3,
+          "time_info": "[13时26分 ~ 15时24分]"
         }
       ]
     }
