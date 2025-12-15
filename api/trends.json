@@ -1,275 +1,44 @@
 {
-  "generated_at": "2025-12-15T23:31:21.195926+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2025-12-16T00:39:26.825622+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
-          "url": "https://wallstreetcn.com/articles/3761371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时06分 ~ 19时25分]"
-        },
-        {
-          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
-          "url": "https://www.cls.cn/detail/2229441",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时43分 ~ 19时25分]"
-        },
-        {
-          "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
-          "url": "https://wallstreetcn.com/articles/3761364",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 15时31分]"
-        },
-        {
-          "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
-          "url": "https://www.cls.cn/detail/2229152",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时06分 ~ 15时31分]"
-        },
         {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
           "url": "https://wallstreetcn.com/articles/3761417",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6,
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时58分 ~ 23时31分]"
-        },
-        {
-          "title": "英伟达发布Nemotron 3开源模型系列。 英伟达美股盘前涨1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3021038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3021037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时33分"
+          "time_info": "00时39分"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2230200",
           "source": "财联社热门",
           "ranks": [
-            13,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时48分 ~ 23时31分]"
-        },
-        {
-          "title": "2026年别再盯着AI和科技巨头了！高盛、美银预言美股轮动将至……",
-          "url": "https://www.cls.cn/detail/2229723",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时31分 ~ 23时31分]"
-        },
-        {
-          "title": "iRobot股价美股盘前暴跌超80%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
-          "url": "https://wallstreetcn.com/livenews/3020863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时34分]"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-12-15）",
-          "url": "https://flash.jin10.com/detail/20251215220345346800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时33分"
-        },
-        {
-          "title": "iRobot股价美股盘前暴跌82.5%，至0.76美元，此前公司已申请破产，并寻求收购制造商。",
-          "url": "https://flash.jin10.com/detail/20251215170334528800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时38分"
-        },
-        {
-          "title": "英伟达(NVDA.O)美股盘前涨约1.5%。",
-          "url": "https://flash.jin10.com/detail/20251215220241979800",
-          "source": "金十数据",
-          "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时33分"
+          "time_info": "00时39分"
         },
         {
-          "title": "行业ETF美股盘初普遍走高，半导体ETF涨1.41%，银行业ETF涨1.11%，可选消费ETF涨1.05%，科技行业ETF涨0.64%，能源业ETF跌0.12%。",
-          "url": "https://wallstreetcn.com/livenews/3021053",
+          "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
+          "url": "https://wallstreetcn.com/livenews/3021076",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        },
-        {
-          "title": "英伟达发布Nemotron 3开源模型系列，股价美股盘前涨1.7%",
-          "url": "https://wallstreetcn.com/livenews/3021038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
-          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时30分 ~ 07时23分]"
-        },
-        {
-          "title": "美联储降息大辩论：美债能否再创佳绩 全看本周非农脸色？",
-          "url": "https://flash.jin10.com/detail/20251215044251932800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时23分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一手好牌打稀烂,deepseek成弃子",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347982&amp;topic_name=%E4%B8%80%E6%89%8B%E5%A5%BD%E7%89%8C%E6%89%93%E7%A8%80%E7%83%82%2Cdeepseek%E6%88%90%E5%BC%83%E5%AD%90",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时30分 ~ 15时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "传联发科拿下两代谷歌TPU定制大单",
-          "url": "https://flash.jin10.com/detail/20251215105959893800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场分析：受美国降息预期和避险需求提振，黄金价格上涨",
-          "url": "https://flash.jin10.com/detail/20251215210622146800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
+          "time_info": "00时39分"
         }
       ]
     }
