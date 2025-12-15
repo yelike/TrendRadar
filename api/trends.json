@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T04:02:45.064905+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-12-16T04:31:37.734806+08:00",
+  "total_titles_processed": 525,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 04时02分]"
+          "appearance_count": 7,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -80,8 +81,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时40分 ~ 04时02分]"
+          "appearance_count": 3,
+          "time_info": "[02时40分 ~ 04时31分]"
         },
         {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
