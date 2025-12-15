@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T12:06:56.393400+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2025-12-15T13:31:34.331633+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 13时31分]"
         },
         {
           "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 12时06分]"
+          "appearance_count": 4,
+          "time_info": "[10时06分 ~ 13时31分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -38,9 +40,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时31分]"
         }
       ]
     },
@@ -86,7 +88,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
