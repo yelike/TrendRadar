@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-15T13:31:34.331633+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2025-12-15T14:43:41.162197+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
+          "url": "https://wallstreetcn.com/articles/3761371",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时43分]"
+        },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
           "url": "https://wallstreetcn.com/articles/3761364",
@@ -17,32 +31,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时31分]"
-        },
-        {
-          "title": "特朗普各种打压之下，可再生能源板块“意外”成了美股大赢家",
-          "url": "https://wallstreetcn.com/articles/3761371",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时43分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
           "url": "https://www.cls.cn/detail/2229152",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 14时43分]"
+        },
+        {
+          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
+          "url": "https://www.cls.cn/detail/2229441",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时43分"
         }
       ]
     },
