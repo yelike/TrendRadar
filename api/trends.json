@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T18:34:10.087962+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2025-12-15T19:25:55.415125+08:00",
+  "total_titles_processed": 1495,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,26 @@
             10,
             8,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时06分 ~ 18时34分]"
+          "appearance_count": 12,
+          "time_info": "[10时06分 ~ 19时25分]"
+        },
+        {
+          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
+          "url": "https://www.cls.cn/detail/2229441",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时43分 ~ 19时25分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -33,19 +48,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时06分 ~ 15时31分]"
-        },
-        {
-          "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
-          "url": "https://www.cls.cn/detail/2229441",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时43分 ~ 18时34分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
