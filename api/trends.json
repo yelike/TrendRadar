@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T14:43:41.162197+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2025-12-15T15:31:16.298356+08:00",
+  "total_titles_processed": 1091,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 14时43分]"
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 15时31分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -31,8 +31,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 14时43分]"
+          "appearance_count": 7,
+          "time_info": "[10时06分 ~ 15时31分]"
         },
         {
           "title": "12月15日投资避雷针：美股AI龙头遭市场抛售 博通跌超11%",
@@ -40,11 +40,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 14时43分]"
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 15时31分]"
         },
         {
           "title": "美股“英伟达们”强劲财报换来股价暴跌 AI泡沫破裂已进入倒计时?",
@@ -53,9 +54,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 15时31分]"
         }
       ]
     },
@@ -87,6 +88,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一手好牌打稀烂,deepseek成弃子",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347982&amp;topic_name=%E4%B8%80%E6%89%8B%E5%A5%BD%E7%89%8C%E6%89%93%E7%A8%80%E7%83%82%2Cdeepseek%E6%88%90%E5%BC%83%E5%AD%90",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时30分 ~ 15时31分]"
         }
       ]
     },
