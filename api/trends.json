@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-15T15:31:16.298356+08:00",
-  "total_titles_processed": 1091,
+  "generated_at": "2025-12-15T16:39:56.417450+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时06分 ~ 15时31分]"
+          "appearance_count": 8,
+          "time_info": "[10时06分 ~ 16时39分]"
         },
         {
           "title": "华尔街的“2026美股主题”是轮动！“老登”胜过Mag 7，高盛高呼“周期股尚未被完全定价”",
@@ -52,11 +52,12 @@
           "url": "https://www.cls.cn/detail/2229441",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 15时31分]"
+          "appearance_count": 4,
+          "time_info": "[14时43分 ~ 16时39分]"
         }
       ]
     },
