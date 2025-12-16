@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T03:24:18.574761+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2025-12-17T04:32:01.096135+08:00",
+  "total_titles_processed": 549,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时24分]"
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 04时32分]"
         },
         {
           "title": "金十图示：2025年12月16日（周二）美股热门股票行情一览（美股盘中）",
@@ -48,7 +48,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
         }
