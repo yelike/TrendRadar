@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:31:55.127979+08:00",
-  "total_titles_processed": 1662,
+  "generated_at": "2025-12-16T19:26:13.969876+08:00",
+  "total_titles_processed": 1743,
   "failed_sources": [],
   "trends": [
     {
@@ -119,7 +119,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -176,6 +176,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "市场消息：道达尔能源与谷歌(GOOG.O)签署新的可再生能源协议，为谷歌数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20251216185536926800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
