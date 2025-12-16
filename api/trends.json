@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T11:59:59.334102+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2025-12-16T12:43:08.828053+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时39分 ~ 05时35分]"
         },
         {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时10分 ~ 12时43分]"
+        },
+        {
           "title": "现货黄金、白银逼近历史高位 美股三大期指温和走高 | 今夜看点",
           "url": "https://www.cls.cn/detail/2230200",
           "source": "财联社热门",
@@ -34,18 +46,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时39分 ~ 10时03分]"
-        },
-        {
-          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
-          "url": "https://www.cls.cn/detail/2230375",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时10分 ~ 11时59分]"
         },
         {
           "title": "金十图示：2025年12月15日（周一）热门中概股行情一览（美股收盘）",
@@ -154,6 +154,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "年初 DeepSeek R1 的发布，给整个 AI 行业带来了什么影响？",
+          "url": "https://www.zhihu.com/question/1974950875228308388",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
         }
       ]
     },
