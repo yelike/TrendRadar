@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T16:38:21.554711+08:00",
-  "total_titles_processed": 1465,
+  "generated_at": "2025-12-16T17:32:42.147750+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
@@ -119,7 +119,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -156,6 +156,17 @@
           "time_info": "[14时41分 ~ 15时28分]"
         },
         {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
+        },
+        {
           "title": "OpenAI：从谷歌挖来Albert Lee。",
           "url": "https://flash.jin10.com/detail/20251216015417172800",
           "source": "金十数据",
@@ -170,7 +181,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "年初 DeepSeek R1 的发布，给整个 AI 行业带来了什么影响？",
@@ -182,6 +193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时42分 ~ 12时43分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时32分"
         }
       ]
     },
