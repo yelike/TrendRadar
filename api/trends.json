@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T15:29:54.204251+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2025-12-16T16:40:01.627901+08:00",
+  "total_titles_processed": 1449,
   "failed_sources": [],
   "trends": [
     {
@@ -31,6 +31,19 @@
           "time_info": "[00时40分 ~ 07时27分]"
         },
         {
+          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
+          "url": "https://wallstreetcn.com/articles/3761439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时08分 ~ 16时40分]"
+        },
+        {
           "title": "特朗普签署行政命令，将芬太尼列为大规模杀伤性武器",
           "url": "https://news.ifeng.com/c/8p7mw3hu8Hs",
           "source": "凤凰网",
@@ -58,19 +71,6 @@
           "time_info": "[00时40分 ~ 07时27分]"
         },
         {
-          "title": "哈塞特势头不稳，特朗普亲信推举沃什当美联储主席，预测市场大变脸",
-          "url": "https://wallstreetcn.com/articles/3761439",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 15时29分]"
-        },
-        {
           "title": "泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://news.ifeng.com/c/8p7htngCHQD",
           "source": "凤凰网",
@@ -82,6 +82,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时08分 ~ 15时29分]"
+        },
+        {
+          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时01分 ~ 16时40分]"
         },
         {
           "title": "日媒：高市被特朗普警告后情绪低落",
@@ -109,19 +123,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时40分 ~ 05时39分]"
-        },
-        {
-          "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 15时29分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -721,7 +722,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
