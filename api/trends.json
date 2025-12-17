@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T03:24:58.502498+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2025-12-18T04:31:52.106001+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 03时24分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 04时31分]"
+        },
+        {
+          "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
+          "url": "https://flash.jin10.com/detail/20251218024123307800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时24分 ~ 04时31分]"
         },
         {
           "title": "市场静待更多数据，美股期货盘前上涨，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
-        },
-        {
-          "title": "美股延续跌势，标普500指数下跌1%，纳指跌1.4%，道指跌0.4%。",
-          "url": "https://flash.jin10.com/detail/20251218024123307800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时24分"
         },
         {
           "title": "金十图示：2025年12月17日（周三）美股热门股票行情一览（美股盘中）",
