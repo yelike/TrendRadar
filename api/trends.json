@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T19:25:11.390734+08:00",
-  "total_titles_processed": 1729,
+  "generated_at": "2025-12-18T20:55:28.151510+08:00",
+  "total_titles_processed": 1855,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[06时27分 ~ 19时25分]"
+          "appearance_count": 15,
+          "time_info": "[06时27分 ~ 20时55分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -296,8 +296,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 19时25分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 20时55分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -359,8 +359,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时24分 ~ 19时25分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时55分]"
         },
         {
           "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
