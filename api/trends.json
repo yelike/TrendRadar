@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T00:37:47.339886+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-19T01:28:38.645662+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时28分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
@@ -26,8 +26,36 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时37分 ~ 01时28分]"
+        },
+        {
+          "title": "美股涨幅扩大，纳指上涨2%，标普500指数上涨1.4%，道指上涨0.95%。",
+          "url": "https://flash.jin10.com/detail/20251219003915719800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时37分"
+          "time_info": "01时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高盛：黄金价格到2026年12月可能上涨14%，达到每盎司4900美元。基准情景存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251219010727290800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时28分"
         }
       ]
     }
