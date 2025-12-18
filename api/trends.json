@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T18:31:45.908688+08:00",
-  "total_titles_processed": 1630,
+  "generated_at": "2025-12-18T19:26:37.490122+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
@@ -69,11 +69,12 @@
             8,
             2,
             4,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 18时31分]"
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 19时26分]"
         },
         {
           "title": "特朗普对马杜罗下狠手",
@@ -129,6 +130,18 @@
           "time_info": "[03时25分 ~ 05时28分]"
         },
         {
+          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
+          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时26分]"
+        },
+        {
           "title": "据华尔街日报：玻利维亚押注锂资源以及与美国合作，以摆脱经济低迷。玻利维亚外交部长表示，玻利维亚正寻求从特朗普政府获得金融援助，将向外国投资者开放锂矿储备。",
           "url": "https://flash.jin10.com/detail/20251218021529556800",
           "source": "金十数据",
@@ -165,15 +178,17 @@
           "time_info": "[06时28分 ~ 07时26分]"
         },
         {
-          "title": "“宣战”猜测甚嚣尘上，特朗普全国讲话却只字未提",
-          "url": "https://news.ifeng.com/c/8pBZNpaMDrn",
-          "source": "凤凰网",
+          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
+          "url": "https://www.cls.cn/detail/2233203",
+          "source": "财联社热门",
           "ranks": [
-            7
+            12,
+            9,
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时31分]"
+          "time_info": "[17时34分 ~ 19时26分]"
         },
         {
           "title": "美国财长贝森特：预计达利欧对特朗普账户的贡献可能高达1亿美元，但尚未看到最终数据。",
@@ -186,18 +201,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时30分]"
-        },
-        {
-          "title": "特朗普即将宣布新任美联储主席人选：必须认同低利率！",
-          "url": "https://www.cls.cn/detail/2233203",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时34分 ~ 18时31分]"
         },
         {
           "title": "特朗普政府第三次动用紧急权力，现在设法维持华盛顿州煤电厂运行",
@@ -246,6 +249,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 13时31分]"
+        },
+        {
+          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
+          "url": "https://wallstreetcn.com/livenews/3023059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时26分]"
         },
         {
           "title": "特朗普账户宣传存1千可涨至60万",
@@ -359,17 +374,6 @@
           "time_info": "05时28分"
         },
         {
-          "title": "俄外交部：希望特朗普政府在委内瑞拉问题上“别犯致命错误”",
-          "url": "https://wallstreetcn.com/livenews/3023059",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
           "title": "美国总统特朗普：委内瑞拉把我们的公司赶走了，我们要把它们拿回来。",
           "url": "https://flash.jin10.com/detail/20251218050033008800",
           "source": "金十数据",
@@ -442,7 +446,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -561,8 +565,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时27分 ~ 18时31分]"
+          "appearance_count": 13,
+          "time_info": "[06时27分 ~ 19时26分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -833,6 +837,17 @@
           "time_info": "[00时38分 ~ 01时30分]"
         },
         {
+          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
+          "url": "https://wallstreetcn.com/articles/3761592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时34分 ~ 19时26分]"
+        },
+        {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
           "url": "https://www.cls.cn/detail/2232789",
           "source": "财联社热门",
@@ -855,17 +870,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时42分 ~ 15时28分]"
-        },
-        {
-          "title": "连月挑战OpenAI！谷歌发布更高效Gemini 3 Flash，App默认模型，上线即加持搜索",
-          "url": "https://wallstreetcn.com/articles/3761592",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时34分"
         },
         {
           "title": "谷歌：推出 Gemini 3 Flash扩展Gemini 3模型系列。",
@@ -896,6 +900,19 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时42分 ~ 19时26分]"
+        },
+        {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
           "url": "https://www.zhihu.com/question/1984670354627651255",
           "source": "知乎",
@@ -906,18 +923,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时42分 ~ 17时34分]"
-        },
-        {
-          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
-          "url": "https://wallstreetcn.com/articles/3761607",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时42分 ~ 18时31分]"
         },
         {
           "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
@@ -1061,7 +1066,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "长端美债收益率涨超1个基点，2/10年期美债收益率曲线于20年期国债拍卖后趋陡",
@@ -1074,6 +1079,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时28分]"
+        },
+        {
+          "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
+          "url": "https://wallstreetcn.com/articles/3761610",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时26分"
         }
       ]
     },
