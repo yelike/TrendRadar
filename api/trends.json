@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T17:33:56.556676+08:00",
-  "total_titles_processed": 1541,
+  "generated_at": "2025-12-18T18:31:13.576255+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时27分 ~ 17时33分]"
+          "appearance_count": 12,
+          "time_info": "[06时27分 ~ 18时31分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -169,7 +169,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -319,7 +319,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
