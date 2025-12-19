@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T12:41:42.804578+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2025-12-19T13:28:35.850902+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 12时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时25分 ~ 13时28分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -92,6 +92,18 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时02分 ~ 13时28分]"
+        },
+        {
           "title": "金十图示：2025年12月18日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251219050618309800",
           "source": "金十数据",
@@ -138,18 +150,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时02分 ~ 12时41分]"
         },
         {
           "title": "通胀意外回落，美股三大股指期货全线反弹，纳指期货涨超1%，美元跳水，现货黄金跌幅收窄",
