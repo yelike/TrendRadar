@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T06:23:44.919175+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2025-12-21T07:24:18.160701+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2235346",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时30分 ~ 06时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时30分 ~ 07时24分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -38,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 07时24分]"
         }
       ]
     },
