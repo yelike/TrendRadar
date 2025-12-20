@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T01:21:06.106993+08:00",
-  "total_titles_processed": 354,
+  "generated_at": "2025-12-21T02:33:32.455560+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时33分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时30分 ~ 01时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时30分 ~ 02时33分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
@@ -55,8 +55,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时21分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 02时33分]"
         }
       ]
     }
