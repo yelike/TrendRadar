@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T22:23:11.583282+08:00",
-  "total_titles_processed": 1520,
+  "generated_at": "2025-12-20T23:24:53.374400+08:00",
+  "total_titles_processed": 1573,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时56分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时56分 ~ 23时24分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时56分 ~ 22时23分]"
+          "appearance_count": 15,
+          "time_info": "[09时56分 ~ 23时24分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -71,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时32分 ~ 22时23分]"
+          "appearance_count": 13,
+          "time_info": "[12时32分 ~ 23时24分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -238,11 +238,12 @@
             6,
             10,
             16,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时20分 ~ 22时23分]"
+          "appearance_count": 5,
+          "time_info": "[19时20分 ~ 23时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
