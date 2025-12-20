@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T21:31:41.189225+08:00",
-  "total_titles_processed": 1474,
+  "generated_at": "2025-12-20T22:23:11.583282+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时56分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时56分 ~ 22时23分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时56分 ~ 21时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时56分 ~ 22时23分]"
         },
         {
           "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
@@ -71,8 +71,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时32分 ~ 21时31分]"
+          "appearance_count": 12,
+          "time_info": "[12时32分 ~ 22时23分]"
         },
         {
           "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
@@ -110,11 +110,12 @@
             4,
             13,
             17,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时26分 ~ 21时31分]"
+          "appearance_count": 5,
+          "time_info": "[18时26分 ~ 22时23分]"
         },
         {
           "title": "（美股）费城金银指数收涨2.79%，报347.80点，本周累计上涨2.98%，周五美股盘初短线拉升的涨幅突出。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.07%，报2460.91点，本周累涨2.34%。",
@@ -236,11 +237,12 @@
           "ranks": [
             6,
             10,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时20分 ~ 21时31分]"
+          "appearance_count": 4,
+          "time_info": "[19时20分 ~ 22时23分]"
         },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
