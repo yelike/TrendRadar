@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T20:50:21.513662+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2025-12-21T21:32:32.479365+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,20 @@
           "time_info": "[00时30分 ~ 06时23分]"
         },
         {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时37分 ~ 21时32分]"
+        },
+        {
           "title": "美股收盘：三大指数集体收涨 纳指涨逾1% 英伟达涨约4%",
           "url": "https://www.cls.cn/detail/2235346",
           "source": "财联社热门",
@@ -32,20 +46,6 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时30分 ~ 20时50分]"
-        },
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时37分 ~ 20时50分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -112,9 +112,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时32分]"
         }
       ]
     },
@@ -129,9 +129,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时50分 ~ 21时32分]"
         }
       ]
     }
