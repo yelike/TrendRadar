@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T17:26:55.498145+08:00",
-  "total_titles_processed": 1024,
+  "generated_at": "2025-12-21T18:27:03.791110+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,25 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时30分 ~ 17时26分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 18时27分]"
+        },
+        {
+          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
+          "url": "https://wallstreetcn.com/articles/3761788",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时37分 ~ 18时27分]"
         },
         {
           "title": "通胀降温令美股回暖，交易员希望利用2025年剩余时间喘口气",
@@ -41,23 +55,12 @@
             9,
             11,
             16,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时27分 ~ 17时26分]"
-        },
-        {
-          "title": "美银Hartnett：市场聚焦美股大涨“迎新”可能性，唯一风险是“市场过于乐观”",
-          "url": "https://wallstreetcn.com/articles/3761788",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时37分 ~ 17时26分]"
+          "appearance_count": 6,
+          "time_info": "[13时27分 ~ 18时27分]"
         },
         {
           "title": "美股连涨两天后 华尔街又“神气”了：今年圣诞行情有戏？",
