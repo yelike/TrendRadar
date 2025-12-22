@@ -1,8 +1,38 @@
 {
-  "generated_at": "2025-12-22T07:24:48.357502+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2025-12-22T10:09:03.754318+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 10时09分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -27,7 +57,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
         }
@@ -43,24 +73,6 @@
           "source": "知乎",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
           ],
           "is_new": false,
           "appearance_count": 11,
