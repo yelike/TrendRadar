@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T18:29:34.640952+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2025-12-22T19:24:33.871245+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时29分]"
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时24分]"
         },
         {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
@@ -54,11 +54,12 @@
           "ranks": [
             10,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时29分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[15时29分 ~ 19时24分]"
         },
         {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
@@ -97,11 +98,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时30分 ~ 18时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时30分 ~ 19时24分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
