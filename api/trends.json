@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T03:22:10.443311+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2025-12-23T04:29:54.338035+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 03时22分]"
+          "appearance_count": 7,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "希捷科技回吐美股盘初涨幅，并转而下跌5.5%。",
@@ -75,22 +75,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时22分]"
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时29分]"
         },
         {
           "title": "交易员大举押注10年期美债收益率数周内将重返4%",
           "url": "https://flash.jin10.com/detail/20251223022902184800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时22分 ~ 04时29分]"
         }
       ]
     },
@@ -103,11 +105,12 @@
           "url": "https://wallstreetcn.com/articles/3761857",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 03时22分]"
+          "appearance_count": 5,
+          "time_info": "[01时24分 ~ 04时29分]"
         }
       ]
     }
