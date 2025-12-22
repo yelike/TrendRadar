@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-22T12:08:01.022059+08:00",
-  "total_titles_processed": 775,
+  "generated_at": "2025-12-22T13:31:30.831539+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
@@ -36,11 +36,12 @@
           "url": "https://www.cls.cn/detail/2235916",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时07分 ~ 12时08分]"
+          "appearance_count": 3,
+          "time_info": "[12时07分 ~ 13时31分]"
         }
       ]
     },
@@ -59,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时31分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -71,8 +72,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时08分 ~ 12时08分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 13时31分]"
         }
       ]
     },
