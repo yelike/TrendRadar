@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T02:38:53.410184+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2025-12-24T03:22:02.245102+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时22分]"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
@@ -26,7 +26,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
         }
