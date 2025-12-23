@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T03:22:02.245102+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-12-24T04:29:38.985781+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 03时22分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 04时29分]"
+        },
+        {
+          "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2238119",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
