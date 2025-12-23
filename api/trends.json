@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-23T10:04:11.392183+08:00",
-  "total_titles_processed": 827,
+  "generated_at": "2025-12-23T12:02:15.115125+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "[00时33分 ~ 05时24分]"
         },
         {
+          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
+          "url": "https://www.cls.cn/detail/2237037",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时25分 ~ 12时02分]"
+        },
+        {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
           "url": "https://wallstreetcn.com/articles/3761821",
           "source": "华尔街见闻",
@@ -28,18 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
-          "url": "https://www.cls.cn/detail/2237037",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 10时04分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）美股热门股票行情一览（美股收盘）",
@@ -249,8 +250,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时24分 ~ 10时04分]"
+          "appearance_count": 12,
+          "time_info": "[01时24分 ~ 12时02分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
