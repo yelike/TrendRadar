@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-23T14:42:20.195920+08:00",
-  "total_titles_processed": 1213,
+  "generated_at": "2025-12-23T15:29:05.288518+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 16,
       "titles": [
-        {
-          "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时33分 ~ 05时24分]"
-        },
         {
           "title": "美股收盘：三大指数连涨三日 AI概念走强美光升超4%",
           "url": "https://www.cls.cn/detail/2237037",
@@ -28,8 +17,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时25分 ~ 15时29分]"
+        },
+        {
+          "title": "科技股反弹引领市场！美股高开，“Mag7”普涨，特斯拉创盘中历史高位，油价反弹超2%",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[07时25分 ~ 14时42分]"
+          "time_info": "[00时33分 ~ 05时24分]"
         },
         {
           "title": "“圣诞老人行情”开启，美股普涨，黄金白银再创新高，原油大反弹",
@@ -204,11 +204,12 @@
             8,
             7,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时24分 ~ 14时42分]"
+          "appearance_count": 17,
+          "time_info": "[01时24分 ~ 15时29分]"
         },
         {
           "title": "第一太阳能涨7.1%，创2024年6月份以来盘中新高，投资者关注谷歌母公司Alphabet达成的清洁能源交易。",
@@ -229,7 +230,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         }
