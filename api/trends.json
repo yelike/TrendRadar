@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-24T13:31:14.943088+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2025-12-24T14:42:02.865206+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时24分 ~ 13时31分]"
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 14时42分]"
         },
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
@@ -162,8 +162,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时01分 ~ 13时31分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 14时42分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -205,11 +205,12 @@
           "url": "https://flash.jin10.com/detail/20251224130812700800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 14时42分]"
         }
       ]
     }
