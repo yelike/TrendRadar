@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T22:26:26.621908+08:00",
-  "total_titles_processed": 1832,
+  "generated_at": "2025-12-24T23:27:52.944607+08:00",
+  "total_titles_processed": 1913,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -33,6 +33,17 @@
           "time_info": "[00时35分 ~ 06时25分]"
         },
         {
+          "title": "美股交投清淡 三大指数均持稳",
+          "url": "https://flash.jin10.com/detail/20251224230659751800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%。",
           "url": "https://wallstreetcn.com/livenews/3026240",
           "source": "华尔街见闻-快讯",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时36分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3026248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
@@ -116,6 +116,18 @@
           "time_info": "[19时24分 ~ 20时54分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3026248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时27分]"
+        },
+        {
           "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
           "url": "https://wallstreetcn.com/livenews/3026125",
           "source": "华尔街见闻-快讯",
@@ -152,6 +164,18 @@
           "time_info": "[20时54分 ~ 21时36分]"
         },
         {
+          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
+          "url": "https://wallstreetcn.com/livenews/3026240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 23时27分]"
+        },
+        {
           "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251224050638332800",
           "source": "金十数据",
@@ -176,6 +200,39 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "周三美股将提前收市 EIA数据推迟至下周公布",
+          "url": "https://flash.jin10.com/detail/20251224230000001800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "中概股金山云美股盘初跌1.3%，世纪互联、名创优品、万国数据、阿里巴巴跌0.81%-0.64%，小鹏跌0.58%，百度跌0.19%。 携程则涨0.61%，小马智行涨0.63%，阿特斯太阳能反弹2.59%，再鼎医药涨6.58%。",
+          "url": "https://wallstreetcn.com/livenews/3026260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，全球航空业ETF跌0.45%，能源业ETF跌0.39%，银行业ETF跌0.24%，网络股指数ETF跌0.12%，半导体ETF则涨0.08%，科技行业ETF涨0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3026259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "UiPath美股盘后涨5.4%。",
           "url": "https://wallstreetcn.com/livenews/3025791",
           "source": "华尔街见闻-快讯",
@@ -185,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
-        },
-        {
-          "title": "美国首申数据公布后，美股期货小幅拉升，纳指期货日内涨0.02%，标普500指数期货跌幅收窄至0.02%，道指期货跌0.02%，现货黄金、美元指数短线变动不大。",
-          "url": "https://wallstreetcn.com/livenews/3026240",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时26分"
         },
         {
           "title": "周二（12月23日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.75%，报87730美元。 CME以太币期货DCR主力合约跌0.55%，报2970.50美元。 美股加密货币与加密货币关联指数跌2.46%，报62.26点。 最近24小时，MarketVector数字资产100小盘指数跌1.62%，暂报3522.18点。 MarketVector数字资产100指数跌0.79%，暂报17965.86点。",
@@ -231,6 +277,17 @@
           "time_info": "02时38分"
         },
         {
+          "title": "金十图示：2025年12月24日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251224223626689800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美股收盘：三大股指小幅收涨 标普500创收盘新高",
           "url": "https://flash.jin10.com/detail/20251224050116960800",
           "source": "金十数据",
@@ -240,6 +297,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美股开盘，道指跌0.1%，标普500指数跌0.03%，纳指跌0.02%。英特尔(INTC.O)跌3%，消息称英伟达暂停测试其18A制程工艺。耐克(NKE.N)涨3%，苹果CEO库克斥资约295万美元买入50000股耐克股票。德纳维制药(DVAX.O)涨38%，创四年来最大涨幅，赛诺菲斥资22亿美元收购德纳维制药。",
+          "url": "https://flash.jin10.com/detail/20251224223029222800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
@@ -255,8 +323,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[10时01分 ~ 22时26分]"
+          "appearance_count": 24,
+          "time_info": "[10时01分 ~ 23时27分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
