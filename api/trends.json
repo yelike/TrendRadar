@@ -1,12 +1,26 @@
 {
-  "generated_at": "2025-12-25T10:04:17.070085+08:00",
-  "total_titles_processed": 736,
+  "generated_at": "2025-12-25T12:02:27.357275+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
+          "url": "https://www.cls.cn/detail/2239383",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时25分 ~ 12时02分]"
+        },
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
           "url": "https://wallstreetcn.com/articles/3761989",
@@ -15,21 +29,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 10时04分]"
-        },
-        {
-          "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
-          "url": "https://www.cls.cn/detail/2239383",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时25分 ~ 10时04分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 12时02分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
