@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T17:29:20.328689+08:00",
-  "total_titles_processed": 1295,
+  "generated_at": "2025-12-26T18:28:42.352210+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "平安夜美股债汇涨，标普新高，黄金失守4500，人民币三连涨，加密货币疲软",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时02分 ~ 12时41分]"
+        },
+        {
+          "title": "美股太空概念股Sidus Space盘前延续大涨，现涨超30%，前一交易日收涨33%。",
+          "url": "https://flash.jin10.com/detail/20251226172626463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
@@ -47,8 +58,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时33分 ~ 17时29分]"
+          "appearance_count": 19,
+          "time_info": "[00时33分 ~ 18时28分]"
         }
       ]
     }
