@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T22:23:53.408272+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2025-12-27T23:25:26.068023+08:00",
+  "total_titles_processed": 1520,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时01分 ~ 22时23分]"
+          "appearance_count": 17,
+          "time_info": "[10时01分 ~ 23时25分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -225,11 +225,12 @@
           "source": "今日头条",
           "ranks": [
             27,
-            5
+            5,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时32分 ~ 22时23分]"
+          "appearance_count": 4,
+          "time_info": "[21时32分 ~ 23时25分]"
         },
         {
           "title": "金饰价格突破1400元黄金回收遇冷",
