@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T20:51:17.085347+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2025-12-27T21:33:08.091392+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时01分 ~ 20时51分]"
+          "appearance_count": 15,
+          "time_info": "[10时01分 ~ 21时33分]"
         },
         {
           "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
@@ -217,7 +217,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "金饰价格突破1400元黄金回收遇冷",
@@ -231,6 +231,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时37分 ~ 14时39分]"
+        },
+        {
+          "title": "金饰价格破1400元黄金回收加工却遇冷",
+          "url": "https://www.toutiao.com/trending/7588294573819101226/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时32分 ~ 21时33分]"
         }
       ]
     },
