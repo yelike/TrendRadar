@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T13:27:41.471571+08:00",
-  "total_titles_processed": 900,
+  "generated_at": "2025-12-27T14:39:02.893057+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
@@ -21,20 +21,6 @@
           "time_info": "[00时31分 ~ 05时24分]"
         },
         {
-          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
-          "url": "https://www.cls.cn/detail/2241565",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 13时27分]"
-        },
-        {
           "title": "节后首日美股微跌，“金属狂潮”继续，白银暴涨10%，纽铜涨5%，铂钯双位数大涨，和平曙光重挫油价",
           "url": "https://wallstreetcn.com/articles/3762133",
           "source": "华尔街见闻",
@@ -42,8 +28,35 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时39分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 市场静待“圣诞老人行情” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2241565",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 14时39分]"
+        },
+        {
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时39分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -58,16 +71,16 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
-          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
-          "url": "https://www.zhihu.com/question/1988017332140864055",
-          "source": "知乎",
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时27分]"
+          "appearance_count": 6,
+          "time_info": "[10时01分 ~ 14时39分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -105,18 +118,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时01分 ~ 13时27分]"
         },
         {
           "title": "生物科技ETF收跌0.7%，领跌美股行业ETF，半导体ETF涨超0.4%",
@@ -221,11 +222,12 @@
           "source": "微博",
           "ranks": [
             28,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时37分 ~ 13时27分]"
+          "appearance_count": 4,
+          "time_info": "[12时37分 ~ 14时39分]"
         }
       ]
     },
