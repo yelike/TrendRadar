@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T19:23:39.474931+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2025-12-28T20:54:27.175505+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -48,6 +48,19 @@
           "time_info": "[00时32分 ~ 06时26分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时32分 ~ 20时54分]"
+        },
+        {
           "title": "美国总统特朗普：关税正在为美国创造巨大财富，并带来前所未有的国家安全保障。贸易逆差已削减60%，实属史无前例。GDP增长率达4.3%，且持续攀升。没有通货膨胀！！！我们国家再次赢得世界尊重。",
           "url": "https://flash.jin10.com/detail/20251227214522049800",
           "source": "金十数据",
@@ -73,19 +86,6 @@
           "time_info": "[16时35分 ~ 19时23分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时32分 ~ 19时23分]"
-        },
-        {
           "title": "美国总统特朗普：美国的犯罪率处于历史最低水平。这在很大程度上要归功于历史上最成功的南部边境行动。此外，今天在美国工作的人比以往任何时候都多。",
           "url": "https://flash.jin10.com/detail/20251227213217547800",
           "source": "金十数据",
@@ -105,8 +105,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 19时23分]"
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 20时54分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -222,7 +222,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时23分"
         },
@@ -264,8 +264,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时11分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[12时11分 ~ 20时54分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -364,11 +364,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时26分 ~ 19时23分]"
+          "appearance_count": 6,
+          "time_info": "[15时26分 ~ 20时54分]"
         },
         {
           "title": "铂金价格一周涨了超20% 黄金白银铂金价格都爆了什么原因?",
