@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T17:28:02.523465+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2025-12-28T18:28:19.108296+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
@@ -71,27 +71,17 @@
           "time_info": "[00时32分 ~ 07时26分]"
         },
         {
-          "title": "泽连斯基：我想跟特朗普谈5个问题",
-          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时27分 ~ 17时28分]"
-        },
-        {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
           "url": "https://wallstreetcn.com/articles/3762196",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时32分 ~ 17时28分]"
+          "appearance_count": 7,
+          "time_info": "[13时32分 ~ 18时28分]"
         },
         {
           "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
@@ -102,8 +92,20 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时35分 ~ 18时28分]"
+        },
+        {
+          "title": "泽连斯基：我想跟特朗普谈5个问题",
+          "url": "https://news.ifeng.com/c/8pS8Ckuh1cP",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时35分 ~ 17时28分]"
+          "time_info": "[17时27分 ~ 18时28分]"
         },
         {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
@@ -246,11 +248,12 @@
           "source": "凤凰网",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时11分 ~ 17时28分]"
+          "appearance_count": 9,
+          "time_info": "[12时11分 ~ 18时28分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
@@ -360,11 +363,12 @@
           "url": "https://wallstreetcn.com/articles/3762200",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时26分 ~ 17时28分]"
+          "appearance_count": 4,
+          "time_info": "[15时26分 ~ 18时28分]"
         }
       ]
     },
