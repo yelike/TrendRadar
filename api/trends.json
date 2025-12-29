@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T19:25:14.612104+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2025-12-29T20:57:08.646469+08:00",
+  "total_titles_processed": 1580,
   "failed_sources": [],
   "trends": [
     {
@@ -66,8 +66,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
+        },
         {
           "title": "美股冲刺历史新高 年末聚焦美联储政策与板块轮动",
           "url": "https://flash.jin10.com/detail/20251228222030090800",
@@ -119,7 +130,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -127,11 +138,23 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时31分 ~ 19时25分]"
+          "appearance_count": 5,
+          "time_info": "[18时31分 ~ 20时57分]"
+        },
+        {
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时56分 ~ 20时57分]"
         }
       ]
     },
