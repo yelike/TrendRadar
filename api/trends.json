@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T00:35:37.714918+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-31T01:26:56.054601+08:00",
+  "total_titles_processed": 370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时26分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时26分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时26分]"
         },
         {
           "title": "行业ETF美股盘初多数走低，可选消费ETF、生物科技指数ETF跌超0.4%，网络股指数ETF跌约0.3%，全球科技股指数ETF涨0.1%，半导体ETF涨超0.3%。",
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美股开盘：百度高开超4%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E9%AB%98%E5%BC%80%E8%B6%854%25",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时26分"
         }
       ]
     }
