@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T12:03:38.312398+08:00",
-  "total_titles_processed": 914,
+  "generated_at": "2025-12-30T13:30:12.025666+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[10时04分 ~ 13时30分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -216,8 +216,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 12时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 13时30分]"
         }
       ]
     }
