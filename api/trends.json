@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T13:30:12.025666+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2025-12-30T14:41:15.592777+08:00",
+  "total_titles_processed": 1122,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时33分 ~ 06时26分]"
         },
         {
+          "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时04分 ~ 14时41分]"
+        },
+        {
           "title": "美股三大期指集体走低 AI概念股盘前承压 | 今夜看点",
           "url": "https://www.cls.cn/detail/2243270",
           "source": "财联社热门",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时33分 ~ 10时05分]"
-        },
-        {
-          "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
-          "url": "https://wallstreetcn.com/articles/3762238",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 13时30分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -216,8 +216,26 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 13时30分]"
+          "appearance_count": 17,
+          "time_info": "[00时33分 ~ 14时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时40分 ~ 14时41分]"
         }
       ]
     }
