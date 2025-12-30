@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T17:31:53.575441+08:00",
-  "total_titles_processed": 1374,
+  "generated_at": "2025-12-30T18:31:20.038360+08:00",
+  "total_titles_processed": 1448,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时04分 ~ 17时31分]"
+          "appearance_count": 12,
+          "time_info": "[10时04分 ~ 18时31分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -83,11 +83,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时28分 ~ 17时31分]"
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 18时31分]"
         },
         {
           "title": "（美股）费城金银指数收跌5.21%，报344.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收跌4.76%，报2449.98点，北京时间22:30美股开盘时跳空（加速）下跌。 原材料指数跌1.59%，金属与矿业指数跌1.95%。",
