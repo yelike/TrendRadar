@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T10:05:05.103823+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2025-12-30T12:03:38.312398+08:00",
+  "total_titles_processed": 914,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时04分 ~ 10时05分]"
+          "appearance_count": 3,
+          "time_info": "[10时04分 ~ 12时03分]"
         },
         {
           "title": "美股收盘：贵金属风暴冲击市场情绪 三大指数集体收跌",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 10时05分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时03分]"
         },
         {
           "title": "“圣诞行情”暂歇，美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口",
@@ -216,8 +216,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 10时05分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 12时03分]"
         }
       ]
     }
