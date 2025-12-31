@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T03:20:47.579068+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-01-01T04:29:32.832168+08:00",
+  "total_titles_processed": 473,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -27,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 03时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时33分 ~ 04时29分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
@@ -36,11 +36,12 @@
           "source": "金十数据",
           "ranks": [
             8,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股盘中）",
@@ -48,11 +49,12 @@
           "source": "金十数据",
           "ranks": [
             9,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时37分 ~ 03时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时37分 ~ 04时29分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
