@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T07:24:30.775930+08:00",
-  "total_titles_processed": 623,
+  "generated_at": "2025-12-31T10:05:27.111259+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -32,6 +32,18 @@
           "time_info": "[00时35分 ~ 05时26分]"
         },
         {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 10时05分]"
+        },
+        {
           "title": "会议纪要难挽交投情绪，美股指三连跌，Meta涨，黄金反弹后劲不足，白银涨逾5%",
           "url": "https://wallstreetcn.com/articles/3762305",
           "source": "华尔街见闻",
@@ -43,27 +55,28 @@
           "time_info": "[06时25分 ~ 06时26分]"
         },
         {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2244587",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 07时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 10时05分]"
+        },
+        {
+          "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
+          "url": "https://www.cls.cn/detail/2244733",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
