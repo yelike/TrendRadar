@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T14:41:25.799966+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2025-12-31T15:29:00.283685+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[00时35分 ~ 07时24分]"
         },
         {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 15时29分]"
+        },
+        {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
           "url": "https://wallstreetcn.com/articles/3762305",
           "source": "华尔街见闻",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 05时26分]"
-        },
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 14时41分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
