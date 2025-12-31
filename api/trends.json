@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T00:33:28.000515+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-01T01:23:49.713125+08:00",
+  "total_titles_processed": 377,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3762305",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时23分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时23分]"
         },
         {
           "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
@@ -51,11 +52,12 @@
           "url": "https://flash.jin10.com/detail/20260101000228879800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 01时23分]"
         }
       ]
     }
