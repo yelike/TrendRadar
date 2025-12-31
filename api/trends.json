@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T12:03:07.737015+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2025-12-31T13:31:30.690252+08:00",
+  "total_titles_processed": 1024,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[07时24分 ~ 13时31分]"
         },
         {
           "title": "美股收盘：三大指数携手三连跌 金属上涨潮卷土重来",
@@ -271,6 +271,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时30分 ~ 05时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待黄金白银价格波动",
+          "url": "https://www.douyin.com/hot/2351661",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     }
