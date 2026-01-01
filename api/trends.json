@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T06:26:38.933392+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-01-02T07:26:23.361894+08:00",
+  "total_titles_processed": 487,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时26分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时26分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -41,17 +41,18 @@
             17,
             15,
             22,
-            21
+            21,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时26分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
@@ -61,8 +62,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 06时26分]"
+          "appearance_count": 10,
+          "time_info": "[00时34分 ~ 07时26分]"
+        },
+        {
+          "title": "美股三大股指期货周五开盘微涨。",
+          "url": "https://flash.jin10.com/detail/20260102070027378800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     }
