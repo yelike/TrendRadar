@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T19:23:38.234074+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-01-01T20:54:41.263099+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时21分 ~ 19时23分]"
+          "appearance_count": 11,
+          "time_info": "[10时21分 ~ 20时54分]"
         },
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -143,8 +143,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时54分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -153,11 +153,12 @@
           "ranks": [
             3,
             7,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时23分]"
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 20时54分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -165,11 +166,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时23分]"
+          "appearance_count": 3,
+          "time_info": "[18时29分 ~ 20时54分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
