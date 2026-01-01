@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T20:54:41.263099+08:00",
-  "total_titles_processed": 1390,
+  "generated_at": "2026-01-01T21:38:13.850781+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时21分 ~ 20时54分]"
+          "appearance_count": 13,
+          "time_info": "[10时21分 ~ 21时38分]"
         },
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -132,7 +132,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -143,8 +143,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[18时29分 ~ 21时38分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -154,11 +154,12 @@
             3,
             7,
             11,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时31分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[17时31分 ~ 21时38分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
@@ -167,11 +168,12 @@
           "ranks": [
             5,
             14,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时29分 ~ 20时54分]"
+          "appearance_count": 4,
+          "time_info": "[18时29分 ~ 21时38分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -183,6 +185,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时29分 ~ 19时23分]"
+        },
+        {
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
+        },
+        {
+          "title": "DeepSeek开年发布新论文",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 21时38分]"
         }
       ]
     },
