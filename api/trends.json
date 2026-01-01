@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T02:38:08.462672+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-01-02T03:21:40.891788+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时21分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -27,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时21分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -36,11 +37,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时21分]"
         }
       ]
     },
@@ -56,8 +58,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时38分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 03时21分]"
         }
       ]
     }
