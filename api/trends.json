@@ -1,278 +1,61 @@
 {
-  "generated_at": "2026-01-01T23:27:35.124258+08:00",
-  "total_titles_processed": 1535,
+  "generated_at": "2026-01-02T00:34:21.077941+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时33分 ~ 06时26分]"
-        },
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时21分 ~ 23时27分]"
-        },
-        {
-          "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2245895",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时33分 ~ 07时26分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260101050538351800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时26分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260101013121522800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时29分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260101013023765800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时37分 ~ 04时29分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌1.36%，报342.28点，12月份累计上涨5.45%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌1.07%，报2442.86点，12月份累涨5.40%。 （美股）原材料指数跌1.00%，报226.15点，12月份累涨2.65%。 （美股）金属与矿业指数跌0.96%，报215.32点，12月份累涨5.10%。",
-          "url": "https://wallstreetcn.com/livenews/3029494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "美股2025年收官：三大股指均连续三年创新高",
-          "url": "https://flash.jin10.com/detail/20260101050341420800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 06时26分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260101050540160800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3029404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时29分 ~ 23时27分]"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
-          "url": "https://wallstreetcn.com/livenews/3029596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            11,
-            21,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时31分 ~ 22时26分]"
-        },
-        {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时37分 ~ 23时27分]"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
-          "url": "https://flash.jin10.com/detail/20260101173343204800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时29分 ~ 21时38分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            14,
-            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时37分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         },
         {
           "title": "DeepSeek开年发布新论文",
-          "url": "https://www.toutiao.com/trending/7590319287114403334/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时29分 ~ 19时23分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
-          "url": "https://flash.jin10.com/detail/20260101000228879800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 01时23分]"
-        },
-        {
-          "title": "「Gemini」的正确读音是什么，哪种读法更被普遍接受？",
-          "url": "https://www.zhihu.com/question/1987568735523980297",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时24分 ~ 07时26分]"
-        },
-        {
-          "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
-          "url": "https://wallstreetcn.com/livenews/3029487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "两年期美债收益率2025年累跌将近77个基点",
-          "url": "https://wallstreetcn.com/livenews/3029499",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时26分 ~ 07时26分]"
+          "appearance_count": 1,
+          "time_info": "00时34分"
         }
       ]
     }
