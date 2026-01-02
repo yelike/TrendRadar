@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T04:29:35.705218+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-01-03T05:21:03.042439+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时21分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时21分]"
         },
         {
           "title": "美股三大期指集体走强 科技、贵金属板块开局强劲 | 今夜看点",
@@ -35,11 +35,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时21分]"
+        },
+        {
+          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
+          "url": "https://wallstreetcn.com/articles/3762458",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "time_info": "[02时37分 ~ 05时21分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -51,8 +63,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时29分]"
+          "appearance_count": 4,
+          "time_info": "[02时38分 ~ 05时21分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股盘中）",
@@ -64,19 +76,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时29分]"
-        },
-        {
-          "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
-          "url": "https://wallstreetcn.com/articles/3762458",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时37分 ~ 04时29分]"
+          "time_info": "[02时38分 ~ 05时21分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -139,11 +140,12 @@
             20,
             23,
             12,
-            24
+            24,
+            16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时33分 ~ 04时29分]"
+          "appearance_count": 8,
+          "time_info": "[00时33分 ~ 05时21分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
