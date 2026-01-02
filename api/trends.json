@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T07:26:23.361894+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-01-02T10:07:00.139648+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -29,8 +29,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -47,6 +47,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时34分 ~ 07时26分]"
+        },
+        {
+          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
+          "url": "https://www.zhihu.com/question/1990084005744362243",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
         }
       ]
     },
@@ -62,8 +73,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时34分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时34分 ~ 10时07分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -72,7 +83,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         }
