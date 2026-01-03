@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T15:25:16.652607+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-01-03T16:34:21.982619+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时24分 ~ 15时25分]"
+          "appearance_count": 11,
+          "time_info": "[07时24分 ~ 16时34分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -42,8 +42,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[02时37分 ~ 15时25分]"
+          "appearance_count": 18,
+          "time_info": "[02时37分 ~ 16时34分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -64,11 +64,25 @@
             10,
             9,
             7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时34分]"
+        },
+        {
+          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
+          "url": "https://www.cls.cn/detail/2246526",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[09时59分 ~ 16时34分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.09%，报342.59点，本周累计下跌5.68%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌0.15%，报2439.25点，本周累跌5.17%。 （美股）原材料指数涨2.09%，报230.86点，本周累跌0.71%。 （美股）金属与矿业指数涨3.97%，报223.87点，本周累涨0.67%。",
@@ -82,24 +96,12 @@
             16,
             17,
             19,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时26分 ~ 15时25分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时59分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[06时26分 ~ 16时34分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -112,11 +114,12 @@
             10,
             11,
             13,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时25分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 16时34分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -284,8 +287,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时33分 ~ 15时25分]"
+          "appearance_count": 20,
+          "time_info": "[00时33分 ~ 16时34分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -316,11 +319,12 @@
             14,
             15,
             17,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时26分 ~ 15时25分]"
+          "appearance_count": 9,
+          "time_info": "[06时26分 ~ 16时34分]"
         }
       ]
     }
