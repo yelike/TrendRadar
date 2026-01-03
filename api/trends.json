@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T11:38:15.470434+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-01-03T12:37:38.966242+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时33分 ~ 06时26分]"
         },
         {
+          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
+          "url": "https://wallstreetcn.com/articles/3762449",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时24分 ~ 12时37分]"
+        },
+        {
           "title": "高盛对冲基金负责人：2025美股“非常好”，2026市场将更加“狂野”",
           "url": "https://wallstreetcn.com/articles/3762458",
           "source": "华尔街见闻",
@@ -29,19 +40,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时37分 ~ 11时38分]"
-        },
-        {
-          "title": "2026欧股开门红，美股反弹艰难，芯片股力撑但特斯拉拖累，百度大涨15%，人民币两年多新高",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 11时38分]"
+          "appearance_count": 14,
+          "time_info": "[02时37分 ~ 12时37分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -65,8 +65,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 11时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时37分]"
         },
         {
           "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股盘中）",
@@ -102,11 +102,25 @@
             5,
             7,
             13,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时26分 ~ 11时38分]"
+          "appearance_count": 5,
+          "time_info": "[06时26分 ~ 12时37分]"
+        },
+        {
+          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
+          "url": "https://www.cls.cn/detail/2246526",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时59分 ~ 12时37分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -115,23 +129,12 @@
           "ranks": [
             1,
             7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 11时38分]"
-        },
-        {
-          "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
-          "url": "https://www.cls.cn/detail/2246526",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
+            9,
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时59分 ~ 11时38分]"
+          "time_info": "[07时25分 ~ 12时37分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
@@ -141,11 +144,51 @@
             10,
             13,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时26分 ~ 11时38分]"
+          "appearance_count": 5,
+          "time_info": "[06时26分 ~ 12时37分]"
+        },
+        {
+          "title": "半导体概念股美股新年首日普遍收涨",
+          "url": "https://wallstreetcn.com/livenews/3029957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 12时37分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260103083241410800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 12时37分]"
+        },
+        {
+          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260103083228341800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时00分 ~ 12时37分]"
         },
         {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
@@ -170,42 +213,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时23分]"
-        },
-        {
-          "title": "半导体概念股美股新年首日普遍收涨",
-          "url": "https://wallstreetcn.com/livenews/3029957",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 11时38分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260103083241410800",
-          "source": "金十数据",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 11时38分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260103083228341800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时00分 ~ 11时38分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一，中概股指大涨4%",
@@ -260,11 +267,12 @@
             16,
             19,
             8,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时33分 ~ 11时38分]"
+          "appearance_count": 16,
+          "time_info": "[00时33分 ~ 12时37分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -291,11 +299,12 @@
             3,
             5,
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时26分 ~ 11时38分]"
+          "appearance_count": 5,
+          "time_info": "[06时26分 ~ 12时37分]"
         }
       ]
     }
