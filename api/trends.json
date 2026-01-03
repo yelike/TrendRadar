@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T17:27:24.598246+08:00",
-  "total_titles_processed": 1102,
+  "generated_at": "2026-01-03T18:27:19.513599+08:00",
+  "total_titles_processed": 1196,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时24分 ~ 17时27分]"
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 18时27分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -43,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[02时37分 ~ 17时27分]"
+          "appearance_count": 20,
+          "time_info": "[02时37分 ~ 18时27分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -56,8 +56,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 17时27分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 18时27分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -82,8 +82,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 17时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 18时27分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -209,6 +209,17 @@
           "time_info": "[10时00分 ~ 12时37分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 18时27分]"
+        },
+        {
           "title": "美股高开低走，道指、标普500指数相继转跌。",
           "url": "https://flash.jin10.com/detail/20260102232633557800",
           "source": "金十数据",
@@ -243,17 +254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时00分 ~ 11时38分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         },
         {
           "title": "美股盘初：纳指涨1%，中概指数涨近3%，百度涨约11%，特斯拉涨约2%",
@@ -297,11 +297,12 @@
             19,
             8,
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时33分 ~ 17时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时33分 ~ 18时27分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
