@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-03T22:24:45.947719+08:00",
-  "total_titles_processed": 1495,
+  "generated_at": "2026-01-03T23:25:45.205329+08:00",
+  "total_titles_processed": 1589,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时24分 ~ 22时24分]"
+          "appearance_count": 18,
+          "time_info": "[07时24分 ~ 23时25分]"
         },
         {
           "title": "2026欧亚股市开门红，美股早盘涨势消退，中概大涨，百度早盘涨超10%，白银领衔贵金属反弹",
@@ -57,8 +57,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时59分 ~ 22时24分]"
+          "appearance_count": 16,
+          "time_info": "[09时59分 ~ 23时25分]"
         },
         {
           "title": "美股中概股大涨 百度涨超10%",
@@ -85,8 +85,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时33分 ~ 22时24分]"
+          "appearance_count": 27,
+          "time_info": "[00时33分 ~ 23时25分]"
         },
         {
           "title": "明晟公司MSCI发展中国家股票指数涨1.7%，连续第六个交易日走高，创2021年2月份以来收盘新高。 科技板块涨2.7%，壁仞科技香港IPO首日上涨，宣布AI芯片部门秘密递交香港IPO申请的百度也上涨。 MSCI拉美股票指数涨0.5%。 新兴市场货币涨跌各异。",
@@ -153,6 +153,20 @@
           "time_info": "[02时38分 ~ 07时25分]"
         },
         {
+          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
+          "url": "https://wallstreetcn.com/articles/3762474",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时27分 ~ 23时25分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌2.6%，连跌七天",
           "url": "https://wallstreetcn.com/livenews/3029937",
           "source": "华尔街见闻-快讯",
@@ -168,20 +182,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时26分 ~ 14时39分]"
-        },
-        {
-          "title": "美股新年首个交易日：能源等防御性板块领涨，科技股下跌",
-          "url": "https://wallstreetcn.com/articles/3762474",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时27分 ~ 22时24分]"
         },
         {
           "title": "半导体概念股美股新年首日普遍收涨",
