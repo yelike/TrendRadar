@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T10:23:25.851300+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-01-04T12:14:21.060325+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 10时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
           "title": "美股收盘：科技题材开年大狂欢！中概股化身“金龙傲天”",
@@ -43,19 +43,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 10时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 12时14分]"
         },
         {
           "title": "高盛交易团队2026年三大美股交易：聚焦“AI交易”下一步",
           "url": "https://wallstreetcn.com/articles/3762476",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时23分 ~ 12时14分]"
         }
       ]
     },
@@ -70,7 +71,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
         }
