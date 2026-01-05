@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T18:32:53.415044+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-01-05T19:25:39.173820+08:00",
+  "total_titles_processed": 1518,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
@@ -73,6 +73,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "地缘风险预期升温 美股国防板块盘前集体上扬",
+          "url": "https://flash.jin10.com/detail/20260105190339497800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         }
       ]
     },
