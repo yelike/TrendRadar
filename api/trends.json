@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T18:31:35.691852+08:00",
-  "total_titles_processed": 1598,
+  "generated_at": "2026-01-06T19:24:49.227577+08:00",
+  "total_titles_processed": 1692,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时26分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[07时26分 ~ 19时24分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -176,7 +176,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美债价格在ISM数据不及预期后上涨，交易员布局看涨期权",
@@ -212,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
+        },
+        {
+          "title": "美债收益率震荡回升 市场紧盯经济走软信号",
+          "url": "https://flash.jin10.com/detail/20260106185806265800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         }
       ]
     },
