@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T12:04:48.625430+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-01-06T13:31:43.055875+08:00",
+  "total_titles_processed": 1107,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 12时04分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 13时31分]"
         },
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -42,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 13时31分]"
         },
         {
           "title": "美股收盘：道指创历史新高 美委局势提振能源板块",
@@ -51,11 +51,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 13时31分]"
         },
         {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
