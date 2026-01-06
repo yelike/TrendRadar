@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T19:24:49.227577+08:00",
-  "total_titles_processed": 1692,
+  "generated_at": "2026-01-06T20:56:30.741654+08:00",
+  "total_titles_processed": 1793,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时26分 ~ 19时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时26分 ~ 20时56分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -220,7 +220,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
