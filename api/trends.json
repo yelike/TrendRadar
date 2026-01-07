@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T13:31:55.708271+08:00",
-  "total_titles_processed": 1130,
+  "generated_at": "2026-01-07T14:42:23.291406+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时26分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时26分 ~ 14时42分]"
         },
         {
           "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
@@ -62,11 +62,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 14时42分]"
         },
         {
           "title": "资金大轮动，美股标普和道指创新高，金属狂潮延续，沪镍夜盘涨停，原油下挫",
