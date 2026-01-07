@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T00:38:16.926915+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-01-08T01:31:40.506148+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 00时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 01时31分]"
         },
         {
           "title": "美国10年期国债收益率短线从4.1338%反弹至接近4.16%的水平，美国ISM非制造业数据和职位空缺数据发布后，日内整体跌幅收窄至不足2个基点。 两年期美债收益率刷新日高至3.4674%，数据发布前一分钟显著下挫至3.4427%刷新日低。",
@@ -25,7 +25,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
         }
