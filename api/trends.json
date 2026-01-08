@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T15:31:33.054739+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-01-08T16:38:21.925894+08:00",
+  "total_titles_processed": 1442,
   "failed_sources": [],
   "trends": [
     {
@@ -156,8 +156,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时42分 ~ 15时31分]"
+          "appearance_count": 3,
+          "time_info": "[14时42分 ~ 16时38分]"
         },
         {
           "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
@@ -218,8 +218,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时06分 ~ 15时31分]"
+          "appearance_count": 6,
+          "time_info": "[10时06分 ~ 16时38分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -290,7 +290,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时31分"
         }
