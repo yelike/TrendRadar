@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-08T07:26:52.914223+08:00",
-  "total_titles_processed": 707,
+  "generated_at": "2026-01-08T10:06:44.186990+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 9,
       "titles": [
+        {
+          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
+          "url": "https://www.cls.cn/detail/2251170",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 10时06分]"
+        },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260108050614770800",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 国防股遭特朗普点名打压",
-          "url": "https://www.cls.cn/detail/2251170",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
         },
         {
           "title": "金十图示：2026年01月07日（周三）热门中概股行情一览（美股收盘）",
@@ -110,7 +111,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
@@ -124,13 +125,24 @@
           "time_info": "[00时37分 ~ 04时32分]"
         },
         {
+          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
+          "url": "https://wallstreetcn.com/articles/3762734",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时06分"
+        },
+        {
           "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，贵金属回落",
           "url": "https://wallstreetcn.com/articles/3762734",
           "source": "华尔街见闻",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
