@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T12:04:52.479507+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-01-08T13:31:34.450687+08:00",
+  "total_titles_processed": 1132,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时26分 ~ 12时04分]"
+          "appearance_count": 4,
+          "time_info": "[07时26分 ~ 13时31分]"
         },
         {
           "title": "金十图示：2026年01月07日（周三）美股热门股票行情一览（美股收盘）",
@@ -82,7 +82,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时04分"
         },
@@ -133,8 +133,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 12时04分]"
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 13时31分]"
         },
         {
           "title": "ADP就业温和复苏，纳指期货跌幅收窄，欧美债价格上行，金银跌幅扩大，油价承压",
