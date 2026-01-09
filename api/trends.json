@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T14:42:43.617313+08:00",
-  "total_titles_processed": 1251,
+  "generated_at": "2026-01-09T15:31:42.728591+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时31分]"
+        },
+        {
+          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时23分 ~ 14时42分]"
+          "time_info": "[10时07分 ~ 15时31分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -32,17 +43,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 10时08分]"
-        },
-        {
-          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
-          "url": "https://wallstreetcn.com/articles/3762848",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 14时42分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -200,8 +200,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时07分 ~ 14时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时07分 ~ 15时31分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -211,8 +211,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时31分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 15时31分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
