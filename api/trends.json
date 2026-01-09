@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T12:05:39.146932+08:00",
-  "total_titles_processed": 1025,
+  "generated_at": "2026-01-09T13:32:01.502556+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时23分 ~ 12时05分]"
+          "appearance_count": 6,
+          "time_info": "[07时23分 ~ 13时32分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -41,8 +41,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 13时32分]"
         },
         {
           "title": "临近周五，美股轮动加剧，科技巨头回落、小盘股指新高，地缘风险撑原油强劲反弹",
@@ -144,7 +144,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -163,7 +163,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普要加军费，全球军工股大涨，纳指跌0.5%，美债强势，金银继续回调，白银失守75美元",
@@ -196,11 +196,23 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 13时32分]"
+        },
+        {
+          "title": "黄金成全球最大储备资产，30年来首次超越美债！",
+          "url": "https://wallstreetcn.com/articles/3762855",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "10年期美债收益率涨超3个基点",
