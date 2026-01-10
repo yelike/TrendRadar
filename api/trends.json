@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T05:23:50.799683+08:00",
-  "total_titles_processed": 380,
+  "generated_at": "2026-01-11T06:25:54.498509+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -31,8 +31,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -44,8 +44,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -55,8 +55,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -64,11 +64,12 @@
           "source": "今日头条",
           "ranks": [
             21,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时36分 ~ 05时23分]"
+          "appearance_count": 5,
+          "time_info": "[02时36分 ~ 06时25分]"
         }
       ]
     },
@@ -86,8 +87,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时25分]"
         }
       ]
     }
