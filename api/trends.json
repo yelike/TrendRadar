@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T12:41:04.144471+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-01-10T13:28:23.137904+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -44,8 +44,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 13时28分]"
         },
         {
           "title": "（美股）费城金银指数收涨1.97%，报374.53点，本周累计上涨9.32%，整体震荡上行。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.38%，报2619.57点，美股盘初显著拉升，本周累涨7.39%。 （美股）原材料指数涨2.38%，报245.15点，本周累涨6.19%。 （美股）金属与矿业指数涨1.34%，报231.57点，本周累涨3.44%。",
@@ -86,7 +86,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -101,8 +101,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时31分 ~ 12时41分]"
+          "appearance_count": 9,
+          "time_info": "[04时31分 ~ 13时28分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -114,8 +114,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时03分 ~ 12时41分]"
+          "appearance_count": 5,
+          "time_info": "[10时03分 ~ 13时28分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -126,8 +126,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时26分 ~ 12时41分]"
+          "appearance_count": 6,
+          "time_info": "[07时26分 ~ 13时28分]"
+        },
+        {
+          "title": "DeepSeek准备第二次震惊全世界",
+          "url": "https://www.toutiao.com/trending/7593519269174840858/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时28分"
         }
       ]
     },
@@ -208,11 +219,12 @@
           "url": "https://flash.jin10.com/detail/20260110115435338800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 13时28分]"
         }
       ]
     }
