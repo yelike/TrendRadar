@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T18:26:55.273241+08:00",
-  "total_titles_processed": 1362,
+  "generated_at": "2026-01-10T19:22:03.350354+08:00",
+  "total_titles_processed": 1412,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时03分 ~ 19时22分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时26分 ~ 18时26分]"
+          "appearance_count": 15,
+          "time_info": "[07时26分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -61,11 +61,12 @@
           "ranks": [
             9,
             4,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时38分 ~ 18时26分]"
+          "appearance_count": 9,
+          "time_info": "[14时38分 ~ 19时22分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -74,11 +75,12 @@
           "ranks": [
             15,
             16,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时24分 ~ 18时26分]"
+          "appearance_count": 8,
+          "time_info": "[15时24分 ~ 19时22分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -122,8 +124,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时03分 ~ 18时26分]"
+          "appearance_count": 14,
+          "time_info": "[10时03分 ~ 19时22分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
