@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T16:33:57.084852+08:00",
-  "total_titles_processed": 1236,
+  "generated_at": "2026-01-10T17:27:03.023357+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 16时33分]"
+          "appearance_count": 11,
+          "time_info": "[10时03分 ~ 17时27分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -46,11 +46,12 @@
           "ranks": [
             9,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时26分 ~ 16时33分]"
+          "appearance_count": 12,
+          "time_info": "[07时26分 ~ 17时27分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -62,8 +63,21 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 16时33分]"
+          "appearance_count": 6,
+          "time_info": "[14时38分 ~ 17时27分]"
+        },
+        {
+          "title": "UP主解读DeepSeek进化史",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时24分 ~ 17时27分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -77,18 +91,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时38分 ~ 16时33分]"
-        },
-        {
-          "title": "UP主解读DeepSeek进化史",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E8%BF%9B%E5%8C%96%E5%8F%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时24分 ~ 16时33分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -108,6 +110,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
+          "url": "https://www.cls.cn/detail/2253716",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时03分 ~ 17时27分]"
+        },
+        {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
           "url": "https://wallstreetcn.com/articles/3762848",
           "source": "华尔街见闻",
@@ -120,20 +136,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时36分 ~ 06时27分]"
-        },
-        {
-          "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
-          "url": "https://www.cls.cn/detail/2253716",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时03分 ~ 16时33分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
