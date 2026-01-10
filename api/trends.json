@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T17:27:03.023357+08:00",
-  "total_titles_processed": 1307,
+  "generated_at": "2026-01-10T18:26:55.273241+08:00",
+  "total_titles_processed": 1362,
   "failed_sources": [],
   "trends": [
     {
@@ -36,8 +36,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时03分 ~ 17时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时03分 ~ 18时26分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -47,11 +47,12 @@
             9,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时26分 ~ 17时27分]"
+          "appearance_count": 13,
+          "time_info": "[07时26分 ~ 18时26分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -63,8 +64,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时38分 ~ 17时27分]"
+          "appearance_count": 7,
+          "time_info": "[14时38分 ~ 18时26分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -76,8 +77,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时24分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[15时24分 ~ 18时26分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -86,11 +87,12 @@
           "ranks": [
             6,
             7,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时38分 ~ 16时33分]"
+          "appearance_count": 5,
+          "time_info": "[14时38分 ~ 18时26分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -120,8 +122,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时03分 ~ 17时27分]"
+          "appearance_count": 12,
+          "time_info": "[10时03分 ~ 18时26分]"
         },
         {
           "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
