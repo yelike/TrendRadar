@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-12T02:36:45.724294+08:00",
-  "total_titles_processed": 348,
+  "generated_at": "2026-01-12T03:20:56.167516+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时20分]"
         },
         {
           "title": "市场消息：家得宝与谷歌云联合推出Agentic AI工具，助力顾客与员工将项目从“如何做”转化为“已完成”。",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时32分 ~ 03时20分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时20分]"
         }
       ]
     },
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时20分]"
         }
       ]
     },
@@ -78,8 +78,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 03时20分]"
         }
       ]
     }
