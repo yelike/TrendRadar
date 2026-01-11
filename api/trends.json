@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T15:27:16.781803+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-01-11T16:34:39.982860+08:00",
+  "total_titles_processed": 910,
   "failed_sources": [],
   "trends": [
     {
@@ -45,8 +45,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 15时27分]"
+          "appearance_count": 18,
+          "time_info": "[00时31分 ~ 16时34分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -68,11 +68,12 @@
           "ranks": [
             11,
             4,
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时13分 ~ 15时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时13分 ~ 16时34分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -92,7 +93,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美国参议员们要求谷歌和苹果下架马斯克的X和Grok应用",
@@ -105,12 +106,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时25分 ~ 10时23分]"
+        },
+        {
+          "title": "谷歌创始人“逃离”硅谷",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E5%88%9B%E5%A7%8B%E4%BA%BA%E2%80%9C%E9%80%83%E7%A6%BB%E2%80%9D%E7%A1%85%E8%B0%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：道指、标普均创历史新高 非农并未动摇美联储年内降息预期",
@@ -124,6 +136,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时31分 ~ 07时25分]"
+        },
+        {
+          "title": "下周看点：美股Q4财报季拉开帷幕",
+          "url": "https://www.toutiao.com/trending/7593513607846166538/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时33分 ~ 16时34分]"
         }
       ]
     }
