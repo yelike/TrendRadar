@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T12:13:40.329635+08:00",
-  "total_titles_processed": 653,
+  "generated_at": "2026-01-11T13:31:58.981232+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时31分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -45,8 +45,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时31分 ~ 12时13分]"
+          "appearance_count": 13,
+          "time_info": "[00时31分 ~ 13时31分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -80,11 +80,12 @@
           "url": "https://www.zhihu.com/question/1990551534715556923",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时13分 ~ 13时31分]"
         }
       ]
     },
