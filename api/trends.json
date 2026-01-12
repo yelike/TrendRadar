@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T21:50:34.584746+08:00",
-  "total_titles_processed": 1680,
+  "generated_at": "2026-01-12T22:32:31.676967+08:00",
+  "total_titles_processed": 1751,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -30,8 +30,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时12分 ~ 21时50分]"
+          "appearance_count": 15,
+          "time_info": "[10时12分 ~ 22时32分]"
         },
         {
           "title": "伊朗局势微妙、鲍威尔被诉，美股债汇三杀，金银新高后涨幅扩大，铜逼近新高，油价回调",
@@ -66,9 +66,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时50分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 22时32分]"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
@@ -126,6 +126,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-01-12）",
+          "url": "https://flash.jin10.com/detail/20260112214500163800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3035390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时32分"
         }
       ]
     },
@@ -142,8 +164,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时33分 ~ 21时50分]"
+          "appearance_count": 11,
+          "time_info": "[15时33分 ~ 22时32分]"
         },
         {
           "title": "沃尔玛与谷歌母公司Alphabet组团，在Gemini上提供由AI支持的购物功能。",
