@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T14:44:51.359114+08:00",
-  "total_titles_processed": 1238,
+  "generated_at": "2026-01-14T15:33:07.634192+08:00",
+  "total_titles_processed": 1349,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 95,
+      "match_count": 96,
       "titles": [
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -54,6 +54,19 @@
           "time_info": "[10时22分 ~ 14时44分]"
         },
         {
+          "title": "特朗普建议盟友“撤离”伊朗",
+          "url": "https://www.cls.cn/detail/2256898",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时22分 ~ 15时33分]"
+        },
+        {
           "title": "特朗普：对伊朗贸易伙伴征收25%关税，油价短线走高",
           "url": "https://wallstreetcn.com/articles/3763124",
           "source": "华尔街见闻",
@@ -89,6 +102,30 @@
           "time_info": "07时26分"
         },
         {
+          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
+          "url": "https://wallstreetcn.com/articles/3763222",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时33分]"
+        },
+        {
+          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
+          "url": "https://www.cls.cn/detail/2256936",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时33分]"
+        },
+        {
           "title": "美国总统特朗普：摩根大通CEO戴蒙就调查美联储主席鲍威尔一事谴责司法部，那样做“是错误的”。",
           "url": "https://wallstreetcn.com/livenews/3036430",
           "source": "华尔街见闻-快讯",
@@ -100,17 +137,17 @@
           "time_info": "06时30分"
         },
         {
-          "title": "特朗普建议盟友“撤离”伊朗",
-          "url": "https://www.cls.cn/detail/2256898",
+          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
+          "url": "https://www.cls.cn/detail/2256871",
           "source": "财联社热门",
           "ranks": [
-            9,
-            7,
-            8
+            10,
+            12,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[10时22分 ~ 14时44分]"
+          "time_info": "[12时13分 ~ 15时32分]"
         },
         {
           "title": "明晟公司MSCI北欧国家指数涨0.3%，报385.71点，创3月5日以来收盘新高。 在十个板块中，北欧医疗保健板块涨幅最大。 丹麦可再生能源公司Orsted AS（沃旭能源）涨5.4%，在一众北欧个股里领跑，美国法官批准该公司在美国（被总统特朗普叫停的一个）海上风电场项目可以继续推进。",
@@ -271,40 +308,15 @@
           "time_info": "[02时40分 ~ 03时26分]"
         },
         {
-          "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
-          "url": "https://wallstreetcn.com/articles/3763222",
-          "source": "华尔街见闻",
+          "title": "特朗普演讲时突然模仿拜登",
+          "url": "https://www.toutiao.com/trending/7594003113268543524/",
+          "source": "今日头条",
           "ranks": [
-            10
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时44分]"
-        },
-        {
-          "title": "特朗普密集政策表态引发市场动荡 以色列宣布退出多家联合国机构 | 环球市场",
-          "url": "https://www.cls.cn/detail/2256871",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时44分]"
-        },
-        {
-          "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
-          "url": "https://www.cls.cn/detail/2256936",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时44分]"
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 15时33分]"
         },
         {
           "title": "美国总统特朗普谈及自己强迫更名的美国墨西哥加拿大贸易协议（USMCA）：加拿大想要USMCA，我们（美国）才不需要。",
@@ -520,6 +532,17 @@
           "time_info": "00时41分"
         },
         {
+          "title": "特朗普对伊朗发出威胁，外交部：反对外部势力干涉一国内政",
+          "url": "https://wallstreetcn.com/livenews/3036769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "美国总统特朗普：目前信用卡利率太高了。",
           "url": "https://flash.jin10.com/detail/20260114034307085800",
           "source": "金十数据",
@@ -548,7 +571,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -559,7 +582,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -823,7 +846,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -834,7 +857,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -947,17 +970,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "特朗普演讲时突然模仿拜登",
-          "url": "https://www.toutiao.com/trending/7594003113268543524/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
         },
         {
           "title": "美国总统特朗普：美联储里有个真正的死脑筋。",
@@ -1095,7 +1107,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -1107,6 +1119,18 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时41分 ~ 12时13分]"
+        },
+        {
+          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
+          "url": "https://news.ifeng.com/c/8psTbSveNse",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时22分 ~ 15时33分]"
         },
         {
           "title": "外交部回应伊朗局势",
@@ -1125,18 +1149,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时41分 ~ 12时13分]"
-        },
-        {
-          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
-          "url": "https://news.ifeng.com/c/8psTbSveNse",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 14时44分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -1164,6 +1176,31 @@
           "time_info": "[00时41分 ~ 07时26分]"
         },
         {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时22分 ~ 15时33分]"
+        },
+        {
+          "title": "中方回应“是否建议公民去伊朗”",
+          "url": "https://www.douyin.com/hot/2366959",
+          "source": "抖音",
+          "ranks": [
+            7,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时13分 ~ 15时33分]"
+        },
+        {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
           "url": "https://wallstreetcn.com/livenews/3036450",
           "source": "华尔街见闻-快讯",
@@ -1173,17 +1210,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
-          "url": "https://www.zhihu.com/question/1994353599640270638",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 14时44分]"
         },
         {
           "title": "土耳其外交部消息人士称，土耳其外交部长在与伊朗外交部长的电话通话中讨论了最新事态发展。",
@@ -1231,18 +1257,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时40分 ~ 03时26分]"
-        },
-        {
-          "title": "中方回应“是否建议公民去伊朗”",
-          "url": "https://www.douyin.com/hot/2366959",
-          "source": "抖音",
-          "ranks": [
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 14时44分]"
         },
         {
           "title": "据NewsNation：知情人士证实，美国副总统万斯定于今天下午（北京时间今晨）与国家安全团队举行会议，主导制定对伊朗的战略。",
@@ -1425,6 +1439,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "伊朗驻荷兰大使馆遭袭 多人被捕",
+          "url": "https://flash.jin10.com/detail/20260114145800437800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
+        },
+        {
           "title": "黎巴嫩真主党就伊朗局势发表声明 支持伊朗政府",
           "url": "https://wallstreetcn.com/livenews/3036344",
           "source": "华尔街见闻-快讯",
@@ -1442,7 +1467,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -1456,6 +1481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "伊朗驻荷兰大使馆遭袭 多人被捕",
+          "url": "https://wallstreetcn.com/livenews/3036742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时33分"
         },
         {
           "title": "伊朗称逮捕297名与美以有关联的骚乱分子",
@@ -1474,6 +1510,17 @@
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时22分 ~ 15时33分]"
+        },
         {
           "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
           "url": "https://www.cls.cn/detail/2256863",
@@ -1500,17 +1547,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时41分 ~ 06时30分]"
-        },
-        {
-          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时22分 ~ 14时44分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -1638,11 +1674,12 @@
           "ranks": [
             9,
             6,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 14时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 15时33分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -1686,7 +1723,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         }
@@ -1727,6 +1764,17 @@
           "time_info": "[00时41分 ~ 06时30分]"
         },
         {
+          "title": "金价暴涨下谁在赚钱",
+          "url": "https://www.toutiao.com/trending/7595070385364667930/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 15时33分]"
+        },
+        {
           "title": "金价为何持续走强",
           "url": "https://www.toutiao.com/trending/7594774199927836179/",
           "source": "今日头条",
@@ -1736,17 +1784,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
-        },
-        {
-          "title": "金价暴涨下谁在赚钱",
-          "url": "https://www.toutiao.com/trending/7595070385364667930/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）上海金早盘价为1033.73元/克，较国际金价（1036.81元/克）低3.08元/克",
@@ -1766,7 +1803,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         }
@@ -1842,11 +1879,12 @@
             8,
             15,
             19,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时41分 ~ 14时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 15时33分]"
         }
       ]
     },
