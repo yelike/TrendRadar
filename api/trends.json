@@ -1,11 +1,50 @@
 {
-  "generated_at": "2026-01-14T23:32:13.782264+08:00",
-  "total_titles_processed": 2186,
+  "generated_at": "2026-01-15T00:38:54.661730+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
+          "url": "https://wallstreetcn.com/livenews/3037200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "谷歌：即日起，符合条件的美国谷歌AI Pro和AI Ultra订阅用户将在未来一周内陆续获得访问权限。",
+          "url": "https://flash.jin10.com/detail/20260115000815990800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "谷歌：Gemini推出个人智能。",
+          "url": "https://flash.jin10.com/detail/20260115000759696800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 3,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -15,35 +54,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时11分 ~ 23时32分]"
-        },
-        {
-          "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
-          "url": "https://wallstreetcn.com/articles/3763167",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时28分]"
-        },
-        {
-          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
-          "url": "https://www.cls.cn/detail/2256863",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时25分 ~ 14时42分]"
+          "appearance_count": 1,
+          "time_info": "00时38分"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -53,88 +65,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时31分 ~ 23时32分]"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260114050526199800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260114050525340800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 英特尔涨7%",
-          "url": "https://flash.jin10.com/detail/20260114050057786800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "美国总统特朗普赞赏美股的表现。",
-          "url": "https://wallstreetcn.com/livenews/3036366",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时32分]"
-        },
-        {
-          "title": "美国总统特朗普称赞美股走高。",
-          "url": "https://flash.jin10.com/detail/20260114030749568800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时25分 ~ 04时32分]"
-        },
-        {
-          "title": "伊朗局势担忧加剧，美股指期货跌幅扩大，金属狂飙，现货白银站上92美元，锡铜新高",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时31分 ~ 22时32分]"
-        },
-        {
-          "title": "现货白银涨约2.2%，美股盘初突破89美元创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3036425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时25分]"
+          "time_info": "00时38分"
         },
         {
           "title": "美股集体低开 携程跌近17%",
@@ -144,261 +76,25 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时31分 ~ 23时32分]"
-        },
-        {
-          "title": "携程美股盘前下跌超7%。",
-          "url": "https://wallstreetcn.com/livenews/3036845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时32分]"
-        },
-        {
-          "title": "携程(TCOM.O)美股盘前下跌7.3%。",
-          "url": "https://flash.jin10.com/detail/20260114170230347800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "携程(TCOM.O)美股盘前跌幅扩大至13.3%。",
-          "url": "https://flash.jin10.com/detail/20260114202836391800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260114013126429800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "金融业ETF收跌超1.9%，领跌美股行业ETF，标普能源板块涨超1.5%",
-          "url": "https://wallstreetcn.com/livenews/3036413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "金十图示：2026年01月13日（周二）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260114013023358800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时39分"
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3037104",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时32分"
-        },
-        {
-          "title": "美国银行：第四季度净利息收入157.5亿美元，市场预期为154.8亿美元。 第四季度每股收益0.98美元。 第四季度净利息收益率2.08%，市场预期为2.04%。 第四季度投资银行收入16.7亿美元，市场预期为16.6亿美元。 第四季度债务承销收入8.1亿美元，市场预期为8.64亿美元。 第四季度股权承销收入2.97亿美元，市场预期为3.01亿美元。 美国银行美股盘前涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3037009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时59分"
-        },
-        {
-          "title": "花旗集团：第四季度FICC销售与交易收入为34.6亿美元，市场预期为32.9亿美元。 第四季度股票销售与交易收入为10.8亿美元，市场预期为11.6亿美元。 第四季度银行业务收入为22.1亿美元，市场预期为20亿美元。 第四季度投行业务收入为12.7亿美元。 第四季度总收入为198.7亿美元；每股收益为1.19美元。 花旗美股盘前一度涨0.5%，现跌超1.7%。",
-          "url": "https://wallstreetcn.com/livenews/3037064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 06时28分]"
-        },
-        {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时39分 ~ 05时28分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6,
-            8,
-            10,
-            7,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 16时38分]"
-        },
-        {
-          "title": "gemini3pro 真那么好用吗？",
-          "url": "https://www.zhihu.com/question/1990762235694434081",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时38分 ~ 06时28分]"
-        },
-        {
-          "title": "如何评价苹果选择谷歌 Gemini 作为其下一代 AI 核心，而非坚持完全自研？这是战略妥协还是生态整合？",
-          "url": "https://www.zhihu.com/question/1994425649616671736",
-          "source": "知乎",
-          "ranks": [
-            19,
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 19时27分]"
-        },
-        {
-          "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
-          "url": "https://www.cls.cn/detail/2256720",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
-          "url": "https://www.zhihu.com/question/1994310970621859099",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时42分"
+          "time_info": "00时38分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "如何评价 DeepSeek 发布梁文锋署名论文，提出「条件记忆」及 Engram 记忆检索架构？有哪些亮点？",
           "url": "https://www.zhihu.com/question/1994233409871050526",
           "source": "知乎",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时59分 ~ 23时32分]"
-        },
-        {
-          "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
-          "url": "https://wallstreetcn.com/articles/3763151",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 12时12分]"
-        },
-        {
-          "title": "梁文锋新论文剧透下一代模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            6,
-            9,
-            15,
-            19,
-            26,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时39分 ~ 15时31分]"
-        },
-        {
-          "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
-          "url": "https://wallstreetcn.com/livenews/3036793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时38分"
+          "time_info": "00时38分"
         }
       ]
     },
@@ -411,46 +107,11 @@
           "url": "https://www.zhihu.com/question/1994845056302080639",
           "source": "知乎",
           "ranks": [
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时31分 ~ 23时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "澳新银行预计2026年下半年黄金价格将高于5000美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3036683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "两年期美债收益率跌超1个基点，美国CPI数据出炉时显著跳水",
-          "url": "https://wallstreetcn.com/livenews/3036390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "00时38分"
         }
       ]
     }
