@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T03:25:10.013431+08:00",
-  "total_titles_processed": 512,
+  "generated_at": "2026-01-15T04:28:21.791919+08:00",
+  "total_titles_processed": 559,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时28分]"
         },
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 03时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 04时28分]"
         },
         {
           "title": "伊朗局势担忧加剧，美股指集体下挫，纳指跌近0.8%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -51,8 +52,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时28分]"
         },
         {
           "title": "金十图示：2026年01月14日（周三）美股热门股票行情一览（美股盘中）",
@@ -130,8 +131,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时28分]"
         },
         {
           "title": "梁文锋新论文剧透下一代模型",
@@ -158,11 +159,12 @@
             10,
             7,
             5,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 03时25分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 04时28分]"
         }
       ]
     },
