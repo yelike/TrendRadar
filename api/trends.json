@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T12:12:38.592883+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-01-14T13:31:55.434105+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 13时31分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -41,8 +42,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 12时12分]"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 13时31分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -185,8 +186,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 12时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 13时31分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -207,7 +208,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -239,11 +240,12 @@
             10,
             6,
             9,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时39分 ~ 12时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时39分 ~ 13时31分]"
         }
       ]
     },
