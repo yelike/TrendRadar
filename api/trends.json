@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-14T18:32:37.371261+08:00",
-  "total_titles_processed": 1639,
+  "generated_at": "2026-01-14T19:27:54.038219+08:00",
+  "total_titles_processed": 1739,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时11分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[10时11分 ~ 19时27分]"
         },
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -234,11 +234,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时27分]"
         },
         {
           "title": "马斯克抨击苹果与谷歌合作 称其构成“不合理的权力集中”",
