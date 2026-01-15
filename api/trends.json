@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T01:38:31.381484+08:00",
-  "total_titles_processed": 373,
+  "generated_at": "2026-01-16T02:44:58.151453+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时44分]"
         },
         {
           "title": "台积电财报点燃市场情绪，美股指集体高开，台积电涨超4%，伊朗局势暂时降温，原油跌5%，白银一度跌7%",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时44分]"
         },
         {
           "title": "台积电涨超6%，美股盘中总市值突破1.8万亿美元",
@@ -54,7 +54,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
         },
@@ -64,11 +64,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             20,
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时44分]"
         }
       ]
     },
@@ -81,11 +82,12 @@
           "url": "https://www.zhihu.com/question/1995072623625855863",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时44分]"
         }
       ]
     },
@@ -102,8 +104,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 02时44分]"
         }
       ]
     }
