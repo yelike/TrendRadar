@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-15T14:42:21.335891+08:00",
-  "total_titles_processed": 1282,
+  "generated_at": "2026-01-15T15:31:45.776738+08:00",
+  "total_titles_processed": 1384,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,17 @@
           "time_info": "[02时41分 ~ 06时29分]"
         },
         {
+          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时06分 ~ 15时31分]"
+        },
+        {
           "title": "美股集体低开 携程跌近17%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E6%90%BA%E7%A8%8B%E8%B7%8C%E8%BF%9117%25",
           "source": "百度热搜",
@@ -42,17 +53,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时23分]"
-        },
-        {
-          "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
-          "url": "https://wallstreetcn.com/articles/3763270",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时06分 ~ 14时42分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 七巨头全军覆没 银行股持续回落",
@@ -97,7 +97,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
@@ -196,11 +196,12 @@
           "ranks": [
             12,
             15,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 14时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 15时31分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -260,7 +261,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时42分"
         },
