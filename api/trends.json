@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T18:32:04.635660+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-01-15T19:27:27.582958+08:00",
+  "total_titles_processed": 1796,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时06分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[10时06分 ~ 19时27分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -162,6 +162,17 @@
           "time_info": "[06时29分 ~ 07时23分]"
         },
         {
+          "title": "贝莱德第四财季管理资产总额14.04万亿美元，同比增长22%，市场预期13.94万亿美元。 第四财季调整后每股收益（EPS）13.16美元，去年同期为11.93美元，市场预期12.28美元。 第四财季营收70.1亿美元，同比增长23%，市场预期67.8亿美元。 第四财季股票类净流入1260.5亿美元，固定收益类净流入837.7亿美元。 贝莱德美股盘前涨超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3037945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
           "url": "https://wallstreetcn.com/livenews/3037834",
           "source": "华尔街见闻-快讯",
@@ -182,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "台积电美股盘前涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3037925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
@@ -212,8 +234,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时07分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[12时07分 ~ 19时27分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -321,6 +343,35 @@
       ]
     },
     {
+      "keyword_group": "美元 AI 特朗普 科技 伊朗 A股 上证 深证",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "A股三大指数涨跌不一",
+          "url": "https://www.toutiao.com/trending/7595394704323756070/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 17时35分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
+          "url": "https://www.cls.cn/detail/2258951",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
       "match_count": 1,
       "titles": [
@@ -338,24 +389,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元 AI 特朗普 科技 伊朗 A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大指数涨跌不一",
-          "url": "https://www.toutiao.com/trending/7595394704323756070/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时38分 ~ 17时35分]"
         }
       ]
     }
