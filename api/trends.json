@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T03:24:16.912246+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-01-17T04:28:48.830940+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时28分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -26,19 +26,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 03时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 04时28分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
           "url": "https://wallstreetcn.com/articles/3763450",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 03时24分]"
+          "appearance_count": 5,
+          "time_info": "[01时29分 ~ 04时28分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股盘中）",
