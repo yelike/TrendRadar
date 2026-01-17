@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T06:26:08.566293+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-01-18T07:25:29.830579+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         },
         {
           "title": "U23 亚洲杯，国足 VS 乌兹别克斯坦，如何评价本场比赛？",
@@ -53,11 +53,12 @@
           "url": "https://wallstreetcn.com/articles/3763504",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         }
       ]
     },
@@ -73,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时31分 ~ 06时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时31分 ~ 07时25分]"
         }
       ]
     }
