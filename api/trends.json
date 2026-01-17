@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T17:27:06.391532+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-01-17T18:26:53.595250+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             3,
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时27分 ~ 17时27分]"
+          "appearance_count": 13,
+          "time_info": "[07时27分 ~ 18时26分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -226,6 +227,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时27分 ~ 10时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek 最新的「条件记忆」和字节 Seed 团队「Over-Encoding」之间的关联？",
+          "url": "https://www.zhihu.com/question/1995200812075480347",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     }
