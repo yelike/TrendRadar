@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T05:23:58.284842+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-01-18T06:26:08.566293+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时26分]"
         },
         {
           "title": "U23 亚洲杯，国足 VS 乌兹别克斯坦，如何评价本场比赛？",
@@ -56,8 +56,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时26分]"
         }
       ]
     },
@@ -73,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时31分 ~ 05时23分]"
+          "appearance_count": 8,
+          "time_info": "[00时31分 ~ 06时26分]"
         }
       ]
     }
