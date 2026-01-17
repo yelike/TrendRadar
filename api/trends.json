@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T10:02:14.046736+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-01-17T11:58:13.670516+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 10时02分]"
+          "appearance_count": 13,
+          "time_info": "[00时37分 ~ 11时58分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -47,6 +48,19 @@
           "time_info": "[01时29分 ~ 07时27分]"
         },
         {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时27分 ~ 11时58分]"
+        },
+        {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260117050528991800",
           "source": "金十数据",
@@ -57,18 +71,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时27分 ~ 10时02分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 10时02分]"
         },
         {
           "title": "网络股ETF收跌将近0.9%，领跌美股行业ETF，半导体ETF涨1%",
