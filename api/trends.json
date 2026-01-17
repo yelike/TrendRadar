@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T11:58:13.670516+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-01-17T12:38:55.178553+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,20 @@
           "time_info": "[00时37分 ~ 11时58分]"
         },
         {
+          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
+          "url": "https://www.cls.cn/detail/2260993",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 12时38分]"
+        },
+        {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
           "url": "https://wallstreetcn.com/articles/3763450",
           "source": "华尔街见闻",
@@ -46,19 +60,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时29分 ~ 07时27分]"
-        },
-        {
-          "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
-          "url": "https://www.cls.cn/detail/2260993",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 11时58分]"
         },
         {
           "title": "金十图示：2026年01月16日（周五）美股热门股票行情一览（美股收盘）",
