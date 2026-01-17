@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T12:38:55.178553+08:00",
-  "total_titles_processed": 908,
+  "generated_at": "2026-01-17T13:26:44.492094+08:00",
+  "total_titles_processed": 956,
   "failed_sources": [],
   "trends": [
     {
@@ -20,20 +20,6 @@
           "time_info": "[00时37分 ~ 07时27分]"
         },
         {
-          "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2260838",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时37分 ~ 11时58分]"
-        },
-        {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
           "url": "https://www.cls.cn/detail/2260993",
           "source": "财联社热门",
@@ -44,8 +30,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 12时38分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 13时26分]"
+        },
+        {
+          "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2260838",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 13时26分]"
         },
         {
           "title": "科技股助推美股指全线上涨，纳指涨0.5%，白银价格逆势重挫5%",
@@ -158,6 +158,45 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国持续减持美债有何动因",
+          "url": "https://www.toutiao.com/trending/7595953759675485747/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时26分"
+        },
+        {
+          "title": "两年期美债收益率周五一度快速拉升，本周累涨超6.2个基点",
+          "url": "https://wallstreetcn.com/livenews/3038998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时27分"
+        },
+        {
+          "title": "现货黄金日内跌幅达1.5%，报4546.43美元/盎司。 纽约银日内跌幅达6.0%，报86.81美元/盎司。 纽蒙特矿业跌2.3%。 标普跌0.18%，纳指跌0.2%，半导体指数涨幅收窄至0.8%。 两年期美债收益率涨幅扩大至2.6个基点，刷新日高至3.59%上方。 美元指数短线从99.20点下方反弹，重返99.33一线。 特朗普称，希望哈塞特继续担任白宫顾问。",
+          "url": "https://wallstreetcn.com/livenews/3038910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -185,34 +224,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时27分 ~ 10时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "两年期美债收益率周五一度快速拉升，本周累涨超6.2个基点",
-          "url": "https://wallstreetcn.com/livenews/3038998",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时27分"
-        },
-        {
-          "title": "现货黄金日内跌幅达1.5%，报4546.43美元/盎司。 纽约银日内跌幅达6.0%，报86.81美元/盎司。 纽蒙特矿业跌2.3%。 标普跌0.18%，纳指跌0.2%，半导体指数涨幅收窄至0.8%。 两年期美债收益率涨幅扩大至2.6个基点，刷新日高至3.59%上方。 美元指数短线从99.20点下方反弹，重返99.33一线。 特朗普称，希望哈塞特继续担任白宫顾问。",
-          "url": "https://wallstreetcn.com/livenews/3038910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时37分"
         }
       ]
     }
