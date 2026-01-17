@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T21:33:27.270470+08:00",
-  "total_titles_processed": 1462,
+  "generated_at": "2026-01-17T22:25:19.632837+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -33,8 +33,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时27分 ~ 21时33分]"
+          "appearance_count": 17,
+          "time_info": "[07时27分 ~ 22时25分]"
         },
         {
           "title": "美股期指走高 美联储静默期前市场谨慎乐观 | 今夜看点",
@@ -232,6 +232,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国 U23 男足与乌兹别克在亚洲杯 1/4 决赛中，能够拿下这场比赛吗？",
+          "url": "https://www.zhihu.com/question/1995757645857044327",
+          "source": "知乎",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时22分 ~ 20时51分]"
+        },
+        {
+          "title": "圣李昊！U23 亚洲杯淘汰赛，中国队点球大战淘汰乌兹别克斯坦跻身四强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1995940692124459289",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -246,24 +275,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时26分 ~ 19时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国 U23 男足与乌兹别克在亚洲杯 1/4 决赛中，能够拿下这场比赛吗？",
-          "url": "https://www.zhihu.com/question/1995757645857044327",
-          "source": "知乎",
-          "ranks": [
-            14,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时22分 ~ 20时51分]"
         }
       ]
     }
