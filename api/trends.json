@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-18T22:24:24.748364+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-01-18T23:26:12.928203+08:00",
+  "total_titles_processed": 1403,
   "failed_sources": [],
   "trends": [
     {
@@ -89,26 +89,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
-          "url": "https://wallstreetcn.com/articles/3763534",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时21分 ~ 22时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：三大指数微幅下跌 财报季开局谨慎 美光科技涨超7%市值破4000亿",
@@ -121,6 +103,35 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时31分 ~ 10时22分]"
+        },
+        {
+          "title": "美股明日休市 金银油交易提前结束",
+          "url": "https://flash.jin10.com/detail/20260118225633271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "没有商业模式--DeepSeek最坚固的“护城河”",
+          "url": "https://wallstreetcn.com/articles/3763534",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时21分 ~ 23时26分]"
         }
       ]
     }
