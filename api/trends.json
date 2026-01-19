@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T21:02:29.416902+08:00",
-  "total_titles_processed": 1575,
+  "generated_at": "2026-01-19T22:34:51.684395+08:00",
+  "total_titles_processed": 1695,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时40分 ~ 16时41分]"
+        },
+        {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
@@ -83,6 +94,23 @@
           "is_new": false,
           "appearance_count": 22,
           "time_info": "[00时31分 ~ 16时41分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌的Gemini业务销售额预计将飙升",
+          "url": "https://flash.jin10.com/detail/20260119221021907800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时34分"
         }
       ]
     }
