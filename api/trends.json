@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T15:34:23.743847+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-01-19T16:41:09.359342+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股明日休市 金银油交易提前结束",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时24分]"
+        },
+        {
+          "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时40分 ~ 16时41分]"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
@@ -59,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 15时34分]"
+          "appearance_count": 22,
+          "time_info": "[00时31分 ~ 16时41分]"
         }
       ]
     }
