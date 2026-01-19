@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-19T18:36:26.926064+08:00",
-  "total_titles_processed": 1367,
+  "generated_at": "2026-01-19T19:27:49.470220+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
+        {
+          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时41分 ~ 19时27分]"
+        },
         {
           "title": "美股明日休市 金银油交易提前结束",
           "url": "https://flash.jin10.com/detail/20260118225633271800",
@@ -30,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时40分 ~ 16时41分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，欧美股市双双大跌，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时41分 ~ 18时36分]"
         },
         {
           "title": "A股制冷剂概念股震荡拉升，昊华科技涨停，永和股份、三美股份、巨化股份、金石资源跟涨。",
