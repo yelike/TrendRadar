@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-21T00:42:45.652306+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-21T01:36:03.406784+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         }
       ]
     },
@@ -54,8 +54,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
@@ -65,8 +65,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         }
       ]
     },
@@ -82,8 +82,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时36分]"
         }
       ]
     }
