@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T14:45:40.090166+08:00",
-  "total_titles_processed": 1148,
+  "generated_at": "2026-01-20T15:35:06.818959+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 15时35分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
@@ -47,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         }
