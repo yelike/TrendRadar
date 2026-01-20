@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T02:48:41.562920+08:00",
-  "total_titles_processed": 467,
+  "generated_at": "2026-01-21T04:16:43.146648+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股指集体低开，纳指跌1.6%，日债引领全球国债抛售潮，黄金一度突破4750美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时16分]"
         },
         {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时16分]"
         },
         {
           "title": "格陵兰岛事件升温欧美股市普跌 现货黄金、白银再创新高 | 今夜看点",
@@ -37,8 +37,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时16分]"
+        },
+        {
+          "title": "美股三大股指持续走低，标普500指数跌超2%，道指现跌约1.8%，纳指跌2.2%。",
+          "url": "https://flash.jin10.com/detail/20260121032659165800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "金十图示：2026年01月20日（周二）美股热门股票行情一览（美股盘中）",
@@ -47,7 +58,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
         },
@@ -58,9 +69,49 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "U23 亚洲杯半决赛，中国 vs 越南，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1996942837732827694",
+          "source": "知乎",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时48分 ~ 04时16分]"
+        },
+        {
+          "title": "打进决赛！2026 年 U23 亚洲杯半决赛 U23 国足 3:0 战胜越南 U23, 如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1997118334769071695",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "u23 亚洲杯国足 3：0 击败越南，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/1997118983611127419",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         }
       ]
     },
@@ -76,19 +127,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时16分]"
         },
         {
           "title": "贝森特“安抚”市场：欧洲抛售美债是“虚假叙事”，最早下周公布新美联储主席",
           "url": "https://wallstreetcn.com/articles/3763688",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时48分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时16分]"
         }
       ]
     },
@@ -102,28 +154,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "U23 亚洲杯半决赛，中国 vs 越南，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1996942837732827694",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时48分"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 04时16分]"
         }
       ]
     }
