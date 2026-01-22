@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T03:31:16.903808+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-01-23T04:36:05.063120+08:00",
+  "total_titles_processed": 540,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时36分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -27,30 +27,32 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 04时36分]"
         },
         {
           "title": "金十图示：2026年01月22日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260123024054852800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时36分]"
         },
         {
           "title": "金十图示：2026年01月22日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260123024048159800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时31分 ~ 04时36分]"
         },
         {
           "title": "美股稀土概念涨势扩大，USAR涨超20%领升板块；CRML涨超14%，将在沙特阿拉伯设立稀土加工厂；MP materials涨超7%。",
@@ -75,11 +77,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            14
+            14,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 04时36分]"
         },
         {
           "title": "Alphabet旗下谷歌公司提供新的选项，帮助用于把搜索结果个性化。 谷歌允许用户从谷歌旗下图像和Email等其他应用获取数据。",
@@ -117,8 +120,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时36分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
@@ -130,8 +133,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时36分]"
         }
       ]
     },
@@ -145,11 +148,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 03时31分]"
+          "appearance_count": 5,
+          "time_info": "[02时41分 ~ 04时36分]"
         }
       ]
     },
@@ -162,11 +166,12 @@
           "url": "https://www.zhihu.com/question/1997587801072476868",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时42分 ~ 03时31分]"
+          "appearance_count": 7,
+          "time_info": "[00时42分 ~ 04时36分]"
         }
       ]
     }
