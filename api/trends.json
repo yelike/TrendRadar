@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T00:42:46.162068+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-23T01:35:56.646195+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -43,19 +43,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时35分]"
         },
         {
           "title": "特朗普TACO助推全球股市反弹，美股指集体高开，纳指涨0.9%，美债承压",
           "url": "https://wallstreetcn.com/articles/3763892",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时35分]"
         }
       ]
     },
@@ -71,8 +72,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时35分]"
         },
         {
           "title": "美股稀土概念涨势扩大，USAR涨超20%领升板块；CRML涨超14%，将在沙特阿拉伯设立稀土加工厂；MP materials涨超7%。",
@@ -99,8 +100,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时42分"
+          "appearance_count": 2,
+          "time_info": "[00时42分 ~ 01时35分]"
         }
       ]
     }
