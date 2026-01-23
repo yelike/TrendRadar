@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-23T12:08:07.167133+08:00",
-  "total_titles_processed": 1040,
+  "generated_at": "2026-01-23T13:34:37.401230+08:00",
+  "total_titles_processed": 1164,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 18,
       "titles": [
+        {
+          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
+          "url": "https://www.cls.cn/detail/2267129",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 13时34分]"
+        },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
           "url": "https://wallstreetcn.com/articles/3763880",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时41分 ~ 07时28分]"
-        },
-        {
-          "title": "美股收盘：地缘扰动退潮 三大指数集体收涨 阿里涨5%",
-          "url": "https://www.cls.cn/detail/2267129",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时08分]"
         },
         {
           "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
@@ -309,7 +309,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
@@ -328,11 +328,23 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            20
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时07分 ~ 12时08分]"
+          "appearance_count": 4,
+          "time_info": "[10时07分 ~ 13时34分]"
+        },
+        {
+          "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
+          "url": "https://flash.jin10.com/detail/20260123120453959800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时34分"
         }
       ]
     },
