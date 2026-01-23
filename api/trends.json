@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T13:34:37.401230+08:00",
-  "total_titles_processed": 1164,
+  "generated_at": "2026-01-23T14:43:17.185193+08:00",
+  "total_titles_processed": 1286,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 13时34分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 14时43分]"
         },
         {
           "title": "存储“涨飞”！“美股最强”闪迪涨超10%，美光、西部数据、希捷科技等全线大涨",
@@ -329,11 +329,12 @@
           "ranks": [
             18,
             20,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时07分 ~ 13时34分]"
+          "appearance_count": 5,
+          "time_info": "[10时07分 ~ 14时43分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）今日黄金饰品价格对比",
@@ -342,7 +343,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时34分"
         }
