@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T17:37:11.001279+08:00",
-  "total_titles_processed": 1619,
+  "generated_at": "2026-01-23T18:32:28.340867+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -186,7 +186,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -247,11 +247,12 @@
           "url": "https://www.zhihu.com/question/1997802145714569913",
           "source": "知乎",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 18时32分]"
         },
         {
           "title": "谷歌投资Sakana AI 旨在提升Gemini在日本的业务",
@@ -356,7 +357,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -388,8 +389,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时07分 ~ 17时37分]"
+          "appearance_count": 10,
+          "time_info": "[10时07分 ~ 18时32分]"
         },
         {
           "title": "现货黄金价格突破每盎司4940.78美元，创历史新高。",
