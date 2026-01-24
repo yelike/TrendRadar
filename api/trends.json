@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T19:23:10.231469+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-01-24T20:52:57.938107+08:00",
+  "total_titles_processed": 1410,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时27分 ~ 19时23分]"
+          "appearance_count": 17,
+          "time_info": "[07时27分 ~ 20时52分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -27,11 +27,12 @@
             11,
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时27分 ~ 19时23分]"
+          "appearance_count": 17,
+          "time_info": "[07时27分 ~ 20时52分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
