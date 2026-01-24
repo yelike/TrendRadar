@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T04:28:46.212897+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-01-25T05:23:50.791684+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时23分 ~ 05时23分]"
         },
         {
           "title": "U23 男足亚洲杯决赛，中国队 20 分钟两球落后，如何评价本场比赛？",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -77,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时32分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 05时23分]"
         }
       ]
     }
