@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-24T12:02:09.830954+08:00",
-  "total_titles_processed": 833,
+  "generated_at": "2026-01-24T13:27:55.855178+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 12,
       "titles": [
+        {
+          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 13时27分]"
+        },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
           "url": "https://wallstreetcn.com/articles/3763993",
@@ -19,28 +31,17 @@
           "time_info": "[00时38分 ~ 04时33分]"
         },
         {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 12时02分]"
-        },
-        {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
           "url": "https://www.cls.cn/detail/2268496",
           "source": "财联社热门",
           "ranks": [
             11,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 12时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 13时27分]"
         },
         {
           "title": "Sable Offshore（SOC）美股下跌13%。",
