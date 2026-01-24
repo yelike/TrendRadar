@@ -1,51 +1,23 @@
 {
-  "generated_at": "2026-01-25T00:32:24.527361+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-25T01:23:38.086006+08:00",
+  "total_titles_processed": 353,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
       "match_count": 3,
       "titles": [
         {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
+          "title": "U23 男足亚洲杯决赛，国足 0:4 不敌日本获得亚军，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1998499370979522168",
+          "source": "知乎",
           "ranks": [
             1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时32分"
+          "time_info": "01时23分"
         },
-        {
-          "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
-          "url": "https://flash.jin10.com/detail/20260124222616668800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 2,
-      "titles": [
         {
           "title": "U23 男足亚洲杯决赛，中国队 20 分钟两球落后，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/1998499370979522168",
@@ -62,11 +34,51 @@
           "url": "https://www.zhihu.com/question/1998320572531176065",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
+          "url": "https://flash.jin10.com/detail/20260124222616668800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
+          "url": "https://www.cls.cn/detail/2268496",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时32分 ~ 01时23分]"
         }
       ]
     }
