@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T20:52:57.938107+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2026-01-24T21:35:30.569687+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时27分 ~ 20时52分]"
+          "appearance_count": 18,
+          "time_info": "[07时27分 ~ 21时35分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -31,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时27分 ~ 20时52分]"
+          "appearance_count": 18,
+          "time_info": "[07时27分 ~ 21时35分]"
         },
         {
           "title": "地缘风险仍未消散，美股周线承压，英特尔跌14%，美元遭遇半年来最差一周，纽约期银突破100美元，创历史新高",
@@ -194,6 +194,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "10 人越南 U23 点球大战胜韩国获亚洲杯季军，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/1998320572531176065",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     },
