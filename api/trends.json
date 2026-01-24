@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T07:28:13.676972+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-01-24T10:04:11.962227+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[00时38分 ~ 04时33分]"
         },
         {
+          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
+          "url": "https://wallstreetcn.com/articles/3763993",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 10时04分]"
+        },
+        {
           "title": "Sable Offshore（SOC）美股下跌13%。",
           "url": "https://flash.jin10.com/detail/20260124023319046800",
           "source": "金十数据",
@@ -31,15 +43,16 @@
           "time_info": "[03时29分 ~ 07时28分]"
         },
         {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
+          "url": "https://www.cls.cn/detail/2268496",
+          "source": "财联社热门",
           "ranks": [
+            11,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 10时04分]"
         },
         {
           "title": "明晟公司（MSCI）新兴市场股票指数涨0.4%，创历史新高，连续第五个交易日上涨，创2025年5月份以来最长连涨天数。 阿里巴巴、台积电、MediaTek Inc.等亚洲科技股贡献突出。 2025年迄今，指数累计上涨大约7.0%，同期标普500指数累涨约1%。 拉美股市周五上涨，地区指数涨约1.3%，今年迄今累计上涨将近14%，MSCI新兴市场拉美股票指数创2018年以来收盘新高。巴西基准股指周五领涨，本周涨约8.7%。",
@@ -48,7 +61,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         },
@@ -87,17 +100,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时28分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时28分]"
         },
         {
           "title": "金十图示：2026年01月23日（周五）美股热门股票行情一览（美股盘中）",
@@ -192,7 +194,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时28分"
         }
