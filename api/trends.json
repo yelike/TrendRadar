@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T14:40:26.080800+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-01-25T15:27:34.181380+08:00",
+  "total_titles_processed": 865,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时23分 ~ 14时40分]"
+          "appearance_count": 15,
+          "time_info": "[01时23分 ~ 15时27分]"
         },
         {
           "title": "U23 男足亚洲杯决赛，中国队 20 分钟两球落后，如何评价本场比赛？",
@@ -107,8 +107,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 14时40分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 15时27分]"
         }
       ]
     }
