@@ -1,140 +1,8 @@
 {
-  "generated_at": "2026-01-25T23:27:14.018396+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-01-26T00:33:34.784719+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "U23 男足亚洲杯决赛，国足 0:4 不敌日本获得亚军，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1998499370979522168",
-          "source": "知乎",
-          "ranks": [
-            1,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时23分 ~ 20时54分]"
-        },
-        {
-          "title": "U23 男足亚洲杯决赛，中国队 20 分钟两球落后，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1998499370979522168",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时32分"
-        },
-        {
-          "title": "10 人越南 U23 点球大战胜韩国获亚洲杯季军，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/1998320572531176065",
-          "source": "知乎",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时32分 ~ 01时23分]"
-        },
-        {
-          "title": "现在回望本届 U23 亚洲杯的中国队比赛，你认为最终杀到决赛运气的成分大吗？",
-          "url": "https://www.zhihu.com/question/1998560081772507692",
-          "source": "知乎",
-          "ranks": [
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 13时33分]"
-        },
-        {
-          "title": "日本U23亚洲杯6场比赛只丢1球",
-          "url": "https://www.toutiao.com/trending/7598308447200739334/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 10时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
-          "url": "https://wallstreetcn.com/articles/3763993",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时26分]"
-        },
-        {
-          "title": "欧洲投资者对美股胃口缩减，长期脱钩或拉开序幕",
-          "url": "https://flash.jin10.com/detail/20260124222616668800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 10时25分]"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
-          "url": "https://www.cls.cn/detail/2268496",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            9,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 19时23分]"
-        },
-        {
-          "title": "警惕美股波动性卷土重来",
-          "url": "https://www.toutiao.com/trending/7599171605310213651/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 16时35分]"
-        },
-        {
-          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
-          "url": "https://flash.jin10.com/detail/20260125221344220800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时27分"
-        }
-      ]
-    },
     {
       "keyword_group": "黄金",
       "match_count": 1,
@@ -144,37 +12,28 @@
           "url": "https://wallstreetcn.com/livenews/3043358",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            6,
-            8,
-            13,
-            18,
-            21,
-            22,
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时35分 ~ 23时27分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "黄金严重挑战美债信用 美国人怎么办",
-          "url": "https://www.toutiao.com/trending/7599237350652120626/",
-          "source": "今日头条",
+          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
+          "url": "https://flash.jin10.com/detail/20260125221344220800",
+          "source": "金十数据",
           "ranks": [
-            18,
-            7,
-            19
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时23分 ~ 21时37分]"
+          "appearance_count": 1,
+          "time_info": "00时33分"
         }
       ]
     }
