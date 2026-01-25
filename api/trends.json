@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T07:26:04.698519+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-01-25T10:25:15.455518+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "U23 男足亚洲杯决赛，国足 0:4 不敌日本获得亚军，如何评价本场比赛？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 07时26分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 10时25分]"
         },
         {
           "title": "U23 男足亚洲杯决赛，中国队 20 分钟两球落后，如何评价本场比赛？",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时23分]"
+        },
+        {
+          "title": "日本U23亚洲杯6场比赛只丢1球",
+          "url": "https://www.toutiao.com/trending/7598308447200739334/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 10时25分]"
         }
       ]
     },
@@ -63,11 +74,12 @@
           "url": "https://flash.jin10.com/detail/20260124222616668800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 10时25分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 纳指小幅上涨 英特尔暴跌17%",
@@ -75,11 +87,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时32分 ~ 07时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时32分 ~ 10时25分]"
         }
       ]
     }
