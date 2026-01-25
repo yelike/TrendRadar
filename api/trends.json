@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T17:28:54.809227+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-01-25T18:28:57.072544+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时23分 ~ 17时28分]"
+          "appearance_count": 19,
+          "time_info": "[01时23分 ~ 18时28分]"
         },
         {
           "title": "U23 男足亚洲杯决赛，中国队 20 分钟两球落后，如何评价本场比赛？",
@@ -107,8 +107,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 17时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时32分 ~ 18时28分]"
         },
         {
           "title": "警惕美股波动性卷土重来",
@@ -133,11 +133,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时35分 ~ 17时28分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 18时28分]"
         }
       ]
     }
