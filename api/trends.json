@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T22:25:43.870815+08:00",
-  "total_titles_processed": 1273,
+  "generated_at": "2026-01-25T23:27:14.018396+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -70,7 +70,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股盘整静待下周考验，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
@@ -121,6 +121,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 16时35分]"
+        },
+        {
+          "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
+          "url": "https://flash.jin10.com/detail/20260125221344220800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         }
       ]
     },
@@ -139,11 +150,12 @@
             13,
             18,
             21,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时35分 ~ 22时25分]"
+          "appearance_count": 8,
+          "time_info": "[16时35分 ~ 23时27分]"
         }
       ]
     },
