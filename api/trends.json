@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T12:20:10.665596+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2026-01-26T13:37:11.367810+08:00",
+  "total_titles_processed": 891,
   "failed_sources": [],
   "trends": [
     {
@@ -26,19 +26,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 13时37分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448436",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 13时37分]"
         },
         {
           "title": "恒生科技指数日内跌幅扩大至1%。百度、小鹏汽车、快手跌超3%。 老铺黄金股价一度上涨14%，受黄金价格上涨等提振。",
@@ -58,6 +59,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
+          "url": "https://wallstreetcn.com/articles/3764111",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 13时37分]"
+        },
+        {
           "title": "从“七巨头信仰”到“用表现说话” 下周美股面临财报生死局",
           "url": "https://flash.jin10.com/detail/20260125221344220800",
           "source": "金十数据",
@@ -70,17 +82,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时33分 ~ 06时27分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美日干预叠加政府关门预期，金银新高、白银飙涨6%，日元大涨1%，非美货币全线爆发，日美股市下挫",
-          "url": "https://wallstreetcn.com/articles/3764111",
-          "source": "华尔街见闻",
+          "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
+          "url": "https://www.zhihu.com/question/1993355026530317494",
+          "source": "知乎",
           "ranks": [
-            3
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[13时36分 ~ 13时37分]"
         }
       ]
     },
