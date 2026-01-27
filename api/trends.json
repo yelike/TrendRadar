@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-28T03:32:44.812427+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-01-28T04:31:20.404674+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -67,8 +67,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "美股部分中概股走势强劲",
@@ -118,8 +118,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -129,8 +129,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时31分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -141,8 +141,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时31分]"
         }
       ]
     },
@@ -159,8 +159,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时39分 ~ 03时32分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 04时31分]"
         }
       ]
     }
