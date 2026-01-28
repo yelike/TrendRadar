@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T03:35:36.980962+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-01-29T04:39:09.071133+08:00",
+  "total_titles_processed": 582,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时39分]"
         },
         {
           "title": "金十图示：2026年01月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -25,17 +25,6 @@
           "source": "金十数据",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        },
-        {
-          "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260129013023144800",
-          "source": "金十数据",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -50,8 +39,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时39分]"
+        },
+        {
+          "title": "金十图示：2026年01月28日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260129013023144800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
         },
         {
           "title": "瑞银：美联储仍将成为美股的顺风因素",
@@ -88,7 +88,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
         },
@@ -99,7 +99,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
         },
@@ -142,11 +142,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 03时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 04时39分]"
         }
       ]
     }
