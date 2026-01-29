@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T06:35:17.077144+08:00",
-  "total_titles_processed": 639,
+  "generated_at": "2026-01-30T07:32:39.335443+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -23,11 +23,34 @@
           "url": "https://www.cls.cn/detail/2274635",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时32分]"
+        },
+        {
+          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "苹果股价美股盘后出现两波冲高回落行情，目前涨超0.9%。 业绩报告披露后，CEO库克和CFO正参与分析师电话会议。",
+          "url": "https://wallstreetcn.com/livenews/3046740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -98,6 +121,28 @@
           "time_info": "05时34分"
         },
         {
+          "title": "Sandisk（闪迪）美股盘后涨幅重新扩大至将近15%。",
+          "url": "https://wallstreetcn.com/livenews/3046731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美股收盘：业绩引爆微软Meta冰火两极 存储股闪迪盘后狂飙",
+          "url": "https://www.cls.cn/detail/2274922",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
           "title": "Robinhood(HOOD.O)美股盘后涨3%。",
           "url": "https://flash.jin10.com/detail/20260130050229767800",
           "source": "金十数据",
@@ -148,7 +193,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         }
@@ -156,7 +201,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌DeepMind登Nature封面",
@@ -169,8 +214,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时32分]"
+        },
+        {
+          "title": "苹果CEO：将思考与谷歌公司（关于大模型Gemini）的合作。 苹果将继续独立地“开发一些自己的东西”。",
+          "url": "https://wallstreetcn.com/livenews/3046736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "苹果(AAPL.O)CEO库克：谷歌技术将改进Siri，今年晚些时候将推出更新。",
@@ -179,7 +235,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
         }
@@ -187,7 +243,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄金价格为何一路猛涨",
@@ -198,8 +254,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时52分 ~ 06时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 07时32分]"
+        },
+        {
+          "title": "为什么 2026 年 1 月 29 日晚上的黄金价格出现大跳水？",
+          "url": "https://www.zhihu.com/question/2000353838817882383",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时32分"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
