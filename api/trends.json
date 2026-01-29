@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T13:50:55.045759+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-01-29T14:57:25.135486+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -224,11 +224,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时43分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[12时43分 ~ 14时57分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -320,11 +321,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时46分 ~ 13时50分]"
+          "appearance_count": 15,
+          "time_info": "[00时46分 ~ 14时57分]"
         }
       ]
     }
