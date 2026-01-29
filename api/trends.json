@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T03:35:24.973977+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-01-30T04:38:18.198431+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时38分]"
         },
         {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时38分]"
         },
         {
           "title": "加密货币市场在美股开盘前后加速下跌",
@@ -90,8 +90,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时38分]"
         },
         {
           "title": "黄金、白银、比特币、美股全线走低，美债价格反弹，美元回升",
@@ -117,11 +117,12 @@
           "ranks": [
             3,
             1,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 03时35分]"
+          "appearance_count": 5,
+          "time_info": "[00时52分 ~ 04时38分]"
         }
       ]
     }
