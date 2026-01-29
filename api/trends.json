@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T18:43:41.232836+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-01-29T19:36:57.825953+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -75,9 +75,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
+        },
+        {
+          "title": "陶氏化学第四季度净销售额94.6亿美元，预期95亿美元。 第四季度调整后运营每股亏损0.34美元，去年同期为盈亏平衡。 第四季度调整后运营EBITDA为7.41亿美元，预期6.644亿美元。 陶氏化学美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3046431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "美股经纪商Robinhood计划向散户投资者寻求部分SpaceX的股票。该公司争取在SpaceX首次公开募股（IPO）中占据重要零售席位。",
@@ -230,7 +241,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时43分"
         },
@@ -244,6 +255,82 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "黄金价格为何一路猛涨",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时46分 ~ 19时36分]"
+        },
+        {
+          "title": "【四川黄金：预计2025年净利润同比增长69.23%-93.40%】四川黄金公告，预计2025年度净利润为4.2亿元—4.8亿元，同比增长69.23%—93.40%。预计归属于上市公司股东的净利润同比上升主要系金精矿销售量同比有所增加及黄金价格上涨所致。",
+          "url": "https://wallstreetcn.com/livenews/3046433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "西部黄金：公司关注到目前黄金市场热度较高，黄金产品的市场价格累计涨幅较大，敬请广大投资者理性投资、审慎决策，注意投资风险。",
+          "url": "https://wallstreetcn.com/livenews/3046359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时52分 ~ 18时43分]"
+        },
+        {
+          "title": "招金黄金：公司合质金和金精矿产品的价格受黄金价格波动影响较大，若未来黄金价格大幅波动，将给公司经营业绩带来较大影响；公司瓦图科拉金矿所在地为斐济共和国，斐济与国内在政治、法律、经济、税收、文化发展水平方面存在较大差异，存在境外投资项目环境、相关政策变动等风险，目前公司正在对矿山进行全面的技术改造和设备升级。",
+          "url": "https://wallstreetcn.com/livenews/3046415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
+          "url": "https://wallstreetcn.com/livenews/3046337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
+          "url": "https://wallstreetcn.com/livenews/3046327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
@@ -283,11 +370,12 @@
           "ranks": [
             20,
             10,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时50分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 19时36分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -310,60 +398,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "黄金价格为何一路猛涨",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E4%B8%80%E8%B7%AF%E7%8C%9B%E6%B6%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            22,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时46分 ~ 18时43分]"
-        },
-        {
-          "title": "西部黄金：公司关注到目前黄金市场热度较高，黄金产品的市场价格累计涨幅较大，敬请广大投资者理性投资、审慎决策，注意投资风险。",
-          "url": "https://wallstreetcn.com/livenews/3046359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时52分 ~ 18时43分]"
-        },
-        {
-          "title": "北方铜业：公司近期经营情况及内外部经营环境未发生重大变化。公司的主要产品阴极铜、黄金、白银等产品的市场价格大幅上涨，系本次股价异动的主要原因。",
-          "url": "https://wallstreetcn.com/livenews/3046337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
-        },
-        {
-          "title": "黄金主题LOF：提示投资者关注二级市场交易价格溢价风险",
-          "url": "https://wallstreetcn.com/livenews/3046327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时52分"
         }
       ]
     },
