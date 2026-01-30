@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-30T18:42:11.927451+08:00",
-  "total_titles_processed": 1658,
+  "generated_at": "2026-01-30T19:35:14.778621+08:00",
+  "total_titles_processed": 1753,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时32分 ~ 18时42分]"
+          "appearance_count": 12,
+          "time_info": "[07时32分 ~ 19时35分]"
         },
         {
           "title": "特朗普升级对伊施压，美股指齐跌，微软重挫11%，黄金跳水逼近5320，布油重回70美元",
@@ -154,6 +154,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时34分"
+        },
+        {
+          "title": "美股上市公司高管密集离场 是落袋为安还是预见危机？",
+          "url": "https://flash.jin10.com/detail/20260130185416724800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         },
         {
           "title": "金十图示：2026年01月29日（周四）热门中概股行情一览（美股盘中）",
