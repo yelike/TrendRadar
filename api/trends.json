@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T13:03:06.812483+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-02-02T15:09:49.265880+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
+          "url": "https://flash.jin10.com/detail/20260202070317059800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "巴克莱：预计美债发行量将连续两年“原地踏步”",
+          "url": "https://flash.jin10.com/detail/20260202143057490800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -57,25 +85,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 13时03分]"
+          "appearance_count": 15,
+          "time_info": "[00时37分 ~ 15时09分]"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "10年期美债期货下跌1个点，30年期期货下跌7个点。",
-          "url": "https://flash.jin10.com/detail/20260202070317059800",
+          "title": "泰国期货交易所：黄金在线期货每日价格波动幅度将扩大至最新结算价的±20%。",
+          "url": "https://flash.jin10.com/detail/20260202142855006800",
           "source": "金十数据",
           "ranks": [
-            7
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "15时09分"
         }
       ]
     }
