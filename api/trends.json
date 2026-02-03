@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T17:52:15.748290+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-02-03T18:50:21.997571+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时39分 ~ 17时52分]"
+          "appearance_count": 11,
+          "time_info": "[10时39分 ~ 18时50分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -31,6 +31,18 @@
           "time_info": "[07时35分 ~ 15时50分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时51分 ~ 18时50分]"
+        },
+        {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
           "url": "https://wallstreetcn.com/articles/3764730",
           "source": "华尔街见闻",
@@ -40,17 +52,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时43分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时51分 ~ 17时52分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股反弹、美元续涨，黄金跌5%，白银跌至80关口下方",
@@ -119,7 +120,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时52分"
         },
@@ -133,6 +134,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
+          "url": "https://flash.jin10.com/detail/20260203161832959800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "欧元区债市静候央行决议 收益率随美债窄幅波动",
+          "url": "https://flash.jin10.com/detail/20260203161619392800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "汇丰：美债短端高收益债更具吸引力",
+          "url": "https://flash.jin10.com/detail/20260203181911181800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时50分"
         }
       ]
     },
@@ -193,34 +233,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
-          "url": "https://flash.jin10.com/detail/20260203161832959800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        },
-        {
-          "title": "欧元区债市静候央行决议 收益率随美债窄幅波动",
-          "url": "https://flash.jin10.com/detail/20260203161619392800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -230,11 +242,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 17时52分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 18时50分]"
         }
       ]
     }
