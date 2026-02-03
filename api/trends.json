@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-03T15:50:53.601660+08:00",
-  "total_titles_processed": 1132,
+  "generated_at": "2026-02-03T16:47:57.743909+08:00",
+  "total_titles_processed": 1241,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时39分 ~ 15时50分]"
+          "appearance_count": 8,
+          "time_info": "[10时39分 ~ 16时47分]"
         },
         {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
@@ -144,7 +144,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "独家|担忧价格与交割风险，多家黄金供应商暂停春节前银行现货金条供应",
@@ -156,6 +156,62 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 07时35分]"
+        },
+        {
+          "title": "黄金两日暴跌后强势回升 分析师：当前价格回归合理区间",
+          "url": "https://flash.jin10.com/detail/20260203163759847800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
+          "url": "https://flash.jin10.com/detail/20260203161832959800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        },
+        {
+          "title": "欧元区债市静候央行决议 收益率随美债窄幅波动",
+          "url": "https://flash.jin10.com/detail/20260203161619392800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek问世一周年，大模型改变了商业银行吗？营销降本效果显著，更多作用仍需观察",
+          "url": "https://www.cls.cn/detail/2278690",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时47分"
         }
       ]
     }
