@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T17:54:14.794596+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2026-02-04T18:46:51.566790+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时34分 ~ 17时54分]"
+          "appearance_count": 11,
+          "time_info": "[07时34分 ~ 18时46分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时33分 ~ 17时54分]"
+          "appearance_count": 10,
+          "time_info": "[10时33分 ~ 18时46分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -63,8 +63,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时54分 ~ 17时54分]"
+          "appearance_count": 8,
+          "time_info": "[13时54分 ~ 18时46分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -87,8 +87,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时01分 ~ 17时54分]"
+          "appearance_count": 7,
+          "time_info": "[15时01分 ~ 18时46分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -101,8 +101,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 17时54分]"
+          "appearance_count": 9,
+          "time_info": "[12时45分 ~ 18时46分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -261,7 +261,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时54分"
         },
@@ -359,8 +359,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时01分 ~ 17时54分]"
+          "appearance_count": 19,
+          "time_info": "[01时01分 ~ 18时46分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
