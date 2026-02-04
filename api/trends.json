@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T18:46:51.566790+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-02-04T19:38:25.315761+08:00",
+  "total_titles_processed": 1727,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时34分 ~ 18时46分]"
+          "appearance_count": 12,
+          "time_info": "[07时34分 ~ 19时38分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -28,8 +28,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时33分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 19时38分]"
+        },
+        {
+          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
+          "url": "https://www.zhihu.com/question/2002302871203440223",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时54分 ~ 19时38分]"
         },
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -54,17 +67,18 @@
           "time_info": "[01时01分 ~ 06时36分]"
         },
         {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
+          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
+          "url": "https://wallstreetcn.com/articles/3764895",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            3,
-            4
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时54分 ~ 18时46分]"
+          "appearance_count": 10,
+          "time_info": "[12时45分 ~ 19时38分]"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -89,20 +103,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时01分 ~ 18时46分]"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时45分 ~ 18时46分]"
         },
         {
           "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
@@ -359,8 +359,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时01分 ~ 18时46分]"
+          "appearance_count": 20,
+          "time_info": "[01时01分 ~ 19时38分]"
         },
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
