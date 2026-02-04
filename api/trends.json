@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T03:43:45.916675+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-02-05T04:41:35.516313+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 04时41分]"
         },
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 04时41分]"
         },
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -35,11 +35,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 04时41分]"
         },
         {
           "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
@@ -49,8 +50,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 04时41分]"
         },
         {
           "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
@@ -60,8 +61,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 03时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 04时41分]"
         },
         {
           "title": "美股存储概念股跌幅扩大，闪迪跌近11％，西部数据跌超8％，美光科技跌超7％，希捷科技跌超5％。",
