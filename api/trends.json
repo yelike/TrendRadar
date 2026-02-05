@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T14:01:43.284691+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-02-05T15:13:29.130528+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 14时01分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 15时13分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时36分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 15时13分]"
         },
         {
           "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
@@ -91,16 +103,15 @@
           "time_info": "[05时39分 ~ 06时36分]"
         },
         {
-          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
-          "url": "https://www.cls.cn/detail/2281032",
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
           "source": "财联社热门",
           "ranks": [
-            11,
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[10时35分 ~ 14时01分]"
+          "time_info": "[12时53分 ~ 15时13分]"
         },
         {
           "title": "谷歌母公司Alphabet研发（R&D）开支增长42%，受到AI人才和无人驾驶部门的驱动。 科技基础设施投资中，60%投入服务器、40%投入数据中心。 科技基建（投资）的增幅在2025年收缩38%。 谷歌云（订单）积压同比超过翻倍，至2400亿美元。 Alphabet在Waymo本轮融资中贡献重大。",
@@ -125,17 +136,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时39分 ~ 06时36分]"
-        },
-        {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时53分 ~ 14时01分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -339,8 +339,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时34分 ~ 14时01分]"
+          "appearance_count": 5,
+          "time_info": "[07时34分 ~ 15时13分]"
         },
         {
           "title": "Arm(ARM.O)美股盘后跌超10%。",
