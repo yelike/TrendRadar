@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T19:40:25.490539+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-02-05T21:15:06.970287+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时35分 ~ 19时40分]"
+          "appearance_count": 11,
+          "time_info": "[10时35分 ~ 21时15分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -33,6 +33,18 @@
           "time_info": "[12时53分 ~ 18时50分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时15分]"
+        },
+        {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
           "url": "https://www.cls.cn/detail/2281032",
           "source": "财联社热门",
@@ -44,18 +56,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时35分 ~ 16时54分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时40分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -293,7 +293,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -444,6 +444,17 @@
           "time_info": "[05时39分 ~ 06时36分]"
         },
         {
+          "title": "美股科技股抛售蔓延，闪迪跌近 16%，AMD 跌超 17% 创八年多来最大单日跌幅，光伏板块爆发，如何解读？",
+          "url": "https://www.zhihu.com/question/2002675555208803379",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时14分 ~ 21时15分]"
+        },
+        {
           "title": "美股半导体和芯片设备股票盘前上涨，因Alphabet(GOOG.O)表示其2026年的资本支出可能翻一番。博通(AVGO.O)涨5%，AMD(AMD.O)、英伟达(NVDA.O)涨超2%。",
           "url": "https://flash.jin10.com/detail/20260205173627035800",
           "source": "金十数据",
@@ -566,7 +577,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         },
@@ -608,8 +619,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时54分 ~ 19时40分]"
+          "appearance_count": 7,
+          "time_info": "[16时54分 ~ 21时15分]"
         }
       ]
     }
