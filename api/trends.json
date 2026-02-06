@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T15:06:48.717691+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-02-06T16:53:17.772092+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
@@ -196,7 +196,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "软件股抛售蔓延，就业数据疲软，美股指跌超1%，白银暴跌19%，比特币崩跌，美债中概涨",
@@ -206,8 +206,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 15时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时36分 ~ 16时53分]"
+        },
+        {
+          "title": "印度央行否认减持美债 称持仓变动属正常波动",
+          "url": "https://flash.jin10.com/detail/20260206163550587800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "两年期美债收益率跌超8个基点",
@@ -228,7 +239,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
         },
@@ -303,11 +314,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时36分 ~ 15时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时36分 ~ 16时53分]"
         }
       ]
     },
