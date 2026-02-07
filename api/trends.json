@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T22:32:53.282354+08:00",
-  "total_titles_processed": 1460,
+  "generated_at": "2026-02-07T23:32:02.828324+08:00",
+  "total_titles_processed": 1507,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时32分 ~ 22时32分]"
+          "appearance_count": 17,
+          "time_info": "[07时32分 ~ 23时32分]"
         },
         {
           "title": "美股收盘：道指历史首次站上5万点 中概股指数涨超3%",
@@ -27,11 +27,12 @@
             3,
             2,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时32分 ~ 22时32分]"
+          "appearance_count": 17,
+          "time_info": "[07时32分 ~ 23时32分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -48,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时55分 ~ 22时32分]"
+          "appearance_count": 25,
+          "time_info": "[00时55分 ~ 23时32分]"
         },
         {
           "title": "美股成交额前20：英伟达结束五连跌",
@@ -304,8 +305,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时51分 ~ 22时32分]"
+          "appearance_count": 13,
+          "time_info": "[14时51分 ~ 23时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 乒乓球亚洲杯男子单打：林诗栋 3-4 户上隼辅，止步 8 强。如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2003592261804520571",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         }
       ]
     },
