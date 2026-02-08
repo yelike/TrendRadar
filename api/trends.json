@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-08T19:29:30.810467+08:00",
-  "total_titles_processed": 1089,
+  "generated_at": "2026-02-08T21:02:58.934244+08:00",
+  "total_titles_processed": 1179,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时38分 ~ 19时29分]"
+          "appearance_count": 22,
+          "time_info": "[00时38分 ~ 21时02分]"
         },
         {
           "title": "美股三大期指集体反弹 亚马逊盘前大跌近9% | 今夜看点",
@@ -54,8 +55,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时43分 ~ 19时29分]"
+          "appearance_count": 6,
+          "time_info": "[15时43分 ~ 21时02分]"
         }
       ]
     },
@@ -120,8 +121,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时29分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 21时02分]"
         }
       ]
     },
