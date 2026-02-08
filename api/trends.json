@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T02:45:41.516072+08:00",
-  "total_titles_processed": 349,
+  "generated_at": "2026-02-09T03:31:43.760861+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 03时31分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时45分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时31分]"
         }
       ]
     },
@@ -44,8 +44,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 03时31分]"
         }
       ]
     },
@@ -58,11 +58,12 @@
           "url": "https://www.zhihu.com/question/2003914802620233331",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时38分 ~ 02时45分]"
+          "appearance_count": 6,
+          "time_info": "[00时38分 ~ 03时31分]"
         }
       ]
     }
