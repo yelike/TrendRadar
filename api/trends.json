@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T10:43:58.251279+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-02-09T13:06:24.287672+08:00",
+  "total_titles_processed": 831,
   "failed_sources": [],
   "trends": [
     {
@@ -58,26 +58,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
-          "url": "https://wallstreetcn.com/articles/3765245",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "2026 海口亚洲杯女单决赛，孙颖莎 4-3 王曼昱夺冠，如何评价本场比赛？",
@@ -91,6 +73,36 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时38分 ~ 07时37分]"
+        },
+        {
+          "title": "2026 亚洲杯女单决赛，孙颖莎 4 比 3 王曼昱首次夺冠，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2003938838045819654",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
+          "url": "https://wallstreetcn.com/articles/3765245",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 13时06分]"
         }
       ]
     }
