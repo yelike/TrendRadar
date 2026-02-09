@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-09T07:37:46.940872+08:00",
-  "total_titles_processed": 500,
+  "generated_at": "2026-02-09T10:43:58.251279+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 10时43分]"
         },
         {
           "title": "高盛交易员警告：美股抛售尚未结束",
@@ -51,7 +51,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         }
@@ -70,8 +70,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 07时37分]"
+          "appearance_count": 12,
+          "time_info": "[00时38分 ~ 10时43分]"
         }
       ]
     },
