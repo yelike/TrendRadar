@@ -1,333 +1,50 @@
 {
-  "generated_at": "2026-02-09T22:58:09.653227+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-02-10T00:04:37.446630+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
-          "url": "https://wallstreetcn.com/articles/3765246",
-          "source": "华尔街见闻",
+          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2285010",
+          "source": "财联社热门",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 10时43分]"
-        },
-        {
-          "title": "高盛交易员警告：美股抛售尚未结束",
-          "url": "https://flash.jin10.com/detail/20260209002129268800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时39分 ~ 06时34分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         },
         {
           "title": "半导体ETF跌0.88%，网络股指数ETF跌0.87%，可选消费ETF跌0.83%，在美股盘初领跌行业ETF，能源业ETF涨0.13%。",
           "url": "https://wallstreetcn.com/livenews/3052393",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
-          "title": "美股三大期指盘前集体走低 美光跌3%诺和诺德暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2285010",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时22分 ~ 22时58分]"
-        },
-        {
-          "title": "高盛交易员警告：随着算法资金抛售，美股将迎来剧烈波动，请“系好安全带”",
-          "url": "https://wallstreetcn.com/livenews/3051846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时34分 ~ 06时34分]"
-        },
-        {
-          "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
-          "url": "https://www.cls.cn/detail/2284121",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
-        },
-        {
-          "title": "美股软件股盘前上涨，微软(MSFT.O)涨0.8%，Datadog涨 1.2%，ServiceNow涨0.8%。",
-          "url": "https://flash.jin10.com/detail/20260209180250782800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "美股三大股指期货周一盘初均涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260209070343004800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时37分"
-        },
-        {
-          "title": "高盛：AI焦虑引发抛售潮 对冲基金创纪录做空美股",
-          "url": "https://flash.jin10.com/detail/20260209204658735800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3052372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
-          "title": "摩根士丹利：美股科技股抛售后人工智能板块存在机遇",
-          "url": "https://wallstreetcn.com/livenews/3052244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "大手笔AI投资之后：亚马逊、谷歌、Meta要花光现金流了？",
-          "url": "https://wallstreetcn.com/articles/3765245",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时38分 ~ 13时06分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet启动七批美元债券发行。",
-          "url": "https://wallstreetcn.com/livenews/3052346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        },
-        {
-          "title": "美股开盘，道指跌0.14%，标普500指数跌0.24%，纳指跌0.34%。谷歌A(GOOGL.O)跌0.58%，母公司公司Alphabet拟通过美元债券发行筹集约150亿美元。诺和诺德(NVO.N)涨4.4%，Hims & Hers(HIMS.N)跌22.6%，诺和诺德就Wegovy仿制减肥药起诉后者。",
-          "url": "https://flash.jin10.com/detail/20260209223024338800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
-        },
-        {
-          "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
-          "url": "https://flash.jin10.com/detail/20260209161349055800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "道达尔能源将在德州为谷歌供应1吉瓦太阳能电力",
-          "url": "https://wallstreetcn.com/livenews/3052196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "Kimi K2.5持续霸榜Openrouter，大幅度领先Gemini 3",
-          "url": "https://wallstreetcn.com/livenews/3052107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "谷歌母公司Alphabet计划通过美元债券发行筹集约150亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3052364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时58分"
+          "time_info": "00时04分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股期货震荡回落，美债走跌，英镑延续涨势，黄金涨至5040美元",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时22分 ~ 22时58分]"
-        },
-        {
-          "title": "美股期货震荡回落，美债走跌，“高市交易”助推日股大涨6%，黄金涨至5040美元",
-          "url": "https://wallstreetcn.com/articles/3765262",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时59分 ~ 19时54分]"
-        },
-        {
-          "title": "策略师：若非农数据显著偏离预期，美元及美债收益率料剧烈波动",
-          "url": "https://flash.jin10.com/detail/20260209194344154800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "马斯克警告「没有 AI 和机器人，国债危机下美国 1000% 会破产」，AI 和机器人能解美债问题吗？",
-          "url": "https://www.zhihu.com/question/2004143319609993151",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时22分 ~ 22时58分]"
-        },
-        {
-          "title": "在Alphabet(GOOG.O)公布债券发行计划后，美债收益率小幅上升。",
-          "url": "https://flash.jin10.com/detail/20260209204912914800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "2026 海口亚洲杯女单决赛，孙颖莎 4-3 王曼昱夺冠，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2003914802620233331",
-          "source": "知乎",
-          "ranks": [
-            2,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时38分 ~ 07时37分]"
-        },
-        {
-          "title": "2026 亚洲杯女单决赛，孙颖莎 4 比 3 王曼昱首次夺冠，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2003938838045819654",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "Kimi建议网友先用DeepSeek",
-          "url": "https://s.weibo.com/weibo?q=%23Kimi%E5%BB%BA%E8%AE%AE%E7%BD%91%E5%8F%8B%E5%85%88%E7%94%A8DeepSeek%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
           "ranks": [
-            29,
-            9
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时53分 ~ 21时22分]"
+          "appearance_count": 1,
+          "time_info": "00时04分"
         }
       ]
     }
