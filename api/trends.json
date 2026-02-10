@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-10T13:09:31.041940+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-02-10T15:13:55.899745+08:00",
+  "total_titles_processed": 1168,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 13时09分]"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 15时13分]"
         },
         {
           "title": "美股收盘：三大指数集体上涨 道指再创新高 纳指涨近1%",
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时43分 ~ 13时09分]"
+          "appearance_count": 4,
+          "time_info": "[07时43分 ~ 15时13分]"
         },
         {
           "title": "金十图示：2026年02月09日（周一）美股热门股票行情一览（美股盘中）",
@@ -217,11 +217,12 @@
           "url": "https://www.cls.cn/detail/2285182",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时52分 ~ 13时09分]"
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 15时13分]"
         },
         {
           "title": "谷歌母公司Alphabet的美元债发行获得超过1000亿美元认购需求。（彭博）",
@@ -252,7 +253,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
         },
