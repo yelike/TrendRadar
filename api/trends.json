@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T21:22:13.541655+08:00",
-  "total_titles_processed": 1725,
+  "generated_at": "2026-02-12T22:54:22.089110+08:00",
+  "total_titles_processed": 1833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 23,
       "titles": [
         {
           "title": "84 岁吉姆·罗杰斯清空美股，坚定持有金银铜称要留给后代，预言下次危机是其一生中最惨烈危机，如何解读？",
@@ -80,6 +80,17 @@
           "time_info": "[07时39分 ~ 13时03分]"
         },
         {
+          "title": "思科美股盘初跌7.4%，创2023年以来最大盘中跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3054587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
           "title": "开盘即巅峰！华尔街热议：强劲非农下美股缘何虎头蛇尾？",
           "url": "https://www.cls.cn/detail/2287918",
           "source": "财联社热门",
@@ -107,6 +118,51 @@
           "time_info": "[18时57分 ~ 21时22分]"
         },
         {
+          "title": "强劲财报提振，美股指期货集体上扬，煤炭股盘前上涨，全球存储概念股集体走高，现货黄金小幅下跌",
+          "url": "https://wallstreetcn.com/articles/3765553",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260212223643275800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "可选消费ETF涨1.02%，在美股盘初领跑行业ETF，银行业ETF涨0.9%，半导体ETF涨0.84%，能源业ETF跌0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3054586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
+        },
+        {
+          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2288812",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时21分 ~ 22时54分]"
+        },
+        {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
           "url": "https://wallstreetcn.com/livenews/3053983",
           "source": "华尔街见闻-快讯",
@@ -119,15 +175,15 @@
           "time_info": "[06时43分 ~ 07时39分]"
         },
         {
-          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2288812",
-          "source": "财联社热门",
+          "title": "美股开盘，道指涨0.1%，标普500指数涨0.3%，纳指涨0.38%。存储概念股走强，美光科技(MU.O)涨3.1%，闪迪(SNDK.O)涨6.2%。皮博迪能源(BTU.N)涨2.5%，此前特朗普指示能源部拨付资金维持燃煤电厂运营。",
+          "url": "https://flash.jin10.com/detail/20260212223025630800",
+          "source": "金十数据",
           "ranks": [
-            11
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时21分 ~ 21时22分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         },
         {
           "title": "思科美股盘后维持超过6.8%的跌幅，该公司所给利润指引“疲软”。",
@@ -205,6 +261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3054558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时54分"
         }
       ]
     },
@@ -258,11 +325,12 @@
           "ranks": [
             7,
             8,
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时46分 ~ 21时22分]"
+          "appearance_count": 19,
+          "time_info": "[00时46分 ~ 22时54分]"
         },
         {
           "title": "DeepSeek新模型来了？",
@@ -328,8 +396,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时39分 ~ 21时22分]"
+          "appearance_count": 12,
+          "time_info": "[07时39分 ~ 22时54分]"
         },
         {
           "title": "强劲非农打击降息预期，软件股抛售潮拖累美股指，美债承压，黄金涨幅收窄",
