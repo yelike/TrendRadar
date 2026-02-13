@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T12:58:41.316329+08:00",
-  "total_titles_processed": 964,
+  "generated_at": "2026-02-13T14:06:50.093096+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时37分 ~ 12时58分]"
+          "appearance_count": 6,
+          "time_info": "[06时37分 ~ 14时06分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -42,8 +42,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 14时06分]"
+        },
+        {
+          "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
+          "url": "https://wallstreetcn.com/articles/3765629",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时36分 ~ 12时58分]"
+          "time_info": "[10时45分 ~ 14时06分]"
         },
         {
           "title": "CPI前夕美股高开低走，盘中标普纳指跌超1%、思科跌超10%，白银跳水超7%",
@@ -57,26 +68,16 @@
           "time_info": "[01时11分 ~ 03时11分]"
         },
         {
-          "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
-          "url": "https://wallstreetcn.com/articles/3765629",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时58分]"
-        },
-        {
           "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
           "url": "https://www.cls.cn/detail/2289007",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 14时06分]"
         },
         {
           "title": "美股存储芯片指数收涨不到1.4%",
@@ -168,8 +169,20 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 14时06分]"
+        },
+        {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时58分]"
+          "time_info": "[12时58分 ~ 14时06分]"
         },
         {
           "title": "AI引发的资本市场大溃逃 美股商业地产遭遇“黑色星期四”",
@@ -241,17 +254,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 12时58分]"
-        },
-        {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时58分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果创4月份以来最差单日表现",
@@ -383,8 +385,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时45分 ~ 12时58分]"
+          "appearance_count": 3,
+          "time_info": "[10时45分 ~ 14时06分]"
         },
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，贵金属遭流动性挤压，黄金失守5000美元，白银跳水11%",
@@ -452,8 +454,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 12时58分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 14时06分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -465,11 +467,12 @@
             25,
             17,
             15,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时11分 ~ 12时58分]"
+          "appearance_count": 11,
+          "time_info": "[01时11分 ~ 14时06分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -478,11 +481,12 @@
           "ranks": [
             2,
             1,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 12时58分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 14时06分]"
         }
       ]
     }
