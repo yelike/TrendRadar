@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T18:33:57.117655+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-02-14T19:28:34.563692+08:00",
+  "total_titles_processed": 1337,
   "failed_sources": [],
   "trends": [
     {
@@ -120,6 +120,19 @@
           "time_info": "[10时33分 ~ 12时46分]"
         },
         {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 19时28分]"
+        },
+        {
           "title": "周五（2月13日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9012元，较周四纽约尾盘跌31点，日内整体交投于6.8973-6.9109元区间。 本周，离岸人民币累计上涨大约290点，涨幅大约0.4%，2月12日美股盘前曾涨至6.8912元。",
           "url": "https://wallstreetcn.com/livenews/3055388",
           "source": "华尔街见闻-快讯",
@@ -130,19 +143,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时37分]"
-        },
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 18时33分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
@@ -238,11 +238,12 @@
             12,
             9,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时45分 ~ 18时33分]"
+          "appearance_count": 10,
+          "time_info": "[12时45分 ~ 19时28分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -372,6 +373,19 @@
           "time_info": "[00时55分 ~ 07时37分]"
         },
         {
+          "title": "DeepSeek春节再扔王炸？最新披露",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 19时28分]"
+        },
+        {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
           "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
           "source": "澎湃新闻",
@@ -383,21 +397,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时33分 ~ 18时33分]"
-        },
-        {
-          "title": "DeepSeek春节再扔王炸？最新披露",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[10时33分 ~ 19时28分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -409,8 +410,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 19时28分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -424,8 +425,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时55分 ~ 18时33分]"
+          "appearance_count": 7,
+          "time_info": "[14时55分 ~ 19时28分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -478,8 +479,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时37分 ~ 18时33分]"
+          "appearance_count": 12,
+          "time_info": "[07时37分 ~ 19时28分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -503,8 +504,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时37分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时37分 ~ 19时28分]"
         },
         {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
