@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T17:39:08.298459+08:00",
-  "total_titles_processed": 978,
+  "generated_at": "2026-02-15T18:33:43.627116+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 17时39分]"
+          "appearance_count": 10,
+          "time_info": "[10时46分 ~ 18时33分]"
         },
         {
           "title": "字节豆包2.0发布：推理成本降一个数量级，正面对标GPT-5和Gemini 3",
@@ -154,11 +154,12 @@
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 17时39分]"
+          "appearance_count": 3,
+          "time_info": "[17时38分 ~ 18时33分]"
         }
       ]
     },
@@ -173,11 +174,12 @@
           "ranks": [
             8,
             7,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 17时39分]"
+          "appearance_count": 22,
+          "time_info": "[00时37分 ~ 18时33分]"
         }
       ]
     }
