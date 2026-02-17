@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T18:55:19.898649+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-02-17T19:43:44.570138+08:00",
+  "total_titles_processed": 1387,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时38分 ~ 18时55分]"
+          "appearance_count": 8,
+          "time_info": "[10时38分 ~ 19时43分]"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -111,8 +111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 18时55分]"
+          "appearance_count": 20,
+          "time_info": "[00时53分 ~ 19时43分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
