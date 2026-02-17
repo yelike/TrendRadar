@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T22:53:37.765075+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-02-17T23:59:21.330232+08:00",
+  "total_titles_processed": 1726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -18,30 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时38分 ~ 22时53分]"
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3056022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
-        },
-        {
-          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
-          "url": "https://wallstreetcn.com/livenews/3056021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
+          "appearance_count": 11,
+          "time_info": "[10时38分 ~ 23时59分]"
         },
         {
           "title": "奈飞股价美股盘前一度上涨1.6%。",
@@ -53,6 +31,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时16分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，半导体ETF跌1.4%，全球科技股指数ETF跌近1%，全球航空业ETF涨近2%，银行业ETF涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3056022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时59分]"
+        },
+        {
+          "title": "美股盘初：纳指跌0.7%，黄金股、科技股普跌",
+          "url": "https://wallstreetcn.com/livenews/3056021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时59分]"
         },
         {
           "title": "美股盘前：黄金股、科技股普跌，纳斯达克100指数期货跌0.55%",
@@ -83,11 +85,12 @@
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时53分 ~ 23时59分]"
         },
         {
           "title": "美股盘前，部分热门中概股走强，百度(BIDU.O)涨超1%、万国数据(GDS.O)涨0.8%、阿里巴巴(BABA.N)涨0.7%。",
@@ -101,13 +104,24 @@
           "time_info": "17时57分"
         },
         {
+          "title": "禾赛美股盘初一度涨超9%。马年春晚宇树科技两款人形机器人G1、H2全部搭载了禾赛JT128激光雷达。",
+          "url": "https://wallstreetcn.com/livenews/3056025",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "周二美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3056004",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
@@ -140,7 +154,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时53分"
         },
