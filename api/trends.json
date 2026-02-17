@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-17T14:03:39.757459+08:00",
-  "total_titles_processed": 917,
+  "generated_at": "2026-02-17T15:53:59.773821+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 14时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 15时53分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -29,11 +29,12 @@
             7,
             6,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 14时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时53分 ~ 15时53分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -62,8 +63,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时38分 ~ 14时03分]"
+          "appearance_count": 4,
+          "time_info": "[10时38分 ~ 15时53分]"
         },
         {
           "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
