@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-19T03:04:12.206781+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-02-19T04:49:03.143131+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -28,8 +28,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -37,44 +37,48 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 04时49分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
           "url": "https://www.cls.cn/detail/2291354",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时14分 ~ 03时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时14分 ~ 04时49分]"
         }
       ]
     },
