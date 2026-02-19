@@ -1,12 +1,27 @@
 {
-  "generated_at": "2026-02-19T07:36:54.518492+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-02-19T10:41:33.965323+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 10时41分]"
+        },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
           "url": "https://wallstreetcn.com/articles/3765810",
@@ -18,20 +33,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时14分 ~ 06时40分]"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 07时36分]"
         },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -54,8 +55,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 10时41分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -66,8 +67,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 10时41分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -78,8 +79,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 07时36分]"
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 10时41分]"
         },
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
@@ -89,8 +90,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时39分 ~ 07时36分]"
+          "appearance_count": 4,
+          "time_info": "[06时39分 ~ 10时41分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -159,7 +160,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         }
@@ -226,7 +227,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时36分"
         },
