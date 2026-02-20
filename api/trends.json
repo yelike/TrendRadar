@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T19:37:51.626473+08:00",
-  "total_titles_processed": 1480,
+  "generated_at": "2026-02-20T21:11:54.443617+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -17,8 +17,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时38分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[06时38分 ~ 21时11分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时35分 ~ 21时11分]"
         },
         {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
@@ -34,20 +49,6 @@
           "time_info": "[01时01分 ~ 10时35分]"
         },
         {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时35分 ~ 19时37分]"
-        },
-        {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291551",
           "source": "财联社热门",
@@ -57,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 19时37分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 21时11分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -66,11 +67,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 19时37分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 21时11分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -130,6 +132,18 @@
           "time_info": "05时39分"
         },
         {
+          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
+          "url": "https://wallstreetcn.com/articles/3765893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 21时11分]"
+        },
+        {
           "title": "美股三大股指均收跌",
           "url": "https://flash.jin10.com/detail/20260220050222862800",
           "source": "金十数据",
@@ -150,18 +164,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
-        },
-        {
-          "title": "一文读懂2026年至今的全球市场：什么在涨？美股为何不行？这种趋势会持续吗？",
-          "url": "https://wallstreetcn.com/articles/3765893",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时37分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金涨超2.2%",
@@ -198,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时37分]"
+        },
+        {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     },
@@ -247,11 +260,12 @@
           "ranks": [
             6,
             14,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时50分 ~ 21时11分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
