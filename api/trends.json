@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T03:40:42.846694+08:00",
-  "total_titles_processed": 501,
+  "generated_at": "2026-02-21T04:40:18.946591+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时40分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时40分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破81美元",
@@ -47,9 +47,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时40分 ~ 04时40分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -59,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时40分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -70,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 03时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 04时40分]"
         },
         {
           "title": "瑞达利欧家族办公室披露5亿美元美股持仓：重仓黄金",
