@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T05:30:59.325069+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-02-22T06:31:46.715032+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时31分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2292233",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时31分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -39,8 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时31分]"
         }
       ]
     },
@@ -57,11 +58,12 @@
             10,
             11,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时31分]"
         }
       ]
     },
@@ -78,8 +80,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时36分 ~ 05时30分]"
+          "appearance_count": 11,
+          "time_info": "[00时36分 ~ 06时31分]"
         }
       ]
     }
