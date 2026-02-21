@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T19:28:28.651821+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2026-02-21T21:01:11.315884+08:00",
+  "total_titles_processed": 1324,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时35分 ~ 19时28分]"
+          "appearance_count": 15,
+          "time_info": "[07时35分 ~ 21时01分]"
         },
         {
           "title": "美股收盘：特朗普关税“翻车”成利好 三大指数集体收涨",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时29分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 21时01分]"
         },
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -50,11 +50,12 @@
           "ranks": [
             4,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时50分 ~ 19时28分]"
+          "appearance_count": 25,
+          "time_info": "[00时50分 ~ 21时01分]"
         },
         {
           "title": "GDP不及预期、通胀压力升，美股周五低开，但特朗普关税遭推翻刺激三大指数转涨，黄金站上5060美元，白银突破82美元",
@@ -196,11 +197,12 @@
             3,
             7,
             5,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时29分 ~ 19时28分]"
+          "appearance_count": 14,
+          "time_info": "[10时29分 ~ 21时01分]"
         },
         {
           "title": "“谷歌天团”反击AI泡沫质疑：这是工业革命，但速度快10倍、规模大10倍",
@@ -258,8 +260,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时52分 ~ 19时28分]"
+          "appearance_count": 9,
+          "time_info": "[14时52分 ~ 21时01分]"
         },
         {
           "title": "美国GDP、PCE数据叠加最高法宣判特朗普关税，美债收益率周五“触底反弹”",
