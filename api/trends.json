@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T21:02:28.697387+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2026-02-22T22:33:23.479860+08:00",
+  "total_titles_processed": 1253,
   "failed_sources": [],
   "trends": [
     {
@@ -30,20 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时36分 ~ 21时02分]"
-        },
-        {
-          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
-          "url": "https://www.cls.cn/detail/2291935",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 18时32分]"
+          "appearance_count": 23,
+          "time_info": "[00时36分 ~ 22时33分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -58,8 +46,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时56分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[13时56分 ~ 22时33分]"
+        },
+        {
+          "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2291935",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 18时32分]"
         }
       ]
     },
@@ -82,11 +82,12 @@
             14,
             16,
             17,
-            27
+            27,
+            20
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 21时02分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 22时33分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -130,11 +131,12 @@
             5,
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时42分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[10时42分 ~ 22时33分]"
         }
       ]
     },
