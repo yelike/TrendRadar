@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T14:57:28.646471+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-02-22T15:41:23.613115+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 14时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 15时41分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 14时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 15时41分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -51,11 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时56分 ~ 14时57分]"
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时41分]"
         }
       ]
     },
@@ -77,8 +78,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时36分 ~ 14时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时36分 ~ 15时41分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -86,11 +87,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 14时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 15时41分]"
         },
         {
           "title": "都想学英伟达“芯片换融资”，谷歌和AMD都要扶持“AI云”",
@@ -116,11 +118,12 @@
           "ranks": [
             16,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 14时57分]"
+          "appearance_count": 5,
+          "time_info": "[10时42分 ~ 15时41分]"
         }
       ]
     },
