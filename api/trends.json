@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T18:32:48.106746+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-02-22T19:28:26.540759+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时36分 ~ 18时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时36分 ~ 19时28分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -54,11 +54,12 @@
             8,
             7,
             6,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时56分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[13时56分 ~ 19时28分]"
         }
       ]
     },
@@ -130,8 +131,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时42分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[10时42分 ~ 19时28分]"
         }
       ]
     },
