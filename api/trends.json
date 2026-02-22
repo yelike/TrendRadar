@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-22T17:38:16.256104+08:00",
-  "total_titles_processed": 958,
+  "generated_at": "2026-02-22T18:32:48.106746+08:00",
+  "total_titles_processed": 1015,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 17时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 18时32分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -42,8 +42,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 17时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 18时32分]"
         },
         {
           "title": "过去30年来未见之局面！美股指数波动之小创1960年来之最，而个股波动率却高达指数7倍",
@@ -57,8 +57,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时56分 ~ 17时38分]"
+          "appearance_count": 6,
+          "time_info": "[13时56分 ~ 18时32分]"
         }
       ]
     },
@@ -79,11 +79,12 @@
             12,
             6,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时36分 ~ 17时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时36分 ~ 18时32分]"
         },
         {
           "title": "如果OpenAI估值8300亿美元，那谷歌该值多少？",
@@ -129,8 +130,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时42分 ~ 17时38分]"
+          "appearance_count": 8,
+          "time_info": "[10时42分 ~ 18时32分]"
         }
       ]
     },
