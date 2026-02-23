@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T05:53:32.064816+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-02-24T07:00:03.531325+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -28,8 +28,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时16分 ~ 05时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 07时00分]"
+        },
+        {
+          "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
+          "url": "https://wallstreetcn.com/articles/3765966",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时59分 ~ 07时00分]"
         },
         {
           "title": "美股延续跌势，纳指下跌1.01%。",
@@ -43,39 +54,6 @@
           "time_info": "00时16分"
         },
         {
-          "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260224051035173800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260224050959361800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "美股三大股指大幅收跌 IBM大跌13%",
-          "url": "https://flash.jin10.com/detail/20260224050545152800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "AI恐慌之下投资者成惊弓之鸟，一份假想报告引发美股多板块遭血洗",
           "url": "https://wallstreetcn.com/livenews/3057632",
           "source": "华尔街见闻-快讯",
@@ -87,37 +65,76 @@
           "time_info": "04时53分"
         },
         {
+          "title": "金十图示：2026年02月23日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260224051035173800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 07时00分]"
+        },
+        {
+          "title": "金十图示：2026年02月23日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260224050959361800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 07时00分]"
+        },
+        {
+          "title": "美股三大股指大幅收跌 IBM大跌13%",
+          "url": "https://flash.jin10.com/detail/20260224050545152800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 07时00分]"
+        },
+        {
           "title": "华纳兄弟探索公司（WBD）美股盘后涨1.6%。",
           "url": "https://wallstreetcn.com/livenews/3057669",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 07时00分]"
         },
         {
           "title": "道指ETF收跌超1.6%，和小盘股ETF领跌美股大类资产类ETF，黄金ETF涨2.7%",
           "url": "https://wallstreetcn.com/livenews/3057666",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 07时00分]"
         },
         {
           "title": "美股七巨头收盘播报｜微软收跌3.2%，特斯拉、Meta、亚马逊至多跌2.9%",
           "url": "https://wallstreetcn.com/livenews/3057665",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 07时00分]"
         },
         {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
@@ -126,7 +143,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         },
