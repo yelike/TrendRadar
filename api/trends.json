@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-24T07:00:03.531325+08:00",
-  "total_titles_processed": 635,
+  "generated_at": "2026-02-24T07:38:50.106511+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "关税政策不确定性笼罩市场，美股低开，现货黄金站上5200美元",
@@ -28,8 +28,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时16分 ~ 07时00分]"
+          "appearance_count": 10,
+          "time_info": "[00时16分 ~ 07时38分]"
         },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，金银大涨，期银一度涨近8%",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时59分 ~ 07时00分]"
+          "appearance_count": 3,
+          "time_info": "[06时59分 ~ 07时38分]"
         },
         {
           "title": "美股延续跌势，纳指下跌1.01%。",
@@ -135,6 +135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 07时00分]"
+        },
+        {
+          "title": "美股收盘：关税风波+AI“鬼故事”袭扰 三大指数承压下挫",
+          "url": "https://www.cls.cn/detail/2293058",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时38分"
         },
         {
           "title": "区域银行ETF和银行业ETF收跌超4.3%，领跌美股行业ETF",
