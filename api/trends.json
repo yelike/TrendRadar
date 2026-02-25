@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T13:03:55.287738+08:00",
-  "total_titles_processed": 1013,
+  "generated_at": "2026-02-25T14:08:43.211549+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
@@ -63,8 +63,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 13时03分]"
+          "appearance_count": 6,
+          "time_info": "[07时39分 ~ 14时08分]"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -225,6 +225,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时39分 ~ 14时08分]"
+        },
+        {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
           "url": "https://wallstreetcn.com/livenews/3058254",
           "source": "华尔街见闻-快讯",
@@ -235,18 +247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 02时01分]"
-        },
-        {
-          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
-          "url": "https://www.cls.cn/detail/2294085",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时39分 ~ 13时03分]"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
