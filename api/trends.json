@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T15:57:07.067447+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-02-25T17:07:13.307131+08:00",
+  "total_titles_processed": 1318,
   "failed_sources": [],
   "trends": [
     {
@@ -138,6 +138,18 @@
           "time_info": "[05时42分 ~ 06时40分]"
         },
         {
+          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
+          "url": "https://www.cls.cn/detail/2294269",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时56分 ~ 17时07分]"
+        },
+        {
           "title": "美股收盘：三大股指收涨 AMD大涨超8%",
           "url": "https://flash.jin10.com/detail/20260225050111394800",
           "source": "金十数据",
@@ -172,17 +184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时42分 ~ 06时40分]"
-        },
-        {
-          "title": "7000字“AI鬼故事”引发美股地震！始作俑者：我也没想到……",
-          "url": "https://www.cls.cn/detail/2294269",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时56分 ~ 15时57分]"
         },
         {
           "title": "全球科技股指数ETF收涨超1.7%，和网络股指数ETF领跑美股行业ETF",
@@ -344,7 +345,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         }
