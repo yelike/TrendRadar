@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-25T07:40:02.750019+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-02-25T10:40:05.916464+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
@@ -51,8 +51,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 07时40分]"
+          "appearance_count": 13,
+          "time_info": "[00时32分 ~ 10时40分]"
+        },
+        {
+          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
+          "url": "https://www.cls.cn/detail/2294131",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时39分 ~ 10时40分]"
         },
         {
           "title": "美股三大股指延续涨势，纳指涨超1%，道指涨0.83%，标普500指数涨0.68%。",
@@ -126,17 +138,6 @@
           "time_info": "[05时42分 ~ 06时40分]"
         },
         {
-          "title": "美股收盘：软件板块回暖三大指数齐涨 空头突袭存储牛股",
-          "url": "https://www.cls.cn/detail/2294131",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时39分 ~ 07时40分]"
-        },
-        {
           "title": "美股收盘：三大股指收涨 AMD大涨超8%",
           "url": "https://flash.jin10.com/detail/20260225050111394800",
           "source": "金十数据",
@@ -202,7 +203,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
         },
@@ -221,7 +222,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
@@ -234,6 +235,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 02时01分]"
+        },
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时39分 ~ 10时40分]"
         },
         {
           "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
