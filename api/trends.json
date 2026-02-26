@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T14:02:02.297378+08:00",
-  "total_titles_processed": 1109,
+  "generated_at": "2026-02-26T15:54:56.262826+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 15时54分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -49,11 +49,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 14时02分]"
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 15时54分]"
         },
         {
           "title": "网络股指数ETF收涨约2.3%，领跑美股行业ETF",
@@ -172,7 +173,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "消息人士：在欧盟提出反垄断指控后，谷歌(GOOG.O)将测试搜索引擎结果的调整。新提案将提升搜索结果中竞争对手的曝光度。新提案即将在欧洲推出，最初将适用于住宿搜索。",
@@ -242,6 +243,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时51分 ~ 04时42分]"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时54分"
         }
       ]
     },
@@ -255,11 +267,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时35分 ~ 14时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时35分 ~ 15时54分]"
         }
       ]
     },
