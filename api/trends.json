@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T16:58:28.459464+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-02-26T17:59:02.223252+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时50分 ~ 16时58分]"
+          "appearance_count": 10,
+          "time_info": "[07时50分 ~ 17时59分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -160,6 +160,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "百度美股盘前跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3059459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时59分"
+        },
+        {
           "title": "半导体ETF涨1.63%，全球科技股指数ETF涨1.07%，科技行业ETF涨0.88%，在美股盘初领跑行业ETF。",
           "url": "https://wallstreetcn.com/livenews/3058936",
           "source": "华尔街见闻-快讯",
@@ -291,6 +302,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元 AI 特朗普 科技 伊朗 A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
+          "url": "https://www.cls.cn/detail/2295977",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时58分 ~ 17时59分]"
         }
       ]
     }
