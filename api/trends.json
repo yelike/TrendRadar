@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-26T19:48:15.145620+08:00",
-  "total_titles_processed": 1643,
+  "generated_at": "2026-02-26T21:20:03.441533+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时50分 ~ 19时48分]"
+          "appearance_count": 15,
+          "time_info": "[07时50分 ~ 21时20分]"
         },
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -292,6 +292,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "男篮世界杯预选赛，中国男篮 87-80 逆转日本男篮，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2010391207130391871",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时19分 ~ 21时20分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -340,8 +357,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时58分 ~ 19时48分]"
+          "appearance_count": 6,
+          "time_info": "[17时58分 ~ 21时20分]"
         }
       ]
     }
