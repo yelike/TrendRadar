@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T04:35:28.879732+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-02-28T05:35:07.135346+08:00",
+  "total_titles_processed": 572,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时48分 ~ 04时35分]"
+          "appearance_count": 10,
+          "time_info": "[00时48分 ~ 05时35分]"
         },
         {
           "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时35分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时35分]"
         }
       ]
     },
@@ -46,8 +47,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时48分 ~ 04时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时48分 ~ 05时35分]"
         }
       ]
     }
