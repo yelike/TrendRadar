@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T12:19:48.764462+08:00",
-  "total_titles_processed": 959,
+  "generated_at": "2026-02-28T13:37:10.209647+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时23分 ~ 12时19分]"
+          "appearance_count": 5,
+          "time_info": "[10时23分 ~ 13时37分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -82,8 +82,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时30分 ~ 12时19分]"
+          "appearance_count": 7,
+          "time_info": "[07时30分 ~ 13时37分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -153,8 +153,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时48分 ~ 12时19分]"
+          "appearance_count": 14,
+          "time_info": "[00时48分 ~ 13时37分]"
         }
       ]
     }
