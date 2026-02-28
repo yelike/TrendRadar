@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T22:29:08.339845+08:00",
-  "total_titles_processed": 2039,
+  "generated_at": "2026-02-28T23:29:40.177655+08:00",
+  "total_titles_processed": 2124,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[10时23分 ~ 22时29分]"
+          "appearance_count": 17,
+          "time_info": "[10时23分 ~ 23时29分]"
         },
         {
           "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
@@ -94,8 +94,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时32分 ~ 22时29分]"
+          "appearance_count": 11,
+          "time_info": "[15时32分 ~ 23时29分]"
         },
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -120,11 +120,12 @@
             14,
             11,
             8,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时31分 ~ 22时29分]"
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 23时29分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
