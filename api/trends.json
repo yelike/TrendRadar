@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T14:48:48.411347+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2026-02-28T15:33:17.252916+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 14时48分]"
+          "appearance_count": 8,
+          "time_info": "[10时23分 ~ 15时33分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -70,7 +70,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -82,8 +82,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时30分 ~ 14时48分]"
+          "appearance_count": 10,
+          "time_info": "[07时30分 ~ 15时33分]"
+        },
+        {
+          "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
+          "url": "https://www.cls.cn/detail/2298093",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 15时33分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -124,8 +135,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "deepseek崩了",
+          "url": "https://s.weibo.com/weibo?q=deepseek%E5%B4%A9%E4%BA%86&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 15时33分]"
+        },
         {
           "title": "DeepSeek将于下周发布其最新的大型语言模型V4。这是一款具有图片、视频和文本生成功能的“多模态”模型。",
           "url": "https://flash.jin10.com/detail/20260228092015676800",
@@ -153,8 +175,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时48分 ~ 14时48分]"
+          "appearance_count": 17,
+          "time_info": "[00时48分 ~ 15时33分]"
         }
       ]
     }
