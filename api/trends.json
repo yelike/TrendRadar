@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T05:28:04.170270+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-03-01T06:29:42.272743+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 06时29分]"
         },
         {
           "title": "以色列突袭伊朗，正准备 4 天的联合进攻，原油、黄金、美股接下来怎么走？",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 06时29分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 06时29分]"
         }
       ]
     }
