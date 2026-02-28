@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T15:33:17.252916+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2026-02-28T16:36:59.683284+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://wallstreetcn.com/articles/3766324",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时23分 ~ 15时33分]"
+          "appearance_count": 9,
+          "time_info": "[10时23分 ~ 16时36分]"
         },
         {
           "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
@@ -79,22 +80,24 @@
           "ranks": [
             9,
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时30分 ~ 15时33分]"
+          "appearance_count": 11,
+          "time_info": "[07时30分 ~ 16时36分]"
         },
         {
           "title": "伊朗局势演变会如何影响美股、黄金和原油？一文读懂",
           "url": "https://www.cls.cn/detail/2298093",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 15时33分]"
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 16时36分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
