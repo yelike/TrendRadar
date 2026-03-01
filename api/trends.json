@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T16:39:17.352319+08:00",
-  "total_titles_processed": 1292,
+  "generated_at": "2026-03-01T17:37:49.324648+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,23 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时34分 ~ 07时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄金暗盘价格为何跌了",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E6%9A%97%E7%9B%98%E4%BB%B7%E6%A0%BC%E4%B8%BA%E4%BD%95%E8%B7%8C%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
         }
       ]
     },
