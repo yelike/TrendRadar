@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T18:54:09.389741+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-03-02T19:35:44.481103+08:00",
+  "total_titles_processed": 1667,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时57分 ~ 18时54分]"
+          "appearance_count": 4,
+          "time_info": "[17时57分 ~ 19时35分]"
         },
         {
           "title": "伊朗危机冲击全球市场：欧美股市齐跌，巴基斯坦股市触及熔断，布油涨8%，黄金逼近5400关口",
@@ -80,7 +80,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
