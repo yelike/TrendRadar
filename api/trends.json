@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T07:31:13.741619+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-03-02T10:37:20.101497+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -25,7 +25,35 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球市场开盘“未见恐慌”：美股三大股指期货均跌1%，油价跳涨13%但涨幅显著回落，黄金逼近5400美元",
+          "url": "https://wallstreetcn.com/articles/3766477",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时37分"
+        },
+        {
+          "title": "美股股指期货低开1%",
+          "url": "https://flash.jin10.com/detail/20260302070422516800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         }
@@ -66,23 +94,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时34分 ~ 07时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股股指期货低开1%",
-          "url": "https://flash.jin10.com/detail/20260302070422516800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时31分"
         }
       ]
     }
