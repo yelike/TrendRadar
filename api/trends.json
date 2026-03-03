@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-03T13:55:12.832210+08:00",
-  "total_titles_processed": 1140,
+  "generated_at": "2026-03-03T15:02:05.527296+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时33分 ~ 13时55分]"
+          "appearance_count": 7,
+          "time_info": "[07时33分 ~ 15时02分]"
         },
         {
           "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
@@ -62,7 +62,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时55分"
         },
@@ -205,8 +205,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时40分 ~ 13时55分]"
+          "appearance_count": 6,
+          "time_info": "[10时40分 ~ 15时02分]"
         },
         {
           "title": "伊朗危机点燃通胀担忧，美股指惊险走V，原油暴涨重创美债，美元大涨，黄金冲高回落",
