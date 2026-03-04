@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T15:42:40.503096+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2026-03-04T16:49:11.002544+08:00",
+  "total_titles_processed": 1485,
   "failed_sources": [],
   "trends": [
     {
@@ -155,6 +155,17 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 16时49分]"
+        },
+        {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3766477",
           "source": "华尔街见闻",
@@ -166,24 +177,13 @@
           "time_info": "[00时57分 ~ 06时36分]"
         },
         {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时32分 ~ 15时42分]"
-        },
-        {
           "title": "荷兰国际：通胀预期或推升二季度美债收益率至4.3%附近",
           "url": "https://flash.jin10.com/detail/20260304151932442800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时42分"
         },
