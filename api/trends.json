@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T12:50:17.420911+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-03-05T13:53:52.015049+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时55分 ~ 12时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时55分 ~ 13时53分]"
         },
         {
           "title": "美股收盘：通胀担忧暂缓、油价持稳 科技股带动大盘重拾升势",
@@ -40,8 +40,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 12时50分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 13时53分]"
         },
         {
           "title": "周三（3月4日），存储芯片与硬件供应链指数涨3.90%，报105.81点，美股开盘后90分钟高开高走，随后平缓地逐步回吐涨幅。",
@@ -227,8 +227,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 12时50分]"
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 13时53分]"
         },
         {
           "title": "10年期美债收益率涨约2.7个基点，本周已涨约15个基点",
@@ -273,7 +273,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时50分"
         }
