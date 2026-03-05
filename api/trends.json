@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T21:13:45.662272+08:00",
-  "total_titles_processed": 1838,
+  "generated_at": "2026-03-05T22:52:54.289002+08:00",
+  "total_titles_processed": 1961,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国“小非农”超预期回暖，美股指高开，纳指涨幅扩大至1%，美油转跌，断供影响伦铝创四年新高",
@@ -51,8 +51,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时49分 ~ 21时13分]"
+          "appearance_count": 5,
+          "time_info": "[18时49分 ~ 22时52分]"
         },
         {
           "title": "伊朗称未封锁霍尔木兹海峡，美股期指集体拉升，油价再度跳水，韩股暴力反弹近10%，白银跌3%",
@@ -64,6 +64,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260305223632756800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美股盘初：道指跌0.7%，黄金股普跌，京东跌约3%",
+          "url": "https://wallstreetcn.com/livenews/3064557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         },
         {
           "title": "周三（3月4日），存储芯片与硬件供应链指数涨3.90%，报105.81点，美股开盘后90分钟高开高走，随后平缓地逐步回吐涨幅。",
@@ -222,13 +244,35 @@
           "time_info": "[05时40分 ~ 06时38分]"
         },
         {
+          "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2304327",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
+          "title": "美股开盘，道指跌0.74%，标普500指数跌0.47%，纳指跌0.44%。热门中概股普跌，哔哩哔哩(BILI.O)跌超5%，京东(JD.O)、阿里巴巴(BABA.N)跌约3%。",
+          "url": "https://flash.jin10.com/detail/20260305223026344800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
+        },
+        {
           "title": "伯克希尔哈撒韦美股盘前拉升，现涨1.6%，此前公司CEO Abel购入了价值1530万美元的股票。伯克希尔哈撒韦认为其股票的内在价值高于市场价值，称回购时机及总回购规模取决于股价情况。",
           "url": "https://wallstreetcn.com/livenews/3064487",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -253,12 +297,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时53分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3064536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
@@ -315,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：承诺到2030年投入5000万美元，采取行动应对强效温室气体。",
+          "url": "https://flash.jin10.com/detail/20260305222046201800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时52分"
         }
       ]
     },
@@ -332,8 +398,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时36分 ~ 21时13分]"
+          "appearance_count": 13,
+          "time_info": "[07时36分 ~ 22时52分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
