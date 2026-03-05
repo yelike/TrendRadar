@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T03:56:17.987545+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-03-06T04:43:46.846140+08:00",
+  "total_titles_processed": 419,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 03时56分]"
-        },
-        {
-          "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260306033140632800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 04时43分]"
         },
         {
           "title": "美股道琼斯指数跌幅扩大至2%，报47759.04点。",
@@ -41,26 +30,40 @@
           "time_info": "02时10分"
         },
         {
+          "title": "金十图示：2026年03月05日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260306033140632800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时43分]"
+        },
+        {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2304327",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 04时43分]"
         },
         {
           "title": "金十图示：2026年03月05日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260306033140119800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时56分 ~ 04时43分]"
         },
         {
           "title": "据媒体报道，美国十二个州预计将提起诉讼，以阻止特朗普最新实施的全球关税政策。 美股延续跌势，标普500指数跌1.2%。",
@@ -109,8 +112,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 03时56分]"
+          "appearance_count": 3,
+          "time_info": "[02时10分 ~ 04时43分]"
         }
       ]
     }
