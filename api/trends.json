@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-06T14:59:16.966380+08:00",
-  "total_titles_processed": 1127,
+  "generated_at": "2026-03-06T15:45:05.979524+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
+          "url": "https://www.cls.cn/detail/2304478",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时38分 ~ 15时45分]"
+        },
         {
           "title": "油价延续涨势冲击市场 美股三大期指集体走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2304327",
@@ -20,19 +33,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时10分 ~ 13时51分]"
-        },
-        {
-          "title": "美股收盘：道琼斯指数暴跌近800点，伊朗冲突外溢油价飙升",
-          "url": "https://www.cls.cn/detail/2304478",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时38分 ~ 14时59分]"
         },
         {
           "title": "中东局势打击风险偏好，美股指下跌，纳指跌0.5%，美油涨5%，金银齐跌",
@@ -197,8 +197,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时55分 ~ 14时59分]"
+          "appearance_count": 8,
+          "time_info": "[07时55分 ~ 15时45分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
