@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T18:42:26.401729+08:00",
-  "total_titles_processed": 1540,
+  "generated_at": "2026-03-06T19:35:45.987000+08:00",
+  "total_titles_processed": 1633,
   "failed_sources": [],
   "trends": [
     {
@@ -190,7 +190,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         }
@@ -209,8 +209,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时55分 ~ 18时42分]"
+          "appearance_count": 13,
+          "time_info": "[07时55分 ~ 19时35分]"
         },
         {
           "title": "强劲数据重燃风险偏好，科技股带领美股反弹，纳指涨1.3%，美债三连跌，加密货币大涨",
@@ -230,7 +230,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时42分"
         },
