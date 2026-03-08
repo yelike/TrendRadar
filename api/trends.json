@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-03-09T00:37:16.818414+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-09T01:29:31.152462+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "做空ETF、恐慌指数都在飙！高盛戳穿美股“假平静”，市场实则极度脆弱",
+          "url": "https://wallstreetcn.com/articles/3766978",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/yelike/TrendRadar/img/news.jpg"
 }
