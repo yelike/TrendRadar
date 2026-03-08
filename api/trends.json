@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T14:53:35.122329+08:00",
-  "total_titles_processed": 987,
+  "generated_at": "2026-03-08T15:35:50.785343+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：油价暴涨叠加就业数据疲软 三大指数集体收跌",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 14时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时35分 ~ 15时35分]"
+        },
+        {
+          "title": "沙特阿美股价早盘上涨3.3%。",
+          "url": "https://flash.jin10.com/detail/20260308150416829800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     }
