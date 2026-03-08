@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-08T18:32:10.274301+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-03-08T19:27:55.766602+08:00",
+  "total_titles_processed": 1258,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             5,
             8,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时27分]"
         },
         {
           "title": "沙特阿美股价早盘上涨3.3%。",
