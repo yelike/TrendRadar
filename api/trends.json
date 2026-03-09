@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T01:51:25.235466+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-03-10T03:01:47.201324+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2307187",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时01分]"
         },
         {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
