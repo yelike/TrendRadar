@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T03:01:47.201324+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-03-10T03:47:56.568842+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "全球股债遭遇双杀！美股三大股指开盘走低，芯片股普跌，美油回落至100美元下方",
@@ -24,11 +24,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 03时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 03时47分]"
         },
         {
           "title": "标普500指数跌幅收窄至0.5%，美股盘初一度下跌1.5%。",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260310032807160800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时47分"
         }
       ]
     }
