@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-10T07:34:49.555973+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-03-10T10:32:03.289192+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
+          "url": "https://www.cls.cn/detail/2307796",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时36分 ~ 10时32分]"
+        },
         {
           "title": "美伊战火会“砸崩”美股？以史为鉴：无需担心，标普500很快反弹！",
           "url": "https://www.cls.cn/detail/2307187",
@@ -52,18 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
-        },
-        {
-          "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2307796",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时36分 ~ 07时34分]"
         },
         {
           "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
@@ -112,6 +113,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时39分]"
+        },
+        {
+          "title": "美股三大指数集体收涨",
+          "url": "https://www.toutiao.com/trending/7615396444580646454/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时31分 ~ 10时32分]"
         },
         {
           "title": "美股收盘：三大股指集体收涨 芯片股走强",
