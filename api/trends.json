@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-10T19:38:20.345345+08:00",
-  "total_titles_processed": 1757,
+  "generated_at": "2026-03-10T21:14:44.001659+08:00",
+  "total_titles_processed": 1886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股收盘：特朗普称战争“基本结束” 三大指数集体收涨 纳指涨超1%",
@@ -65,6 +65,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
+          "url": "https://wallstreetcn.com/articles/3767097",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时38分 ~ 21时14分]"
         },
         {
           "title": "新兴市场ETF收涨将近2%，领跑美股大类资产类ETF。布油基金跌2.8%",
@@ -149,17 +161,6 @@
           "time_info": "[10时31分 ~ 10时32分]"
         },
         {
-          "title": "特朗普释放停战对话信号，美股期指盘前回吐涨幅，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
-          "url": "https://wallstreetcn.com/articles/3767097",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
           "title": "美股收盘：三大股指集体收涨 芯片股走强",
           "url": "https://flash.jin10.com/detail/20260310040330474800",
           "source": "金十数据",
@@ -188,9 +189,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3067310",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
         },
         {
           "title": "受特朗普言论影响，美股三大股指均转涨，纳指涨超1%。",
@@ -210,7 +222,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时38分"
         },
@@ -229,8 +241,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "据AXIOS网站：由谷歌和特斯拉等公司组成的联盟将通过挖掘未充分利用的电网容量来解决能源可负担性问题。",
+          "url": "https://flash.jin10.com/detail/20260310205317042800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时14分"
+        },
         {
           "title": "美股七巨头收盘播报｜英伟达、谷歌A至少收涨2.7%",
           "url": "https://wallstreetcn.com/livenews/3066727",
