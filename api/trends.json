@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T13:56:29.584904+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2026-03-12T15:04:36.738679+08:00",
+  "total_titles_processed": 1209,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "time_info": "[01时01分 ~ 06时53分]"
         },
         {
+          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
+          "url": "https://www.cls.cn/detail/2310241",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时53分 ~ 15时04分]"
+        },
+        {
           "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
           "url": "https://www.cls.cn/detail/2310036",
           "source": "财联社热门",
@@ -44,19 +57,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时01分 ~ 12时52分]"
-        },
-        {
-          "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
-          "url": "https://www.cls.cn/detail/2310241",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时53分 ~ 13时56分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -234,8 +234,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时32分 ~ 13时56分]"
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时04分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
