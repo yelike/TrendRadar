@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T16:53:30.936278+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-03-12T17:52:47.227753+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -161,7 +161,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -194,7 +194,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -256,8 +256,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时32分 ~ 16时53分]"
+          "appearance_count": 8,
+          "time_info": "[07时32分 ~ 17时52分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
@@ -283,7 +283,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         }
