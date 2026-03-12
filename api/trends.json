@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T12:52:41.332556+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-03-12T13:56:29.584904+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -55,8 +55,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时53分 ~ 12时52分]"
+          "appearance_count": 6,
+          "time_info": "[06时53分 ~ 13时56分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -234,8 +234,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时32分 ~ 12时52分]"
+          "appearance_count": 5,
+          "time_info": "[07时32分 ~ 13时56分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
