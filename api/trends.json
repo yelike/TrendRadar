@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T07:33:00.410098+08:00",
-  "total_titles_processed": 685,
+  "generated_at": "2026-03-12T10:37:23.079068+08:00",
+  "total_titles_processed": 868,
   "failed_sources": [],
   "trends": [
     {
@@ -38,11 +38,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 07时33分]"
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 10时37分]"
         },
         {
           "title": "美股收盘：美伊冲突扰动市场 三大指数涨跌互现 甲骨文绩后飙升9%",
@@ -53,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 07时33分]"
+          "appearance_count": 4,
+          "time_info": "[06时53分 ~ 10时37分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超2.1%，亚马逊跌约0.8%",
@@ -232,8 +233,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 07时33分]"
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 10时37分]"
         },
         {
           "title": "30年期美债收益率涨7个基点，美国CPI数据带来瞬间的干扰",
