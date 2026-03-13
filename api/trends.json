@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T15:03:27.443437+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-03-13T16:51:05.237858+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -39,7 +39,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时02分 ~ 06时33分]"
+        },
+        {
+          "title": "为何油价大涨美股大跌",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B2%B9%E4%BB%B7%E5%A4%A7%E6%B6%A8%E7%BE%8E%E8%82%A1%E5%A4%A7%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时50分 ~ 16时51分]"
         },
         {
           "title": "航空业ETF收跌约4%，与半导体ETF领跌美股行业ETF",
@@ -166,8 +177,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时49分 ~ 15时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时49分 ~ 16时51分]"
         },
         {
           "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，日元暴跌2%，金银下挫",
@@ -187,7 +198,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时03分"
         },
