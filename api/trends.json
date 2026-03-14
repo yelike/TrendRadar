@@ -1,50 +1,33 @@
 {
-  "generated_at": "2026-03-14T23:34:09.156095+08:00",
-  "total_titles_processed": 1614,
+  "generated_at": "2026-03-15T00:39:06.834373+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
           "url": "https://wallstreetcn.com/articles/3767492",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1,
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时32分 ~ 23时34分]"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
           "url": "https://www.cls.cn/detail/2312848",
           "source": "财联社热门",
           "ranks": [
-            7,
-            3,
-            4,
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时34分 ~ 23时34分]"
-        },
-        {
-          "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
-          "url": "https://wallstreetcn.com/articles/3767394",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时42分 ~ 07时35分]"
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 00时39分]"
         },
         {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
@@ -54,218 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时40分 ~ 23时34分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260314003323131800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时50分 ~ 01时40分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040823519800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 07时35分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260314040819364800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 07时35分]"
-        },
-        {
-          "title": "美股高开低收，道指初步收跌0.25%、标普500指数跌0.6%、纳指跌0.93%。部分明星科技股走软，Adobe(ADBE.O)跌7.5%、Meta Platforms(META.O)跌3.8%、博通(AVGO.O)跌4.1%。纳斯达克中国金龙指数收涨0.75%。",
-          "url": "https://flash.jin10.com/detail/20260314040028174800",
-          "source": "金十数据",
-          "ranks": [
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时42分 ~ 07时35分]"
-        },
-        {
-          "title": "美股三大指数集体高开 百度涨超2%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%852%25",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时49分 ~ 01时40分]"
-        },
-        {
-          "title": "全球科技股指数ETF收跌约0.9%，领跌美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3070022",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 07时35分]"
-        },
-        {
-          "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
-          "url": "https://wallstreetcn.com/livenews/3070015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时40分 ~ 07时35分]"
-        },
-        {
-          "title": "美伊冲突升级，美股倒V转跌，Mag7陷入回调，Meta跌近4%，美元破百，金银三连跌",
-          "url": "https://wallstreetcn.com/articles/3767492",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时34分 ~ 07时35分]"
-        },
-        {
-          "title": "金十图示：2026年03月13日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260314003327722800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "布油破百引爆通胀担忧，美股与美债双双重挫，美元两连涨，金银下挫",
-          "url": "https://wallstreetcn.com/articles/3767295",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时49分 ~ 06时34分]"
-        },
-        {
-          "title": "周五（3月13日）纽约尾盘，美国10年期基准国债收益率涨1.58个基点，报4.2767%，逼近1月20日顶部4.3065%、2025年8月18日顶部4.3511%、5月22日顶部4.6247%。 两年期美债收益率跌2.38个基点，报3.7169%。",
-          "url": "https://wallstreetcn.com/livenews/3070030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时40分"
-        },
-        {
-          "title": "10年期美债收益率创1月份以来新高，本周累涨将近14个基点",
-          "url": "https://wallstreetcn.com/livenews/3070030",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek V4 为什么还不发布？",
-          "url": "https://www.zhihu.com/question/2014783631814580088",
-          "source": "知乎",
-          "ranks": [
-            11,
-            3,
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时49分 ~ 10时33分]"
-        },
-        {
-          "title": "据《白鲸实验室》报道，DeepSeek V4和姚顺雨领衔操刀的混元新模型，均预计将于下个月（2026年4月）发布。",
-          "url": "https://wallstreetcn.com/livenews/3070070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            22,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时33分 ~ 15时40分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中国女足加时 2-0 中国台湾女足，晋级亚洲杯四强，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2016136896019989085",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 21时05分]"
-        },
-        {
-          "title": "女足亚洲杯，中国女足加时 2-0 中国台湾女足，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2016136896019989085",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时35分 ~ 19时31分]"
+          "time_info": "[00时38分 ~ 00时39分]"
         }
       ]
     }
