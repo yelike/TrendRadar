@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T18:35:35.865495+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-03-14T19:31:42.463270+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时32分 ~ 18时35分]"
+          "appearance_count": 10,
+          "time_info": "[10时32分 ~ 19时31分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时34分 ~ 18时35分]"
+          "appearance_count": 12,
+          "time_info": "[07时34分 ~ 19时31分]"
         },
         {
           "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
@@ -252,9 +252,9 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时31分]"
         }
       ]
     }
