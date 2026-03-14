@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T22:35:27.432193+08:00",
-  "total_titles_processed": 1558,
+  "generated_at": "2026-03-14T23:34:09.156095+08:00",
+  "total_titles_processed": 1614,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时32分 ~ 22时35分]"
+          "appearance_count": 15,
+          "time_info": "[10时32分 ~ 23时34分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时34分 ~ 22时35分]"
+          "appearance_count": 17,
+          "time_info": "[07时34分 ~ 23时34分]"
         },
         {
           "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[04时42分 ~ 07时35分]"
+        },
+        {
+          "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
+          "url": "https://wallstreetcn.com/articles/3767500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时40分 ~ 23时34分]"
         },
         {
           "title": "金十图示：2026年03月13日（周五）热门中概股行情一览（美股盘中）",
@@ -117,17 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时40分 ~ 07时35分]"
-        },
-        {
-          "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
-          "url": "https://wallstreetcn.com/articles/3767500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 22时35分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收跌5.40%，报383.94点，本周累计下跌7.12%，整体冲高回落。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌5.82%，报2693.26点，本周累跌7.46%。 在美股时段交易的原材料指数收跌2.33%，报244.91点，本周累跌1.61%。 在美股时段交易的金属与矿业指数收跌3.47%，报233.35点，本周累跌3.94%。",
