@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T19:31:42.463270+08:00",
-  "total_titles_processed": 1352,
+  "generated_at": "2026-03-14T21:05:16.943774+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时32分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[10时32分 ~ 21时05分]"
         },
         {
           "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
@@ -31,8 +31,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时34分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[07时34分 ~ 21时05分]"
         },
         {
           "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
@@ -243,8 +243,19 @@
     },
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "中国女足加时 2-0 中国台湾女足，晋级亚洲杯四强，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2016136896019989085",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时04分 ~ 21时05分]"
+        },
         {
           "title": "女足亚洲杯，中国女足加时 2-0 中国台湾女足，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2016136896019989085",
