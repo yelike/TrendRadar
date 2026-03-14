@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-14T15:40:38.471312+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-03-14T16:42:53.805984+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时34分 ~ 15时40分]"
+          "appearance_count": 9,
+          "time_info": "[07时34分 ~ 16时42分]"
         },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
@@ -29,8 +30,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时32分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[10时32分 ~ 16时42分]"
         },
         {
           "title": "霍尔木兹海峡持续关闭，但油价仍远低于历史高点、美股也尚未恐慌，市场为何稳得住？",
