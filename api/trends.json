@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T02:49:59.608067+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-03-16T03:34:07.956687+08:00",
+  "total_titles_processed": 428,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,29 @@
           "ranks": [
             15,
             20,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 02时49分]"
+          "appearance_count": 4,
+          "time_info": "[00时39分 ~ 03时34分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世预赛中国女篮 84：74 战胜捷克女篮，获得女篮世界杯资格。如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2016610891387396721",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时33分 ~ 03时34分]"
         }
       ]
     },
@@ -34,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 02时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时39分 ~ 03时34分]"
         }
       ]
     }
