@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T21:05:57.308385+08:00",
-  "total_titles_processed": 1234,
+  "generated_at": "2026-03-15T22:36:50.485600+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
@@ -52,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 21时05分]"
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 22时36分]"
         },
         {
           "title": "美股“异相”：ETF成交量飙升",
