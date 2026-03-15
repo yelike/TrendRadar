@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-03-15T07:34:49.481352+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2026-03-15T10:53:56.956216+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
-          "url": "https://www.cls.cn/detail/2312848",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 07时34分]"
-        },
         {
           "title": "美伊冲突升级，美股倒V、连跌三周！Mag7陷入回调，Meta跌近4%，美元破百",
           "url": "https://wallstreetcn.com/articles/3767492",
@@ -30,6 +19,18 @@
           "time_info": "[00时38分 ~ 06时33分]"
         },
         {
+          "title": "美股收盘：伊朗战争升级加剧通胀担忧 标普500指数连续第三周下跌",
+          "url": "https://www.cls.cn/detail/2312848",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 10时53分]"
+        },
+        {
           "title": "美股科技牛结束了？Mag 7已较高点跌去10%，微软年内跌得最惨！",
           "url": "https://wallstreetcn.com/articles/3767500",
           "source": "华尔街见闻",
@@ -40,6 +41,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时38分 ~ 07时34分]"
+        },
+        {
+          "title": "美股“异相”：ETF成交量飙升",
+          "url": "https://wallstreetcn.com/articles/3767510",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时53分"
         }
       ]
     }
