@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-03-16T10:54:12.786268+08:00",
-  "total_titles_processed": 730,
+  "generated_at": "2026-03-16T13:23:04.214499+08:00",
+  "total_titles_processed": 883,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
           "url": "https://wallstreetcn.com/articles/3767545",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时39分 ~ 10时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时39分 ~ 13时23分]"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -29,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时35分]"
+        },
+        {
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "美股三大股指期货周一基本平开。",
