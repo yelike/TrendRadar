@@ -1,25 +1,29 @@
 {
-  "generated_at": "2026-03-16T23:06:46.113499+08:00",
-  "total_titles_processed": 1635,
+  "generated_at": "2026-03-17T01:09:15.957713+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 12,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "市场处于“爆发临界点”！高盛爆料：本周机构对美股的抛售和做空量达到“历史级别”",
-          "url": "https://wallstreetcn.com/articles/3767545",
-          "source": "华尔街见闻",
+          "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
+          "url": "https://wallstreetcn.com/livenews/3071045",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            4,
-            3
+            16
           ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时39分 ~ 15时27分]"
-        },
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
         {
           "title": "霍尔木兹海峡现通航迹象，美股指高开，纳指涨1%，WTI原油日内跌幅达3%，现货黄金重回5000美元",
           "url": "https://wallstreetcn.com/articles/3767567",
@@ -27,179 +31,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时06分"
-        },
-        {
-          "title": "霍尔木兹海峡现通航迹象，美股期货涨幅扩大，WTI原油日内跌幅达3%，现货黄金重回5000美元",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
-          "title": "特朗普承诺“护航”，美股期货走高，WTI原油涨2.2%，现货黄金跌破5000美元",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时54分]"
-        },
-        {
-          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时22分 ~ 15时27分]"
-        },
-        {
-          "title": "国际油价涨超3%，美股期货小幅下跌",
-          "url": "https://wallstreetcn.com/livenews/3070410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时35分 ~ 07时35分]"
-        },
-        {
-          "title": "美股三大股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260316060258130800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时35分"
-        },
-        {
-          "title": "美股股指期货持续走高，纳指期货涨1.2%，标普500指数期货涨超1%，道指期货涨0.84%。",
-          "url": "https://wallstreetcn.com/livenews/3070934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3070933",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
-          "title": "Nebius美股盘前大涨10%，报道称，Meta将在未来五年就与Nebius的人工智能交易支出高达270亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3070811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时59分"
-        },
-        {
-          "title": "金十数据整理：每日美股市场要闻速递（2026-03-16）",
-          "url": "https://flash.jin10.com/detail/20260316204914952800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时26分"
-        },
-        {
-          "title": "美光科技美股盘前涨3.8%，此前加拿大皇家银行将其目标价从425美元上调至525美元。",
-          "url": "https://wallstreetcn.com/livenews/3070742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“Apollo-9手环怎么样？”315曝光AI大模型“投毒”后实测：千问拒答，DeepSeek翻车",
-          "url": "https://wallstreetcn.com/livenews/3070375",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时39分 ~ 05时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世预赛中国女篮 84：74 战胜捷克女篮，获得女篮世界杯资格。如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2016610891387396721",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时33分 ~ 07时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "油价飙升引发滞胀担忧 美债市场年内涨幅尽失",
-          "url": "https://flash.jin10.com/detail/20260316070231211800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时35分"
+          "time_info": "[01时08分 ~ 01时09分]"
         }
       ]
     }
