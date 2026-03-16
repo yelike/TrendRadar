@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T13:23:04.214499+08:00",
-  "total_titles_processed": 883,
+  "generated_at": "2026-03-16T15:27:07.259581+08:00",
+  "total_titles_processed": 1003,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时39分 ~ 13时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时39分 ~ 15时27分]"
+        },
+        {
+          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 15时27分]"
         },
         {
           "title": "国际油价涨超3%，美股期货小幅下跌",
@@ -30,17 +43,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时35分 ~ 07时35分]"
-        },
-        {
-          "title": "国际油价高开后转跌，WTI日内跌超1%，韩股一度涨超1%，美股期货走高",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时22分 ~ 13时23分]"
         },
         {
           "title": "美股三大股指期货周一基本平开。",
