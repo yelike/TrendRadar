@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T10:37:01.620609+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-03-17T12:57:27.080927+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -27,19 +27,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时37分 ~ 10时37分]"
+          "appearance_count": 4,
+          "time_info": "[07时37分 ~ 12时57分]"
         },
         {
           "title": "国际油价大跌推高美股 大摩首席：市场调整已接近尾声",
           "url": "https://www.cls.cn/detail/2314987",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 12时57分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
@@ -121,8 +122,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时36分 ~ 10时37分]"
+          "appearance_count": 3,
+          "time_info": "[10时36分 ~ 12时57分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
