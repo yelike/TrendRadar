@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T17:02:18.208125+08:00",
-  "total_titles_processed": 1342,
+  "generated_at": "2026-03-17T18:56:34.371004+08:00",
+  "total_titles_processed": 1473,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             6,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 17时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 18时56分]"
         },
         {
           "title": "金十图示：2026年03月16日（周一）美股热门股票行情一览（美股盘中）",
@@ -120,11 +121,12 @@
           "url": "https://www.zhihu.com/question/2016896539008726692",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时02分 ~ 18时56分]"
         },
         {
           "title": "英伟达CEO黄仁勋：。我们与谷歌AWS合作已经很长时间了。今年我非常兴奋的一件事是，我们将把开放人工智能引入AWS。这将推动AWS云计算的巨大消费。",
@@ -163,8 +165,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 17时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 18时56分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
