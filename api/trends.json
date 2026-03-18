@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T05:41:14.093869+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-03-19T06:38:46.259981+08:00",
+  "total_titles_processed": 570,
   "failed_sources": [],
   "trends": [
     {
@@ -37,11 +37,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            18
+            18,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时38分]"
         },
         {
           "title": "日常消费品ETF收跌超2.4%，与可选消费ETF领跌美股行业ETF",
@@ -49,11 +50,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            20
+            20,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时46分 ~ 05时41分]"
+          "appearance_count": 3,
+          "time_info": "[04时46分 ~ 06时38分]"
         },
         {
           "title": "金十图示：2026年03月18日（周三）美股热门股票行情一览（美股收盘）",
@@ -103,18 +105,30 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
           "url": "https://wallstreetcn.com/articles/3767701",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时38分]"
+        },
+        {
+          "title": "冲突升级叠加美联储鹰派，美股、美债、黄金“三杀”！美元涨回100关口，加密货币跳水",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
         {
           "title": "美债价格跌幅扩大，鲍威尔称降息取决于通胀进展",
@@ -126,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时09分"
+        },
+        {
+          "title": "两年期美债收益率涨约10个基点，投资者关注美联储政策利率的前景和国际油价",
+          "url": "https://wallstreetcn.com/livenews/3072705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时38分"
         },
         {
           "title": "中国、日本和英国在1月份增持美债",
@@ -174,8 +199,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 05时41分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 06时38分]"
         }
       ]
     },
@@ -209,8 +234,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时09分 ~ 05时41分]"
+          "appearance_count": 5,
+          "time_info": "[03时09分 ~ 06时38分]"
         }
       ]
     }
