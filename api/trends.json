@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T10:43:15.972133+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-03-18T13:02:28.291132+08:00",
+  "total_titles_processed": 946,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时38分 ~ 10时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 13时02分]"
         },
         {
           "title": "美股期货小幅走高，标普500指数期货现涨0.3%。",
@@ -50,7 +50,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         },
@@ -114,8 +114,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时38分 ~ 10时43分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 13时02分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
@@ -172,8 +172,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 13时02分]"
         }
       ]
     },
@@ -205,7 +205,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
         }
