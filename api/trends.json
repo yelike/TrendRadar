@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T10:44:44.341741+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-03-19T13:00:23.815796+08:00",
+  "total_titles_processed": 957,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 10时44分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 13时00分]"
         },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -39,7 +39,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时44分"
         },
@@ -271,11 +271,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时09分 ~ 10时44分]"
+          "appearance_count": 11,
+          "time_info": "[01时09分 ~ 13时00分]"
         }
       ]
     },
