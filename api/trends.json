@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T16:51:34.535624+08:00",
-  "total_titles_processed": 1327,
+  "generated_at": "2026-03-20T17:52:05.021810+08:00",
+  "total_titles_processed": 1441,
   "failed_sources": [],
   "trends": [
     {
@@ -128,7 +128,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         },
@@ -139,7 +139,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
         }
@@ -158,8 +158,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时35分 ~ 16时51分]"
+          "appearance_count": 7,
+          "time_info": "[10时35分 ~ 17时52分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
