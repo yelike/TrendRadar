@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T13:57:22.270632+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-03-20T15:06:35.306380+08:00",
+  "total_titles_processed": 1198,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时36分 ~ 13时57分]"
+          "appearance_count": 5,
+          "time_info": "[07时36分 ~ 15时06分]"
         },
         {
           "title": "能源业ETF收涨约1.6%，领跑美股行业ETF",
@@ -135,8 +135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时35分 ~ 13时57分]"
+          "appearance_count": 4,
+          "time_info": "[10时35分 ~ 15时06分]"
         },
         {
           "title": "霍尔木兹海峡现曙光，油价跳水！美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -213,7 +213,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
         }
