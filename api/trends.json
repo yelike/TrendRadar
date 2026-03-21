@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T12:42:23.125917+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-03-21T13:47:14.116158+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 12时42分]"
+          "appearance_count": 14,
+          "time_info": "[00时53分 ~ 13时47分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -39,17 +39,6 @@
           "time_info": "[00时53分 ~ 10时29分]"
         },
         {
-          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260321040633903800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时40分 ~ 07时35分]"
-        },
-        {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
           "url": "https://www.cls.cn/detail/2320209",
           "source": "财联社热门",
@@ -58,8 +47,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时35分 ~ 12时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 13时47分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -69,8 +58,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[10时29分 ~ 13时47分]"
+        },
+        {
+          "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260321040633903800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时40分 ~ 07时35分]"
         },
         {
           "title": "中东局势恶化叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -116,6 +116,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时40分 ~ 07时35分]"
+        },
+        {
+          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
+          "url": "https://wallstreetcn.com/articles/3768043",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 13时47分]"
         },
         {
           "title": "标普500指数ETF美股盘后涨幅扩大至1%。据新华社报道，特朗普宣称正考虑逐步降级对伊朗的军事行动。 景顺QQQ盘后上涨0.9%。",
@@ -179,17 +190,6 @@
           "time_info": "[05时36分 ~ 06时35分]"
         },
         {
-          "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
-          "url": "https://wallstreetcn.com/articles/3768043",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
           "url": "https://wallstreetcn.com/articles/3768039",
           "source": "华尔街见闻",
@@ -248,7 +248,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "油价动荡主导市场，美股美债企稳，全球央行\"鹰派按兵不动\"，黄金一度暴跌6%",
@@ -288,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
+          "url": "https://wallstreetcn.com/articles/3768031",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时46分 ~ 13时47分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",
