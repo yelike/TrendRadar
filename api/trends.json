@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T19:29:22.811290+08:00",
-  "total_titles_processed": 1316,
+  "generated_at": "2026-03-21T21:02:20.323406+08:00",
+  "total_titles_processed": 1417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时29分 ~ 19时29分]"
+          "appearance_count": 12,
+          "time_info": "[10时29分 ~ 21时02分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时35分 ~ 19时29分]"
+          "appearance_count": 13,
+          "time_info": "[07时35分 ~ 21时02分]"
         },
         {
           "title": "周五从“升级到降级”，投资者“左右打脸”！特朗普夜间称“正逐步考虑减少对伊军事行动”，油价回落美股期货上涨",
@@ -42,8 +43,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时42分 ~ 19时29分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 21时02分]"
         },
         {
           "title": "美股期货跌幅扩大，报道：特朗普考虑占领或封锁伊朗哈尔克岛",
@@ -99,6 +100,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
+          "url": "https://wallstreetcn.com/articles/3768039",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时29分 ~ 21时02分]"
+        },
+        {
           "title": "金十图示：2026年03月20日（周五）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260321040547079800",
           "source": "金十数据",
@@ -120,17 +132,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时40分 ~ 05时36分]"
-        },
-        {
-          "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
-          "url": "https://wallstreetcn.com/articles/3768039",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时29分 ~ 18时34分]"
         },
         {
           "title": "美股三大指数收跌 超微电脑跌超30%",
@@ -268,6 +269,20 @@
           "time_info": "[00时53分 ~ 06时35分]"
         },
         {
+          "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
+          "url": "https://wallstreetcn.com/articles/3768031",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时46分 ~ 21时02分]"
+        },
+        {
           "title": "中东局势再度升温，美股集体低开，10年期美债收益率创年初新高，原油上涨，黄金日内转跌",
           "url": "https://wallstreetcn.com/articles/3767994",
           "source": "华尔街见闻",
@@ -281,20 +296,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时53分 ~ 06时35分]"
-        },
-        {
-          "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
-          "url": "https://wallstreetcn.com/articles/3768031",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时46分 ~ 19时29分]"
         },
         {
           "title": "周五（3月20日）纽约尾盘，美国10年期基准国债收益率涨13.03个基点，报4.3796%，北京时间02:56涨至4.3915%——2022年9月以来持续交投于4%整数位心理关口附近、在高位窄幅震荡中于2023年10月23日达到5.0187%，本周累计上涨10.29个基点。 两年期美债收益率涨10.77个基点，报3.9001%，22:44达到3.9384%，本周累涨18.33个基点。",
