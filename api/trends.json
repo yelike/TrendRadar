@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T06:32:22.874655+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-03-22T07:32:00.962519+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时32分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时32分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -55,6 +55,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货黄金价格跌破4500美元，创43年最大单周跌幅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32805437",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时31分 ~ 07时32分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -66,8 +83,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 06时32分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 07时32分]"
         }
       ]
     }
