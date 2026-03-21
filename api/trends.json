@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T15:37:44.650925+08:00",
-  "total_titles_processed": 1070,
+  "generated_at": "2026-03-21T16:41:22.425350+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时53分 ~ 15时37分]"
+          "appearance_count": 17,
+          "time_info": "[00时53分 ~ 16时41分]"
         },
         {
           "title": "美股收盘：七巨头齐挫纳指收低2% 三大指数连跌四周",
@@ -33,8 +33,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时35分 ~ 15时37分]"
+          "appearance_count": 8,
+          "time_info": "[07时35分 ~ 16时41分]"
         },
         {
           "title": "中东局势叠加美联储加息预期，美股连跌四周，全球债市遭遇“血洗”，黄金创43年最大单周跌幅",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时29分 ~ 15时37分]"
+          "appearance_count": 7,
+          "time_info": "[10时29分 ~ 16时41分]"
         },
         {
           "title": "油价高位震荡 美股或连跌四周 逼近回调区间 | 今夜看点",
@@ -69,11 +69,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时37分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时41分]"
         },
         {
           "title": "金十图示：2026年03月20日（周五）美股热门股票行情一览（美股收盘）",
@@ -301,8 +302,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时46分 ~ 15时37分]"
+          "appearance_count": 5,
+          "time_info": "[13时46分 ~ 16时41分]"
         },
         {
           "title": "两年期美债收益率本周涨超18个基点",
