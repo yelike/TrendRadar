@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T18:34:47.045243+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-03-22T19:30:32.827960+08:00",
+  "total_titles_processed": 1174,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时37分 ~ 18时34分]"
+          "appearance_count": 20,
+          "time_info": "[00时37分 ~ 19时30分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -97,7 +97,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "全球债市大跌！美联储10月加息概率升至50%，美债重挫、英债08年来首破5%",
@@ -109,6 +109,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时37分 ~ 07时32分]"
+        },
+        {
+          "title": "美债在定价“加息”？准确的说，市场在定价“QE”！",
+          "url": "https://wallstreetcn.com/articles/3768079",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 19时30分]"
         }
       ]
     }
