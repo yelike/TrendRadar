@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T15:03:30.223270+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-03-22T16:42:19.442347+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 15时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 16时42分]"
         },
         {
           "title": "特朗普称考虑逐步减少对伊朗的军事行动，美股ETF盘后转涨",
@@ -57,7 +57,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "信达期货：当前黄金走势的核心在于能源价格上行对利率预期的再约束",
@@ -81,6 +81,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 07时32分]"
+        },
+        {
+          "title": "粤开证券：长期看支撑黄金价格的有利因素仍在",
+          "url": "https://flash.jin10.com/detail/20260322152315932800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
