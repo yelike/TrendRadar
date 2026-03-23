@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T15:19:49.682546+08:00",
-  "total_titles_processed": 1023,
+  "generated_at": "2026-03-23T17:05:15.749178+08:00",
+  "total_titles_processed": 1163,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股期货亚市盘初走低，油价上涨",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时32分 ~ 07时34分]"
+        },
+        {
+          "title": "高盛：AI或是美股最后的抛售来源",
+          "url": "https://www.toutiao.com/trending/7620340271837875763/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时04分 ~ 17时05分]"
         },
         {
           "title": "国际油价回吐涨幅，布油、WTI原油期货转跌。 美股期货收复失地，标普500指数期货转为基本持平。",
@@ -60,7 +71,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
         }
@@ -79,8 +90,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时08分 ~ 15时19分]"
+          "appearance_count": 5,
+          "time_info": "[13时08分 ~ 17时05分]"
         },
         {
           "title": "美债在定价“加息”？准确的说，市场在定价“QE”！",
@@ -117,11 +128,12 @@
           "ranks": [
             2,
             6,
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时45分 ~ 15时19分]"
+          "appearance_count": 7,
+          "time_info": "[10时45分 ~ 17时05分]"
         }
       ]
     }
