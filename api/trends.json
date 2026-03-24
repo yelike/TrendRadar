@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T18:56:55.062415+08:00",
-  "total_titles_processed": 1510,
+  "generated_at": "2026-03-24T19:50:31.911405+08:00",
+  "total_titles_processed": 1618,
   "failed_sources": [],
   "trends": [
     {
@@ -114,11 +114,12 @@
           "ranks": [
             4,
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时57分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[15时57分 ~ 19时50分]"
         },
         {
           "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
@@ -157,6 +158,18 @@
           "time_info": "[12时59分 ~ 15时57分]"
         },
         {
+          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 19时50分]"
+        },
+        {
           "title": "航空业ETF收涨将近3.5%，领跑美股行业ETF，能源业ETF涨1.2%表现“不温不火”",
           "url": "https://wallstreetcn.com/livenews/3075410",
           "source": "华尔街见闻-快讯",
@@ -190,17 +203,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时02分"
-        },
-        {
-          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
         },
         {
           "title": "美股大涨 国际油价跌超10%",
@@ -250,8 +252,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时36分 ~ 18时56分]"
+          "appearance_count": 8,
+          "time_info": "[10时36分 ~ 19时50分]"
         },
         {
           "title": "周一（3月23日）纽约尾盘，美国10年期国债收益率跌4.75个基点，报4.3321%，北京时间19:05出现一波跳水行情，从4.44%附近迅速跌至4.3005刷新日低。 两年期美债收益率跌6.31个基点，报3.8349%；30年期美债收益率跌3.27个基点，报4.9050%。 2/10年期美债收益率利差涨1.972，报+49.494个基点。 10年期通胀保值国债（TIPS）收益率持平，至1.9893%；两年期TIPS收益率涨12.26个基点，至0.6422%；30年期TIPS收益率跌2.11个基点，至2.6869%。",
@@ -307,28 +309,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek郭达雅被曝离职",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            12,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时00分 ~ 18时56分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Phillip Nova分析师：短期内黄金价格可能仍将波动不定",
@@ -340,6 +322,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "黄金价格回落 印度多地珠宝店顾客数量激增",
+          "url": "https://flash.jin10.com/detail/20260324192619608800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek郭达雅被曝离职",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            12,
+            9,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[01时00分 ~ 19时50分]"
         }
       ]
     }
