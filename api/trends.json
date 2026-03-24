@@ -1,328 +1,44 @@
 {
-  "generated_at": "2026-03-24T23:05:08.481807+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2026-03-25T01:06:38.470589+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普“缓和信号”震动资本市场 欧美股市狂飙油金全线震荡",
-          "url": "https://www.cls.cn/detail/2321917",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 07时39分]"
-        },
-        {
-          "title": "美伊“撕扯”全球市场，美股指走高，道指狂飙近千点，科技股普涨，原油下跌12%，金属齐涨",
-          "url": "https://wallstreetcn.com/articles/3768110",
+          "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
+          "url": "https://wallstreetcn.com/articles/3768212",
           "source": "华尔街见闻",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 05时42分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "特朗普暂缓打击伊朗能源设施 美股三大期指均涨近2% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2321966",
+          "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2323371",
           "source": "财联社热门",
           "ranks": [
-            9,
-            11,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时00分 ~ 10时37分]"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            18,
-            16,
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时00分 ~ 07时39分]"
-        },
-        {
-          "title": "美股收盘：美伊相关消息引发市场巨震 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2322200",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时39分 ~ 15时57分]"
-        },
-        {
-          "title": "美股期指金银快速反弹",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9C%9F%E6%8C%87%E9%87%91%E9%93%B6%E5%BF%AB%E9%80%9F%E5%8F%8D%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            19,
-            26,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时00分 ~ 07时39分]"
-        },
-        {
-          "title": "美伊“撕扯”全球市场，美股指全线反弹收涨，原油暴跌超10%，黄金巨震微跌",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时38分 ~ 07时39分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
           "title": "李大霄解读美股反弹",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8F%8D%E5%BC%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            4,
-            7,
-            12,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时57分 ~ 23时05分]"
-        },
-        {
-          "title": "伊朗战火与信贷危机双重夹击，美股盘初走低，科技股下跌，现货黄金跌幅收窄，布油涨约2%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时04分 ~ 23时05分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周一（3月23日），美国科技股七巨头（Magnificent 7）指数涨1.36%，报187.71点。 “超大”市值科技股指数涨1.67%，报358.31点。",
-          "url": "https://wallstreetcn.com/livenews/3075432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时42分"
-        },
-        {
-          "title": "小米ADR美股盘前涨近2%，公司2025年营收首破4000亿，经调整净利同增44%亦创新高，汽车业务首度全年盈利。",
-          "url": "https://wallstreetcn.com/livenews/3075995",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "金十图示：2026年03月23日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260324040614031800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时42分]"
-        },
-        {
-          "title": "金十图示：2026年03月23日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260324040537421800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时42分]"
-        },
-        {
-          "title": "战局缓和乐观情绪消退，美股期货盘前转跌，现货黄金跌幅收窄，布油涨约2%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时56分 ~ 21时24分]"
-        },
-        {
-          "title": "特朗普TACO效果有限，亚太股市高开低走，美股期货转跌令反弹蒙阴，原油大跌后反弹",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 15时57分]"
-        },
-        {
-          "title": "航空业ETF收涨将近3.5%，领跑美股行业ETF，能源业ETF涨1.2%表现“不温不火”",
-          "url": "https://wallstreetcn.com/livenews/3075410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时42分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨超1% 蔚来、小鹏涨7%",
-          "url": "https://flash.jin10.com/detail/20260324040119124800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时42分]"
-        },
-        {
-          "title": "美伊和谈信号提振市场，美股盘前小幅上涨，现货黄金跌幅收窄，布油仍涨约2%",
-          "url": "https://wallstreetcn.com/articles/3768212",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时02分"
-        },
-        {
-          "title": "美股大涨 国际油价跌超10%",
-          "url": "https://www.toutiao.com/trending/7620175160397742134/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨3.5%，亚马逊涨超2.3%",
-          "url": "https://wallstreetcn.com/livenews/3075432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时39分"
-        },
-        {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3075976",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
-        },
-        {
-          "title": "美股盘初主要行业ETF多数下跌，网络股指数ETF跌近2%，全球科技股指数ETF、全球航空业ETF跌超1%，能源业ETF涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3076038",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时05分"
-        },
-        {
-          "title": "数字货币市场在美股盘前短线拉升，比特币、以太币目前涨超3%",
-          "url": "https://wallstreetcn.com/livenews/3075343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
-          "url": "https://wallstreetcn.com/articles/3768110",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时36分 ~ 23时05分]"
-        },
-        {
-          "title": "周一（3月23日）纽约尾盘，美国10年期国债收益率跌4.75个基点，报4.3321%，北京时间19:05出现一波跳水行情，从4.44%附近迅速跌至4.3005刷新日低。 两年期美债收益率跌6.31个基点，报3.8349%；30年期美债收益率跌3.27个基点，报4.9050%。 2/10年期美债收益率利差涨1.972，报+49.494个基点。 10年期通胀保值国债（TIPS）收益率持平，至1.9893%；两年期TIPS收益率涨12.26个基点，至0.6422%；30年期TIPS收益率跌2.11个基点，至2.6869%。",
-          "url": "https://wallstreetcn.com/livenews/3075402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时42分 ~ 05时42分]"
-        },
-        {
-          "title": "国际油价、美债收益率跌幅收窄，美股回吐涨幅，伊朗否认特朗普的说法",
-          "url": "https://wallstreetcn.com/livenews/3075315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "01时06分"
         }
       ]
     },
@@ -331,54 +47,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "如何看待谷歌逐步收紧安卓应用侧载计划？",
-          "url": "https://www.zhihu.com/question/2019018192186557023",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
-        },
-        {
-          "title": "谷歌旗下Wing将在旧金山湾区开始无人机送货服务",
-          "url": "https://wallstreetcn.com/livenews/3075306",
+          "title": "谷歌公司：开源安卓Auto OS SDV平台。",
+          "url": "https://wallstreetcn.com/livenews/3076088",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Phillip Nova分析师：短期内黄金价格可能仍将波动不定",
-          "url": "https://flash.jin10.com/detail/20260324122530955800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "time_info": "01时06分"
         },
         {
-          "title": "黄金价格回落 印度多地珠宝店顾客数量激增",
-          "url": "https://flash.jin10.com/detail/20260324192619608800",
-          "source": "金十数据",
+          "title": "谷歌公司：在谷歌电视（Google TV）新增三款Gemini功能。",
+          "url": "https://wallstreetcn.com/livenews/3076087",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时50分"
+          "time_info": "01时06分"
         }
       ]
     },
@@ -391,16 +79,28 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%83%AD%E8%BE%BE%E9%9B%85%E8%A2%AB%E6%9B%9D%E7%A6%BB%E8%81%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            11,
-            12,
-            9,
-            13,
-            16,
-            18
+            17
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时00分 ~ 23时05分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
+          "url": "https://wallstreetcn.com/articles/3768110",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     }
