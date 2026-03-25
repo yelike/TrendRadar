@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T10:42:57.728503+08:00",
-  "total_titles_processed": 853,
+  "generated_at": "2026-03-25T13:01:22.658530+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 10时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 13时01分]"
         },
         {
           "title": "李大霄解读美股反弹",
@@ -36,11 +36,12 @@
           "ranks": [
             13,
             15,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时06分 ~ 10时42分]"
+          "appearance_count": 9,
+          "time_info": "[01时06分 ~ 13时01分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -51,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时38分 ~ 10时42分]"
+          "appearance_count": 4,
+          "time_info": "[07时38分 ~ 13时01分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
@@ -184,7 +185,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美伊“撕扯”全球市场，美股反弹，美债巨震，原油暴跌10%，黄金九连跌",
@@ -230,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
+        },
+        {
+          "title": "地缘冲突降温的鸽子，还未落在美债的枝头",
+          "url": "https://flash.jin10.com/detail/20260325120530225800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时01分"
         }
       ]
     },
