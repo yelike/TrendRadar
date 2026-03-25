@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T14:10:02.058171+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-03-25T15:57:30.824482+08:00",
+  "total_titles_processed": 1256,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时38分 ~ 14时10分]"
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 15时57分]"
         },
         {
           "title": "美股收盘：中东增兵与谈判信号交错 三大指数再度回落",
@@ -50,11 +50,12 @@
             15,
             14,
             24,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时06分 ~ 14时10分]"
+          "appearance_count": 12,
+          "time_info": "[01时06分 ~ 15时57分]"
         },
         {
           "title": "国际油价涨势再起 美股期指小幅下跌 | 今夜看点",
