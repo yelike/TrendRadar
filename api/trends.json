@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-27T13:13:14.893596+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-03-27T15:17:11.284431+08:00",
+  "total_titles_processed": 1158,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
+          "url": "https://www.cls.cn/detail/2326270",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时38分 ~ 15时17分]"
+        },
         {
           "title": "美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水",
           "url": "https://wallstreetcn.com/articles/3768430",
@@ -19,18 +31,6 @@
           "time_info": "[01时10分 ~ 06时37分]"
         },
         {
-          "title": "美股收盘：标普、纳指创开战后最大单日跌幅 特朗普盘后发声",
-          "url": "https://www.cls.cn/detail/2326270",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时38分 ~ 13时13分]"
-        },
-        {
           "title": "【早报】深夜巨震：油价狂飙，美股、金银齐跳水；美方被曝正酝酿针对伊朗的“最后一击”",
           "url": "https://www.cls.cn/detail/2326291",
           "source": "财联社热门",
@@ -38,8 +38,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 15时17分]"
         },
         {
           "title": "谈判僵局推动油价重新走强，再通胀预期重挫全球债市，芯片股拖累美股，美元冲高回落",
@@ -50,8 +50,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 15时17分]"
+        },
+        {
+          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
+          "url": "https://wallstreetcn.com/articles/3768527",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 15时17分]"
         },
         {
           "title": "油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点",
@@ -86,18 +99,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时51分 ~ 10时52分]"
-        },
-        {
-          "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
-          "url": "https://wallstreetcn.com/articles/3768527",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 13时13分]"
         },
         {
           "title": "谈判僵局重燃市场恐慌，全球债市大跌，油价重新走强，芯片股拖累美股，美元冲高回落",
@@ -157,6 +158,17 @@
           "time_info": "[10时51分 ~ 10时52分]"
         },
         {
+          "title": "美股大跳水",
+          "url": "https://www.douyin.com/hot/2445212",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时16分 ~ 15时17分]"
+        },
+        {
           "title": "美股收盘：纳指跌超2% 英伟达跌4%",
           "url": "https://flash.jin10.com/detail/20260327040147808800",
           "source": "金十数据",
@@ -193,7 +205,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -201,11 +213,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            3
+            3,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 13时13分]"
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 15时17分]"
         },
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -223,11 +236,23 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8B%E8%B0%B7%E6%AD%8C%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时12分 ~ 15时17分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时12分 ~ 13时13分]"
+          "time_info": "[15时16分 ~ 15时17分]"
         },
         {
           "title": "3月27日投资避雷针：谷歌推出压缩算法TurboQuant 美股存储板块遭重挫",
@@ -302,8 +327,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时10分 ~ 13时13分]"
+          "appearance_count": 14,
+          "time_info": "[01时10分 ~ 15时17分]"
         },
         {
           "title": "短端美债收益率涨超10个基点",
