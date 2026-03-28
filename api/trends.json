@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-28T12:59:16.771274+08:00",
-  "total_titles_processed": 904,
+  "generated_at": "2026-03-28T14:04:38.024557+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -41,8 +41,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时40分 ~ 12时59分]"
+          "appearance_count": 7,
+          "time_info": "[06时40分 ~ 14时04分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -52,8 +52,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时39分 ~ 12时59分]"
+          "appearance_count": 6,
+          "time_info": "[07时39分 ~ 14时04分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -178,6 +178,17 @@
           "time_info": "[04时47分 ~ 05时42分]"
         },
         {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
           "title": "美股延续跌势，纳斯达克综合指数跌幅扩大至2%，标普500指数现跌1.4%，道指跌1.44%。",
           "url": "https://flash.jin10.com/detail/20260328020020260800",
           "source": "金十数据",
@@ -217,8 +228,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时04分 ~ 12时59分]"
+          "appearance_count": 13,
+          "time_info": "[01时04分 ~ 14时04分]"
         },
         {
           "title": "谷歌TurboQuant论文解读",
@@ -233,8 +244,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时04分 ~ 12时59分]"
+          "appearance_count": 13,
+          "time_info": "[01时04分 ~ 14时04分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -245,11 +256,12 @@
             15,
             17,
             20,
-            22
+            22,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时04分 ~ 12时59分]"
+          "appearance_count": 13,
+          "time_info": "[01时04分 ~ 14时04分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -261,11 +273,12 @@
             17,
             16,
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时04分 ~ 12时59分]"
+          "appearance_count": 13,
+          "time_info": "[01时04分 ~ 14时04分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -285,6 +298,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
+          "url": "https://wallstreetcn.com/articles/3768635",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 14时04分]"
+        },
+        {
           "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
           "url": "https://wallstreetcn.com/livenews/3078500",
           "source": "华尔街见闻-快讯",
@@ -296,17 +321,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时40分 ~ 10时41分]"
-        },
-        {
-          "title": "周五的变化：原油继续大涨、美股再度大跌，但美债“不跟了”，市场开始“定价衰退”了吗？",
-          "url": "https://wallstreetcn.com/articles/3768635",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
         }
       ]
     },
