@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T22:38:17.367259+08:00",
-  "total_titles_processed": 1500,
+  "generated_at": "2026-03-28T23:37:36.904179+08:00",
+  "total_titles_processed": 1566,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时39分 ~ 22时38分]"
+          "appearance_count": 17,
+          "time_info": "[07时39分 ~ 23时37分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -30,8 +30,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[06时40分 ~ 22时38分]"
+          "appearance_count": 18,
+          "time_info": "[06时40分 ~ 23时37分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -66,11 +66,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时04分 ~ 22时38分]"
+          "appearance_count": 12,
+          "time_info": "[14时04分 ~ 23时37分]"
         },
         {
           "title": "市场谨慎情绪升温 美股期指延续跌势 原油黄金上涨 | 今夜看点",
@@ -265,8 +266,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时04分 ~ 22时38分]"
+          "appearance_count": 24,
+          "time_info": "[01时04分 ~ 23时37分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -285,8 +286,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时04分 ~ 22时38分]"
+          "appearance_count": 24,
+          "time_info": "[01时04分 ~ 23时37分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -303,11 +304,12 @@
             22,
             23,
             21,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时04分 ~ 22时38分]"
+          "appearance_count": 24,
+          "time_info": "[01时04分 ~ 23时37分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
@@ -353,8 +355,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时58分 ~ 22时38分]"
+          "appearance_count": 14,
+          "time_info": "[12时58分 ~ 23时37分]"
         },
         {
           "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
