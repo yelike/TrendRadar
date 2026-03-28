@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T17:44:29.276051+08:00",
-  "total_titles_processed": 1188,
+  "generated_at": "2026-03-28T18:38:41.358511+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时39分 ~ 17时44分]"
+          "appearance_count": 11,
+          "time_info": "[07时39分 ~ 18时38分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[06时40分 ~ 17时44分]"
+          "appearance_count": 12,
+          "time_info": "[06时40分 ~ 18时38分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -82,6 +83,19 @@
           "time_info": "[03时03分 ~ 10时41分]"
         },
         {
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时04分 ~ 18时38分]"
+        },
+        {
           "title": "美股“七姐妹”技术性崩坏正在提速",
           "url": "https://www.toutiao.com/trending/7621931362551971883/",
           "source": "今日头条",
@@ -104,17 +118,15 @@
           "time_info": "06时40分"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时04分 ~ 17时44分]"
+          "time_info": "[15时48分 ~ 18时38分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF收跌超1.9%，布油基金涨超4.2%",
@@ -141,17 +153,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 06时40分]"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时48分 ~ 17时44分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
@@ -255,11 +256,12 @@
             12,
             16,
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时04分 ~ 17时44分]"
+          "appearance_count": 18,
+          "time_info": "[01时04分 ~ 18时38分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -276,8 +278,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时04分 ~ 17时44分]"
+          "appearance_count": 18,
+          "time_info": "[01时04分 ~ 18时38分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -291,22 +293,24 @@
             19,
             20,
             18,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时04分 ~ 17时44分]"
+          "appearance_count": 18,
+          "time_info": "[01时04分 ~ 18时38分]"
         },
         {
           "title": "谷歌推出压缩算法 TurboQuant，宣称实现约 6 倍内存节省，会成为大模型端侧落地的突破口吗？",
           "url": "https://www.zhihu.com/question/2020455049218712383",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时44分 ~ 18时38分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -337,8 +341,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 17时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时58分 ~ 18时38分]"
         },
         {
           "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
