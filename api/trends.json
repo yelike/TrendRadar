@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T06:36:16.083077+08:00",
-  "total_titles_processed": 480,
+  "generated_at": "2026-03-29T07:37:31.587966+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -32,11 +32,12 @@
             26,
             24,
             25,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -49,8 +50,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
         }
       ]
     },
@@ -59,15 +60,17 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
-          "url": "https://wallstreetcn.com/articles/3768537",
+          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
+          "url": "https://wallstreetcn.com/articles/3768633",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -77,16 +80,15 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
         },
         {
-          "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
-          "url": "https://wallstreetcn.com/articles/3768633",
+          "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
+          "url": "https://wallstreetcn.com/articles/3768537",
           "source": "华尔街见闻",
           "ranks": [
-            4,
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -106,8 +108,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时41分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时41分 ~ 07时37分]"
         },
         {
           "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
@@ -115,11 +117,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时34分 ~ 06时36分]"
+          "appearance_count": 6,
+          "time_info": "[03时34分 ~ 07时37分]"
         }
       ]
     }
