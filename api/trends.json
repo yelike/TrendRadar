@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-28T15:49:12.468054+08:00",
-  "total_titles_processed": 1066,
+  "generated_at": "2026-03-28T16:50:23.223144+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时40分 ~ 15时49分]"
+          "appearance_count": 10,
+          "time_info": "[06时40分 ~ 16时50分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时39分 ~ 15时49分]"
+          "appearance_count": 9,
+          "time_info": "[07时39分 ~ 16时50分]"
         },
         {
           "title": "收盘后11分钟发帖！美股遭遇伊朗战争以来“最惨一天”，特朗普“立刻”延长10天“谈判时间”",
@@ -135,11 +135,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时04分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[14时04分 ~ 16时50分]"
         },
         {
           "title": "金十图示：2026年03月27日（周五）热门中概股行情一览（美股收盘）",
@@ -153,6 +154,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时47分 ~ 06时40分]"
+        },
+        {
+          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
+          "url": "https://wallstreetcn.com/articles/3768593",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时48分 ~ 16时50分]"
         },
         {
           "title": "航空业ETF收跌超3.5%，领跌美股行业ETF，能源业ETF涨1.7%",
@@ -176,17 +188,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时40分 ~ 10时41分]"
-        },
-        {
-          "title": "美银Hartnett：美股还没“跌透”，特朗普或将被迫推出\"政策急救包\"",
-          "url": "https://wallstreetcn.com/articles/3768593",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时48分 ~ 15时49分]"
         },
         {
           "title": "美股收盘：三大股指低开低走 明星科技股多数下跌",
@@ -256,8 +257,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时04分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[01时04分 ~ 16时50分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -273,8 +274,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时04分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[01时04分 ~ 16时50分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -290,8 +291,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时04分 ~ 15时49分]"
+          "appearance_count": 16,
+          "time_info": "[01时04分 ~ 16时50分]"
         },
         {
           "title": "据英国金融时报：谷歌接近达成协议，为租予Anthropic的数十亿美元数据中心提供资金支持。",
@@ -317,11 +318,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时58分 ~ 15时49分]"
+          "appearance_count": 6,
+          "time_info": "[12时58分 ~ 16时50分]"
         },
         {
           "title": "两年期美债收益率创逾一年新高，随后转而跌约7.4个基点",
