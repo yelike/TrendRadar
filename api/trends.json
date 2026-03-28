@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T04:38:56.253856+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-03-29T05:35:59.516696+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时35分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -30,11 +30,12 @@
             17,
             23,
             26,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时35分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -47,8 +48,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时35分]"
         }
       ]
     },
@@ -64,8 +65,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时35分]"
         },
         {
           "title": "美股收盘：伊朗关键工业设施遭袭 纳指连续第二天跌超2%",
@@ -75,8 +76,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时35分]"
         },
         {
           "title": "特朗普“口头缓和”失效，原油“现货冲击”逼近，美股真的慌了！",
@@ -87,8 +88,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时35分]"
         }
       ]
     },
@@ -104,19 +105,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时41分 ~ 04时38分]"
+          "appearance_count": 8,
+          "time_info": "[00时41分 ~ 05时35分]"
         },
         {
           "title": "新债王：进入“保全资本”模式，风险仓位已砍到“历史最低”，“美联储加息、美国衰退、美债软违约”都有可能",
           "url": "https://wallstreetcn.com/articles/3768639",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时34分 ~ 04时38分]"
+          "appearance_count": 4,
+          "time_info": "[03时34分 ~ 05时35分]"
         }
       ]
     }
