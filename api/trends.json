@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T01:38:00.591434+08:00",
-  "total_titles_processed": 355,
+  "generated_at": "2026-03-30T02:53:23.656826+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             4,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时53分]"
         },
         {
           "title": "DeepSeek“崩了”",
@@ -28,8 +29,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时53分]"
         }
       ]
     },
@@ -46,19 +47,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时53分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时53分]"
         }
       ]
     },
@@ -74,8 +76,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时38分]"
+          "appearance_count": 4,
+          "time_info": "[00时42分 ~ 02时53分]"
         }
       ]
     }
