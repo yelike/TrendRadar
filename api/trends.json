@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-29T17:44:44.776915+08:00",
-  "total_titles_processed": 1053,
+  "generated_at": "2026-03-29T18:41:19.280379+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -62,8 +62,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 18时41分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -77,8 +77,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时55分 ~ 17时44分]"
+          "appearance_count": 6,
+          "time_info": "[10时55分 ~ 18时41分]"
         },
         {
           "title": "谷歌干崩内存股价的 TurboQuant 论文被 RaBitQ 作者指出存在严重错误，怎么理解？",
@@ -131,8 +131,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时41分 ~ 17时44分]"
+          "appearance_count": 16,
+          "time_info": "[00时41分 ~ 18时41分]"
         },
         {
           "title": "局势升级担忧助推原油大涨，美股重挫、纳指再跌2%，VIX突破30，黄金涨近3%",
@@ -154,8 +154,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时12分 ~ 17时44分]"
+          "appearance_count": 4,
+          "time_info": "[15时12分 ~ 18时41分]"
         }
       ]
     },
