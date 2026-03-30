@@ -1,8 +1,165 @@
 {
-  "generated_at": "2026-03-30T21:47:41.634011+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-03-30T23:28:20.844917+08:00",
+  "total_titles_processed": 1612,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
+          "url": "https://wallstreetcn.com/articles/3768658",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 10时58分]"
+        },
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时57分 ~ 23时28分]"
+        },
+        {
+          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2329476",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 23时28分]"
+        },
+        {
+          "title": "中东局势升级，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时08分 ~ 19时09分]"
+        },
+        {
+          "title": "中东局势升级，美股全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
+        {
+          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
+          "url": "https://flash.jin10.com/detail/20260330060152527800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时39分]"
+        },
+        {
+          "title": "布油高开逾3%，美股期货走低",
+          "url": "https://wallstreetcn.com/livenews/3078766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时39分]"
+        },
+        {
+          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时57分 ~ 13时32分]"
+        },
+        {
+          "title": "美股盘初：纳指涨0.7%，存储概念股普涨",
+          "url": "https://wallstreetcn.com/livenews/3079410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "美股反复震荡的元凶：一只巨无霸基金周二“换仓”，市场能喘口气吗？",
+          "url": "https://flash.jin10.com/detail/20260330123209986800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3079384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 12,
@@ -157,151 +314,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
-          "url": "https://wallstreetcn.com/articles/3768658",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 10时58分]"
-        },
-        {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时57分 ~ 21时47分]"
-        },
-        {
-          "title": "中东局势升级，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时08分 ~ 19时09分]"
-        },
-        {
-          "title": "中东局势升级，美股全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时47分"
-        },
-        {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
-          "url": "https://flash.jin10.com/detail/20260330060152527800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时39分]"
-        },
-        {
-          "title": "布油高开逾3%，美股期货走低",
-          "url": "https://wallstreetcn.com/livenews/3078766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时38分 ~ 07时39分]"
-        },
-        {
-          "title": "中东局势升级，韩股重挫近5%，美股期货续跌跌势，油价破115美元、铝价上涨5%",
-          "url": "https://wallstreetcn.com/articles/3768684",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 13时32分]"
-        },
-        {
-          "title": "美股盘初：纳指涨0.7%，存储概念股普涨",
-          "url": "https://wallstreetcn.com/livenews/3079410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "美股反复震荡的元凶：一只巨无霸基金周二“换仓”，市场能喘口气吗？",
-          "url": "https://flash.jin10.com/detail/20260330123209986800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3079384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -333,11 +345,12 @@
             16,
             25,
             15,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时42分 ~ 21时47分]"
+          "appearance_count": 18,
+          "time_info": "[00时42分 ~ 23时28分]"
         },
         {
           "title": "阿里发布全模态大模型Qwen3.5-Omni，多项指标超越Gemini-3.1 Pro",
@@ -346,7 +359,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时47分"
         },
@@ -365,8 +378,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国五年期国债收益率跌10个基点，至3.97%。 2-7年期美债收益率跌幅均达到或超过10个基点。",
+          "url": "https://wallstreetcn.com/livenews/3079474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
+        },
         {
           "title": "增长风险盖过通胀忧虑 欧元区债市随美债走强",
           "url": "https://flash.jin10.com/detail/20260330152730479800",
@@ -377,6 +401,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
+        },
+        {
+          "title": "美国国债收益率在美联储主席鲍威尔表示通胀预期稳固后继续下跌；10年期美债收益率跌10.2个基点至4.338%。",
+          "url": "https://flash.jin10.com/detail/20260330225421331800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时28分"
         }
       ]
     }
