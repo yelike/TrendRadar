@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-03-31T04:54:01.769228+08:00",
-  "total_titles_processed": 459,
+  "generated_at": "2026-03-31T05:50:21.812210+08:00",
+  "total_titles_processed": 512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
+          "url": "https://wallstreetcn.com/articles/3768688",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时50分]"
+        },
+        {
+          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2329476",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时50分]"
+        },
         {
           "title": "抄底买盘提振，美股开盘全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
           "url": "https://wallstreetcn.com/articles/3768684",
@@ -19,50 +43,28 @@
           "time_info": "[01时04分 ~ 04时54分]"
         },
         {
-          "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
-          "url": "https://wallstreetcn.com/articles/3768688",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时54分]"
-        },
-        {
-          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2329476",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时54分]"
-        },
-        {
           "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
           "url": "https://wallstreetcn.com/livenews/3079573",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时50分]"
         },
         {
           "title": "半导体ETF收跌超3.1%，领跌美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3079569",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时50分]"
         },
         {
           "title": "美股三大指数高开 爱奇艺涨超12%",
@@ -77,13 +79,24 @@
           "time_info": "[01时08分 ~ 03时08分]"
         },
         {
+          "title": "美股七巨头收盘播报｜周一（3月30日），美国科技股七巨头（Magnificent 7）指数跌0.35%，报176.37点。 “超大”市值科技股指数跌0.49%，报336.14点。",
+          "url": "https://wallstreetcn.com/livenews/3079578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
           "title": "金十图示：2026年03月30日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260331040539391800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -94,7 +107,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
         },
@@ -105,9 +118,38 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时50分"
+        },
+        {
+          "title": "短端美债收益率跌超9个基点",
+          "url": "https://wallstreetcn.com/livenews/3079558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时54分 ~ 05时50分]"
         }
       ]
     },
@@ -140,28 +182,12 @@
           "ranks": [
             17,
             22,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 04时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "短端美债收益率跌超9个基点",
-          "url": "https://wallstreetcn.com/livenews/3079558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时54分"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 05时50分]"
         }
       ]
     }
