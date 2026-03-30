@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-30T19:09:02.112027+08:00",
-  "total_titles_processed": 1318,
+  "generated_at": "2026-03-30T21:47:41.634011+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             12,
             13,
             20,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时57分 ~ 19时09分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 21时47分]"
         },
         {
           "title": "豆包谈DeepSeek频繁崩溃",
@@ -157,7 +158,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "恐慌指数爆表、对冲基金狂抛！高盛交易台警告：“美股不容乐观”",
@@ -182,8 +183,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时57分 ~ 19时09分]"
+          "appearance_count": 8,
+          "time_info": "[10时57分 ~ 21时47分]"
         },
         {
           "title": "中东局势升级，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
@@ -197,6 +198,17 @@
           "time_info": "[19时08分 ~ 19时09分]"
         },
         {
+          "title": "中东局势升级，美股全线上涨，存储概念股普涨，布油上涨2.67%、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "中东局势升级，日经225收跌2.8%，韩国首尔综指收跌3%，美股期货小幅上涨，布油上涨2.67%、铝价上涨5%",
           "url": "https://wallstreetcn.com/articles/3768684",
           "source": "华尔街见闻",
@@ -206,6 +218,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时47分"
+        },
+        {
+          "title": "特朗普释放缓和信号 美股期指反弹 鲍威尔讲话来袭 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2329476",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "美股股指期货周一低开，三大股指期货跌超0.5%。",
@@ -244,6 +267,17 @@
           "time_info": "[10时57分 ~ 13时32分]"
         },
         {
+          "title": "美股盘初：纳指涨0.7%，存储概念股普涨",
+          "url": "https://wallstreetcn.com/livenews/3079410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "美股反复震荡的元凶：一只巨无霸基金周二“换仓”，市场能喘口气吗？",
           "url": "https://flash.jin10.com/detail/20260330123209986800",
           "source": "金十数据",
@@ -253,12 +287,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3079384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "新算法公布,谷歌干崩股市",
@@ -287,11 +332,23 @@
             24,
             16,
             25,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时42分 ~ 19时09分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 21时47分]"
+        },
+        {
+          "title": "阿里发布全模态大模型Qwen3.5-Omni，多项指标超越Gemini-3.1 Pro",
+          "url": "https://wallstreetcn.com/livenews/3079409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         },
         {
           "title": "带崩全球存储股的谷歌论文陷学术争议，中国学者指其“严重失实”且“知错不改”：使用了我们的方法，但刻意回避相似性",
@@ -300,7 +357,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         }
