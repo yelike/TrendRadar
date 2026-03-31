@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T07:42:11.312951+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-03-31T10:51:17.688438+08:00",
+  "total_titles_processed": 820,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
@@ -49,11 +49,23 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时43分 ~ 07时42分]"
+          "appearance_count": 4,
+          "time_info": "[06时43分 ~ 10时51分]"
+        },
+        {
+          "title": "美股后续会怎么走",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%90%8E%E7%BB%AD%E4%BC%9A%E6%80%8E%E4%B9%88%E8%B5%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "小盘股指ETF收跌超1.4%，领跌美股大类资产类ETF，布油基金涨超2.4%",
@@ -111,7 +123,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
         },
@@ -173,8 +185,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 07时42分]"
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 10时51分]"
         },
         {
           "title": "鲍威尔表态安抚市场，美债反弹，美股高开低走，半导体指数跌超4%，美元五连涨",
