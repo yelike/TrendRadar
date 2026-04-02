@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T06:38:43.656058+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-04-03T07:41:18.770542+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时41分]"
+        },
+        {
+          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
+          "url": "https://www.cls.cn/detail/2334066",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时38分 ~ 07时41分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -91,17 +103,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "美股收盘：三大指数涨跌不一 假期前投资者忧虑犹存",
-          "url": "https://www.cls.cn/detail/2334066",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时38分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨超7.5%",
@@ -174,8 +175,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时04分"
+          "appearance_count": 2,
+          "time_info": "[03时04分 ~ 07时41分]"
         },
         {
           "title": "法国10年期国债收益率在美股开盘前后快速回吐涨幅，本周已跌15个基点",
@@ -241,11 +242,12 @@
             30,
             23,
             21,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时04分 ~ 06时38分]"
+          "appearance_count": 5,
+          "time_info": "[03时04分 ~ 07时41分]"
         },
         {
           "title": "10年期美债收益率周四冲高回落，本周仍累跌超12个基点",
@@ -254,7 +256,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时38分"
         }
@@ -272,8 +274,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 06时38分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 07时41分]"
         }
       ]
     }
