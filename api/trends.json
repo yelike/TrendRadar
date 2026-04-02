@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T10:47:19.635992+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-04-02T13:08:23.168868+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时02分 ~ 06时45分]"
+        },
+        {
+          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时41分 ~ 13时08分]"
         },
         {
           "title": "受美伊停火希望提振，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元关口",
@@ -43,17 +54,6 @@
           "time_info": "[01时02分 ~ 05时15分]"
         },
         {
-          "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
-          "url": "https://wallstreetcn.com/articles/3768936",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时41分 ~ 10时47分]"
-        },
-        {
           "title": "美股收盘：投资者聚焦特朗普重要讲话 三大指数集体收涨",
           "url": "https://www.cls.cn/detail/2332707",
           "source": "财联社热门",
@@ -62,8 +62,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时45分 ~ 10时47分]"
+          "appearance_count": 4,
+          "time_info": "[06时45分 ~ 13时08分]"
         },
         {
           "title": "黄金ETF收涨超1.7%，领跑美股大类资产类ETF，布油基金则跌超3.2%",
@@ -187,7 +187,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -226,7 +226,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
         },
@@ -245,7 +245,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周三（4月1日）纽约尾盘，美国10年期基准国债收益率涨0.20个基点，报4.3186%，日内交投于4.2574%-4.3324%区间，整体呈现出V形反转。 两年期美债收益率涨0.80个基点，报3.8010%，日内交投于3.7334%-3.8133%区间，北京时间20:00过后出现一波显著的拉升行情。",
@@ -258,6 +258,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时41分]"
+        },
+        {
+          "title": "多国央行大幅减持美债",
+          "url": "https://www.douyin.com/hot/2452076",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时08分"
         }
       ]
     }
