@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T10:50:01.391358+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-04-03T13:10:38.803168+08:00",
+  "total_titles_processed": 955,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时38分 ~ 10时50分]"
+          "appearance_count": 5,
+          "time_info": "[06时38分 ~ 13时10分]"
         },
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -202,11 +202,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时10分]"
+        },
+        {
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时49分 ~ 13时10分]"
         },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
@@ -218,17 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        },
-        {
-          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
-          "url": "https://www.zhihu.com/question/2023204569811828949",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时49分 ~ 10时50分]"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
@@ -280,7 +282,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时50分"
         },
