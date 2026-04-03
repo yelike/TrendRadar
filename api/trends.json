@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T18:50:49.721830+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-04-03T19:41:59.090297+08:00",
+  "total_titles_processed": 1474,
   "failed_sources": [],
   "trends": [
     {
@@ -239,11 +239,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            4
+            4,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时50分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 19时41分]"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
