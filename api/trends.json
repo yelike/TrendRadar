@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T03:37:01.024115+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-04-05T04:40:06.091798+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2023852847821844525",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时42分 ~ 03时37分]"
+          "appearance_count": 8,
+          "time_info": "[00时42分 ~ 04时40分]"
         },
         {
           "title": "澳门乒乓球世界杯，王曼昱 4-2 桥本帆乃香晋级 4 强，如何评价这场比赛？",
