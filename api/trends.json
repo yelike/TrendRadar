@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T18:40:42.766018+08:00",
-  "total_titles_processed": 1240,
+  "generated_at": "2026-04-04T19:34:53.126684+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             7,
             9,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[15时51分 ~ 19时34分]"
         },
         {
           "title": "乒乓球世界杯男单四分之一决赛，林昀儒 4:1 击败张本智和，挺进男单四强，如何评价这场比赛？",
