@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T17:45:43.536242+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-04-04T18:40:42.766018+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "time_info": "[00时50分 ~ 07时40分]"
         },
         {
+          "title": "2026 澳门世界杯女单 1/4 决赛，孙颖莎 4-3 险胜高达，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2023761963512063663",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时51分 ~ 18时40分]"
+        },
+        {
           "title": "乒乓球世界杯男单四分之一决赛，林昀儒 4:1 击败张本智和，挺进男单四强，如何评价这场比赛？",
           "url": "https://www.zhihu.com/question/2023742563748692074",
           "source": "知乎",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时51分 ~ 16时51分]"
-        },
-        {
-          "title": "2026 澳门世界杯女单 1/4 决赛，孙颖莎 4-3 险胜高达，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2023761963512063663",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时51分 ~ 17时45分]"
         }
       ]
     },
