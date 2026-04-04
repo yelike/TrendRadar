@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T12:56:26.326180+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-04-04T14:02:30.569963+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             15,
             19,
             17,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时50分 ~ 12时56分]"
+          "appearance_count": 11,
+          "time_info": "[00时50分 ~ 14时02分]"
         },
         {
           "title": "谷歌推出Veo 3.1 Lite版本，并在VertexAI平台新增Veo超分辨率升级功能。",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时40分 ~ 12时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时40分 ~ 14时02分]"
         },
         {
           "title": "中金：黄金投资需求和价格或均存向上修复空间",
