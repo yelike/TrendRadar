@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T17:46:06.674935+08:00",
-  "total_titles_processed": 1092,
+  "generated_at": "2026-04-05T18:41:44.048757+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 17时46分]"
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 18时41分]"
         },
         {
           "title": "2026 澳门世界杯女单 半决赛，孙颖莎 4-0 战胜温特，如何评价本场比赛？",
@@ -65,11 +65,12 @@
           "url": "https://www.zhihu.com/question/2022702768251564692",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 17时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 18时41分]"
         }
       ]
     }
