@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-05T15:16:06.671381+08:00",
-  "total_titles_processed": 918,
+  "generated_at": "2026-04-05T16:53:13.821708+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "澳门乒乓球世界杯男单 1/4 决赛，王楚钦 1-3 连扳 3 局逆转达科晋级四强，如何评价这场比赛？",
@@ -18,6 +18,28 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时42分 ~ 04时40分]"
+        },
+        {
+          "title": "2026 澳门单打世界杯男单半决赛，王楚钦 4-1 战胜巴西选手雨果·卡尔德拉诺，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2024121215598552229",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
+        },
+        {
+          "title": "2026 澳门世界杯女单 半决赛，孙颖莎 4-0 战胜温特，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2024101077004428327",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时52分 ~ 16时53分]"
         },
         {
           "title": "澳门乒乓球世界杯，王曼昱 4-2 桥本帆乃香晋级 4 强，如何评价这场比赛？",
