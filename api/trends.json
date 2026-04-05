@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T16:53:13.821708+08:00",
-  "total_titles_processed": 1047,
+  "generated_at": "2026-04-05T17:46:06.674935+08:00",
+  "total_titles_processed": 1092,
   "failed_sources": [],
   "trends": [
     {
@@ -27,19 +27,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 17时46分]"
         },
         {
           "title": "2026 澳门世界杯女单 半决赛，孙颖莎 4-0 战胜温特，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2024101077004428327",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 16时53分]"
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 17时46分]"
         },
         {
           "title": "澳门乒乓球世界杯，王曼昱 4-2 桥本帆乃香晋级 4 强，如何评价这场比赛？",
@@ -52,6 +53,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时42分 ~ 01时37分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "今年清明「纸扎 AI 全家桶」火了，人们给祖宗烧 DeepSeek 等热门大模型，反映出怎样的情感需求？",
+          "url": "https://www.zhihu.com/question/2022702768251564692",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时45分 ~ 17时46分]"
         }
       ]
     }
