@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-06T01:38:56.685664+08:00",
-  "total_titles_processed": 345,
+  "generated_at": "2026-04-06T02:54:30.422700+08:00",
+  "total_titles_processed": 386,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时54分]"
         },
         {
           "title": "2026 澳门世界杯，孙颖莎 4-1 战胜王曼昱夺得冠军，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2024206797448242856",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时54分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 01时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 02时54分]"
         }
       ]
     }
