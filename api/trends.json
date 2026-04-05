@@ -1,50 +1,12 @@
 {
-  "generated_at": "2026-04-05T23:39:41.067768+08:00",
-  "total_titles_processed": 1501,
+  "generated_at": "2026-04-06T00:43:31.104631+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "2026 澳门单打世界杯男单半决赛，王楚钦 4-1 战胜巴西选手雨果·卡尔德拉诺，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2024121215598552229",
-          "source": "知乎",
-          "ranks": [
-            2,
-            3,
-            7,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时52分 ~ 22时39分]"
-        },
-        {
-          "title": "澳门乒乓球世界杯男单 1/4 决赛，王楚钦 1-3 连扳 3 局逆转达科晋级四强，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2023852847821844525",
-          "source": "知乎",
-          "ranks": [
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时42分 ~ 04时40分]"
-        },
-        {
-          "title": "2026 澳门世界杯女单 半决赛，孙颖莎 4-0 战胜温特，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2024101077004428327",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时52分 ~ 17时46分]"
-        },
         {
           "title": "2026 澳门兵乓球世界杯男单决赛，王楚钦 4-3 战胜松岛辉空夺得冠军，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2024146408320541091",
@@ -52,45 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时39分"
+          "time_info": "00时43分"
         },
         {
           "title": "2026 澳门世界杯，孙颖莎 4-1 战胜王曼昱夺得冠军，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2024206797448242856",
           "source": "知乎",
           "ranks": [
-            8,
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时10分 ~ 23时39分]"
-        },
-        {
-          "title": "2026 澳门兵乓球世界杯决赛，王楚钦 4-3 战胜松岛辉空夺得冠军，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2024146408320541091",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "澳门乒乓球世界杯，王曼昱 4-2 桥本帆乃香晋级 4 强，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2023866765038413037",
-          "source": "知乎",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时42分 ~ 01时37分]"
+          "time_info": "00时43分"
         }
       ]
     },
@@ -103,13 +40,11 @@
           "url": "https://www.zhihu.com/question/2022702768251564692",
           "source": "知乎",
           "ranks": [
-            12,
-            10,
-            14
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时45分 ~ 23时39分]"
+          "appearance_count": 1,
+          "time_info": "00时43分"
         }
       ]
     }
