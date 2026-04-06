@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-06T22:55:47.737493+08:00",
-  "total_titles_processed": 1441,
+  "generated_at": "2026-04-06T23:55:23.595658+08:00",
+  "total_titles_processed": 1519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美股开盘小幅上涨，存储板块涨幅居前，希捷科技涨幅扩大至逾7%，创历史新高",
+          "url": "https://wallstreetcn.com/articles/3769300",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时55分"
+        },
         {
           "title": "维珍银河(SPCE.N)美股盘前大涨12.6%。",
           "url": "https://flash.jin10.com/detail/20260406160708669800",
@@ -127,7 +138,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         },
@@ -138,7 +149,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时55分"
         }
