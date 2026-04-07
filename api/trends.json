@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-07T15:27:58.721960+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-04-07T17:11:22.776378+08:00",
+  "total_titles_processed": 1335,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时57分 ~ 15时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时57分 ~ 17时11分]"
         },
         {
           "title": "伊朗拒停战提议，特朗普警告7日晚动手，美股指“闪跌”但收涨，美油再创近四年新高",
@@ -29,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时42分 ~ 15时27分]"
+          "appearance_count": 6,
+          "time_info": "[07时42分 ~ 17时11分]"
         },
         {
           "title": "金十图示：2026年04月06日（周一）美股热门股票行情一览（美股盘中）",
