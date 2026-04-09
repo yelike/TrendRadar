@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-09T17:17:04.498432+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-04-09T19:04:57.329481+08:00",
+  "total_titles_processed": 1444,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时44分 ~ 17时17分]"
+          "appearance_count": 7,
+          "time_info": "[07时44分 ~ 19时04分]"
         },
         {
           "title": "伊朗战争反复冲击市场 美股交易强度创历史新高",
@@ -81,6 +81,20 @@
           "time_info": "[06时50分 ~ 13时16分]"
         },
         {
+          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
+          "url": "https://www.cls.cn/detail/2338764",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时16分 ~ 19时04分]"
+        },
+        {
           "title": "美伊停火提振全球市场，美股指大涨2%，半导体指数新高，油价创六年最大单日跌幅",
           "url": "https://wallstreetcn.com/articles/3769443",
           "source": "华尔街见闻",
@@ -90,19 +104,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时50分"
-        },
-        {
-          "title": "又现内幕交易？美伊停火前 神秘资金精准“空原油、多美股”",
-          "url": "https://www.cls.cn/detail/2338764",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 17时17分]"
         },
         {
           "title": "周三（4月8日），美股行业ETF普遍收涨，半导体ETF涨5.76%，全球航空业ETF涨5.65%，全球科技股指数ETF、科技行业ETF、区域银行ETF、银行业ETF、可选消费ETF、金融业ETF、网络股指数ETF至少涨2.46%，能源业ETF则收跌3.51%。",
