@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T22:41:18.624681+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-04-11T23:40:07.407262+08:00",
+  "total_titles_processed": 1609,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时42分 ~ 22时41分]"
+          "appearance_count": 15,
+          "time_info": "[07时42分 ~ 23时40分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -31,11 +31,12 @@
             5,
             7,
             3,
-            16
+            16,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时49分 ~ 22时41分]"
+          "appearance_count": 9,
+          "time_info": "[17时49分 ~ 23时40分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
