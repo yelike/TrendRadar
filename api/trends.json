@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T04:41:43.359765+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-04-12T05:40:13.915023+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 04时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 05时40分]"
         },
         {
           "title": "李大霄解读美股单周表现",
@@ -26,11 +26,12 @@
           "ranks": [
             15,
             14,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时43分 ~ 04时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时43分 ~ 05时40分]"
         }
       ]
     }
