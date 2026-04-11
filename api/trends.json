@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T18:41:51.730839+08:00",
-  "total_titles_processed": 1252,
+  "generated_at": "2026-04-11T19:37:09.859858+08:00",
+  "total_titles_processed": 1323,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时42分 ~ 18时41分]"
+          "appearance_count": 11,
+          "time_info": "[07时42分 ~ 19时37分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -48,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             9,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 18时41分]"
+          "appearance_count": 5,
+          "time_info": "[17时49分 ~ 19时37分]"
         },
         {
           "title": "美股巨震",
