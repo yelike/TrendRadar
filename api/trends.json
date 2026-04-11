@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T17:50:03.666723+08:00",
-  "total_titles_processed": 1187,
+  "generated_at": "2026-04-11T18:41:51.730839+08:00",
+  "total_titles_processed": 1252,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时42分 ~ 17时50分]"
+          "appearance_count": 9,
+          "time_info": "[07时42分 ~ 18时41分]"
         },
         {
           "title": "金十图示：2026年04月10日（周五）美股热门股票行情一览（美股收盘）",
@@ -43,6 +43,18 @@
           "time_info": "[04时55分 ~ 07时42分]"
         },
         {
+          "title": "李大霄解读美股单周表现",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时49分 ~ 18时41分]"
+        },
+        {
           "title": "美股巨震",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B7%A8%E9%9C%87%23&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -52,8 +64,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时54分 ~ 17时50分]"
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 18时41分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
@@ -65,17 +77,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时55分 ~ 07时42分]"
-        },
-        {
-          "title": "李大霄解读美股单周表现",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E8%82%A1%E5%8D%95%E5%91%A8%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时49分 ~ 17时50分]"
         },
         {
           "title": "周五（4月10日），美股行业ETF多数收跌，生物科技指数ETF跌1.62%，医疗业ETF、区域银行ETF至少跌1.3%，能源业ETF跌0.68%，科技行业ETF则收涨0.39%，半导体ETF涨1.53%——继续创收盘历史新高。",
