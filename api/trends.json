@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T10:44:54.917762+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-04-11T13:01:55.118332+08:00",
+  "total_titles_processed": 907,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 10时44分]"
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 13时01分]"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 Coreweave涨超10%",
