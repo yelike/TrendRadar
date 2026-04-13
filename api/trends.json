@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T14:34:46.782183+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-04-13T17:04:55.628218+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "李大霄解读美股单周表现",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 07时42分]"
+        },
+        {
+          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时04分"
         }
       ]
     },
@@ -58,9 +69,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 17时04分]"
         }
       ]
     }
