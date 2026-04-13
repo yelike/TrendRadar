@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-13T07:42:12.792014+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-04-13T11:29:57.660196+08:00",
+  "total_titles_processed": 752,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时48分 ~ 07时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 11时29分]"
         },
         {
           "title": "国际油价开盘跳涨，美股期货跌超1%",
