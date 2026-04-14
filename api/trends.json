@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T06:53:05.699556+08:00",
-  "total_titles_processed": 633,
+  "generated_at": "2026-04-15T07:50:09.193685+08:00",
+  "total_titles_processed": 703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -35,11 +35,23 @@
           "url": "https://www.cls.cn/detail/2344205",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时52分 ~ 07时50分]"
+        },
+        {
+          "title": "美股收盘：中概股集体大涨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E5%A4%A7%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时52分 ~ 06时53分]"
+          "time_info": "[07时49分 ~ 07时50分]"
         },
         {
           "title": "美股七巨头收盘播报｜周二（4月14日），美国科技股七巨头（Magnificent 7）指数涨2.78%，报202.71点。 “超大”市值科技股指数涨2.73%，报391.92点。",
@@ -142,11 +154,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时12分 ~ 06时53分]"
+          "appearance_count": 8,
+          "time_info": "[00时12分 ~ 07时50分]"
         }
       ]
     }
