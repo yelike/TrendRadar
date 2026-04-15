@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T07:50:09.193685+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2026-04-15T10:58:35.159584+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊和谈预期升温，美股债齐涨，纳指十连涨，原油下挫，黄金升破4800关口",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时52分 ~ 07时50分]"
+        },
+        {
+          "title": "美股收盘：纳指连涨十日 光通信、燃料电池、半导体牛股齐创新高",
+          "url": "https://www.cls.cn/detail/2344205",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时58分"
         },
         {
           "title": "美股收盘：中概股集体大涨",
@@ -155,11 +166,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时12分 ~ 07时50分]"
+          "appearance_count": 9,
+          "time_info": "[00时12分 ~ 10时58分]"
         }
       ]
     }
