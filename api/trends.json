@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T04:02:22.195940+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-04-17T05:52:00.298721+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 05时52分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -40,8 +40,41 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时46分 ~ 04时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时46分 ~ 05时52分]"
+        },
+        {
+          "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
+          "url": "https://wallstreetcn.com/livenews/3089571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "周四（4月16日），彭博电动汽车价格回报指数涨2.89%，报3980.01点，北京时间09:30-10:00涨势迅猛，随后持稳于3940点附近，21:30美股开盘后继续扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3089568",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
+        {
+          "title": "奈飞一季度营收122.5亿美元，分析师预期121.7亿美元。 一季度每股收益（EPS）为1.23美元，上年同期0.66美元。 维持全年营收预期在507亿-517亿美元不变，分析师预期513.7亿美元。 维持全年运营利润率预期在31.5%不变，分析师预期32%。 预计二季度营收125.7亿美元，分析师预期126.4亿美元。 预计二季度EPS为0.78美元，分析师预期0.84美元。 奈飞美股盘后跌9.3%。",
+          "url": "https://wallstreetcn.com/livenews/3089565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
         },
         {
           "title": "欧洲STOXX 600指数初步收涨0.01%，报617.33点。 欧元区STOXX 50指数初步收平，报5940.00点，美股开盘之后显著跳水。 富时泛欧绩优300指数初步收跌0.06%，报2458.30点。",
@@ -58,8 +91,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "NiSource美股盘后涨3.7%，该公司宣布与谷歌母公司Alphabet附属公司达成长期能源供应协议，用于后者在美国印第安纳州北部开发和运营大规模数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3089580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时52分"
+        },
         {
           "title": "谷歌云：宣布BigQuery Studio笔记本画廊（Notebook Gallery）正式上线 。",
           "url": "https://flash.jin10.com/detail/20260417000852118800",
@@ -78,7 +122,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         }
@@ -86,8 +130,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "中东紧张局势持续，美股勉强新高，原油两连涨，美债下挫，美元终结连跌趋势",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时51分 ~ 05时52分]"
+        },
         {
           "title": "30年期美债收益率涨约3.1个基点",
           "url": "https://wallstreetcn.com/livenews/3089557",
@@ -95,7 +150,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
         },
