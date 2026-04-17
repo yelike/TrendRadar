@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-17T21:43:39.674630+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-04-17T23:02:13.073589+08:00",
+  "total_titles_processed": 1725,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时53分 ~ 21时43分]"
+          "appearance_count": 11,
+          "time_info": "[07时53分 ~ 23时02分]"
         },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
@@ -81,8 +82,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时17分 ~ 21时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时17分 ~ 23时02分]"
         },
         {
           "title": "高盛：若无货币政策支持美股涨势或难持续",
@@ -102,7 +103,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -116,6 +117,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时20分 ~ 18时17分]"
+        },
+        {
+          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2347815",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 23时02分]"
         },
         {
           "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
@@ -140,17 +152,6 @@
           "time_info": "[07时53分 ~ 07时54分]"
         },
         {
-          "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2347815",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
           "title": "狂欢or陷阱：美股创新高有何异常？ 丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260417192003659800",
           "source": "金十数据",
@@ -168,7 +169,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -223,7 +224,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -296,7 +297,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -386,7 +387,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         }
