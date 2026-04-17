@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T00:11:02.870736+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-04-18T01:54:40.349248+08:00",
+  "total_titles_processed": 417,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时54分]"
         },
         {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时54分]"
         },
         {
           "title": "美股三大期指集体走高 奈飞盘前大跌近10% | 今夜看点",
@@ -37,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时10分 ~ 00时11分]"
+          "appearance_count": 3,
+          "time_info": "[00时10分 ~ 01时54分]"
         }
       ]
     }
