@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-17T16:47:58.930872+08:00",
-  "total_titles_processed": 1232,
+  "generated_at": "2026-04-17T18:17:58.902938+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
+          "url": "https://wallstreetcn.com/articles/3770109",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时53分 ~ 18时17分]"
+        },
         {
           "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
           "url": "https://www.cls.cn/detail/2346842",
@@ -19,17 +30,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时50分 ~ 16时47分]"
-        },
-        {
-          "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
-          "url": "https://wallstreetcn.com/articles/3770109",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时53分 ~ 16时47分]"
         },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
@@ -78,8 +78,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时20分 ~ 14时07分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 18时17分]"
         },
         {
           "title": "美股收盘：百度涨超3%",
@@ -100,8 +100,19 @@
             13
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时07分 ~ 18时17分]"
+        },
+        {
+          "title": "一图看懂 | A股七姐妹vs美股七姐妹，今年谁更能涨？",
+          "url": "https://www.cls.cn/detail/2347485",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时07分"
+          "time_info": "18时17分"
         },
         {
           "title": "瑞银：投资者将把关注点从中东问题转移到经济和盈利基本面 美股仍具吸引力",
@@ -110,7 +121,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -154,7 +165,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -284,7 +295,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         }
@@ -300,11 +311,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时07分 ~ 16时47分]"
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 18时17分]"
         }
       ]
     }
