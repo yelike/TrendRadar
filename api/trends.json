@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-17T11:21:06.335041+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-04-17T14:07:51.025454+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
+          "url": "https://www.cls.cn/detail/2346842",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时50分 ~ 14时07分]"
+        },
         {
           "title": "“反手做空，趁现在还来得及”！高盛交易员警告美股涨过头，抛出6笔对冲交易",
           "url": "https://wallstreetcn.com/articles/3770123",
@@ -18,8 +31,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时46分 ~ 11时21分]"
+          "appearance_count": 12,
+          "time_info": "[00时46分 ~ 14时07分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -35,19 +48,6 @@
           "time_info": "[00时46分 ~ 11时21分]"
         },
         {
-          "title": "美股收盘：纳指12连涨 锂矿、CPU、光通信牛股带头冲高",
-          "url": "https://www.cls.cn/detail/2346842",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时50分 ~ 11时21分]"
-        },
-        {
           "title": "中东紧张局势持续，美股勉强新高，纳指十二连涨，中概股指跑赢大盘，原油两连涨",
           "url": "https://wallstreetcn.com/articles/3770109",
           "source": "华尔街见闻",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时53分 ~ 11时21分]"
+          "appearance_count": 5,
+          "time_info": "[07时53分 ~ 14时07分]"
         },
         {
           "title": "停火延长预期提振市场，美股高开，台积电跌超1%，布油涨2%",
@@ -71,6 +71,17 @@
           "time_info": "[00时46分 ~ 04时02分]"
         },
         {
+          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
+          "url": "https://wallstreetcn.com/articles/3770147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时20分 ~ 14时07分]"
+        },
+        {
           "title": "美股收盘：百度涨超3%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%853%25",
           "source": "百度热搜",
@@ -82,15 +93,15 @@
           "time_info": "[07时53分 ~ 07时54分]"
         },
         {
-          "title": "这轮美股新高，散户集体踏空！大多头Tom Lee：下一波上涨将由他们主导",
-          "url": "https://wallstreetcn.com/articles/3770147",
-          "source": "华尔街见闻",
+          "title": "风头盖过英伟达！美股CPU双雄股价齐创新高 AI属性渐获市场认可",
+          "url": "https://www.cls.cn/detail/2346971",
+          "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         },
         {
           "title": "周四（4月16日），美股行业ETF涨跌各异，能源业ETF、科技行业ETF、全球科技股指数ETF、网络股指数ETF至多涨1.47%，银行业ETF收跌0.38%，医疗业ETF跌0.79%，生物科技指数ETF跌1.06%，全球航空业ETF跌1.44%。",
@@ -140,7 +151,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "中东紧张局势持续，美股勉强新高，原油两连涨，美债下挫，美元终结连跌趋势",
@@ -186,6 +197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时11分"
+        },
+        {
+          "title": "瑞典北欧斯安银行：若市场对美联储降息预期升温，10年期美债或将走低",
+          "url": "https://flash.jin10.com/detail/20260417131332494800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         }
       ]
     },
@@ -226,6 +248,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元 AI 特朗普 科技 伊朗 A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【午报】三大指数涨跌不一，算力硬件持续爆发，源杰科技股价跃居A股首位",
+          "url": "https://www.cls.cn/detail/2347163",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时07分"
         }
       ]
     }
