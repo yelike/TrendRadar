@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T17:56:42.043426+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-04-18T18:49:57.048254+08:00",
+  "total_titles_processed": 1275,
   "failed_sources": [],
   "trends": [
     {
@@ -56,8 +56,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时46分 ~ 17时56分]"
+          "appearance_count": 8,
+          "time_info": "[07时46分 ~ 18时49分]"
         },
         {
           "title": "Cal-Maine美股盘后跌4%。",
@@ -202,8 +202,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时12分 ~ 17时56分]"
+          "appearance_count": 5,
+          "time_info": "[13时12分 ~ 18时49分]"
         }
       ]
     },
