@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T07:46:20.943716+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-04-18T10:53:12.679286+08:00",
+  "total_titles_processed": 812,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 07时46分]"
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 10时53分]"
+        },
+        {
+          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
+          "url": "https://www.cls.cn/detail/2348129",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时46分 ~ 10时53分]"
         },
         {
           "title": "Cal-Maine美股盘后跌4%。",
@@ -136,17 +148,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时49分 ~ 07时46分]"
-        },
-        {
-          "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
-          "url": "https://www.cls.cn/detail/2348129",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
         },
         {
           "title": "欧洲航运股马士基哥本哈根股价收跌2.83%，北京时间21:00前后加速下跌，本周累计下跌3.44%，周五美股开盘之前不久加速下跌。 赫伯罗特德国法兰克福股价收涨2.20%，本周累涨2.90%。 德迅国际瑞士股价收涨0.65%，美股开盘前后出现一波V形反转行情，本周累涨",
