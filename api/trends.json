@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-19T22:47:19.468302+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-04-19T23:43:18.412035+08:00",
+  "total_titles_processed": 1343,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "梁文锋被曝史上首次融资！DeepSeek V4彻底摆脱英伟达",
@@ -74,8 +74,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时08分 ~ 22时47分]"
+          "appearance_count": 7,
+          "time_info": "[16时08分 ~ 23时43分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -95,11 +95,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时14分 ~ 22时47分]"
+          "appearance_count": 4,
+          "time_info": "[21时14分 ~ 23时43分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -111,6 +112,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时02分 ~ 16时08分]"
+        },
+        {
+          "title": "如何看待网传 DeepSeek V4 即将发布并提出「去 CUDA 化」？",
+          "url": "https://www.zhihu.com/question/2028817450829976782",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时43分"
         },
         {
           "title": "DeepSeek百亿融资背后的两张王牌",
@@ -130,6 +142,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
+          "url": "https://wallstreetcn.com/articles/3770345",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时53分 ~ 23时43分]"
+        },
+        {
           "title": "美股收盘：纳指13连涨 追平1992年以来最长连涨纪录",
           "url": "https://www.cls.cn/detail/2348129",
           "source": "财联社热门",
@@ -144,18 +168,6 @@
           "time_info": "[00时50分 ~ 14时03分]"
         },
         {
-          "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
-          "url": "https://wallstreetcn.com/articles/3770345",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时53分 ~ 22时47分]"
-        },
-        {
           "title": "创纪录美股背后的虚假地基：两大\"一次性\"因素能撑多久？",
           "url": "https://wallstreetcn.com/articles/3770342",
           "source": "华尔街见闻",
@@ -165,8 +177,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时08分 ~ 22时47分]"
+          "appearance_count": 9,
+          "time_info": "[16时08分 ~ 23时43分]"
         }
       ]
     },
@@ -180,22 +192,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时15分 ~ 22时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时15分 ~ 23时43分]"
         },
         {
           "title": "据The Information：谷歌正在与迈威尔科技集团(MRVL.O)进行洽谈，计划开发用于推理的新型人工智能芯片。",
           "url": "https://flash.jin10.com/detail/20260419210244122800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时47分 ~ 23时43分]"
         }
       ]
     },
