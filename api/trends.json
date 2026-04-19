@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-19T18:47:04.926946+08:00",
-  "total_titles_processed": 1026,
+  "generated_at": "2026-04-19T19:40:49.718324+08:00",
+  "total_titles_processed": 1094,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时02分 ~ 18时47分]"
+          "appearance_count": 7,
+          "time_info": "[14时02分 ~ 19时40分]"
+        },
+        {
+          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            11,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时27分 ~ 19时40分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -44,19 +59,18 @@
           "time_info": "[11时27分 ~ 17时53分]"
         },
         {
-          "title": "多名核心人员流失，AGI梦想不敌商业化现实？DeepSeek开启首次外部融资",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33002057",
-          "source": "澎湃新闻",
+          "title": "DeepSeek被曝融资20亿",
+          "url": "https://www.toutiao.com/trending/7630341053001829938/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            12,
-            11,
-            6,
-            5
+            21,
+            24,
+            27,
+            26
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 18时47分]"
+          "appearance_count": 5,
+          "time_info": "[16时08分 ~ 19时40分]"
         },
         {
           "title": "DeepSeek被曝启动融资",
@@ -69,19 +83,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时02分 ~ 17时53分]"
-        },
-        {
-          "title": "DeepSeek被曝融资20亿",
-          "url": "https://www.toutiao.com/trending/7630341053001829938/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时08分 ~ 18时47分]"
         },
         {
           "title": "DeepSeek被曝融资20亿",
@@ -134,8 +135,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时08分 ~ 18时47分]"
+          "appearance_count": 5,
+          "time_info": "[16时08分 ~ 19时40分]"
         },
         {
           "title": "美银Hartnett：本轮美股反弹正演变为\"多头陷阱\"",
@@ -145,8 +146,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时53分 ~ 18时47分]"
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时40分]"
         }
       ]
     },
