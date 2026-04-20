@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T01:12:27.891231+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-04-21T03:16:20.969343+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时16分]"
         },
         {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
@@ -26,8 +26,36 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 03时16分]"
+        },
+        {
+          "title": "高盛交易员：美股已经做好本周回调的准备",
+          "url": "https://wallstreetcn.com/articles/3770364",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 被曝融资 20 亿，真实性如何？若属实，估值合理吗？一直说不融资的它，怎么突然松口了？",
+          "url": "https://www.zhihu.com/question/2029232145541980805",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     }
