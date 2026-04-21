@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T16:57:13.810139+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2026-04-21T18:24:38.939647+08:00",
+  "total_titles_processed": 1283,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 83,
+      "match_count": 88,
       "titles": [
         {
           "title": "到底谈不谈？伊朗议员：谈判“今天或明天”进行，伊外交部：暂无第二轮谈判计划",
@@ -56,6 +56,17 @@
           "time_info": "[01时13分 ~ 06时54分]"
         },
         {
+          "title": "伊朗最高领袖重申三项基本立场",
+          "url": "https://news.ifeng.com/c/8sUi4SYlv7W",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时53分 ~ 18时24分]"
+        },
+        {
           "title": "伊朗：将确保俄罗斯船只无障碍通过霍尔木兹海峡",
           "url": "https://news.ifeng.com/c/8sUM1xW13KV",
           "source": "凤凰网",
@@ -73,22 +84,12 @@
           "ranks": [
             11,
             17,
-            14
+            14,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时13分 ~ 14时08分]"
-        },
-        {
-          "title": "伊朗最高领袖重申三项基本立场",
-          "url": "https://news.ifeng.com/c/8sUi4SYlv7W",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时53分 ~ 16时57分]"
+          "appearance_count": 11,
+          "time_info": "[01时13分 ~ 18时24分]"
         },
         {
           "title": "伊朗如何看谈判？一文读懂伊朗“首席谈判代表”周末的重磅阐述",
@@ -307,6 +308,43 @@
           "time_info": "03时17分"
         },
         {
+          "title": "维多能源集团CEO：伊朗战争供应危机导致每日损失1200万桶碳氢化合物。",
+          "url": "https://flash.jin10.com/detail/20260421180028371800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 53 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2029682687414203990",
+          "source": "知乎",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 18时24分]"
+        },
+        {
+          "title": "伊朗男足备战世界杯",
+          "url": "https://www.douyin.com/hot/2473160",
+          "source": "抖音",
+          "ranks": [
+            11,
+            14,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 18时24分]"
+        },
+        {
           "title": "伊朗拟出台霍尔木兹海峡管理法，禁止以色列关联船只通行",
           "url": "https://m.thepaper.cn/newsDetail_forward_33007267",
           "source": "澎湃新闻",
@@ -368,18 +406,6 @@
           "time_info": "[05时57分 ~ 06时54分]"
         },
         {
-          "title": "美以袭击伊朗进入第 53 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2029682687414203990",
-          "source": "知乎",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 16时57分]"
-        },
-        {
           "title": "伊朗最高领袖重申三项基本立场",
           "url": "https://wallstreetcn.com/livenews/3091346",
           "source": "华尔街见闻-快讯",
@@ -427,17 +453,16 @@
           "time_info": "[01时13分 ~ 04时57分]"
         },
         {
-          "title": "伊朗男足备战世界杯",
-          "url": "https://www.douyin.com/hot/2473160",
-          "source": "抖音",
+          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
+          "url": "https://wallstreetcn.com/articles/3770465",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            14,
-            16
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 16时57分]"
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时24分]"
         },
         {
           "title": "伊朗要求美国立即放人",
@@ -465,6 +490,18 @@
           "time_info": "[07时53分 ~ 14时08分]"
         },
         {
+          "title": "又一伊朗油轮突破美国封锁后返回伊朗",
+          "url": "https://www.toutiao.com/trending/7630538859985698858/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时24分]"
+        },
+        {
           "title": "美国“敲定”谈判日 伊朗仍未点头",
           "url": "https://www.toutiao.com/trending/7630980651969154606/",
           "source": "今日头条",
@@ -487,17 +524,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 11时28分]"
-        },
-        {
-          "title": "万斯将赴巴基斯坦推进新一轮美伊谈判，伊朗再反转：没派代表团前往",
-          "url": "https://wallstreetcn.com/articles/3770465",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "据半岛电视台：伊朗支持的伊拉克武装组织警告称，随着停火期限临近，将恢复攻击行动。",
@@ -524,17 +550,6 @@
           "time_info": "[06时54分 ~ 07时53分]"
         },
         {
-          "title": "又一伊朗油轮突破美国封锁后返回伊朗",
-          "url": "https://www.toutiao.com/trending/7630538859985698858/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
-        },
-        {
           "title": "周二亚太盘初，WTI原油期货跌2.2%，彭博报道称，伊朗官员料将前往巴基斯坦与美国对话。 美国三大股指期货、罗素2000股指期货至多涨约0.2%。",
           "url": "https://wallstreetcn.com/livenews/3091352",
           "source": "华尔街见闻-快讯",
@@ -556,6 +571,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 01时14分]"
+        },
+        {
+          "title": "伊朗明日起恢复国内航班",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%98%8E%E6%97%A5%E8%B5%B7%E6%81%A2%E5%A4%8D%E5%9B%BD%E5%86%85%E8%88%AA%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "伊朗首席谈判代表：我们不接受在威胁下进行谈判。",
@@ -619,7 +645,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -630,7 +656,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -641,7 +667,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -663,7 +689,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -677,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时17分"
+        },
+        {
+          "title": "伊朗明起恢复国内航班",
+          "url": "https://wallstreetcn.com/livenews/3091707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "一艘悬挂伊朗国旗的货船正通过霍尔木兹海峡",
@@ -740,7 +777,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -789,13 +826,24 @@
           "time_info": "04时57分"
         },
         {
+          "title": "伊朗方面称，尚未就恢复与美国的谈判作出决定。",
+          "url": "https://flash.jin10.com/detail/20260421175252384800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "伊朗官方媒体否认伊方代表团前往巴基斯坦传闻",
           "url": "https://wallstreetcn.com/livenews/3091650",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -839,7 +887,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -872,7 +920,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -905,7 +953,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -943,6 +991,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "据黎巴嫩电视台Al-Mayadeen：巴基斯坦外交消息人士称，目前在伊斯兰堡未见到伊朗代表团的踪迹。",
+          "url": "https://flash.jin10.com/detail/20260421174229117800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "伊朗外长：美国的“挑衅与违约”是外交进程根本障碍",
           "url": "https://wallstreetcn.com/livenews/3091298",
           "source": "华尔街见闻-快讯",
@@ -960,7 +1019,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -968,7 +1027,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普：若有突破进展 愿同伊朗高级别领导人会面",
@@ -979,8 +1038,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时13分 ~ 16时57分]"
+          "appearance_count": 13,
+          "time_info": "[01时13分 ~ 18时24分]"
         },
         {
           "title": "特朗普：若有突破进展，愿同伊朗高级别领导人会面",
@@ -1018,17 +1077,6 @@
           "time_info": "[11时28分 ~ 16时57分]"
         },
         {
-          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
-          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时13分 ~ 03时17分]"
-        },
-        {
           "title": "特朗普称21日美伊谈判、如未达成协议“几无可能”延长停火，伊朗最高领袖重申三大立场",
           "url": "https://wallstreetcn.com/articles/3770427",
           "source": "华尔街见闻",
@@ -1038,8 +1086,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 18时24分]"
+        },
+        {
+          "title": "伊朗战争丨特朗普亲信坦言：79岁的他正在失控",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时24分]"
+        },
+        {
+          "title": "特朗普：美军武力拦截并控制一艘伊朗货船",
+          "url": "https://news.ifeng.com/c/8sSpivPG8Fy",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时13分 ~ 03时17分]"
         },
         {
           "title": "特朗普撇清：以色列可说不动我",
@@ -1054,15 +1124,17 @@
           "time_info": "[14时08分 ~ 16时57分]"
         },
         {
-          "title": "伊朗战争丨特朗普亲信坦言：79岁的他正在失控",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
+          "url": "https://www.cls.cn/detail/2350258",
+          "source": "财联社热门",
           "ranks": [
-            1
+            7,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
+          "appearance_count": 4,
+          "time_info": "[14时08分 ~ 18时24分]"
         },
         {
           "title": "特朗普：延长停火极不可能 在达成“协议”前不会解除对伊朗的封锁",
@@ -1077,6 +1149,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时53分 ~ 14时08分]"
+        },
+        {
+          "title": "路透社/益普索调查：美国总统特朗普的支持率维持在上个月的最低水平36%。仅有16%的美国人支持美国退出北约。",
+          "url": "https://flash.jin10.com/detail/20260421180105869800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "美国总统特朗普：英国首相斯塔默承认他在选择驻美国大使时“做出了错误的判断”。我同意，他的选择真的很糟糕。不过，还有很多时间来弥补！",
@@ -1101,16 +1184,26 @@
           "time_info": "03时17分"
         },
         {
-          "title": "美伊局势会如何演绎？特朗普面前有五条路 最危险的通往200美元油价！",
-          "url": "https://www.cls.cn/detail/2350258",
-          "source": "财联社热门",
+          "title": "特朗普一顿迷惑操作搞懵美媒，美官员：只会添乱",
+          "url": "https://news.ifeng.com/c/8sVY7G7Z8bE",
+          "source": "凤凰网",
           "ranks": [
-            7,
             4
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
+          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
+          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[11时28分 ~ 18时24分]"
         },
         {
           "title": "特朗普感谢伊朗迫使船只转而从美国进口石油",
@@ -1181,17 +1274,6 @@
           "time_info": "[01时14分 ~ 03时17分]"
         },
         {
-          "title": "特朗普：伊朗将进行谈判，希望双方能够达成“公平协议”",
-          "url": "https://news.ifeng.com/c/8sUsyyCLV6x",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时28分 ~ 16时57分]"
-        },
-        {
           "title": "特朗普将于北京时间21日晚8:30参加CNBC的一档财经节目。",
           "url": "https://flash.jin10.com/detail/20260421053556015800",
           "source": "金十数据",
@@ -1228,6 +1310,29 @@
           "time_info": "[05时57分 ~ 06时54分]"
         },
         {
+          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
+          "url": "https://www.cls.cn/detail/2350491",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时24分]"
+        },
+        {
+          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
+          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时24分]"
+        },
+        {
           "title": "万斯将推迟与伊朗的谈判至周二，与特朗普所言相悖",
           "url": "https://wallstreetcn.com/livenews/3091342",
           "source": "华尔街见闻-快讯",
@@ -1238,28 +1343,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时54分]"
-        },
-        {
-          "title": "事关煤、气、油、电！特朗普动用“战时权力”",
-          "url": "https://www.cls.cn/detail/2350491",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
-        },
-        {
-          "title": "凤凰女记者：巴外长不断给伊朗做工作，特朗普态度成关键",
-          "url": "https://news.ifeng.com/c/8sVQzCFVrqc",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "白宫：美国总统特朗普签署与煤炭供应链相关的备忘录。",
@@ -1462,6 +1545,17 @@
           "time_info": "11时28分"
         },
         {
+          "title": "据消息人士透露，美国贸易代表格里尔向墨西哥企业表示，特朗普对墨西哥的关税措施将长期维持。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3091692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "特朗普：如未能达成协议“几无可能”再延长停火",
           "url": "https://wallstreetcn.com/livenews/3091238",
           "source": "华尔街见闻-快讯",
@@ -1471,6 +1565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-21）",
+          "url": "https://flash.jin10.com/detail/20260421174329067800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "特朗普称美方从伊朗被炸核设施挖取浓缩铀“漫长且艰难”",
@@ -1498,7 +1603,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -1510,8 +1615,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时57分 ~ 16时57分]"
+          "appearance_count": 9,
+          "time_info": "[05时57分 ~ 18时24分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -1565,6 +1670,17 @@
           "time_info": "[03时17分 ~ 07时53分]"
         },
         {
+          "title": "联合健康第一季度调整后每股收益为7.23美元，去年同期为7.20美元，市场预期为6.57美元。 预计全年调整后每股收益将超过18.25美元，此前预期为超过17.75美元，市场预期为17.83美元。 预计全年每股收益将超过17.35美元，此前预期为超过17.10美元。 联合健康美股盘前涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3091726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
+        },
+        {
           "title": "迈威尔科技/美满科技美股盘后涨3%，其客户亚马逊与Anthropic达成协议。",
           "url": "https://wallstreetcn.com/livenews/3091332",
           "source": "华尔街见闻-快讯",
@@ -1576,6 +1692,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 06时54分]"
+        },
+        {
+          "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时56分 ~ 18时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜周一（4月20日），美国科技股七巨头（Magnificent 7）指数跌0.54%，报209.52点。 “超大”市值科技股指数跌0.88%，报405.82点。",
@@ -1600,17 +1727,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时57分]"
-        },
-        {
-          "title": "伊朗谈判曙光提振全球股市，美股期指上涨，韩国综指新高，半导体股领涨，油价续跌",
-          "url": "https://wallstreetcn.com/articles/3770463",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时56分 ~ 16时57分]"
         },
         {
           "title": "Snap美股盘后跌2.8%，该公司CFO Derek Andersen离职。",
@@ -1647,6 +1763,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时57分]"
+        },
+        {
+          "title": "联合健康(UNH.N)美股盘前直线拉升涨超5%。",
+          "url": "https://flash.jin10.com/detail/20260421175624706800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         },
         {
           "title": "苹果(AAPL.O)美股盘后跌超1%，该公司宣布约翰·特纳斯将成为CEO。",
@@ -1691,6 +1818,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
+          "url": "https://flash.jin10.com/detail/20260421164852123800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时57分"
+        },
+        {
+          "title": "如何看待 OpenAI 近期小范围内测的 GPT-image-2 生图模型？",
+          "url": "https://www.zhihu.com/question/2028780908405170838",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时28分"
+        },
+        {
+          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
+          "url": "https://wallstreetcn.com/livenews/3091685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时24分"
         }
       ]
     },
@@ -1773,7 +1939,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -1787,34 +1953,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "腾讯云宣布开源OpenAI、Manus同款Agent底座",
-          "url": "https://flash.jin10.com/detail/20260421164852123800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "如何看待 OpenAI 近期小范围内测的 GPT-image-2 生图模型？",
-          "url": "https://www.zhihu.com/question/2028780908405170838",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时28分"
         }
       ]
     },
