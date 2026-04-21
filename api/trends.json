@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-22T00:14:42.204764+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-04-22T02:02:45.303741+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
         },
         {
           "title": "特朗普称美伊将达成重大协议 美股三大期指小幅上涨 | 今夜看点",
@@ -26,8 +26,19 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时02分]"
+        },
+        {
+          "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
+          "url": "https://www.cls.cn/detail/2351256",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "02时02分"
         },
         {
           "title": "美股迷幻药物板块隔夜暴走 特朗普放宽监管行业迎来命运反转",
@@ -39,6 +50,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "王健林与梁文锋的双重焦虑",
+          "url": "https://www.toutiao.com/trending/7631211289410276905/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
