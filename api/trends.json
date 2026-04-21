@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-21T18:22:16.422296+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-04-21T20:03:03.688969+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美伊谈判悬而未决，美股指收跌，半导体指数十四连涨，原油大涨",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时53分 ~ 18时22分]"
+          "appearance_count": 9,
+          "time_info": "[05时53分 ~ 20时03分]"
         },
         {
           "title": "美伊谈判悬而未决，美股低开，油价涨幅收窄，黄金小幅走软",
@@ -45,6 +45,17 @@
           "time_info": "[06时52分 ~ 14时06分]"
         },
         {
+          "title": "中东局势缓和叠加沃什听证会预期，美股期指回暖，半导体股普涨，油价续跌",
+          "url": "https://wallstreetcn.com/articles/3770463",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 20时03分]"
+        },
+        {
           "title": "美股三大期指盘前集体走低 伊朗商船遭袭谈判迷雾笼罩 | 今夜看点",
           "url": "https://www.cls.cn/detail/2349767",
           "source": "财联社热门",
@@ -65,7 +76,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
@@ -172,7 +183,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时22分"
         },
