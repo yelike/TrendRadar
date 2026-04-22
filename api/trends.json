@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T07:41:08.888157+08:00",
-  "total_titles_processed": 671,
+  "generated_at": "2026-04-22T11:58:20.637200+08:00",
+  "total_titles_processed": 896,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时50分 ~ 07时41分]"
+          "appearance_count": 7,
+          "time_info": "[05时50分 ~ 11时58分]"
+        },
+        {
+          "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
+          "url": "https://www.cls.cn/detail/2351256",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时02分 ~ 11时58分]"
         },
         {
           "title": "伊朗停火谈判生变，美股收跌，油价飙升，金银下挫",
@@ -57,19 +71,6 @@
           "time_info": "[05时50分 ~ 06时43分]"
         },
         {
-          "title": "SpaceX压境前夜：美股IPO市场上演“疯狂冲刺”",
-          "url": "https://www.cls.cn/detail/2351256",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时02分 ~ 07时41分]"
-        },
-        {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3770463",
           "source": "华尔街见闻",
@@ -77,8 +78,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 11时58分]"
         },
         {
           "title": "现货黄金日内大跌3.00%，现报4675.97美元/盎司；美股短线跳水。",
@@ -160,7 +161,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         }
