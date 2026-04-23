@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-23T18:25:21.252125+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-04-23T20:02:39.058164+08:00",
+  "total_titles_processed": 1460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗停火谈判生变，美股收跌，芯片股指十五连涨，油价再涨，金银下挫",
@@ -162,6 +162,28 @@
           "time_info": "06时53分"
         },
         {
+          "title": "美国航空一季度调整后每股亏损40美分，预估每股亏损46美分。 一季度客运收入125.0亿美元，预估124.9亿美元。 美国航空预计二季度收入增长13.5%至16.5%。 美国航空预计全年调整后每股亏损40美分至盈利1.10美元，市场预估每股亏损70美分。 美国航空预计因燃油价格导致费用增加逾40亿美元。 美国航空美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3093274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
+          "title": "黑石一季度每股可分配收入1.36美元，预估1.34美元。 一季度整体收入34.3亿美元，预估33.7亿美元。 一季度资金流入685.4亿美元，预估554.8亿美元。 一季度私募股权资产管理规模4299.1亿美元，预估4279.7亿美元。 一季度资产管理规模1.30万亿美元，预估1.3万亿美元。 黑石美股盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3093266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "金十图示：2026年04月22日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260423040547974800",
           "source": "金十数据",
@@ -204,6 +226,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时55分"
+        },
+        {
+          "title": "超微电脑美股盘前跌超12%。",
+          "url": "https://wallstreetcn.com/livenews/3093257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "特斯拉CFO在电话会上预计，今年资本开支超过250亿美元，（公司）之前预计会超过200亿美元。 尚未从美国最高法院关于关税的最新裁决中获得任何实际利益。 今年剩余时间内，预计将出现自由现金流（FCF）为负的情况。 特斯拉美股盘后转而下跌0.63%。",
@@ -272,13 +305,24 @@
           "time_info": "16时56分"
         },
         {
+          "title": "洛克希德马丁一季度净销售额180.2亿美元，预估182.4亿美元。 第一季度每股收益为6.44 美元，而去年同期为7.28 美元。 第一季度运营利润20.6亿美元，预估22.6亿美元。 洛克希德马丁仍预计全年每股收益29.35至30.25美元，市场预估29.82美元。 洛克希德马丁仍预计全年净销售额775亿至800亿美元，市场预估790.9亿美元。 洛克希德马丁仍预计全年自由现金流为65亿至68亿美元，市场预估66.7亿美元。 洛克希德马丁仍预计全年业务运营利润为84.3亿至86.8亿美元。 洛克希德马丁美股盘前跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3093251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
+        },
+        {
           "title": "好未来第四季度净营收8.024亿美元，预估7.79亿美元。 第四季度调整后每ADS收益 0.45美元，预估0.11美元。 第四季度毛利率53.2％，预估55.5％。 好未来美股盘前微涨。",
           "url": "https://wallstreetcn.com/livenews/3093195",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
@@ -336,6 +380,18 @@
           "time_info": "[07时52分 ~ 11时24分]"
         },
         {
+          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
+          "url": "https://www.zhihu.com/question/2030589948001084304",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 20时02分]"
+        },
+        {
           "title": "阿里等巨头洽谈投资DeepSeek",
           "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E7%AD%89%E5%B7%A8%E5%A4%B4%E6%B4%BD%E8%B0%88%E6%8A%95%E8%B5%84DeepSeek",
           "source": "百度热搜",
@@ -345,17 +401,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时08分 ~ 04时09分]"
-        },
-        {
-          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
-          "url": "https://www.zhihu.com/question/2030589948001084304",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时25分"
         }
       ]
     },
