@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T03:02:23.582899+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-04-26T04:47:41.271740+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2031047018336839206",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 04时47分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -26,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 04时47分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -35,11 +36,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 04时47分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -66,8 +68,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 04时47分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -78,8 +80,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 03时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 04时47分]"
         }
       ]
     },
@@ -92,11 +94,12 @@
           "url": "https://wallstreetcn.com/articles/3770859",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 03时02分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 04时47分]"
         }
       ]
     },
