@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T13:19:47.158304+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-04-25T15:27:07.792744+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "DeepSeek V4预览版发布：显存和算力需求大降，Agent能力领跑国内开源，体验超越Sonnet 4.5",
@@ -17,6 +17,21 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 10时55分]"
+        },
+        {
+          "title": "实测DeepSeek V4",
+          "url": "https://www.douyin.com/hot/2477701",
+          "source": "抖音",
+          "ranks": [
+            7,
+            14,
+            12,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 15时27分]"
         },
         {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
@@ -45,20 +60,6 @@
           "time_info": "[01时04分 ~ 07时46分]"
         },
         {
-          "title": "实测DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2477701",
-          "source": "抖音",
-          "ranks": [
-            7,
-            14,
-            12,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时04分 ~ 13时19分]"
-        },
-        {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
           "url": "https://www.zhihu.com/question/2030963912749924411",
           "source": "知乎",
@@ -73,6 +74,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 07时46分]"
+        },
+        {
+          "title": "Deepseek V4第一波测评来了！",
+          "url": "https://wallstreetcn.com/articles/3770812",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时53分 ~ 15时27分]"
         },
         {
           "title": "DeepSeek V4揭开AI内卷终局",
@@ -121,18 +136,27 @@
           "time_info": "[01时04分 ~ 10时55分]"
         },
         {
-          "title": "Deepseek V4第一波测评来了！",
-          "url": "https://wallstreetcn.com/articles/3770812",
-          "source": "华尔街见闻",
+          "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
+          "url": "https://www.zhihu.com/question/2031152992817243775",
+          "source": "知乎",
           "ranks": [
-            10,
-            7,
-            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时27分]"
+        },
+        {
+          "title": "DeepSeekV4更新了啥",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时53分 ~ 13时19分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时27分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -180,15 +204,17 @@
           "time_info": "[01时04分 ~ 06时45分]"
         },
         {
-          "title": "如何看待 DeepSeek V4 发布当天英伟达市值重回 5 万亿美元？",
-          "url": "https://www.zhihu.com/question/2031152992817243775",
-          "source": "知乎",
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            1,
+            8,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 15时27分]"
         },
         {
           "title": "月之暗面与DeepSeek的“听牌”时刻",
@@ -202,38 +228,15 @@
           "time_info": "01时04分"
         },
         {
-          "title": "DeepSeekV4更新了啥",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "太初元碁完成DeepSeek-V4深度适配与协同优化",
           "url": "https://flash.jin10.com/detail/20260425121506864800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
-        },
-        {
-          "title": "DeepSeek如何适配国产芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时19分]"
         },
         {
           "title": "DeepSeek V4 预览版本上线并同步开源，哪些亮点值得关注？",
@@ -259,6 +262,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时46分 ~ 13时19分]"
+        },
+        {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时27分]"
         },
         {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
@@ -296,17 +311,6 @@
           "time_info": "10时55分"
         },
         {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
           "title": "DeepSeek V4适配国产芯片",
           "url": "https://www.baidu.com/s?wd=DeepSeek+V4%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
           "source": "百度热搜",
@@ -316,6 +320,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
+        },
+        {
+          "title": "华为DCS AI解决方案全面支持DeepSeek-V4",
+          "url": "https://flash.jin10.com/detail/20260425130344279800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     },
@@ -323,6 +338,20 @@
       "keyword_group": "美股",
       "match_count": 13,
       "titles": [
+        {
+          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
+          "url": "https://www.cls.cn/detail/2355589",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时45分 ~ 15时27分]"
+        },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
           "url": "https://wallstreetcn.com/articles/3770666",
@@ -334,19 +363,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 06时45分]"
-        },
-        {
-          "title": "美股收盘：美伊和谈将重启 标普、纳指再创新高 英伟达市值突破5万亿美元",
-          "url": "https://www.cls.cn/detail/2355589",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时45分 ~ 13时19分]"
         },
         {
           "title": "金十图示：2026年04月24日（周五）美股热门股票行情一览（美股收盘）",
@@ -487,6 +503,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
+          "url": "https://wallstreetcn.com/articles/3770859",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 15时27分]"
+        },
+        {
           "title": "Anthropic：谷歌(GOOG.O)今天将按公司当前估值投资100亿美元，另有300亿美元的投资将取决于是否达成特定的业绩里程碑。",
           "url": "https://flash.jin10.com/detail/20260425005310286800",
           "source": "金十数据",
@@ -507,17 +535,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "谷歌豪掷400亿锁定Anthropic：AI两强格局成型，御三家时代终结",
-          "url": "https://wallstreetcn.com/articles/3770859",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
         },
         {
           "title": "谷歌计划向Anthropic投资高达400亿美元",
@@ -560,8 +577,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 13时19分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 15时27分]"
         }
       ]
     },
