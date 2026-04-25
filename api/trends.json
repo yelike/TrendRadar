@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T18:02:30.984598+08:00",
-  "total_titles_processed": 1063,
+  "generated_at": "2026-04-25T18:58:19.992184+08:00",
+  "total_titles_processed": 1108,
   "failed_sources": [],
   "trends": [
     {
@@ -50,6 +50,18 @@
           "time_info": "[05时53分 ~ 17时02分]"
         },
         {
+          "title": "DeepSeekV4更新了啥",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 18时58分]"
+        },
+        {
           "title": "【焦点复盘】三大指数缩量调整失守5日线，商业航天概念持续退潮，新版DeepSeek激活国产算力链",
           "url": "https://www.cls.cn/detail/2354937",
           "source": "财联社热门",
@@ -89,16 +101,18 @@
           "time_info": "[01时04分 ~ 07时46分]"
         },
         {
-          "title": "DeepSeekV4更新了啥",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%9B%B4%E6%96%B0%E4%BA%86%E5%95%A5",
+          "title": "DeepSeek如何适配国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            3
+            1,
+            8,
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时55分 ~ 18时58分]"
         },
         {
           "title": "DeepSeek-V4 已公布，如何评价 DeepSeek-V4 的价格？",
@@ -134,20 +148,6 @@
           "time_info": "[01时04分 ~ 10时55分]"
         },
         {
-          "title": "DeepSeek如何适配国产芯片",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A6%82%E4%BD%95%E9%80%82%E9%85%8D%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            8,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时55分 ~ 18时02分]"
-        },
-        {
           "title": "DeepSeek V4强在哪里",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%BC%BA%E5%9C%A8%E5%93%AA%E9%87%8C",
           "source": "bilibili 热搜",
@@ -175,6 +175,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时04分 ~ 10时55分]"
+        },
+        {
+          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 18时58分]"
         },
         {
           "title": "DeepSeekV4预览版本上线",
@@ -206,20 +220,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时04分 ~ 07时46分]"
-        },
-        {
-          "title": "华为昇腾超节点支持DeepSeek V4模型，寒武纪也适配完成",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33044189",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 18时02分]"
         },
         {
           "title": "深度解读DeepSeek-V4",
@@ -288,11 +288,12 @@
           "source": "金十数据",
           "ranks": [
             7,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 18时58分]"
         },
         {
           "title": "DeepSeek V4：一次注意力机制的结构性颠覆",
@@ -368,8 +369,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时45分 ~ 18时02分]"
+          "appearance_count": 10,
+          "time_info": "[06时45分 ~ 18时58分]"
         },
         {
           "title": "伊朗局势搅动市场，美股震荡收跌，芯片连涨17日，英特尔盘后飙升20%，原油四连涨",
@@ -531,8 +532,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时19分 ~ 18时02分]"
+          "appearance_count": 7,
+          "time_info": "[13时19分 ~ 18时58分]"
         },
         {
           "title": "Anthropic：谷歌(GOOG.O)今天将按公司当前估值投资100亿美元，另有300亿美元的投资将取决于是否达成特定的业绩里程碑。",
@@ -584,8 +585,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时55分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[10时55分 ~ 18时58分]"
         },
         {
           "title": "两年期美债收益率周五跌超5个基点，特朗普政府“暂停”司法调查改善投资者对宽松前景的预期",
