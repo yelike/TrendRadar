@@ -1,496 +1,194 @@
 {
-  "generated_at": "2026-04-27T22:08:18.978563+08:00",
-  "total_titles_processed": 1399,
+  "generated_at": "2026-04-28T00:46:18.780064+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 24,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
       "titles": [
         {
-          "title": "高盛：DeepSeek V4对中国AI意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3770911",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时53分 ~ 11时37分]"
-        },
-        {
-          "title": "一条视频看懂DeepSeek V4",
-          "url": "https://www.douyin.com/hot/2479851",
-          "source": "抖音",
-          "ranks": [
-            2,
-            4,
-            1,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时53分 ~ 19时49分]"
-        },
-        {
-          "title": "龙虾官宣接入DeepSeekV4",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BE%99%E8%99%BE%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5DeepSeekV4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时47分]"
-        },
-        {
-          "title": "DeepSeek V4发布意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%8F%91%E5%B8%83%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时47分]"
-        },
-        {
-          "title": "沉默的DeepSeek，和不被定义的中国大模型",
-          "url": "https://wallstreetcn.com/articles/3770908",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时47分]"
-        },
-        {
-          "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
-          "url": "https://www.zhihu.com/question/2031494133160861736",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 19时49分]"
-        },
-        {
-          "title": "DeepSeek输入缓存降价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%BE%93%E5%85%A5%E7%BC%93%E5%AD%98%E9%99%8D%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时47分]"
-        },
-        {
-          "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
-          "url": "https://wallstreetcn.com/articles/3770923",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时36分 ~ 19时49分]"
-        },
-        {
-          "title": "DeepSeek输入缓存降价",
-          "url": "https://wallstreetcn.com/livenews/3094547",
+          "title": "苹果、谷歌联手扼杀美国加州扶持小竞争对手的法案",
+          "url": "https://wallstreetcn.com/livenews/3095147",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            4,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 07时47分]"
-        },
-        {
-          "title": "DeepSeek V4全面评测",
-          "url": "https://www.douyin.com/hot/2479058",
-          "source": "抖音",
-          "ranks": [
-            23,
-            9,
-            8,
-            12,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 06时46分]"
-        },
-        {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
-          "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时24分 ~ 22时08分]"
-        },
-        {
-          "title": "DeepSeekV4脱离英伟达了吗",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            26,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时48分 ~ 07时47分]"
-        },
-        {
-          "title": "网传公司给DeepSeek提供算力服务？浙数文化：与DeepSeek未开展业务合作",
-          "url": "https://wallstreetcn.com/livenews/3094754",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "00时46分"
         },
         {
-          "title": "DeepSeek调整API计费",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%B0%83%E6%95%B4API%E8%AE%A1%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "媒体：梁文锋这一次要掀桌",
-          "url": "https://www.toutiao.com/trending/7633338675333434907/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 22时08分]"
-        },
-        {
-          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
-          "url": "https://wallstreetcn.com/articles/3770936",
-          "source": "华尔街见闻",
+          "title": "谷歌公司（至少）数百名员工要求CEO Pichai拒绝涉足美国国防部机密的军事AI工作。 该公司员工们称，他们不希望接触Lethal AI。 （一名）研究员称，谷歌尚未讨论关于AI使用的红线。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3095139",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 22时08分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
-          "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
-          "url": "https://www.zhihu.com/question/2031824748590494923",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 19时49分]"
-        },
-        {
-          "title": "席卷全球AI圈！DeepSeek-V4成OpenClaw默认模型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时33分 ~ 17时24分]"
-        },
-        {
-          "title": "港股MINIMAX-W(00100.HK)盘中跌超15%，智谱(02513.HK)跌超5%；消息面上，DeepSeek上周五发布新模型，并宣布输入缓存降价。",
-          "url": "https://flash.jin10.com/detail/20260427110302642800",
+          "title": "谷歌表示，欧盟毫无依据的干预将剥夺设备制造商定制AI服务的自主权，推高成本，并削弱隐私保护。",
+          "url": "https://flash.jin10.com/detail/20260428002123603800",
           "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "00时46分"
         },
         {
-          "title": "MiniMax港股一度跌超14%，为3月中旬以来最大盘中跌幅；智谱跌幅最高超过6.7%。DeepSeek上周五发布新模型，并在周六宣布限时优惠。",
-          "url": "https://wallstreetcn.com/livenews/3094667",
+          "title": "Alphabet旗下谷歌公司获得欧盟反垄断监管机构的指引，以协助竞争对手获取安卓的关键功能。",
+          "url": "https://flash.jin10.com/detail/20260428002043909800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "报道：谷歌员工敦促Pichai阻止美国军方使用其AI技术",
+          "url": "https://wallstreetcn.com/livenews/3095134",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时37分"
+          "time_info": "00时46分"
         },
         {
-          "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
-          "url": "https://wallstreetcn.com/livenews/3094744",
+          "title": "谷歌员工呼吁CEO皮查伊阻止美国军方使用其人工智能。",
+          "url": "https://flash.jin10.com/detail/20260428000212502800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "原谷歌Deepmind研究员David Silver为自家新公司Ineffable Intelligence在种子轮按照51亿美元估值融资11亿美元。 红杉资本与Lightspeed Venture Partners领投，英伟达、Alphabet旗下谷歌公司、英国政府等参投。",
+          "url": "https://wallstreetcn.com/livenews/3095118",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "DeepSeek V4哪些点被低估了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%93%AA%E4%BA%9B%E7%82%B9%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
-          "url": "https://www.cls.cn/detail/2356166",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "DeepSeek V4成OpenClaw默认模型",
-          "url": "https://www.toutiao.com/trending/7632564309457141806/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时53分"
+          "time_info": "00时46分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 4,
       "titles": [
         {
-          "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3094557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 07时47分]"
-        },
-        {
-          "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
-          "url": "https://www.cls.cn/detail/2356401",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 19时49分]"
-        },
-        {
-          "title": "美股三大股指期货周一小幅低开0.2%。",
-          "url": "https://flash.jin10.com/detail/20260427060114579800",
+          "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260428003152536800",
           "source": "金十数据",
           "ranks": [
-            7,
-            27
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 07时47分]"
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "金十图示：2026年04月27日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260428003031463800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
+        },
+        {
+          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时46分"
         },
         {
           "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
           "url": "https://wallstreetcn.com/articles/3770942",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时49分 ~ 22时08分]"
-        },
-        {
-          "title": "美伊谈判僵局难解，美股盘前小幅下跌，高通大涨10%，布油日内涨3%，镍价刷两年新高",
-          "url": "https://wallstreetcn.com/articles/3770961",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "高通美股盘前涨超10%",
-          "url": "https://wallstreetcn.com/livenews/3094880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时24分"
-        },
+          "time_info": "00时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "美股盘初，主要行业ETF多数上涨，区域银行ETF、能源业ETF涨超1%，银行业ETF涨近1%。",
-          "url": "https://wallstreetcn.com/livenews/3095065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "美伊冲突都没带崩美股？“巴菲特指标”冲破200%关键门槛，似有大跌之兆！",
-          "url": "https://www.cls.cn/detail/2356367",
+          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
+          "url": "https://www.cls.cn/detail/2357012",
           "source": "财联社热门",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时24分"
+          "time_info": "00时46分"
         },
         {
-          "title": "美股盘初：三大股指小幅下跌，高通涨约7%，微软跌约1%",
-          "url": "https://wallstreetcn.com/livenews/3095061",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
+          "url": "https://www.zhihu.com/question/2030445160417510538",
+          "source": "知乎",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "美股三大指数集体低开 高通涨逾6%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E4%BD%8E%E5%BC%80+%E9%AB%98%E9%80%9A%E6%B6%A8%E9%80%BE6%25",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "高通美股盘前涨超14%。",
-          "url": "https://wallstreetcn.com/livenews/3094965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时49分"
+          "time_info": "00时46分"
         },
         {
-          "title": "POET Technologies美股盘前跌超40%，公司失去Celestial AI的采购订单。",
-          "url": "https://wallstreetcn.com/livenews/3095052",
-          "source": "华尔街见闻-快讯",
+          "title": "中国石化完成DeepSeek-V4私有化部署",
+          "url": "https://www.toutiao.com/trending/7632654178616213547/",
+          "source": "今日头条",
           "ranks": [
-            21
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "金十图示：2026年04月27日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260427214412955800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3095068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时08分"
+          "time_info": "00时46分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "美债市场聚焦美联储会议与美债拍卖，交易员押注年底降息",
-          "url": "https://flash.jin10.com/detail/20260427032034249800",
-          "source": "金十数据",
+          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.812%（3月24日为3.936%），投标倍数2.65（前次为2.44）。 两年期美债收益率涨2.95个基点，刷新日高至3.8078%。",
+          "url": "https://wallstreetcn.com/livenews/3095125",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            10,
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时48分 ~ 06时46分]"
-        },
-        {
-          "title": "美债收益率上行 市场聚焦本周密集央行会议",
-          "url": "https://flash.jin10.com/detail/20260427134519219800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "00时46分"
         }
       ]
     }
