@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-29T01:51:30.689667+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-04-29T03:49:25.022777+08:00",
+  "total_titles_processed": 383,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时49分]"
         },
         {
           "title": "如何评价 DeepSeek V4 降价的事？",
