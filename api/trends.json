@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-28T20:27:07.425590+08:00",
-  "total_titles_processed": 1393,
+  "generated_at": "2026-04-28T23:32:17.592145+08:00",
+  "total_titles_processed": 1565,
   "failed_sources": [],
   "trends": [
     {
@@ -141,7 +141,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时27分"
         },
@@ -323,7 +323,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
@@ -356,6 +356,20 @@
           "time_info": "[00时46分 ~ 08时02分]"
         },
         {
+          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
+          "url": "https://www.zhihu.com/question/2031729357580919027",
+          "source": "知乎",
+          "ranks": [
+            10,
+            7,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时34分 ~ 23时32分]"
+        },
+        {
           "title": "媒体：梁文锋这一次要掀桌",
           "url": "https://www.toutiao.com/trending/7633338675333434907/",
           "source": "今日头条",
@@ -366,19 +380,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[05时57分 ~ 08时02分]"
-        },
-        {
-          "title": "DeepSeek 为什么选择在内蒙古自建数据中心，而不是租用阿里云、腾讯云等大厂的算力资源？",
-          "url": "https://www.zhihu.com/question/2031729357580919027",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时34分 ~ 20时27分]"
         },
         {
           "title": "中国石化完成DeepSeek-V4私有化部署",
@@ -402,6 +403,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时26分 ~ 20时27分]"
+        },
+        {
+          "title": "如何评价 DeepSeek V4 降价的事？",
+          "url": "https://www.zhihu.com/question/2032100000558229357",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "DeepSeek V4有多强 普通人咋用",
