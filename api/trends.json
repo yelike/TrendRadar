@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T03:44:55.530382+08:00",
-  "total_titles_processed": 395,
+  "generated_at": "2026-04-30T05:12:49.329563+08:00",
+  "total_titles_processed": 472,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场静待联储决策及巨头财报，美股低开，存储芯片股大涨，布油日内涨5%，金银下跌",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时12分]"
+        },
+        {
+          "title": "周三（4月29日）纽约尾盘，现货黄金下跌1.15%，报4544.05美元/盎司，整体持续走低，交投于4610.29-4510.32美元，美股盘初刷新日低，美联储发布决议声明、鲍威尔新闻发布会期间交投于4540美元附近。 现货白银跌2.44%，报71.2949美元/盎司，13:45刷新日高至73.9497美元，随后在02:45（鲍威尔新闻发布会期间）刷新日低至70.8690美元。",
+          "url": "https://wallstreetcn.com/livenews/3096951",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -26,8 +37,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时12分]"
+        },
+        {
+          "title": "高通美股盘后涨幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3096946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
@@ -39,6 +61,100 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "已公布财报的“美股七巨头”中，仅Alphabet在盘后上涨",
+          "url": "https://flash.jin10.com/detail/20260430044344990800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "扎克伯格旗下Meta Platforms Inc.一季度营收563.1亿美元，分析师预期555.1亿美元。 一季度APPs Family营收559.1亿美元，分析师预期550亿美元。 一季度Reality Labs营收4.02亿美元，分析师预期5.08亿美元。 一季度广告营收550.2亿美元，分析师预期541.6亿美元。 一季度实现80.3亿美元所得税红利。 一季度每股收益（EPS）为10.44美元，上年同期6.43美元。 公司继续关注（与儿童隐私等相关的）法律纠纷与监管麻烦。 欧盟市场和美国市场的逆风可能会造成严重后果。 在年轻人相关的问题上面临（监管）审查。 预计全年资本开支1250亿-1450亿美元，公司原本预计1150亿-1350美元。 预计全年总体开支1620亿-1690亿美元，分析师预期1646亿美元。 预计二季度营收580亿-610亿美元，分析师预期595.6亿美元。 Meta美股盘后跌5.32%。",
+          "url": "https://wallstreetcn.com/livenews/3096929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "电话会：谷歌母公司Alphabet上调2026年资本开支预期至1800亿-1900亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3096952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)CEO：谷歌云业务正迎来强劲的交易势头。",
+          "url": "https://flash.jin10.com/detail/20260430044408891800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "谷歌母公司Alphabet一季度营收1099亿美元，分析师预期1071亿美元。 一季度Rev ex-TAC（剔除流量获取成本的收入）为946.7亿美元，分析师预期915.7亿美元。 一季度谷歌搜索与其他营收604亿美元，分析师预期590.8亿美元。 一季度谷歌服务营收896.4亿美元，分析师预期881.1亿美元。 一季度谷歌云营收200.3亿美元，分析师预期184.1亿美元。 一季度谷歌广告营收772.5亿美元，分析师预期762.1亿美元。 一季度YouTube广告营收98.8亿美元，分析师预期99.7亿美元。 一季度Alphabet Gemini Enterprise月活用户数（MAU）季环比增长40%。 一季度（Alphabet）运营利润397亿美元，分析师预期361.9亿美元。 一季度（Alphabet）资本开支356.7亿美元，分析师预期363.9亿美元。 谷歌A（GOOGL）美股盘后涨超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3096931",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "谷歌财报电话会将于十分钟后举行。",
+          "url": "https://flash.jin10.com/detail/20260430042000001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "微软(MSFT.O)、高通(QCOM.O)美股盘后下跌约3%，谷歌(GOOG.O)涨2%，亚马逊(AMZN.O)跌4%，Meta Platforms(META.O)跌6%。",
+          "url": "https://flash.jin10.com/detail/20260430041652163800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：第一季度谷歌云收入为200.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260430041128697800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         }
       ]
     },
@@ -52,11 +168,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时12分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -67,8 +184,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时12分]"
         }
       ]
     },
@@ -84,8 +201,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时44分 ~ 03时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 05时12分]"
         }
       ]
     }
