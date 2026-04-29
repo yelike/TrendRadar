@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T01:44:24.891989+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-04-30T03:44:55.530382+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260430005447060800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时44分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -35,6 +24,17 @@
           "source": "知乎",
           "ranks": [
             15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时44分]"
+        },
+        {
+          "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260430005447060800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -51,22 +51,24 @@
           "url": "https://www.zhihu.com/question/2032851960177631968",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时44分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时44分]"
         }
       ]
     },
@@ -82,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时44分]"
         }
       ]
     }
