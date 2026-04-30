@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T07:01:49.231528+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-04-30T08:06:10.992015+08:00",
+  "total_titles_processed": 650,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "time_info": "05时12分"
         },
         {
+          "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
+          "url": "https://www.cls.cn/detail/2360291",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 08时06分]"
+        },
+        {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2032593268840600541",
           "source": "知乎",
@@ -52,17 +64,6 @@
           "time_info": "05时12分"
         },
         {
-          "title": "美股收盘：存储、光通信概念走强 纳指微涨道指连跌五天",
-          "url": "https://www.cls.cn/detail/2360291",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
-        },
-        {
           "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260430005447060800",
           "source": "金十数据",
@@ -80,7 +81,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -113,7 +114,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -124,7 +125,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -135,7 +136,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -185,7 +186,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -218,7 +219,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -249,8 +250,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 08时06分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -258,11 +259,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时44分 ~ 07时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时44分 ~ 08时06分]"
         }
       ]
     },
@@ -286,11 +288,12 @@
           "url": "https://wallstreetcn.com/articles/3771214",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 08时06分]"
         }
       ]
     }
