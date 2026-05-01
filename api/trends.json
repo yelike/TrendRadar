@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T02:03:48.466721+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-05-02T04:09:14.071295+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时09分]"
         },
         {
           "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
           "url": "https://wallstreetcn.com/articles/3771356",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时09分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
@@ -37,8 +38,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时09分]"
         },
         {
           "title": "谷歌、卡特彼勒成“大赢家”，AI和财报压倒战争，4月的美股创2020年以来最强",
@@ -46,28 +47,41 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时09分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "伊朗提新谈判方案，美股高开，苹果绩后一度涨近6%，美油盘中跌超5%",
           "url": "https://wallstreetcn.com/articles/3771459",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 04时09分]"
+        },
+        {
+          "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
+          "url": "https://flash.jin10.com/detail/20260502040111732800",
+          "source": "金十数据",
+          "ranks": [
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时03分"
+          "time_info": "04时09分"
         },
         {
           "title": "伊朗提新谈判方案，美股高开高走，苹果绩后一度涨近6%，美油盘中跌超5%",
@@ -87,7 +101,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
         }
@@ -105,8 +119,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时09分]"
         }
       ]
     },
@@ -120,11 +134,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 02时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时06分 ~ 04时09分]"
         }
       ]
     }
