@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T12:09:17.621044+08:00",
-  "total_titles_processed": 820,
+  "generated_at": "2026-05-01T15:28:55.485127+08:00",
+  "total_titles_processed": 981,
   "failed_sources": [],
   "trends": [
     {
@@ -181,8 +181,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时57分 ~ 12时09分]"
+          "appearance_count": 6,
+          "time_info": "[06时57分 ~ 15时28分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时57分 ~ 15时28分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -195,19 +208,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时26分 ~ 07时59分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时57分 ~ 12时09分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -238,11 +238,12 @@
           "url": "https://www.zhihu.com/question/2033115543276930640",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 15时28分]"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -292,7 +293,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -300,11 +301,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时26分 ~ 12时09分]"
+          "appearance_count": 10,
+          "time_info": "[01时26分 ~ 15时28分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -344,6 +346,18 @@
           "time_info": "[01时26分 ~ 05时07分]"
         },
         {
+          "title": "DeepSeek多模态正式发布",
+          "url": "https://www.douyin.com/hot/2485029",
+          "source": "抖音",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 15时28分]"
+        },
+        {
           "title": "DeepSeek思考过程好萌",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -355,26 +369,26 @@
           "time_info": "[07时58分 ~ 07时59分]"
         },
         {
-          "title": "DeepSeek多模态正式发布",
-          "url": "https://www.douyin.com/hot/2485029",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
           "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
           "url": "https://flash.jin10.com/detail/20260501103248247800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时09分"
+        },
+        {
+          "title": "DeepSeek梦话大赏",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
         }
       ]
     },
