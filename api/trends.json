@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T14:12:27.692580+08:00",
-  "total_titles_processed": 910,
+  "generated_at": "2026-05-02T16:24:15.193999+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -121,6 +121,18 @@
           "time_info": "[08时39分 ~ 14时12分]"
         },
         {
+          "title": "美股创新高之际，对冲基金资产规模创新高",
+          "url": "https://flash.jin10.com/detail/20260502121701582800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时12分 ~ 16时24分]"
+        },
+        {
           "title": "周五（5月1日），彭博电动汽车价格回报指数涨0.27%，报4065.97点，全天主要高位震荡、美股开盘以来呈现出V形走势，本周累计上涨2.48%。",
           "url": "https://wallstreetcn.com/livenews/3098047",
           "source": "华尔街见闻-快讯",
@@ -141,17 +153,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
-        },
-        {
-          "title": "美股创新高之际，对冲基金资产规模创新高",
-          "url": "https://flash.jin10.com/detail/20260502121701582800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
         }
       ]
     },
@@ -211,6 +212,18 @@
           "time_info": "[00时06分 ~ 11时42分]"
         },
         {
+          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2033639221991319346",
+          "source": "知乎",
+          "ranks": [
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 16时24分]"
+        },
+        {
           "title": "美国国会山成员们下周将会见科技巨头们的代表。 英伟达、谷歌公司、Anthropic、Meta、特斯拉、英特尔、应用材料的代表们将与议员们见面。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3098051",
           "source": "华尔街见闻-快讯",
@@ -220,17 +233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时58分 ~ 06时59分]"
-        },
-        {
-          "title": "美国防部与 SpaceX 、谷歌等 7 家 AI 公司达成协议，称将转型主导作战力量，这会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2033639221991319346",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
         }
       ]
     },
@@ -246,22 +248,36 @@
             16,
             17,
             19,
-            25
+            25,
+            30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时06分 ~ 14时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时06分 ~ 16时24分]"
         },
         {
           "title": "DeepSeek拟人 哇呀啧呜哇",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8B%9F%E4%BA%BA%20%E5%93%87%E5%91%80%E5%95%A7%E5%91%9C%E5%93%87&t=31&band_rank=29&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            29,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时41分 ~ 11时42分]"
+          "appearance_count": 4,
+          "time_info": "[11时41分 ~ 16时24分]"
+        },
+        {
+          "title": "Claude画的DeepSeek蓝胖鱼",
+          "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时12分 ~ 16时24分]"
         },
         {
           "title": "DeepSeek 现在我是你爹了",
@@ -270,18 +286,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时12分"
-        },
-        {
-          "title": "Claude画的DeepSeek蓝胖鱼",
-          "url": "https://s.weibo.com/weibo?q=Claude%E7%94%BB%E7%9A%84DeepSeek%E8%93%9D%E8%83%96%E9%B1%BC&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时12分"
         }
