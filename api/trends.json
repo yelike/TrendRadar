@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-02T16:24:15.193999+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-05-02T18:03:07.266522+08:00",
+  "total_titles_processed": 1123,
   "failed_sources": [],
   "trends": [
     {
@@ -261,11 +261,12 @@
           "source": "微博",
           "ranks": [
             29,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 16时24分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 18时03分]"
         },
         {
           "title": "Claude画的DeepSeek蓝胖鱼",
