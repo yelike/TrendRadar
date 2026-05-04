@@ -1,167 +1,72 @@
 {
-  "generated_at": "2026-05-04T22:15:33.078261+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2026-05-05T00:52:25.377407+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "美银Hartnett：这轮美股上涨靠财政和AI撑着，一旦融资成本上升，市场可能反转",
-          "url": "https://wallstreetcn.com/articles/3771507",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时53分 ~ 14时45分]"
-        },
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
           "url": "https://wallstreetcn.com/articles/3771543",
           "source": "华尔街见闻",
           "ranks": [
-            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时55分 ~ 22时15分]"
-        },
-        {
-          "title": "战争重燃预期升温，美股期货短线跳水，布油大涨5%，黄金跌逾1%",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时55分"
+          "time_info": "00时52分"
         },
         {
-          "title": "战争重燃预期升温，美股期货短线跳水，SK海力士市值突破1000万亿韩元，布油一度大涨5%，黄金跌逾1%",
-          "url": "https://wallstreetcn.com/articles/3771519",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
-          "url": "https://flash.jin10.com/detail/20260504060507166800",
+          "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260505003152134800",
           "source": "金十数据",
           "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时55分]"
-        },
-        {
-          "title": "美股期货跌幅收窄，此前有报道称美国否认军舰遭袭。",
-          "url": "https://wallstreetcn.com/livenews/3098470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时55分"
+          "time_info": "00时52分"
         },
         {
-          "title": "美股三大股指开盘涨跌不一，道指跌0.3%、标普500指数跌0.1%、纳指涨0.01%。存储芯片概念股走强，闪迪涨超3%、美光科技涨4%；eBay上涨5.6%，GameStop下跌6.5%，游戏驿站（GameStop）提议以560亿美元收购eBay。",
-          "url": "https://wallstreetcn.com/livenews/3098500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "巴菲特谈美股投机风气",
-          "url": "https://search.bilibili.com/all?keyword=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%88%E7%BE%8E%E8%82%A1%E6%8A%95%E6%9C%BA%E9%A3%8E%E6%B0%94",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "美股期货短线跳水，纳指期货跌近0.5%；美国国债下跌，2年期国债收益率上升5个基点至3.93%。 国际原油短线拉升，布油涨幅扩大至3%。 现货黄金回落至4550美元/盎司下方。",
-          "url": "https://wallstreetcn.com/livenews/3098462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3098493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时15分"
-        },
-        {
-          "title": "美股盘前，存储芯片概念股走高，美光科技涨超3%，闪迪涨超3%，西部数据涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3098437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时26分"
-        },
-        {
-          "title": "金十图示：2026年05月04日（周一）美股热门股票行情一览",
-          "url": "https://flash.jin10.com/detail/20260504214136866800",
+          "title": "金十图示：2026年05月04日（周一）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260505003052330800",
           "source": "金十数据",
           "ranks": [
-            20
+            6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时15分"
+          "time_info": "00时52分"
+        },
+        {
+          "title": "美股延续下跌，道指下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260505000844864800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek员工为何不加班",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
-          "source": "bilibili 热搜",
+          "title": "谷歌：Chrome Enterprise为医疗保健行业推出新的集成功能。",
+          "url": "https://flash.jin10.com/detail/20260505001001920800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            11,
-            20
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时43分 ~ 17时26分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     },
@@ -174,12 +79,11 @@
           "url": "https://wallstreetcn.com/articles/3771530",
           "source": "华尔街见闻",
           "ranks": [
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时25分 ~ 22时15分]"
+          "appearance_count": 1,
+          "time_info": "00时52分"
         }
       ]
     }
