@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T11:43:34.345764+08:00",
-  "total_titles_processed": 732,
+  "generated_at": "2026-05-04T14:45:06.606429+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时53分 ~ 11时43分]"
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 14时45分]"
         },
         {
           "title": "美股三大股指期货周一小幅高开，道指期货开涨0.2%。",
@@ -40,7 +40,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
         }
@@ -55,11 +55,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 14时45分]"
         }
       ]
     }
