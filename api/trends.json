@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T00:47:03.139813+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-07T02:22:41.977362+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时22分]"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
@@ -26,25 +26,59 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时22分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
           "url": "https://www.zhihu.com/question/2034453660378382744",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时22分]"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260507012939266800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260507012919807800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        },
+        {
+          "title": "美股中概股大涨 百度涨超7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%A7%E6%B6%A8+%E7%99%BE%E5%BA%A6%E6%B6%A8%E8%B6%857%25",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "UP主优化DeepSeek V4",
@@ -54,8 +88,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时46分 ~ 00时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时46分 ~ 02时22分]"
+        },
+        {
+          "title": "梁文锋留住97%员工",
+          "url": "https://www.toutiao.com/trending/7636695860440469034/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         }
       ]
     }
