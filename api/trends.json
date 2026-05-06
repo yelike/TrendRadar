@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T11:40:52.690841+08:00",
-  "total_titles_processed": 847,
+  "generated_at": "2026-05-06T14:35:46.167642+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -33,6 +33,19 @@
           "time_info": "[00时46分 ~ 06时05分]"
         },
         {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 14时35分]"
+        },
+        {
           "title": "伊朗导弹搅动国际油市 冲突重燃担忧致美股指数全线下跌| 今夜看点",
           "url": "https://www.cls.cn/detail/2362589",
           "source": "财联社热门",
@@ -45,16 +58,15 @@
           "time_info": "[00时46分 ~ 06时05分]"
         },
         {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
+          "title": "美股光模块巨头公布强劲财报 公司CEO：订单已排到2028年！",
+          "url": "https://www.cls.cn/detail/2363413",
           "source": "财联社热门",
           "ranks": [
-            9,
-            4
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 11时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
         },
         {
           "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
@@ -63,7 +75,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -196,6 +208,18 @@
           "time_info": "[02时16分 ~ 04时12分]"
         },
         {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 14时35分]"
+        },
+        {
           "title": "市场消息：Alphabet(GOOG.O)也在与EQT讨论获取谷歌的人工智能模型。",
           "url": "https://flash.jin10.com/detail/20260506001939229800",
           "source": "金十数据",
@@ -216,17 +240,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
-        },
-        {
-          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
-          "url": "https://www.cls.cn/detail/2363224",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "市场消息：苹果(AAPL.O)一直在测试与谷歌和Anthropic的集成。",
@@ -257,6 +270,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
+          "url": "https://www.cls.cn/detail/2363061",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时12分 ~ 14时35分]"
+        },
+        {
           "title": "油价助推，30年美债收益率突破5%，美财政部上调季度发债预期，周三将迎“美债重磅”",
           "url": "https://wallstreetcn.com/articles/3771562",
           "source": "华尔街见闻",
@@ -269,19 +296,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时46分 ~ 08时05分]"
-        },
-        {
-          "title": "30年期美债冲破5%！华尔街已纷纷拉响警报",
-          "url": "https://www.cls.cn/detail/2363061",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时12分 ~ 11时40分]"
         },
         {
           "title": "美债收益率走低，因伊朗停火协议得以维持和油价下跌",
@@ -309,11 +323,12 @@
             15,
             11,
             19,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 11时40分]"
+          "appearance_count": 8,
+          "time_info": "[00时46分 ~ 14时35分]"
         }
       ]
     },
