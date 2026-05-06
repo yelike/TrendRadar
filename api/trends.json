@@ -1,33 +1,46 @@
 {
-  "generated_at": "2026-05-07T02:22:41.977362+08:00",
-  "total_titles_processed": 387,
+  "generated_at": "2026-05-07T04:29:42.824144+08:00",
+  "total_titles_processed": 458,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
           "url": "https://wallstreetcn.com/articles/3771614",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 04时29分]"
+        },
+        {
+          "title": "美股行业ETF多数收涨，半导体ETF涨约5.2%，能源业ETF跌超4.1%",
+          "url": "https://wallstreetcn.com/livenews/3099560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美伊停战预期升温 美股期指齐涨 原油大跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2364164",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 04时29分]"
         },
         {
           "title": "为什么美股在大涨特涨，巴菲特等金融专家却在持续减持？",
@@ -35,11 +48,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 04时29分]"
         },
         {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股盘中）",
@@ -48,7 +62,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         },
@@ -59,9 +73,42 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260507040528145800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "金十图示：2026年05月06日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260507040519442800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "美股收盘：英伟达市值重回5万亿 金龙指数涨3.4%",
+          "url": "https://flash.jin10.com/detail/20260507040122273800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         },
         {
           "title": "美股中概股大涨 百度涨超7%",
@@ -70,7 +117,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
         }
@@ -85,11 +132,12 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时46分 ~ 02时22分]"
+          "appearance_count": 4,
+          "time_info": "[00时46分 ~ 04时29分]"
         },
         {
           "title": "梁文锋留住97%员工",
@@ -98,9 +146,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
+          "url": "https://wallstreetcn.com/livenews/3099537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
         }
       ]
     }
