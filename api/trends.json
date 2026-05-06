@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T14:35:46.167642+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-05-06T17:28:30.970597+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股收盘：美伊交火三大指数悉数收跌 存储四巨头逆势创新高",
@@ -62,11 +62,23 @@
           "url": "https://www.cls.cn/detail/2363413",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时35分 ~ 17时28分]"
+        },
+        {
+          "title": "美伊接近达成停战备忘录，美股期指短线拉升，纳指期货涨超1%，美油大跌6%，黄金涨超3%触及4700美元",
+          "url": "https://wallstreetcn.com/articles/3771614",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "17时28分"
         },
         {
           "title": "美伊停火协议愈发脆弱 美股因强劲财报季重拾乐观情绪 | 今夜看点",
@@ -78,6 +90,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
+        },
+        {
+          "title": "美股股指期货短线拉升，纳指期货涨超1%。欧洲斯托克600指数上涨2.3%。 国际油价走低，布伦特原油跌破103美元/桶，报102.84美元/桶。 美元指数日内跌0.68%，报97.82点。 美国10年期国债收益率下行6个基点，创一周新低；德国10年期国债收益率下行8.5个基点至2.95%。 市场减少对欧洲央行加息的押注，预计12月存款利率为2.62%，早些时候为2.71%。",
+          "url": "https://wallstreetcn.com/livenews/3099261",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时28分"
         },
         {
           "title": "美股三大股指期货走高，纳指期货涨幅扩大至0.9%。",
@@ -213,11 +236,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时40分 ~ 14时35分]"
+          "appearance_count": 3,
+          "time_info": "[11时40分 ~ 17时28分]"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)也在与EQT讨论获取谷歌的人工智能模型。",
@@ -324,11 +348,12 @@
             11,
             19,
             28,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时46分 ~ 14时35分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 17时28分]"
         }
       ]
     },
