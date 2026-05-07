@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T14:45:14.113556+08:00",
-  "total_titles_processed": 1015,
+  "generated_at": "2026-05-07T17:41:16.093266+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 61,
+      "match_count": 68,
       "titles": [
         {
           "title": "以军总参谋长：在伊朗仍有一系列目标尚待打击",
@@ -29,8 +29,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 14时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时48分 ~ 17时41分]"
         },
         {
           "title": "伊朗战争丨“若美方不作出必要让步，已准备好开火”",
@@ -73,8 +73,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 17时41分]"
         },
         {
           "title": "知情人士：白宫认为与伊朗接近达成停战谅解备忘录",
@@ -139,6 +139,17 @@
           "time_info": "[00时48分 ~ 07时57分]"
         },
         {
+          "title": "伊朗战争丨美在霍尔木兹海峡搞事，为何找中国背书",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "一名白宫官员表示，美国反恐官员将于周五与国际合作伙伴会面，商讨盟友如何加强打击恐怖主义威胁的努力，尤其是来自伊朗的威胁以及在霍尔木兹海峡的威胁。",
           "url": "https://flash.jin10.com/detail/20260507003935755800",
           "source": "金十数据",
@@ -183,6 +194,19 @@
           "time_info": "02时24分"
         },
         {
+          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
+          "url": "https://wallstreetcn.com/articles/3771674",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 17时41分]"
+        },
+        {
           "title": "伊朗确认前往美国参加世界杯：将在开赛前14天抵美",
           "url": "https://news.ifeng.com/c/8sv8uru6xCR",
           "source": "凤凰网",
@@ -194,28 +218,17 @@
           "time_info": "07时57分"
         },
         {
-          "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
-          "url": "https://wallstreetcn.com/articles/3771674",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 14时45分]"
-        },
-        {
           "title": "美伊局势前景难料！伊朗仍在审议美方提议 据悉部分条款不可接受",
           "url": "https://www.cls.cn/detail/2364403",
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 17时41分]"
         },
         {
           "title": "美以袭击伊朗进入第 69 天，当前局势如何？哪些信息值得关注？",
@@ -239,6 +252,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时48分 ~ 04时40分]"
+        },
+        {
+          "title": "伊朗外长用中文发帖“信任中方”",
+          "url": "https://www.toutiao.com/trending/7636366888520892459/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "伊朗官员：美军动用所有军事手段也无法开通霍尔木兹海峡",
@@ -362,6 +386,17 @@
           "time_info": "00时48分"
         },
         {
+          "title": "伊朗称在霍尔木兹海峡上空击落美军无人机",
+          "url": "https://wallstreetcn.com/livenews/3099877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "伊朗议长：“敌人”施经济压力 官民要团结应对",
           "url": "https://flash.jin10.com/detail/20260507064052614800",
           "source": "金十数据",
@@ -395,6 +430,28 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美媒：至少228个美军资产在伊朗战事中受损",
+          "url": "https://wallstreetcn.com/livenews/3099875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "伊朗称正在「评估」美方提出的停战谅解备忘录，美伊谈判的曙光出现了吗？",
+          "url": "https://www.zhihu.com/question/2035461412533658729",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "伊朗：对美方的不信任源于其敌对行为",
           "url": "https://www.toutiao.com/trending/7636432119836819499/",
           "source": "今日头条",
@@ -426,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "伊朗外长用中文发帖：信任中方",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E7%94%A8%E4%B8%AD%E6%96%87%E5%8F%91%E5%B8%96%EF%BC%9A%E4%BF%A1%E4%BB%BB%E4%B8%AD%E6%96%B9",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美军在阿曼湾截停伊朗籍空油轮，称其违反美方封锁",
@@ -505,6 +573,17 @@
           "time_info": "06时04分"
         },
         {
+          "title": "伊朗将为霍尔木兹海峡船只提供服务",
+          "url": "https://wallstreetcn.com/livenews/3099870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "美国军方：周三，美军在阿曼湾使一艘悬挂伊朗国旗、试图驶向伊朗港口的空载油轮丧失能力。",
           "url": "https://flash.jin10.com/detail/20260507010517000800",
           "source": "金十数据",
@@ -555,7 +634,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -695,7 +774,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -720,6 +799,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时57分 ~ 14时45分]"
+        },
+        {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 17时41分]"
         },
         {
           "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
@@ -758,17 +848,6 @@
           "time_info": "[00时48分 ~ 07时57分]"
         },
         {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 14时45分]"
-        },
-        {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
           "source": "澎湃新闻",
@@ -804,6 +883,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "特朗普谈及伊朗：事情会很快结束。",
           "url": "https://wallstreetcn.com/livenews/3099625",
           "source": "华尔街见闻-快讯",
@@ -826,6 +916,18 @@
           "time_info": "02时24分"
         },
         {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时44分 ~ 17时41分]"
+        },
+        {
           "title": "特朗普称暂停自由计划行动",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
           "source": "bilibili 热搜",
@@ -836,17 +938,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时03分 ~ 07时57分]"
-        },
-        {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时44分 ~ 14时45分]"
         },
         {
           "title": "美国总统特朗普：美国在太空领域遥遥领先。",
@@ -869,6 +960,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
+        },
+        {
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
         },
         {
           "title": "美国总统特朗普：我们将从伊朗获取浓缩铀。",
@@ -987,7 +1089,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -1042,7 +1144,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -1127,7 +1229,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -1137,8 +1239,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时03分 ~ 14时45分]"
+          "appearance_count": 7,
+          "time_info": "[06时03分 ~ 17时41分]"
         },
         {
           "title": "美伊前景未明，美股高开，半导体股走强，康宁大涨17%，油价跌幅收窄至6%",
@@ -1256,6 +1358,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
+          "url": "https://wallstreetcn.com/articles/3771706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "金十图示：2026年05月06日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260507040528145800",
           "source": "金十数据",
@@ -1300,11 +1413,83 @@
           "time_info": "04时40分"
         },
         {
+          "title": "美股盘前，ARM跌超4%，公司Q4财季营收同比增长20.2%。",
+          "url": "https://wallstreetcn.com/livenews/3099863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
           "title": "高意公司/相干公司（Coherent Corp.）第三财季营收18.06亿美元，IBES预期17.80亿美元。 第三财季整后营业收入3.66亿美元，IBES预期3.723亿美元。 第三财季调整后每股收益（EPS）为1.41美元，IBES预期1.40美元。 第三财季调整后净利润2.76亿美元，IBES预期2.722亿美元。 预计第四财季营收19.1亿-20.5亿美元，预计调整后EPS为1.52-1.72美元。 相干公司（COHR）美股盘后跌6.68%。",
           "url": "https://wallstreetcn.com/livenews/3099562",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
+          "url": "https://www.zhihu.com/question/2032416656081802662",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时48分 ~ 07时57分]"
+        },
+        {
+          "title": "国际金价持续走高",
+          "url": "https://flash.jin10.com/detail/20260507144002853800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时45分"
+        },
+        {
+          "title": "金价今年或涨至5200美元",
+          "url": "https://www.douyin.com/hot/2491112",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时41分"
+        },
+        {
+          "title": "金十图示：2026年05月07日（周四）上海金早盘价为1032.36元/克，较国际金价(1029.35元/克)高3.01元/克",
+          "url": "https://flash.jin10.com/detail/20260507110341702800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
+        },
+        {
+          "title": "金价涨2.8%，逼近4700美元",
+          "url": "https://wallstreetcn.com/livenews/3099570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1336,11 +1521,12 @@
           "url": "https://wallstreetcn.com/articles/3771667",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 14时45分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 17时41分]"
         },
         {
           "title": "梁文锋留住97%员工",
@@ -1363,56 +1549,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
-          "url": "https://www.zhihu.com/question/2032416656081802662",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时48分 ~ 07时57分]"
-        },
-        {
-          "title": "国际金价持续走高",
-          "url": "https://flash.jin10.com/detail/20260507144002853800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时45分"
-        },
-        {
-          "title": "金十图示：2026年05月07日（周四）上海金早盘价为1032.36元/克，较国际金价(1029.35元/克)高3.01元/克",
-          "url": "https://flash.jin10.com/detail/20260507110341702800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        },
-        {
-          "title": "金价涨2.8%，逼近4700美元",
-          "url": "https://wallstreetcn.com/livenews/3099570",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时04分"
         }
       ]
     },
@@ -1470,8 +1606,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 17时41分]"
         },
         {
           "title": "2/10年期美债收益率跌超7个基点，追随国际油价下跌的表现",
