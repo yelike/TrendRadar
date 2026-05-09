@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T05:53:11.201142+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-05-10T06:54:08.295311+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时54分]"
         },
         {
           "title": "美股收盘：标普纳指周线6连阳 存储、CPU四大牛股均涨超10%",
@@ -44,8 +44,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时01分 ~ 05时53分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时54分]"
         }
       ]
     }
