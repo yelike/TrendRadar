@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T11:50:09.500103+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-05-10T14:39:51.592135+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -13,22 +13,24 @@
           "source": "贴吧",
           "ranks": [
             11,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 11时50分]"
+          "appearance_count": 13,
+          "time_info": "[00时01分 ~ 14时39分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
           "url": "https://www.zhihu.com/question/2035400318624733173",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时49分 ~ 11时50分]"
+          "appearance_count": 3,
+          "time_info": "[11时49分 ~ 14时39分]"
         },
         {
           "title": "Deepseek和阿里谈崩了？市场人士回应",
@@ -41,12 +43,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时55分 ~ 11时50分]"
+        },
+        {
+          "title": "DeepSeek被曝融资500亿",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84500%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "非农缓解“滞胀”担忧，美股新高，英特尔和存储芯片股暴涨，Rocket Lab绩后涨34%",
@@ -70,6 +83,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时01分 ~ 04时53分]"
+        },
+        {
+          "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
+          "url": "https://wallstreetcn.com/articles/3771916",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     }
