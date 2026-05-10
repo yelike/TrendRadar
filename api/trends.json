@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T01:56:00.985048+08:00",
-  "total_titles_processed": 394,
+  "generated_at": "2026-05-11T03:13:36.319949+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2036432998422115875",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时13分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -27,8 +28,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时13分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -38,8 +39,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 03时13分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -66,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时02分 ~ 03时13分]"
         }
       ]
     }
