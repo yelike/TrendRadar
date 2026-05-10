@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T19:57:33.863658+08:00",
-  "total_titles_processed": 1167,
+  "generated_at": "2026-05-10T21:46:27.915484+08:00",
+  "total_titles_processed": 1265,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -16,11 +16,12 @@
             15,
             16,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时01分 ~ 19时57分]"
+          "appearance_count": 17,
+          "time_info": "[00时01分 ~ 21时46分]"
         },
         {
           "title": "deepseek 首轮融资估值近 450 亿美元，将对 AI 领域产生哪些影响？",
@@ -58,6 +59,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 16时58分]"
+        },
+        {
+          "title": "DeepSeek 被曝融资 500 亿美元，将对 AI 领域产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2035400318624733173",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时46分"
         }
       ]
     },
@@ -99,8 +111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时39分 ~ 19时57分]"
+          "appearance_count": 5,
+          "time_info": "[14时39分 ~ 21时46分]"
         },
         {
           "title": "沙特阿美股价在早盘交易中上涨1.1%。",
