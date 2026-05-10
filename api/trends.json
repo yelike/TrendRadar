@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T05:54:44.194075+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-05-11T06:55:03.526901+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时55分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -29,19 +29,20 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时55分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
           "url": "https://www.cls.cn/detail/2367192",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时55分 ~ 05时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时55分 ~ 06时55分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -58,7 +59,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "远超预期！刚刚过去的财报季，美股“强得惊人”",
@@ -68,8 +69,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时02分 ~ 05时54分]"
+          "appearance_count": 9,
+          "time_info": "[00时02分 ~ 06时55分]"
+        },
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260511060044695800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     }
