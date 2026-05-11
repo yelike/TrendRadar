@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-11T07:58:20.708377+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-05-11T12:16:38.995423+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
@@ -22,29 +22,31 @@
           "time_info": "[00时02分 ~ 07时58分]"
         },
         {
-          "title": "DeepSeek睁眼,开放识图模式",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时58分]"
-        },
-        {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
           "url": "https://www.cls.cn/detail/2367192",
           "source": "财联社热门",
           "ranks": [
             13,
             11,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时55分 ~ 07时58分]"
+          "appearance_count": 10,
+          "time_info": "[01时55分 ~ 12时16分]"
+        },
+        {
+          "title": "DeepSeek睁眼,开放识图模式",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354128&amp;topic_name=DeepSeek%E7%9D%81%E7%9C%BC%2C%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 12时16分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
