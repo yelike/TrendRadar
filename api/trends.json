@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-13T00:32:15.645762+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-05-13T03:02:19.290470+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://wallstreetcn.com/articles/3772040",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时02分]"
         },
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时02分]"
         },
         {
           "title": "“大空头”：美股或将崩盘，科技股飙升重现2000年泡沫",
@@ -37,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 00时32分]"
+          "appearance_count": 3,
+          "time_info": "[00时31分 ~ 03时02分]"
         },
         {
           "title": "算力热潮暂歇：美股芯片与半导体设备股同步回落",
@@ -47,7 +49,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         }
@@ -55,7 +57,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。（华尔街日报）",
@@ -64,9 +66,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "据The Information：谷歌将招聘数百名工程师，助力客户落地采用其人工智能技术。",
+          "url": "https://flash.jin10.com/detail/20260513022035588800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时02分"
         },
         {
           "title": "据华尔街日报：SpaceX与谷歌正就探索在轨数据中心进行洽谈。",
@@ -75,7 +88,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         }
@@ -92,7 +105,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
         }
