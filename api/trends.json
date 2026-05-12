@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-12T15:49:37.710313+08:00",
-  "total_titles_processed": 998,
+  "generated_at": "2026-05-12T18:48:48.241599+08:00",
+  "total_titles_processed": 1167,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 61,
       "titles": [
+        {
+          "title": "外交部介绍特朗普访华具体安排",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            8,
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时07分 ~ 18时48分]"
+        },
         {
           "title": "美国总统特朗普将于5月13日至15日访华",
           "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
@@ -56,19 +70,6 @@
           "time_info": "[00时07分 ~ 08时08分]"
         },
         {
-          "title": "外交部介绍特朗普访华具体安排",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%85%B7%E4%BD%93%E5%AE%89%E6%8E%92",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 15时49分]"
-        },
-        {
           "title": "外交部介绍特朗普访华安排和中方期待",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E4%BB%8B%E7%BB%8D%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E5%AE%89%E6%8E%92%E5%92%8C%E4%B8%AD%E6%96%B9%E6%9C%9F%E5%BE%85",
           "source": "百度热搜",
@@ -105,28 +106,30 @@
           "time_info": "[00时07分 ~ 08时08分]"
         },
         {
-          "title": "特朗普：中国是一个令人惊叹的国家",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 15时49分]"
-        },
-        {
           "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
           "url": "https://www.zhihu.com/question/2037161087863353508",
           "source": "知乎",
           "ranks": [
             14,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[08时08分 ~ 18时48分]"
+        },
+        {
+          "title": "特朗普：中国是一个令人惊叹的国家",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%A4%E4%BA%BA%E6%83%8A%E5%8F%B9%E7%9A%84%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时08分 ~ 18时48分]"
         },
         {
           "title": "特朗普拟暂停美国汽油税 政策仍需国会立法批准",
@@ -173,6 +176,17 @@
           "time_info": "00时07分"
         },
         {
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "美国总统特朗普：（关于伊朗）领导人已被杀害。对此毫无压力，我们必将取得完全胜利。",
           "url": "https://flash.jin10.com/detail/20260511233953133800",
           "source": "金十数据",
@@ -205,6 +219,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 08时08分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时08分 ~ 18时48分]"
         },
         {
           "title": "美国总统特朗普：封锁伊朗是军事天才之举。",
@@ -242,19 +270,6 @@
           "time_info": "[08时08分 ~ 15时49分]"
         },
         {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时08分 ~ 15时49分]"
-        },
-        {
           "title": "美国总统特朗普：非常期待中国之行",
           "url": "https://wallstreetcn.com/livenews/3101894",
           "source": "华尔街见闻-快讯",
@@ -272,11 +287,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 18时48分]"
         },
         {
           "title": "美国总统特朗普：非常期待中国之行",
@@ -284,11 +300,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 18时48分]"
         },
         {
           "title": "特朗普发文称非常期待中国之行",
@@ -300,6 +317,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时41分 ~ 12时42分]"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 18时48分]"
         },
         {
           "title": "如何看待特朗普撮合英特尔重新回到苹果核心供应链中？",
@@ -374,9 +403,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-12）",
+          "url": "https://flash.jin10.com/detail/20260512181736947800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美国总统特朗普重申伊朗不能拥有核武器。",
@@ -390,15 +430,15 @@
           "time_info": "00时07分"
         },
         {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "18时48分"
         },
         {
           "title": "白宫官员：美国总统特朗普将于周一签署行政命令，允许增加牛肉进口，并支持美国牛群规模的恢复。",
@@ -517,7 +557,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -649,7 +689,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -668,7 +708,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "美国以协助伊朗为由制裁3家中国公司，外交部回应",
@@ -693,6 +733,17 @@
           "time_info": "[00时07分 ~ 08时08分]"
         },
         {
+          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
+          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 18时48分]"
+        },
+        {
           "title": "伊朗官员：伊美就浓缩铀处置方式存在严重分歧",
           "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
           "source": "凤凰网",
@@ -710,18 +761,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
-          "title": "伊朗官员称伊美就浓缩铀处置方式存在严重分歧",
-          "url": "https://news.ifeng.com/c/8t3NrhrUsGT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -748,13 +788,24 @@
           "time_info": "08时08分"
         },
         {
+          "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://news.ifeng.com/c/8t4DYs3Ow88",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "外交部：伊朗局势当务之急是全力避免战端重启",
           "url": "https://wallstreetcn.com/livenews/3102122",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -769,6 +820,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时07分 ~ 08时08分]"
+        },
+        {
+          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2368816",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 18时48分]"
         },
         {
           "title": "伊朗议长：“14点提案”无可替代",
@@ -794,17 +857,6 @@
           "time_info": "03时02分"
         },
         {
-          "title": "知情人士披露：美国或考虑恢复对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2368816",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
-        },
-        {
           "title": "美国悬赏1500万美元 打击伊朗革命卫队资金网络",
           "url": "https://flash.jin10.com/detail/20260512072604615800",
           "source": "金十数据",
@@ -814,6 +866,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美国白宫：在“史诗经济狂怒”行动的压力下，伊朗的经济已经完全瘫痪。",
@@ -877,9 +940,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "伊朗官员：若再次遭袭 伊方或选择将浓缩铀丰度提升至90%",
+          "url": "https://www.cls.cn/detail/2368941",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "伊朗议长：“14点提案”无可替代",
@@ -959,6 +1033,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "市场消息：科威特内政部称，四名与伊朗革命卫队有关联的渗透者试图从海上进入科威特后被捕。",
+          "url": "https://flash.jin10.com/detail/20260512180516242800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "据伊朗Press TV：伊朗负责法律事务的副外长加里巴巴迪与挪威副外长、金砖国家新开发银行行长以及法国大使举行了会谈。",
           "url": "https://flash.jin10.com/detail/20260512065041058800",
           "source": "金十数据",
@@ -1031,7 +1116,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1050,18 +1135,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
           "url": "https://wallstreetcn.com/articles/3771942",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时01分 ~ 15时49分]"
+          "appearance_count": 6,
+          "time_info": "[07时01分 ~ 18时48分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 存储、光通信延续逼空行情",
@@ -1109,8 +1195,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 15时49分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 18时48分]"
         },
         {
           "title": "美股芯片板块狂飙暗藏风险 散户此刻大举冲入引发担忧",
@@ -1191,6 +1277,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "腾讯音乐美股盘前涨超10%，公司第一季度营收79亿元，同比增长7.3%。",
+          "url": "https://wallstreetcn.com/livenews/3102216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "京东集团第一季度净营收3,156.9亿元人民币，同比增长4.9%，预估3,114.3亿元人民币。 第一季度调整后EBITDA 80.2亿元人民币，同比下降41%，预估44.6亿元人民币。 第一季度调整后每ADS收益 5.12元人民币，预估3.57元人民币。 第一季度经调整EBITDA利润率2.5％，上年同期4.6％，预估1.38％。 京东集团美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3102215",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "美股大类资产类ETF多数收涨，布油基金涨3.6%",
@@ -1365,7 +1473,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         }
@@ -1414,6 +1522,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时08分 ~ 12时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "油价推升通胀风险 “沃什交易”在美债市场退潮",
+          "url": "https://wallstreetcn.com/livenews/3102221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
