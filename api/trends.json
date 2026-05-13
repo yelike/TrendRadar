@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T06:17:11.282058+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-05-13T08:06:41.941547+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -43,6 +43,28 @@
           "time_info": "[00时31分 ~ 06时17分]"
         },
         {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
+          "url": "https://www.cls.cn/detail/2369590",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌3%，布油基金涨3.4%",
           "url": "https://wallstreetcn.com/livenews/3102508",
           "source": "华尔街见闻-快讯",
@@ -53,6 +75,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时59分 ~ 06时17分]"
+        },
+        {
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         },
         {
           "title": "周二（5月12日），美股行业ETF涨跌各异，半导体ETF收跌2.61%，全球科技股指数ETF跌2.17%，科技行业ETF跌1.51%，能源业ETF涨0.70%，医疗业ETF涨1.96%。",
@@ -66,13 +99,46 @@
           "time_info": "04时59分"
         },
         {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "周二（5月12日），美股存储芯片与硬件供应链指数跌4.10%，报186.72点，整体呈现出V形走势，北京时间00:43曾刷新日低至177.08点。 成分股全线溃败，闪迪跌6.17%，西部数据跌5.25%，美光科技、Rambus、希捷科技至多跌3.61%，应用材料、拉姆研究、泰瑞达TER至少跌2.23%。",
+          "url": "https://wallstreetcn.com/livenews/3102555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "周二（5月12日），美股降息赢家指数跌0.71%，报87.48点，在美国CPI通胀数据发布后低开，随后逐步收复失地。 “特朗普关税输家”指数跌1.05%，报98.75点。 “特朗普金融指数”涨0.38%，报159.36点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.77%，报13.38点。",
+          "url": "https://wallstreetcn.com/livenews/3102552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周二（5月12日），美国科技股七巨头（Magnificent 7）指数跌0.18%，报223.38点，整体呈现出V形走势，北京时间00:58刷新日低至220.98点。 “超大”市值科技股指数跌1.20%，报448.68点，00:59也刷新日低至440.83点。",
           "url": "https://wallstreetcn.com/livenews/3102512",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -108,6 +174,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时59分"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌",
+          "url": "https://www.toutiao.com/trending/7638500151543250971/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
+        },
+        {
+          "title": "周二（5月12日），美股人工智能（AI）赢家指数跌2.35%，报391.38点，整体呈现出平坦的V形走势、北京时间00:54刷新日低至391.38点。成分股Fluence Energy收跌15.66%，闪迪跌6.17%，CoreWeave跌6.06%，Lumentum Holdings跌5.77%，核电股Oklo跌5.76%，西部数据跌5.25%，康宁公司跌4.41%跌幅第七大，英伟达涨0.61%表现第六，Meta涨0.69%。",
+          "url": "https://wallstreetcn.com/livenews/3102557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时06分"
         }
       ]
     },
@@ -122,7 +210,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
@@ -183,7 +271,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时17分"
         },
