@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T14:55:10.984497+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2026-05-13T17:49:45.656708+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普访华",
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             1,
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时27分 ~ 14时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时27分 ~ 17时49分]"
         },
         {
           "title": "马斯克库克随特朗普访华",
@@ -68,6 +69,17 @@
           "time_info": "[00时27分 ~ 07时09分]"
         },
         {
+          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
+          "url": "https://www.zhihu.com/question/2037099280243102645",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 17时49分]"
+        },
+        {
           "title": "特朗普启程访华",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%AF%E7%A8%8B%E8%AE%BF%E5%8D%8E",
           "source": "百度热搜",
@@ -90,28 +102,6 @@
           "time_info": "[11时59分 ~ 14时55分]"
         },
         {
-          "title": "特朗普启程访华，如何理解时隔近十年中美又一次元首会晤的特殊性？",
-          "url": "https://www.zhihu.com/question/2037099280243102645",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时55分]"
-        },
-        {
-          "title": "特朗普期待与中方会晤",
-          "url": "https://www.toutiao.com/trending/7638420198126829594/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
-        },
-        {
           "title": "特朗普：很荣幸与众多杰出人士同去中国",
           "url": "https://www.toutiao.com/trending/7639252359259885110/",
           "source": "今日头条",
@@ -123,6 +113,73 @@
           "time_info": "[14时54分 ~ 14时55分]"
         },
         {
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.toutiao.com/trending/7638540672749125641/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "特朗普访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "欢迎特朗普访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "外交部：欢迎特朗普访问中国",
+          "url": "https://www.douyin.com/hot/2497697",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "外交部：中方欢迎特朗普总统对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2370077",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://www.cls.cn/detail/2369985",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 17时49分]"
+        },
+        {
           "title": "据AXIOS记者：美国众议院交通委员会主席萨姆·格雷夫斯在被问及特朗普提出的暂停征收燃油税方案时表示：“我认为这只是一个短期解决方案。”",
           "url": "https://flash.jin10.com/detail/20260513064533429800",
           "source": "金十数据",
@@ -132,6 +189,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时09分"
+        },
+        {
+          "title": "特朗普期待与中方会晤",
+          "url": "https://www.toutiao.com/trending/7638420198126829594/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 17时49分]"
         },
         {
           "title": "伊朗设谈判门槛，特朗普称“不着急”",
@@ -191,6 +260,32 @@
           "time_info": "[00时27分 ~ 07时09分]"
         },
         {
+          "title": "16位美国商界领袖随特朗普访华",
+          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            11,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 17时49分]"
+        },
+        {
+          "title": "特朗普访华随行人员名单",
+          "url": "https://www.douyin.com/hot/2496992",
+          "source": "抖音",
+          "ranks": [
+            11,
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 17时49分]"
+        },
+        {
           "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
           "url": "https://wallstreetcn.com/articles/3772005",
           "source": "华尔街见闻",
@@ -202,28 +297,16 @@
           "time_info": "[00时27分 ~ 03时02分]"
         },
         {
-          "title": "16位美国商界领袖随特朗普访华",
-          "url": "https://www.baidu.com/s?wd=16%E4%BD%8D%E7%BE%8E%E5%9B%BD%E5%95%86%E7%95%8C%E9%A2%86%E8%A2%96%E9%9A%8F%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E",
-          "source": "百度热搜",
+          "title": "国台办回应特朗普访华或讨论台湾问题",
+          "url": "https://www.toutiao.com/trending/7638441986101559359/",
+          "source": "今日头条",
           "ranks": [
-            11,
-            20
+            25,
+            14
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时55分]"
-        },
-        {
-          "title": "特朗普访华随行人员名单",
-          "url": "https://www.douyin.com/hot/2496992",
-          "source": "抖音",
-          "ranks": [
-            11,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时55分]"
+          "time_info": "[14时54分 ~ 17时49分]"
         },
         {
           "title": "外交部介绍特朗普访华具体安排",
@@ -236,17 +319,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时09分 ~ 14时55分]"
-        },
-        {
-          "title": "特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
-          "url": "https://www.cls.cn/detail/2369985",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
         },
         {
           "title": "美国海军将建造史上最贵军舰：核动力“特朗普”级战列舰",
@@ -338,17 +410,6 @@
           "time_info": "[14时54分 ~ 14时55分]"
         },
         {
-          "title": "国台办回应特朗普访华或讨论台湾问题",
-          "url": "https://www.toutiao.com/trending/7638441986101559359/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
-        },
-        {
           "title": "美国上诉法院暂缓对特朗普10%全球关税的不利裁决",
           "url": "https://flash.jin10.com/detail/20260513045304475800",
           "source": "金十数据",
@@ -360,15 +421,48 @@
           "time_info": "05时32分"
         },
         {
+          "title": "最后一刻临时追加！黄仁勋加入特朗普访华代表团",
+          "url": "https://wallstreetcn.com/articles/3772146",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "特朗普回过味了，“万斯嗖一下就被提溜走了，我呢？”",
+          "url": "https://news.ifeng.com/c/8t5xvo1H7JW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "最后一刻，黄仁勋背着包，“在空军一号于阿拉斯加经停加油期间登机”，随特朗普访华！知情人：特朗普在看到报道其缺席代表团后，致电邀请",
           "url": "https://wallstreetcn.com/livenews/3102766",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "启程访华！特朗普空中发文：能够与众多的杰出人士一同前往伟大的中国，是我的荣幸",
+          "url": "https://wallstreetcn.com/articles/3772164",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "据阿联酋新闻社：阿联酋总统与美国总统特朗普通话讨论战略合作，并审议了中东局势发展。",
@@ -413,6 +507,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        },
+        {
+          "title": "媒体称黄仁勋半路加入特朗普的访华专机中，他为什么能「压哨登机」？",
+          "url": "https://www.zhihu.com/question/2037919154393408436",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
+          "title": "外交部：中方欢迎特朗普总统访华",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E4%B8%AD%E6%96%B9%E6%AC%A2%E8%BF%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%BB%E7%BB%9F%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "黄仁勋搭空军一号随特朗普访华",
@@ -514,6 +630,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "特朗普访华有何核心诉求",
+          "url": "https://www.toutiao.com/trending/7639286744432512522/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "美国总统特朗普：美国人民明白为什么现在的成本如此高，战争结束后这些成本会迅速下降。",
           "url": "https://flash.jin10.com/detail/20260513021002430800",
           "source": "金十数据",
@@ -536,6 +663,17 @@
           "time_info": "03时02分"
         },
         {
+          "title": "特朗普时隔9年再访华 几点值得关注",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%97%B6%E9%9A%949%E5%B9%B4%E5%86%8D%E8%AE%BF%E5%8D%8E+%E5%87%A0%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "美国总统特朗普：与俄罗斯总统普京没有达成共识，俄罗斯不应获得顿巴斯地区。",
           "url": "https://flash.jin10.com/detail/20260513020502120800",
           "source": "金十数据",
@@ -553,9 +691,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "特朗普期待与中方会晤",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%9F%E5%BE%85%E4%B8%8E%E4%B8%AD%E6%96%B9%E4%BC%9A%E6%99%A4",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "美国总统特朗普：北约令我失望，我们不需要它的帮助。",
@@ -567,6 +716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普回应访华团高管名单",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E8%AE%BF%E5%8D%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E5%90%8D%E5%8D%95%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         },
         {
           "title": "美国总统特朗普：当假新闻媒体称伊朗在军事上对美国表现良好时，这几乎等同于叛国，因为这种说法完全错误，甚至荒谬。伊朗海军原本拥有159艘舰船，现在每一艘都已经沉入海底。他们已经没有海军，空军也已不存在，所有技术能力都被摧毁，他们的“领导人”也不复存在，这个国家如今已陷入经济灾难。",
@@ -616,7 +776,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗官员：若再次遭袭，伊方或选择将浓缩铀丰度提升至90%",
@@ -685,6 +845,17 @@
           "time_info": "00时28分"
         },
         {
+          "title": "据华尔街日报：在伊朗轰炸行动期间，以色列情报机构摩萨德首领曾访阿联酋协调作战。",
+          "url": "https://flash.jin10.com/detail/20260513174506184800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "伊朗：与美谈判先决条件是结束战事和解除封锁霍尔木兹海峡",
           "url": "https://flash.jin10.com/detail/20260513022656149800",
           "source": "金十数据",
@@ -719,6 +890,18 @@
           "time_info": "[00时27分 ~ 05时32分]"
         },
         {
+          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
+          "url": "https://www.zhihu.com/question/2037656032046838013",
+          "source": "知乎",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 17时49分]"
+        },
+        {
           "title": "伊拉克巴基斯坦已分别同伊朗签订协议",
           "url": "https://www.toutiao.com/trending/7638201251310764073/",
           "source": "今日头条",
@@ -729,17 +912,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时59分 ~ 14时55分]"
-        },
-        {
-          "title": "知情人士称阿联酋秘密打击伊朗，正式成为参战方，为何阿联酋要参战？会给中东局势带来哪些变化？",
-          "url": "https://www.zhihu.com/question/2037656032046838013",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 14时55分]"
         },
         {
           "title": "美以袭击伊朗进入第 75 天，当前局势如何？哪些信息值得关注？",
@@ -935,7 +1107,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         }
@@ -943,7 +1115,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美伊局势僵持，美股原油齐涨，标普纳指再新高，光通信股集体大涨，白银暴涨7%",
@@ -958,6 +1130,17 @@
           "time_info": "[00时27分 ~ 07时09分]"
         },
         {
+          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
+          "url": "https://wallstreetcn.com/articles/3772040",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 17时49分]"
+        },
+        {
           "title": "美股收盘： 通胀升温及伊朗局势施压市场 芯片股普遍回调 三大股指涨跌不一",
           "url": "https://www.cls.cn/detail/2369590",
           "source": "财联社热门",
@@ -970,15 +1153,17 @@
           "time_info": "[07时09分 ~ 14时55分]"
         },
         {
-          "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
-          "url": "https://wallstreetcn.com/articles/3772040",
+          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
+          "url": "https://wallstreetcn.com/articles/3772105",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            10,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 14时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时09分 ~ 17时49分]"
         },
         {
           "title": "美国通胀超预期，美股低开，科技股普跌，英伟达股价续创新高，美伊僵局致布油涨3%",
@@ -991,19 +1176,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时27分 ~ 03时02分]"
-        },
-        {
-          "title": "美股半导体指数跌超4%，高通重挫12%，英特尔大跌9.1%",
-          "url": "https://wallstreetcn.com/articles/3772105",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时09分 ~ 14时55分]"
         },
         {
           "title": "周二（5月12日），美股降息赢家指数跌0.71%，报87.48点，在美国CPI通胀数据发布后低开，随后逐步收复失地。 “特朗普关税输家”指数跌1.05%，报98.75点。 “特朗普金融指数”涨0.38%，报159.36点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.77%，报13.38点。",
@@ -1073,6 +1245,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "沃什治下的美联储，或成美股最大的“灰犀牛”",
+          "url": "https://flash.jin10.com/detail/20260513174110978800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
+        },
+        {
           "title": "美股半导体股指创逾一年最大盘中跌幅",
           "url": "https://flash.jin10.com/detail/20260513043933227800",
           "source": "金十数据",
@@ -1104,6 +1287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "财报公布后，阿里巴巴(BABA.N)美股盘前短线下挫后拉升，现涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20260513173627001800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时49分"
         }
       ]
     },
@@ -1223,7 +1417,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         },
@@ -1234,7 +1428,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
         }
