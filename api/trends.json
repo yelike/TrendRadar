@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T17:38:09.522042+08:00",
-  "total_titles_processed": 1103,
+  "generated_at": "2026-05-14T19:56:31.376890+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "美国通胀升温、美伊僵局持续，美股承压，芯片股拖累纳指，美油盘中涨近5%",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时10分 ~ 11时53分]"
+        },
+        {
+          "title": "美股光通信概念股poet technologies盘前涨幅扩大至24%。",
+          "url": "https://wallstreetcn.com/livenews/3103689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "美股半导体板块大跌",
@@ -91,6 +102,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "加拿大鹅第四财季营收为4.533亿加元，预估为4.097亿加元。 第四财季非国际财务报告准则调整后息税前利润为6490万加元，预估为6100万加元。 第四财季非国际财务报告准则调整后每股收益为0.37加元，预估为0.39加元。 加拿大鹅美股盘前微跌。",
+          "url": "https://wallstreetcn.com/livenews/3103672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
+        },
+        {
           "title": "金十图示：2026年05月13日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260514003025162800",
           "source": "金十数据",
@@ -119,7 +141,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         }
@@ -127,7 +149,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "谷歌母公司Alphabet收涨3.9%，创收盘历史新高。 英伟达收涨2.3%，连续第六个交易日走高。",
@@ -139,6 +161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "美国财长贝森特：Anthropic、OpenAI、谷歌的AI模型能力正不断增强。",
+          "url": "https://wallstreetcn.com/livenews/3103666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "谷歌公司、微软、马斯克旗下X（原名推特）、Anthropic、Perplexity因大语言模型（LLM）问题而被美国议员们质询。（PunchBowl）",
@@ -166,7 +199,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "周三（5月13日）纽约尾盘，美国10年期基准国债收益率涨0.58个基点，报4.4688%，北京时间20:30发布美国批发通胀数据PPI之前持稳于4.46%附近，数据发布后出现一波跳空上扬行情——随后出现V形反转、23:30刷新日高至4.5003%。 两年期美债收益率跌1.23个基点，报3.9791%，PPI数据发布前下挫至3.9791%，随后出现一波M形冲高回落行情——21:46回落至3.9791%、23:30刷新日高至4.0127%，03:27刷新日低至3.9750%。",
@@ -178,6 +211,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "长债抛售警报响：30年期美债标售得标利率自07年金融危机以来首次升破5.0%",
+          "url": "https://wallstreetcn.com/articles/3772216",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时56分"
         },
         {
           "title": "两年期美债收益率跌超1.2个基点，美国PPI数据发布后曾上涨",
