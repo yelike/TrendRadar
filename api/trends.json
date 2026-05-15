@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T11:56:54.795890+08:00",
-  "total_titles_processed": 762,
+  "generated_at": "2026-05-15T15:29:24.817194+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -61,7 +61,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
         },
@@ -192,6 +192,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "当我在DeepSeek输入think",
+          "url": "https://s.weibo.com/weibo?q=%E5%BD%93%E6%88%91%E5%9C%A8DeepSeek%E8%BE%93%E5%85%A5think&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
