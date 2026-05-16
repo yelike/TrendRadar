@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T19:06:45.141168+08:00",
-  "total_titles_processed": 1131,
+  "generated_at": "2026-05-16T21:44:05.153477+08:00",
+  "total_titles_processed": 1255,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时01分 ~ 19时06分]"
+          "appearance_count": 8,
+          "time_info": "[07时01分 ~ 21时44分]"
         },
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -222,11 +222,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 19时06分]"
+          "appearance_count": 6,
+          "time_info": "[12时32分 ~ 21时44分]"
         },
         {
           "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
@@ -293,6 +294,20 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
+          "url": "https://www.cls.cn/detail/2373036",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时01分 ~ 21时44分]"
+        },
+        {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
           "url": "https://wallstreetcn.com/articles/3772362",
           "source": "华尔街见闻",
@@ -308,17 +323,17 @@
           "time_info": "[01时46分 ~ 19时06分]"
         },
         {
-          "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2373036",
-          "source": "财联社热门",
+          "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
+          "url": "https://wallstreetcn.com/articles/3772386",
+          "source": "华尔街见闻",
           "ranks": [
-            8,
-            3,
+            6,
+            5,
             4
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时01分 ~ 19时06分]"
+          "time_info": "[12时32分 ~ 21时44分]"
         },
         {
           "title": "美债收益率飙升重创股市 芯片板块领跌",
@@ -331,18 +346,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时10分 ~ 08时02分]"
-        },
-        {
-          "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
-          "url": "https://wallstreetcn.com/articles/3772386",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时32分 ~ 19时06分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -372,7 +375,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Deepseek不语 只是一味跟团",
@@ -399,6 +402,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时46分 ~ 19时06分]"
+        },
+        {
+          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
+          "url": "https://www.zhihu.com/question/2038402853274915914",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 21时44分]"
         }
       ]
     }
