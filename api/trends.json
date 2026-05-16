@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T06:54:43.659401+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-05-17T07:58:50.938964+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时58分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -39,11 +39,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时58分]"
         }
       ]
     },
@@ -61,8 +62,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时58分]"
         }
       ]
     },
@@ -75,11 +76,12 @@
           "url": "https://wallstreetcn.com/articles/3772402",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时58分]"
         }
       ]
     },
@@ -95,8 +97,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时04分 ~ 06时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时04分 ~ 07时58分]"
         }
       ]
     }
