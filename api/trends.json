@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T21:44:05.153477+08:00",
-  "total_titles_processed": 1255,
+  "generated_at": "2026-05-16T23:02:28.676579+08:00",
+  "total_titles_processed": 1334,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3772341",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[07时01分 ~ 23时02分]"
         },
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -223,11 +224,12 @@
             8,
             7,
             6,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 21时44分]"
+          "appearance_count": 8,
+          "time_info": "[12时32分 ~ 23时02分]"
         },
         {
           "title": "阿克曼：出售谷歌股票并非做空公司。我们长期非常看好Alphabet。",
@@ -304,8 +306,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 21时44分]"
+          "appearance_count": 10,
+          "time_info": "[07时01分 ~ 23时02分]"
         },
         {
           "title": "黑色星期五！全球股债双杀：韩股暴跌6%，美债收益率飙升，这次市场在怕什么？",
@@ -392,6 +394,18 @@
           "time_info": "[03时46分 ~ 08时02分]"
         },
         {
+          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
+          "url": "https://www.zhihu.com/question/2038402853274915914",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 23时02分]"
+        },
+        {
           "title": "网易新闻、网易小蜜蜂宣布已接入DeepSeek-V4",
           "url": "https://wallstreetcn.com/livenews/3104769",
           "source": "华尔街见闻-快讯",
@@ -402,17 +416,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时46分 ~ 19时06分]"
-        },
-        {
-          "title": "为什么 Deepseek 在输入 <think 后会匹配到疑似其他对话?",
-          "url": "https://www.zhihu.com/question/2038402853274915914",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 21时44分]"
         }
       ]
     }
