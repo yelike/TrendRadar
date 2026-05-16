@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T05:56:34.042007+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-05-17T06:54:43.659401+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时54分]"
         },
         {
           "title": "凯文·沃什上任美联储主席首日，美股全线走低，金银大幅下挫，国际油价拉升，沃什的新政预期有多悲观？",
@@ -26,11 +26,12 @@
             14,
             11,
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时54分]"
         },
         {
           "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
@@ -41,8 +42,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时54分]"
         }
       ]
     },
@@ -60,8 +61,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时54分]"
         }
       ]
     },
@@ -77,8 +78,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时54分]"
         }
       ]
     },
@@ -94,8 +95,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时04分 ~ 05时56分]"
+          "appearance_count": 5,
+          "time_info": "[01时04分 ~ 06时54分]"
         }
       ]
     }
