@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T08:02:58.013245+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-05-16T12:32:43.414087+08:00",
+  "total_titles_processed": 755,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 12时32分]"
         },
         {
           "title": "全球长债收益率飙升，美股走低，纳指跌2%，英伟达跌4%，白银大跌9%，黄金跌3%",
@@ -58,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -69,7 +69,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -80,7 +80,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -91,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -172,7 +172,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
         },
@@ -213,7 +213,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美债收益率飙升重创股市 芯片板块领跌",
@@ -234,11 +234,12 @@
           "ranks": [
             7,
             8,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 08时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 12时32分]"
         },
         {
           "title": "油价与美债收益率齐升 美股期指集体走低 芯片股盘前普跌 | 今夜看点",
@@ -249,8 +250,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 08时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 12时32分]"
         },
         {
           "title": "美股收盘：通胀忧虑升温压制AI行情 美债收益率飙升 三大指数均跌超1%",
@@ -261,8 +262,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 08时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 12时32分]"
         },
         {
           "title": "美债价格连跌五周",
@@ -275,12 +276,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 08时02分]"
+        },
+        {
+          "title": "美债技术性破位，日债抛售恐慌，全球利率风暴正在形成",
+          "url": "https://wallstreetcn.com/articles/3772386",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "13F报告显示：桥水新进台积电等，清仓Salesforce、Workday、ServiceNOW等，增持亚马逊、美光、博通、迈威尔科技，减持Adobe等，重仓亚马逊、英伟达、谷歌A等。",
@@ -292,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
+          "url": "https://wallstreetcn.com/articles/3772402",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         },
         {
           "title": "13F报告显示：Third Point建仓Meta、谷歌A等。 清仓微软等，减持英伟达等。",
