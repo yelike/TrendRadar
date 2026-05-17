@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T15:36:07.002151+08:00",
-  "total_titles_processed": 795,
+  "generated_at": "2026-05-17T17:51:50.315079+08:00",
+  "total_titles_processed": 903,
   "failed_sources": [],
   "trends": [
     {
@@ -49,6 +49,19 @@
           "time_info": "[01时04分 ~ 06时54分]"
         },
         {
+          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
+          "url": "https://wallstreetcn.com/articles/3772431",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 17时51分]"
+        },
+        {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
           "url": "https://www.cls.cn/detail/2373249",
           "source": "财联社热门",
@@ -57,20 +70,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 15时36分]"
-        },
-        {
-          "title": "“商品老将”：美股就像“冲向沙滩的孩子”，看不到“远方游弋的鲨鱼鳍”，AI算力的本质是石油",
-          "url": "https://wallstreetcn.com/articles/3772431",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时13分 ~ 15时36分]"
+          "appearance_count": 5,
+          "time_info": "[12时13分 ~ 17时51分]"
         }
       ]
     },
@@ -88,19 +89,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时04分 ~ 15时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时04分 ~ 17时51分]"
         },
         {
           "title": "30年美债没守住5%“生死线”！美银Hartnett：“地狱之门”已打开，6月初是“卖出窗口”",
           "url": "https://wallstreetcn.com/articles/3772363",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 15时36分]"
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 17时51分]"
         }
       ]
     },
@@ -138,6 +140,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时04分 ~ 07时58分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "2026 世界杯决赛首次增设中场秀，预计远超 15 分钟，如何看待此举？会影响球员表现与比赛节奏吗？",
+          "url": "https://www.zhihu.com/question/2038334795621586162",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         }
       ]
     }
