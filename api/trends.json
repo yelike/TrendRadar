@@ -1,8 +1,37 @@
 {
-  "generated_at": "2026-05-18T05:01:07.920849+08:00",
-  "total_titles_processed": 430,
+  "generated_at": "2026-05-18T06:03:06.931373+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
+          "url": "https://www.cls.cn/detail/2373249",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时03分]"
+        },
+        {
+          "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2038737314017432936",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时02分 ~ 06时03分]"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -15,8 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时03分]"
         }
       ]
     },
@@ -32,26 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
-          "url": "https://www.cls.cn/detail/2373249",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时03分 ~ 05时01分]"
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 06时03分]"
         }
       ]
     }
