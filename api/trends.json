@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T06:03:06.931373+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-05-18T08:02:17.747516+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "环球下周看点：英伟达财报与美联储会议纪要来袭 美股行情迎关键考验",
@@ -13,22 +13,35 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 08时02分]"
         },
         {
           "title": "美股和金银开盘大跌，但美国 4 月工业数据超预期，纽约联储制造业指数创近 4 年新高，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2038737314017432936",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时02分 ~ 06时03分]"
+          "appearance_count": 3,
+          "time_info": "[06时02分 ~ 08时02分]"
+        },
+        {
+          "title": "史上最大IPO来袭！SpaceX据传最早6月12日登陆美股 目标估值高达1.75万亿美元",
+          "url": "https://www.cls.cn/detail/2373172",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     },
@@ -44,8 +57,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 08时02分]"
         }
       ]
     },
@@ -61,8 +74,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 06时03分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 08时02分]"
         }
       ]
     }
