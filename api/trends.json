@@ -1,55 +1,81 @@
 {
-  "generated_at": "2026-05-22T04:56:40.451198+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-05-22T06:24:22.316714+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
-          "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3107626",
+          "title": "据华尔街日报报道，IMAX探索出售，与多家娱乐公司进行了初步接触。 IMAX美股盘后涨14.34%。",
+          "url": "https://wallstreetcn.com/livenews/3107635",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "06时24分"
+        },
+        {
+          "title": "巴克莱可转债ETF收涨约2.2%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3107626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时24分]"
         },
         {
           "title": "周四（5月21日），美股行业ETF多数收涨，全球航空业ETF涨2.12%，全球科技股指数ETF涨1.17%，公用事业ETF涨1.10%，网络股指数ETF、科技行业ETF至少涨0.82%，半导体ETF涨0.57%，能源业ETF跌1.12%。",
           "url": "https://wallstreetcn.com/livenews/3107625",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年05月21日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260522041945523800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时24分]"
         },
         {
           "title": "金十图示：2026年05月21日（周四）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260522041555580800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 06时24分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 量子概念爆发存储续走强",
+          "url": "https://www.cls.cn/detail/2378488",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时56分"
+          "time_info": "06时24分"
         },
         {
           "title": "美股光伏概念股普遍上涨，逆变器供应商Enphase Energy涨17.46%，SolarEdge涨14.89%，阿特斯太阳能涨7.39%，第一太阳能涨5.63%，大全新能源涨4.69%。",
@@ -69,7 +95,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         }
@@ -77,7 +103,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美伊冲突降温，WTI原油大跌5.5%，美股全线收涨，美债收益率下跌，英伟达绩后下跌",
@@ -87,8 +113,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时24分]"
         },
         {
           "title": "美伊核谈判僵持，油价涨4%，美股低开，量子计算股大涨，美债震荡",
@@ -98,8 +124,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时18分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时18分 ~ 06时24分]"
+        },
+        {
+          "title": "两年期美债收益率涨2.8个基点",
+          "url": "https://wallstreetcn.com/livenews/3107639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时24分"
         },
         {
           "title": "太平洋投资管理公司（PIMCO）的CIO Daniel Ivascyn：鉴于美债收益率飙涨，美联储将针对美国通胀问题采取行动。 如果通胀预期进一步抬头，美联储及其他主要央行可能不得不采取行动。 如果长期通胀预期“出现更显著的脱锚，那么即使面对经济疲软，你也将看到货币政策的收紧”，这将进一步加大股市和信用债市场的压力。",
