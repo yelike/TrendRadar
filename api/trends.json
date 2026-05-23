@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T03:19:28.736617+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-05-24T05:00:04.422971+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时00分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -26,20 +26,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时19分]"
-        },
-        {
-          "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
-          "url": "https://wallstreetcn.com/livenews/3108395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时00分]"
         },
         {
           "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
@@ -50,8 +38,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时00分]"
+        },
+        {
+          "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
+          "url": "https://wallstreetcn.com/livenews/3108395",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时07分 ~ 05时00分]"
         }
       ]
     },
@@ -67,8 +68,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时00分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -79,8 +80,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时00分]"
         },
         {
           "title": "如何看待美股当前的泡沫",
@@ -100,7 +101,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
         }
@@ -119,8 +120,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时07分 ~ 03时19分]"
+          "appearance_count": 4,
+          "time_info": "[01时07分 ~ 05时00分]"
         }
       ]
     }
