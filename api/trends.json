@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T20:03:55.701072+08:00",
-  "total_titles_processed": 1082,
+  "generated_at": "2026-05-24T22:27:24.803249+08:00",
+  "total_titles_processed": 1200,
   "failed_sources": [],
   "trends": [
     {
@@ -23,20 +23,6 @@
           "time_info": "[01时07分 ~ 20时03分]"
         },
         {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 20时03分]"
-        },
-        {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
           "url": "https://www.cls.cn/detail/2379922",
           "source": "财联社热门",
@@ -45,8 +31,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时05分 ~ 20时03分]"
+          "appearance_count": 7,
+          "time_info": "[13时05分 ~ 22时27分]"
+        },
+        {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            9,
+            10,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 22时27分]"
         },
         {
           "title": "DeepSeek宣布：永久降价",
@@ -68,8 +69,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 20时03分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 22时27分]"
         },
         {
           "title": "DeepSeek 引入 API 并发限制，这对开发者意味着什么？",
@@ -77,11 +78,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时36分 ~ 20时03分]"
+          "appearance_count": 6,
+          "time_info": "[16时36分 ~ 22时27分]"
         },
         {
           "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
@@ -107,8 +109,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时44分 ~ 20时03分]"
+          "appearance_count": 4,
+          "time_info": "[18时44分 ~ 22时27分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -136,7 +138,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“华尔街最准分析师”警告：巨型IPO恐令美股重蹈百年泡沫史覆辙",
@@ -149,8 +151,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时07分 ~ 20时03分]"
+          "appearance_count": 14,
+          "time_info": "[01时07分 ~ 22时27分]"
         },
         {
           "title": "美股收盘：标普连涨八周道指刷新高 芯片股&量子概念持续走强",
@@ -165,6 +167,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时07分 ~ 18时45分]"
+        },
+        {
+          "title": "港股、美股周一休市 金银油交易将提前结束",
+          "url": "https://flash.jin10.com/detail/20260524212457510800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "下周一港股、美股休市",
