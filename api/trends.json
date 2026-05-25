@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T12:18:39.877214+08:00",
-  "total_titles_processed": 751,
+  "generated_at": "2026-05-25T17:02:19.323065+08:00",
+  "total_titles_processed": 953,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,19 @@
           "time_info": "[00时05分 ~ 07时08分]"
         },
         {
+          "title": "deepseek狂降价,友商被卷哭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 17时02分]"
+        },
+        {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
           "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
@@ -42,18 +55,6 @@
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时05分 ~ 12时18分]"
-        },
-        {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
           "time_info": "[00时05分 ~ 12时18分]"
         }
       ]
@@ -81,7 +82,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
