@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-26T16:36:12.356880+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-05-27T00:47:01.874245+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "中国500万美股账户被冻结 后续怎么办",
-          "url": "https://www.toutiao.com/trending/7643690261362196489/",
-          "source": "今日头条",
+          "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2382097",
+          "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时49分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
         },
         {
-          "title": "美股三大股指期货走高，纳斯达克期货上涨1.3%，标普500指数期货涨0.9%，道指期货涨0.87%。",
-          "url": "https://flash.jin10.com/detail/20260526060620011800",
-          "source": "金十数据",
+          "title": "美股芯片股盘前集体上涨",
+          "url": "https://www.toutiao.com/trending/7643860213912764422/",
+          "source": "今日头条",
           "ranks": [
-            17
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
         }
       ]
     },
@@ -36,33 +36,66 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待 DeepSeek 连续多次降价？",
-          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "title": "如果 deepseek r1 推理激活参数只有 37B，是不是意味着 37B 的大模型就可以在垂直领域有效？",
+          "url": "https://www.zhihu.com/question/12005197517",
           "source": "知乎",
           "ranks": [
-            12,
-            14
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时03分 ~ 16时36分]"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "欧盟计划对谷歌处以高达数亿欧元的罚款",
-          "url": "https://wallstreetcn.com/livenews/3109054",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗男足参加美墨世界杯：比赛日跨境入美，踢完就撤回墨西哥",
+          "url": "https://news.ifeng.com/c/8tRe4GWXi93",
+          "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美伊边打边谈，美股开盘半导体股普涨，美光大涨12%，美债收益率回落，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3773116",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元 AI 特朗普 科技 伊朗 A股 上证 深证",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【焦点复盘】三大指数收盘涨跌互现，AI硬件端分化加剧，先进封装概念强者恒强",
+          "url": "https://www.cls.cn/detail/2381769",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时46分 ~ 00时47分]"
         }
       ]
     }
