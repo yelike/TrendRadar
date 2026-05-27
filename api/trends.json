@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-27T16:41:59.783345+08:00",
-  "total_titles_processed": 977,
+  "generated_at": "2026-05-27T20:25:33.511991+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美伊谈判前景提振市场 美股三大期指集体上涨 美光盘前大涨超8% | 今夜看点",
@@ -43,6 +43,17 @@
           "time_info": "[07时14分 ~ 12时17分]"
         },
         {
+          "title": "美光科技美股盘前涨近10%，前一交易日收涨超19%。",
+          "url": "https://wallstreetcn.com/livenews/3110081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美股收盘：标普500和纳指再创新高",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%A0%87%E6%99%AE500%E5%92%8C%E7%BA%B3%E6%8C%87%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98",
           "source": "百度热搜",
@@ -65,13 +76,24 @@
           "time_info": "[00时46分 ~ 00时47分]"
         },
         {
+          "title": "AI热潮推动下，美股期指上扬，美光盘前涨近10%，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3773196",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
+        },
+        {
           "title": "美股航空航天板块盘前上涨，Momentus涨超30%，太空基础设施公司Redwire涨约23%，AST SpaceMobile、Rocket Lab涨超6%。此前，美国国家航空航天局（NASA）26日公布月球基地建设三阶段路线图，进一步细化未来在月球南极地区建设长期驻留设施的发展目标和实施路径。",
           "url": "https://flash.jin10.com/detail/20260527162232462800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -104,7 +126,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         },
@@ -118,6 +140,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
+        },
+        {
+          "title": "拼多多美股盘前跌近4%，公司第一季度营收和调整后每ADS收益均不及预期。",
+          "url": "https://wallstreetcn.com/livenews/3110038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时25分"
         }
       ]
     },
@@ -144,7 +177,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         }
@@ -189,7 +222,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时41分"
         }
