@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T11:55:01.472379+08:00",
-  "total_titles_processed": 729,
+  "generated_at": "2026-05-30T14:52:07.928484+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,24 @@
           "ranks": [
             9,
             8,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 11时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时46分 ~ 14时52分]"
+        },
+        {
+          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
+          "url": "https://www.cls.cn/detail/2385964",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 14时52分]"
         },
         {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股收盘）",
@@ -87,18 +100,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        },
-        {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时18分 ~ 11时55分]"
         },
         {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
