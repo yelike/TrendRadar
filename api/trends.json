@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T21:51:15.351983+08:00",
-  "total_titles_processed": 1288,
+  "generated_at": "2026-05-30T23:14:16.324450+08:00",
+  "total_titles_processed": 1358,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             9,
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时18分 ~ 21时51分]"
+          "appearance_count": 11,
+          "time_info": "[07时18分 ~ 23时14分]"
         },
         {
           "title": "停火预期提振市场 美股期指上涨 戴尔盘前暴涨约34% | 今夜看点",
@@ -70,6 +71,19 @@
           "time_info": "[05时56分 ~ 07时18分]"
         },
         {
+          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
+          "url": "https://wallstreetcn.com/articles/3773491",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时25分 ~ 23时14分]"
+        },
+        {
           "title": "金十图示：2026年05月29日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260530003722971800",
           "source": "金十数据",
@@ -105,18 +119,6 @@
           "time_info": "07时18分"
         },
         {
-          "title": "连涨9周，自3月低点反弹20%！美股这波反弹之凶猛“历史罕见”",
-          "url": "https://wallstreetcn.com/articles/3773491",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时25分 ~ 21时51分]"
-        },
-        {
           "title": "美股商业航天股全线重挫",
           "url": "https://www.douyin.com/hot/2517641",
           "source": "抖音",
@@ -133,11 +135,23 @@
           "url": "https://www.toutiao.com/trending/7645641566559669823/",
           "source": "今日头条",
           "ranks": [
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时14分]"
+        },
+        {
+          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
+          "url": "https://www.cls.cn/detail/2386086",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时14分]"
         },
         {
           "title": "美股收盘：三大股指微涨 标普500指数连涨九周",
@@ -149,17 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 07时18分]"
-        },
-        {
-          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
-          "url": "https://www.cls.cn/detail/2386086",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 21时51分]"
         },
         {
           "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
