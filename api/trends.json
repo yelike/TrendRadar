@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T21:57:02.721644+08:00",
-  "total_titles_processed": 1136,
+  "generated_at": "2026-05-31T23:21:40.697946+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时02分 ~ 21时57分]"
+          "appearance_count": 5,
+          "time_info": "[19时02分 ~ 23时21分]"
         },
         {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
