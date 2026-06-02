@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-02T07:06:40.253185+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-06-02T12:27:53.229532+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
+          "url": "https://www.cls.cn/detail/2387720",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时06分 ~ 12时27分]"
+        },
         {
           "title": "伊朗称将全面封锁霍尔木兹，美股低开，IBM涨近9%，ARM大涨12%，美油涨6%",
           "url": "https://wallstreetcn.com/articles/3773537",
@@ -19,15 +31,15 @@
           "time_info": "[00时43分 ~ 04时58分]"
         },
         {
-          "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
-          "url": "https://www.cls.cn/detail/2387720",
+          "title": "【早报】全线大涨，美股芯片股批量创新高；特朗普：美伊或于“一周内”达成协议",
+          "url": "https://www.cls.cn/detail/2387748",
           "source": "财联社热门",
           "ranks": [
-            4
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时06分"
+          "time_info": "12时27分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，地产ETF、黄金ETF至少跌1.4%，布油基金涨超3.7%",
@@ -42,6 +54,19 @@
           "time_info": "[04时58分 ~ 07时06分]"
         },
         {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时43分 ~ 12时27分]"
+        },
+        {
           "title": "公用事业ETF收跌将近3%，领跌美股行业ETF，全球科技股指数ETF则涨约3%",
           "url": "https://wallstreetcn.com/livenews/3112640",
           "source": "华尔街见闻-快讯",
@@ -52,18 +77,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时58分 ~ 07时06分]"
-        },
-        {
-          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2387523",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时43分 ~ 07时06分]"
         },
         {
           "title": "金十图示：2026年06月01日（周一）美股热门股票行情一览（美股收盘）",
@@ -121,13 +134,24 @@
           "time_info": "04时58分"
         },
         {
+          "title": "美股散户疯买看涨期权！力度已达2022年入熊前夜水平",
+          "url": "https://flash.jin10.com/detail/20260602115025145800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "Lithium Americas（LAC）美股盘后涨幅迅速扩大至7.5%。",
           "url": "https://wallstreetcn.com/livenews/3112654",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -138,15 +162,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "迈威尔科技(MRVL.O)美股夜盘直线拉升，一度涨超16%，现涨幅收窄至11.5%。此前英伟达CEO黄仁勋称迈威尔科技将成为下一个万亿美元公司。",
+          "url": "https://flash.jin10.com/detail/20260602114105402800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "伯克希尔将对谷歌母公司投资100亿美元",
@@ -160,13 +195,24 @@
           "time_info": "04时58分"
         },
         {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
           "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
           "url": "https://wallstreetcn.com/livenews/3112644",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         }
@@ -183,7 +229,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         }
