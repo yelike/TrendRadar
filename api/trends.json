@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-02T12:27:53.229532+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-06-02T17:13:27.889221+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股收盘：三大指数均创收盘新高 英伟达领涨科技股",
@@ -37,7 +37,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -140,7 +140,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -173,9 +173,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "迈威尔科技美股盘前涨超25%，黄仁勋表示Marvell可能会成为“下一家万亿美元公司”。",
+          "url": "https://wallstreetcn.com/livenews/3112927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     },
@@ -183,6 +194,18 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 17时13分]"
+        },
         {
           "title": "伯克希尔将对谷歌母公司投资100亿美元",
           "url": "https://wallstreetcn.com/livenews/3112644",
@@ -195,17 +218,6 @@
           "time_info": "04时58分"
         },
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
           "title": "伯克希尔对谷歌母公司投资100亿美元，加大对AI的押注",
           "url": "https://wallstreetcn.com/livenews/3112644",
           "source": "华尔街见闻-快讯",
@@ -215,6 +227,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "腾讯云：下调DeepSeek-V4系列模型价格，最高降幅97.5%",
+          "url": "https://wallstreetcn.com/livenews/3112923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时13分"
         }
       ]
     },
