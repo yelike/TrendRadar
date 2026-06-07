@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T04:17:46.973159+08:00",
-  "total_titles_processed": 453,
+  "generated_at": "2026-06-08T06:10:11.624888+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 06时10分]"
         },
         {
           "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
@@ -25,11 +25,12 @@
           "ranks": [
             8,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 06时10分]"
         },
         {
           "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
@@ -41,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 06时10分]"
         },
         {
           "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
@@ -50,11 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 06时10分]"
         },
         {
           "title": "如何看待美股黑色星期五？如何影响A股？",
@@ -64,8 +66,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 06时10分]"
         },
         {
           "title": "国泰海通：美股或迎来至少一两个月的波动期",
@@ -93,8 +95,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时22分 ~ 04时17分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 06时10分]"
         }
       ]
     }
