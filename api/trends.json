@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T13:27:15.415209+08:00",
-  "total_titles_processed": 748,
+  "generated_at": "2026-06-07T17:23:55.668229+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 13时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 17时23分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 13时27分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 17时23分]"
         },
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -104,11 +105,12 @@
             10,
             8,
             6,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时14分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[04时14分 ~ 17时23分]"
         },
         {
           "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
