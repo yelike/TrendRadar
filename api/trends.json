@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T17:03:23.932482+08:00",
-  "total_titles_processed": 994,
+  "generated_at": "2026-06-12T20:58:16.198382+08:00",
+  "total_titles_processed": 1180,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 17时03分]"
+          "appearance_count": 6,
+          "time_info": "[07时40分 ~ 20时58分]"
         },
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -128,7 +128,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时03分"
         }
@@ -159,8 +159,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 17时03分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 20时58分]"
         },
         {
           "title": "当世界杯首次遇上“去交战国比赛”",
@@ -168,11 +168,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            12
+            12,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 17时03分]"
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 20时58分]"
         }
       ]
     },
@@ -226,9 +227,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时03分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时03分 ~ 20时58分]"
         }
       ]
     }
