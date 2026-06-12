@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T07:41:16.408990+08:00",
-  "total_titles_processed": 544,
+  "generated_at": "2026-06-12T12:27:54.991275+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,30 @@
           "time_info": "[02时20分 ~ 05时26分]"
         },
         {
+          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
+          "url": "https://wallstreetcn.com/articles/3774389",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 12时27分]"
+        },
+        {
+          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
+          "url": "https://www.cls.cn/detail/2397755",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 12时27分]"
+        },
+        {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
           "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
@@ -29,28 +53,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 05时26分]"
-        },
-        {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
-        },
-        {
-          "title": "美股收盘：美伊局势反转纳指升超2.5% 芯片股强反弹费城指数涨8%",
-          "url": "https://www.cls.cn/detail/2397755",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
         },
         {
           "title": "在美股时段交易的费城金银指数收涨5.40%，报328.19点。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数涨4.01%，报2210.21点，美股开盘之前维持微幅下跌状态——持稳于2120点附近，随后微幅震荡上行，北京时间01:28开启一波瞬间加速上涨行情。 在美股时段交易的原材料指数收涨4.24%，报248.30点。 在美股时段交易的金属与矿业指数收涨6.02%，报301.05点，跳空高开之后持续上扬。",
@@ -122,6 +124,46 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "2026 年美加墨世界杯揭幕战，墨西哥 2-0 南非，全场共出示三张红牌，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2048006928291161252",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时40分 ~ 12时27分]"
+        },
+        {
+          "title": "当世界杯首次遇上“去交战国比赛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33356870",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "2026 年世界杯小组赛 A 组，韩国 2-1 逆转捷克，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2048694865580353228",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
@@ -154,26 +196,9 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2026 年美加墨世界杯揭幕战，墨西哥 2-0 南非，全场共出示三张红牌，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048006928291161252",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时40分 ~ 07时41分]"
         }
       ]
     }
