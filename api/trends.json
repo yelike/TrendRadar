@@ -1,116 +1,8 @@
 {
-  "generated_at": "2026-06-14T23:10:05.798799+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-06-15T01:25:16.556082+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "2026 年世界杯小组赛 B 组，卡塔尔补时绝平，1 比 1 绝平瑞士，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048794573590065913",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 D 组，巴西 1 比 1 摩洛哥，无缘开门红，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048794857506698964",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时55分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 B 组，卡塔尔 vs 瑞士，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048794573590065913",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时09分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 D 组，巴西 vs 摩洛哥，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048794857506698964",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时14分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 D 组，澳大利亚 2-0 土耳其，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2048795322877309032",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
-          "url": "https://www.cls.cn/detail/2398916",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 20时02分]"
-        },
-        {
-          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
-          "url": "https://wallstreetcn.com/articles/3774481",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时19分 ~ 06时09分]"
-        },
-        {
-          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
-          "url": "https://www.cls.cn/detail/2398893",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 08时14分]"
-        }
-      ]
-    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -123,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时02分 ~ 23时10分]"
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 01时25分]"
         }
       ]
     }
