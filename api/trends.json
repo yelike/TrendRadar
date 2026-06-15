@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T07:13:55.410817+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-06-15T12:59:24.682639+08:00",
+  "total_titles_processed": 764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "2026 年世界杯小组赛 E 组，德国 vs 库拉索，如何评价本场比赛？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时44分 ~ 07时13分]"
+        },
+        {
+          "title": "2026 年世界杯小组赛 E 组，德国 7-1 库拉索，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2048795584941617877",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         },
         {
           "title": "2026 年世界杯小组赛 F 组，荷兰 vs 日本，如何评价本场比赛？",
@@ -57,8 +68,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时24分 ~ 07时13分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 12时59分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】美伊达成协议，国际油价大跌，美股期货拉涨",
+          "url": "https://www.cls.cn/detail/2399448",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     }
