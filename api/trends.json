@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T14:20:15.895826+08:00",
-  "total_titles_processed": 893,
+  "generated_at": "2026-06-17T19:54:30.647979+08:00",
+  "total_titles_processed": 1134,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时19分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[06时19分 ~ 19时54分]"
         },
         {
           "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
@@ -159,8 +159,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 19时54分]"
         },
         {
           "title": "2026 年世界杯小组赛，法国 3-1 塞内加尔，姆巴佩双响成法国队史射手王，如何评价本场比赛？",
@@ -254,11 +254,12 @@
           "url": "https://www.zhihu.com/question/2050271442697188542",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 19时54分]"
         },
         {
           "title": "曝DeepSeek首轮融资梁文锋出资200亿",
@@ -277,11 +278,12 @@
           "url": "https://www.zhihu.com/question/2050261467174101567",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 19时54分]"
         },
         {
           "title": "DeepSeek首轮融资梁文锋出资200亿",
@@ -329,7 +331,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         },
