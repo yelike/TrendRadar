@@ -1,363 +1,51 @@
 {
-  "generated_at": "2026-06-17T23:47:48.588487+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-06-18T02:29:05.343780+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
         {
           "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
           "url": "https://wallstreetcn.com/articles/3774774",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            1,
-            2
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时19分 ~ 23时47分]"
-        },
-        {
-          "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
-          "url": "https://wallstreetcn.com/articles/3774633",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 06时19分]"
-        },
-        {
-          "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
-          "url": "https://www.cls.cn/detail/2401752",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时22分 ~ 14时20分]"
-        },
-        {
-          "title": "美股期指横盘整理 SpaceX盘前再度大涨 市值逼近亚马逊 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2401513",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 08时22分]"
-        },
-        {
-          "title": "美股收盘：资金轮动道指创新高 芯片股回调、工业板块走强",
-          "url": "https://www.cls.cn/detail/2401731",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时22分 ~ 14时20分]"
-        },
-        {
-          "title": "美股指涨跌互现，SpaceX大涨17%，总市值逼近3万亿美元，存储概念股走高",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时01分 ~ 03时49分]"
-        },
-        {
-          "title": "如何评价经济诺奖得主称马斯克是庞氏骗局， SpaceX 上市让普通投资者被迫买单，会对美股带来什么影响？",
-          "url": "https://www.zhihu.com/question/2049776018660103123",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 06时19分]"
-        },
-        {
-          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
-          "url": "https://wallstreetcn.com/articles/3774852",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 02时29分]"
         },
         {
           "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "美股融资已达历史极限！大摩警告：一场去杠杆风暴正在酝酿",
-          "url": "https://wallstreetcn.com/articles/3774752",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
-        {
-          "title": "投资者权衡美伊协议，拉美股汇走势分化",
-          "url": "https://wallstreetcn.com/livenews/3120500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "美股大类资产类ETF涨跌各异，农产品基金收涨超1%，布油基金跌约4.7%",
-          "url": "https://wallstreetcn.com/livenews/3120490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "半导体ETF收跌4.8%，领跌美股行业ETF，标普金融板块收涨将近1.5%",
-          "url": "https://wallstreetcn.com/livenews/3120489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "阿根廷 3-0 完胜阿尔及利亚，梅西上演帽子戏法，成世界杯历史射手王，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050226064647877593",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 19时54分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛，法国 3-1 塞内加尔，姆巴佩双响成法国队史射手王，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050225721503475331",
-          "source": "知乎",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时22分 ~ 14时20分]"
-        },
-        {
-          "title": "马宁世界杯首场比赛确定",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E6%AF%94%E8%B5%9B%E7%A1%AE%E5%AE%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
-        },
-        {
-          "title": "2026 年世界杯小组赛 I 组，法国 vs 塞内加尔，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050225721503475331",
-          "source": "知乎",
-          "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 02时29分]"
         },
         {
-          "title": "多所高校发出世界杯观赛提醒：凌晨3点的比赛很精彩，但你很脆弱",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33396400",
-          "source": "澎湃新闻",
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
-        },
-        {
-          "title": "法国与塞内加尔时隔 24 年将再次在世界杯相遇，双方比分可能是多少？你对这场比赛还有哪些期待？",
-          "url": "https://www.zhihu.com/question/2050183366909981416",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "第一场比赛就完成帽子戏法，并加冕世界杯历史射手王，梅西这届世界杯的状态是不是出的有点早？",
-          "url": "https://www.zhihu.com/question/2050529457304069127",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 I 组，挪威 4-1 伊拉克，哈兰德双响，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050225917935313621",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "为什么DeepSeek是AI泡沫斩杀线",
-          "url": "https://www.toutiao.com/trending/7651979830128283145/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            4,
-            23,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 08时22分]"
-        },
-        {
-          "title": "Redis 之父为 DeepSeek 抱不平，美国 AI 圈为何再为「蒸馏」开吵？",
-          "url": "https://www.zhihu.com/question/2050271442697188542",
-          "source": "知乎",
-          "ranks": [
-            3,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 19时54分]"
-        },
-        {
-          "title": "曝DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://www.toutiao.com/trending/7651579346738855979/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时48分 ~ 08时22分]"
-        },
-        {
-          "title": "DeepSeek 完成 500 亿融资，估值超 3300 亿，如何解读背后的估值逻辑？将对 AI 领域产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2050261467174101567",
-          "source": "知乎",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时19分 ~ 19时54分]"
-        },
-        {
-          "title": "DeepSeek首轮融资梁文锋出资200亿",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E9%A6%96%E8%BD%AE%E8%9E%8D%E8%B5%84%E6%A2%81%E6%96%87%E9%94%8B%E5%87%BA%E8%B5%84200%E4%BA%BF%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时01分 ~ 00时02分]"
-        },
-        {
-          "title": "DeepSeek为什么此时融资",
-          "url": "https://www.toutiao.com/trending/7652171876302605843/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "time_info": "[02时28分 ~ 02时29分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
-          "url": "https://wallstreetcn.com/livenews/3120568",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时22分"
-        },
         {
           "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
           "url": "https://www.cls.cn/detail/2402553",
@@ -365,31 +53,54 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 02时29分]"
         },
         {
-          "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
-          "url": "https://wallstreetcn.com/livenews/3120751",
+          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3121165",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马宁世界杯首场比赛确定",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E6%AF%94%E8%B5%9B%E7%A1%AE%E5%AE%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时20分"
-        },
+          "appearance_count": 2,
+          "time_info": "[02时28分 ~ 02时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "Kalshi因向谷歌、LinkedIn披露用户活动而被起诉。",
-          "url": "https://wallstreetcn.com/livenews/3120501",
+          "title": "美联储决议声明发布前，标普500指数大致持平，道指涨0.3%，纳指涨0.2%，半导体指数涨3.6%，银行指数涨1.3%。 美元指数涨0.1%，美元兑日元跌0.16%，欧元兑美元跌0.1%，英镑兑美元跌0.2%。 现货黄金涨1.1%，白银涨1.8%。 美国10年期国债收益率跌1.38个基点，报4.4256%，两年期美债收益率涨幅收窄至不足0.5个基点。",
+          "url": "https://wallstreetcn.com/livenews/3121179",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "02时29分"
         }
       ]
     }
