@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-17T19:54:30.647979+08:00",
-  "total_titles_processed": 1134,
+  "generated_at": "2026-06-17T23:47:48.588487+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
+          "url": "https://wallstreetcn.com/articles/3774774",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时19分 ~ 23时47分]"
+        },
         {
           "title": "美伊达成协议，半导体股领涨美股，道指新高，油价重挫5%，黄金三连涨",
           "url": "https://wallstreetcn.com/articles/3774633",
@@ -17,18 +30,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时01分 ~ 06时19分]"
-        },
-        {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时19分 ~ 19时54分]"
         },
         {
           "title": "【早报】油价大跌；美股芯片股集体下挫，道指创新高；法国队取得开门红",
@@ -91,6 +92,28 @@
           "time_info": "[00时01分 ~ 06时19分]"
         },
         {
+          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
+          "url": "https://wallstreetcn.com/articles/3774852",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
+          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
+          "url": "https://wallstreetcn.com/articles/3774887",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
+        },
+        {
           "title": "美股融资已达历史极限！大摩警告：一场去杠杆风暴正在酝酿",
           "url": "https://wallstreetcn.com/articles/3774752",
           "source": "华尔街见闻",
@@ -149,7 +172,7 @@
     },
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "阿根廷 3-0 完胜阿尔及利亚，梅西上演帽子戏法，成世界杯历史射手王，如何评价本场比赛？",
@@ -173,6 +196,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时22分 ~ 14时20分]"
+        },
+        {
+          "title": "马宁世界杯首场比赛确定",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E6%AF%94%E8%B5%9B%E7%A1%AE%E5%AE%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "2026 年世界杯小组赛 I 组，法国 vs 塞内加尔，如何评价本场比赛？",
@@ -311,7 +345,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "汇丰银行与谷歌云宣布达成人工智能银行合作伙伴关系。",
@@ -323,6 +357,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时22分"
+        },
+        {
+          "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
+          "url": "https://www.cls.cn/detail/2402553",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时47分"
         },
         {
           "title": "XREAL联手谷歌发布空间计算眼镜，深度集成Gemini",
