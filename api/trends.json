@@ -1,389 +1,128 @@
 {
-  "generated_at": "2026-06-18T21:32:38.301199+08:00",
-  "total_titles_processed": 1162,
+  "generated_at": "2026-06-19T01:32:08.710605+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 5,
       "titles": [
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
           "url": "https://wallstreetcn.com/articles/3774887",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时43分 ~ 21时32分]"
-        },
-        {
-          "title": "市场静待沃什\"首秀\"，美股指涨跌互现，道指再新高，科技股承压，美油跌近6%",
-          "url": "https://wallstreetcn.com/articles/3774774",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 05时13分]"
-        },
-        {
-          "title": "市场静待沃什首秀，美股指走高，半导体股多数上涨，SpaceX跌幅扩大至4%，油价涨1%",
-          "url": "https://wallstreetcn.com/articles/3774887",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 05时13分]"
-        },
-        {
-          "title": "【早报】美联储转鹰；美股三大指数集体收跌；黄金、白银下跌；葡萄牙队爆冷战平",
-          "url": "https://www.cls.cn/detail/2403010",
-          "source": "财联社热门",
-          "ranks": [
-            5,
             2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时43分 ~ 12时27分]"
+          "time_info": "[01时31分 ~ 01时32分]"
         },
         {
-          "title": "美股收盘：沃什首秀吓坏市场！三大指数尾盘跳水",
-          "url": "https://www.cls.cn/detail/2403003",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时43分 ~ 12时27分]"
-        },
-        {
-          "title": "悬在市场上空的“三大利空”：沃什“鹰鸽不明”，AI“武器化监管”，美股史上最大股票发行潮",
-          "url": "https://wallstreetcn.com/articles/3774852",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时28分 ~ 07时43分]"
-        },
-        {
-          "title": "周三（6月17日），美股存储芯片与硬件供应链指数涨1.78%，报250.51点，过半交易时间持稳于256点附近，北京时间02:00美联储披露经济预期概要（SEP）之后显著回吐涨幅，美联储主席沃什新闻发布会开始后一度冲高至260点上方刷新日高。 成分股西部数据涨超4.5%，应用材料涨超4.3%，希捷科技、美光科技、拉姆研究至少涨超1%，闪迪、Rambus则跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3121255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜周三（6月17日），美国科技股七巨头（Magnificent 7）指数跌2.38%，报210.21点，跳空低开之后持续下挫，北京时间02:00美联储宣布按兵不动、披露经济预期概要（SEP）后显著地加速下跌，美联储主席凯文·沃什新闻发布会开始后再度加速下跌。 “超大”市值科技股指数跌1.56%，报432.59点，美联储决议声明发布后显著下挫，沃什新闻发布会开始之后冲高回落。",
-          "url": "https://wallstreetcn.com/livenews/3121254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "风险偏好重燃，美股盘前半导体股大涨，英特尔涨近9%，日元创近两年新低，黄金向上触及4300美元",
+          "title": "风险偏好重燃，美股高开，半导体股普涨，英特尔涨9%，SpaceX跌6%，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3774963",
           "source": "华尔街见闻",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3121716",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
-        },
-        {
-          "title": "周三（6月17日），美股降息赢家指数跌2.29%，报93.60点，彭博数据显示，北京时间21:51（美股盘初）曾瞬间跳水至零，02:00美联储决议声明发布后转跌。",
-          "url": "https://wallstreetcn.com/livenews/3121251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "周三（6月17日），美股行业ETF普遍收跌，网络股指数ETF跌2.89%，可选消费ETF、日常消费品等至多跌2.51%，区域银行ETF、银行业ETF、能源业ETF、全球航空业ETF至多跌1.90%，半导体指数ETF则涨1.29%。",
-          "url": "https://wallstreetcn.com/livenews/3121250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "金十图示：2026年06月17日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260618040640588800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         },
         {
           "title": "市场消化美联储鹰派信号 美股期指反弹 英特尔盘前大涨近9% | 今夜看点",
           "url": "https://www.cls.cn/detail/2403938",
           "source": "财联社热门",
           "ranks": [
-            11
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
+        },
+        {
+          "title": "金十图示：2026年06月18日（周四）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260619010926778800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时32分"
+          "time_info": "01时32分"
         },
         {
-          "title": "金十图示：2026年06月17日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260618040638076800",
+          "title": "金十图示：2026年06月18日（周四）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260619010902799800",
           "source": "金十数据",
           "ranks": [
-            11
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "美股收盘：沃什美联储首秀 三大股指集体收跌",
-          "url": "https://flash.jin10.com/detail/20260618040054736800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
-        },
-        {
-          "title": "美股盘前，半导体股普涨，英特尔涨近9%",
-          "url": "https://wallstreetcn.com/livenews/3121558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "英特尔美股盘前涨近7%，特朗普称将帮助英特尔，因为我们需要设计和制造芯片。",
-          "url": "https://wallstreetcn.com/livenews/3121546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "美股费城银行指数转跌，此前一度涨1.6%。",
-          "url": "https://wallstreetcn.com/livenews/3121232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "time_info": "01时32分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "2026 年世界杯小组赛 K 组，葡萄牙 vs 民主刚果，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050226673845363935",
-          "source": "知乎",
+          "title": "世界杯小组赛第一轮比赛结束",
+          "url": "https://www.douyin.com/hot/2539722",
+          "source": "抖音",
           "ranks": [
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时13分 ~ 07时43分]"
-        },
-        {
-          "title": "马宁世界杯首场比赛确定",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E5%AE%81%E4%B8%96%E7%95%8C%E6%9D%AF%E9%A6%96%E5%9C%BA%E6%AF%94%E8%B5%9B%E7%A1%AE%E5%AE%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时28分 ~ 12时27分]"
-        },
-        {
-          "title": "2026 年世界杯小组赛 L 组，英格兰 vs 克罗地亚，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050579215670678850",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
-          "title": "世界杯再出冷门，葡萄牙 1-1 战平民主刚果，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050226673845363935",
-          "source": "知乎",
-          "ranks": [
-            1,
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时27分 ~ 17时29分]"
+          "time_info": "[01时31分 ~ 01时32分]"
         },
         {
-          "title": "时隔24年中国裁判再次主哨世界杯，马宁将担任小组赛第二轮比赛主裁判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33401814",
-          "source": "澎湃新闻",
+          "title": "美国世界杯比赛现场美食",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%BE%8E%E9%A3%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            18
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "Faker拍谷歌广告血赚7个亿",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355258&amp;topic_name=Faker%E6%8B%8D%E8%B0%B7%E6%AD%8C%E5%B9%BF%E5%91%8A%E8%A1%80%E8%B5%9A7%E4%B8%AA%E4%BA%BF",
           "source": "贴吧",
           "ranks": [
-            5,
-            8,
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 21时32分]"
-        },
-        {
-          "title": "台积电产能告急！三星代工需求火热：谷歌、英伟达、AMD都来了…",
-          "url": "https://www.cls.cn/detail/2402553",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时28分 ~ 05时13分]"
-        },
-        {
-          "title": "OpenAI的CEO Altman、谷歌公司高管Hassabis、Anthropic的CEO Amodei、Meta高管Wang、Mistral AI高管Mensch、Cohere高管Gomez、Salesforce高管Benioff出席（美国）AI会议。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3121165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "沃什“首秀”美联储放鹰，三大美股指转跌，美元拉升，美债黄金跳水",
           "url": "https://wallstreetcn.com/articles/3774939",
           "source": "华尔街见闻",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 21时32分]"
-        },
-        {
-          "title": "美联储决议声明发布前，标普500指数大致持平，道指涨0.3%，纳指涨0.2%，半导体指数涨3.6%，银行指数涨1.3%。 美元指数涨0.1%，美元兑日元跌0.16%，欧元兑美元跌0.1%，英镑兑美元跌0.2%。 现货黄金涨1.1%，白银涨1.8%。 美国10年期国债收益率跌1.38个基点，报4.4256%，两年期美债收益率涨幅收窄至不足0.5个基点。",
-          "url": "https://wallstreetcn.com/livenews/3121179",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时29分"
-        },
-        {
-          "title": "两年期美债收益率于美联储利率决议日涨约13.3个基点，两年期实际收益率也在沃什首秀日涨约20个基点",
-          "url": "https://wallstreetcn.com/livenews/3121268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 6 月 16 日 DeepSeek 网页端 /App 中的「快速模式」思维链发生明显变化？",
-          "url": "https://www.zhihu.com/question/2050272536898835791",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 21时32分]"
+          "appearance_count": 2,
+          "time_info": "[01时31分 ~ 01时32分]"
         }
       ]
     }
