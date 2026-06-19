@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-19T09:49:11.451415+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-06-19T15:15:45.396346+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 09时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 15时15分]"
         },
         {
           "title": "美联储鹰派转向，美股债遭“双杀”，SpaceX首度收跌，芯片指数逆市收涨，黄金下挫",
@@ -50,8 +51,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时15分]"
         },
         {
           "title": "新兴市场ETF收涨超3.2%，与纳指ETF领跑美股大类资产类ETF",
@@ -178,7 +179,7 @@
     },
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "世界杯小组赛第一轮比赛结束",
@@ -192,17 +193,6 @@
           "time_info": "[01时31分 ~ 09时49分]"
         },
         {
-          "title": "2026 年世界杯小组赛 B 组，加拿大 6-0 卡塔尔，加拿大队科内小腿重伤折断，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2050229300993814782",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
-        },
-        {
           "title": "美国世界杯比赛现场美食",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AF%94%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%BE%8E%E9%A3%9F",
           "source": "bilibili 热搜",
@@ -214,6 +204,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时31分 ~ 06时59分]"
+        },
+        {
+          "title": "世界杯小组赛 A 组，墨西哥 1:0 韩国提前出线，韩国门将失误孙兴慜 0 射门，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050229431092733522",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "2026 年世界杯小组赛 B 组，加拿大 6-0 卡塔尔，加拿大队科内小腿重伤折断，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050229300993814782",
+          "source": "知乎",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时15分]"
         },
         {
           "title": "2026 年世界杯小组赛 A 组，捷克 vs 南非，如何评价本场比赛？",
@@ -279,6 +292,35 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 15时15分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 的识图模式？",
+          "url": "https://www.zhihu.com/question/2032903059739767247",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -289,11 +331,12 @@
           "ranks": [
             12,
             13,
-            14
+            14,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时31分 ~ 09时49分]"
+          "appearance_count": 9,
+          "time_info": "[01时31分 ~ 15时15分]"
         },
         {
           "title": "周四（6月18日），美股超大规模云服务商（Hyperscalers）涨1.39%，报95.20点。 成分股中，亚马逊收涨2.90%，Meta涨1.70%，谷歌A涨1.17%，甲骨文涨0.41%，微软涨0.13%。",
@@ -305,23 +348,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "融资消息曝光后DeepSeek上线识图模式，但认不出梁文锋",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33408923",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
         }
       ]
     }
