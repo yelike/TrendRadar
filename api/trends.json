@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T14:33:38.318598+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-06-22T20:53:50.089187+08:00",
+  "total_titles_processed": 1120,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "2026 年世界杯小组赛 H 组，西班牙 vs 沙特阿拉伯，如何评价本场比赛？",
@@ -73,15 +73,26 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        },
+        {
+          "title": "央视直播世界杯日本 vs 突尼斯比赛收视率超 3%，这是什么水平？可能受哪些因素影响？",
+          "url": "https://www.zhihu.com/question/2052060271871353728",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -93,6 +104,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时48分 ~ 06时18分]"
+        },
+        {
+          "title": "美伊达成协议文件，美股盘前芯片股集体走高，英镑逼近年内低位，油价冲高回落，金价反弹",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         },
         {
           "title": "美股股指期货周一低开，其中纳指期货跌0.5%。",
@@ -112,9 +134,26 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
+          "url": "https://wallstreetcn.com/articles/3775170",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时53分"
         }
       ]
     }
