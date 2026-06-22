@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T08:17:18.866940+08:00",
-  "total_titles_processed": 622,
+  "generated_at": "2026-06-22T14:33:38.318598+08:00",
+  "total_titles_processed": 877,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "2026 年世界杯小组赛 H 组，西班牙 vs 沙特阿拉伯，如何评价本场比赛？",
@@ -40,7 +40,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -51,7 +51,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -65,12 +65,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时48分 ~ 04时27分]"
+        },
+        {
+          "title": "2026 年世界杯小组赛 H 组，乌拉圭 2-2 佛得角，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050231811406394080",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技牛市又推动一项美股新纪录 莫斯科再遭乌大规模无人机袭击 | 环球市场",
@@ -93,6 +104,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "A股氟化工板块持续走高，巨化股份午后涨停，多氟多此前封板，三美股份、永和股份、金石资源、昊华科技等跟涨。",
+          "url": "https://wallstreetcn.com/livenews/3122545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     }
