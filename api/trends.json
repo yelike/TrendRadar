@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-22T06:18:50.811447+08:00",
-  "total_titles_processed": 494,
+  "generated_at": "2026-06-22T08:17:18.866940+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "2026 年世界杯小组赛 H 组，西班牙 vs 沙特阿拉伯，如何评价本场比赛？",
@@ -32,6 +32,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时48分 ~ 02时22分]"
+        },
+        {
+          "title": "2026 年世界杯小组赛 H 组，西班牙 4-0 沙特阿拉伯，升小组第一，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050231491490047949",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
+        },
+        {
+          "title": "2026 年世界杯小组赛 G 组，比利时 0-0 伊朗，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2050231638596876231",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时17分"
         },
         {
           "title": "世界杯史上第1000场比赛，日本4比0突尼斯",
@@ -68,7 +90,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
         }
