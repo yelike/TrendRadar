@@ -1,8 +1,97 @@
 {
-  "generated_at": "2026-06-24T02:04:01.409063+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-24T05:02:46.535781+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "新兴市场ETF收跌将近5.7%，与纳指ETF领跌美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3123636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 05时02分]"
+        },
+        {
+          "title": "周二（6月23日），美股行业ETF多数收涨，区域银行ETF收涨2.55%，医疗业ETF、银行业ETF、能源业ETF也至多涨2.31%，网络股指数ETF则收跌0.49%，可选消费ETF跌2.71%，科技行业ETF跌3.67%，全球科技股指数ETF跌5.33%，半导体ETF跌7.01%。",
+          "url": "https://wallstreetcn.com/livenews/3123632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "周二（6月23日），彭博电动汽车价格回报指数跌4.43%，报3591.03点，亚太盘初短暂地微幅上扬，随后持续走低，美股开盘后跌幅略微扩大。 成分股中，意法半导体法国巴黎股价收跌8.53%，安霸股份跌约7.4%，小马智行ADR跌约6.6%，特斯拉跌约5.7%，文远知行ADR跌约5%，港股雅迪集团控股、速腾聚创科技、中创新航科技集团、小米集团、地平线、理想收跌4.88%-4.32%，吉利汽车控股H股则收涨2.12%表现第二，Ola Electric Mobility Ltd.收涨2.61%。",
+          "url": "https://wallstreetcn.com/livenews/3123630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美股半导体指数初步收跌约7.9%，创6月5日以来最差单日表现。 标普500指数初步收跌1.3%，科技板块跌3.4%，工业、原材料板块至多跌1.9%，房地产、保健、日用消费品板块至多涨1.8%。 纳斯达克100指数初步收跌3.2%，成分股中，闪迪初步收跌13.7%，美光科技跌3.1%，Arm控股跌10.1%，西部数据、美满电子、阿斯麦ADR至少跌约8%，英特尔跌6%，英伟达跌4%，汤森路透涨5.6%，Axon涨5.8%。 IBM初步收涨4.8%，Merck涨3.6%，领跑道指成分股，波音跌1.7%，霍尼韦尔跌2.4%，卡特彼勒跌3.5%，与英伟达表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3123625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "世界杯小组赛 K 组，葡萄牙 vs 乌兹别克斯坦，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2052725785111311031",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "美加墨世界杯的安全与挑战：当足球比赛遇到雷暴预警",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33435654",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 05时02分]"
+        }
+      ]
+    },
     {
       "keyword_group": "美债",
       "match_count": 2,
@@ -15,8 +104,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 05时02分]"
         },
         {
           "title": "“空头”末日预言：AI“强弩之末”，美股最快Q3见顶、跌幅30-50%，美版YCC和美债大重组，私募信贷危机待引爆",
@@ -26,8 +115,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
+          "appearance_count": 3,
+          "time_info": "[02时03分 ~ 05时02分]"
         }
       ]
     },
@@ -41,40 +130,6 @@
           "source": "知乎",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美加墨世界杯的安全与挑战：当足球比赛遇到雷暴预警",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33435654",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时03分 ~ 02时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
