@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T12:03:04.659750+08:00",
-  "total_titles_processed": 809,
+  "generated_at": "2026-06-25T16:26:48.052231+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -102,6 +102,39 @@
           "time_info": "01时09分"
         },
         {
+          "title": "携程(TCOM.O)美股盘前下跌13.5%，因其第一季度业绩不佳。",
+          "url": "https://flash.jin10.com/detail/20260625160923124800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "美股盘前：存储板块大涨，美光科技涨约18%",
+          "url": "https://wallstreetcn.com/livenews/3124530",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "高通供应商Arm(ARM.O)美股盘前上涨6%，因高通上调了长期数据中心和非手机业务的收入目标。",
+          "url": "https://flash.jin10.com/detail/20260625160723023800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异",
           "url": "https://wallstreetcn.com/livenews/3124233",
           "source": "华尔街见闻-快讯",
@@ -159,59 +192,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "世界杯小组赛 C 组，巴西 3-0 战胜苏格兰头名出线，内马尔替补登场，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053071755242103665",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
-          "title": "世界杯小组赛 A 组，南非 1-0 韩国，首次晋级淘汰赛，韩国小组第三出线待定，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053071920468439136",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        },
-        {
-          "title": "如何看待本次美国世界杯场馆没有遮雨棚，比赛期间暴雨所有观众和媒体都被惨浇，不装顶棚是因为气候还是成本？",
-          "url": "https://www.zhihu.com/question/2052696986457827081",
-          "source": "知乎",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时09分 ~ 12时03分]"
-        },
-        {
-          "title": "头条世界杯｜50场比赛打进148球，B组基本锁定三队出线",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449066",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
@@ -245,6 +227,121 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        },
+        {
+          "title": "美股AI芯片股盘前涨跌不一，高通(QCOM.O)大涨13%，英特尔(INTC.O)涨近6%，AMD(AMD.O)涨近4%，百度(BIDU.O)跌2%，谷歌(GOOG.O)跌1.4%。",
+          "url": "https://flash.jin10.com/detail/20260625160211701800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "世界杯小组赛 A 组，南非 1-0 韩国，首次晋级淘汰赛，韩国小组第三出线待定，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053071920468439136",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时26分]"
+        },
+        {
+          "title": "世界杯小组赛 C 组，巴西 3-0 战胜苏格兰头名出线，内马尔替补登场，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053071755242103665",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时02分 ~ 12时03分]"
+        },
+        {
+          "title": "如何看待本次美国世界杯场馆没有遮雨棚，比赛期间暴雨所有观众和媒体都被惨浇，不装顶棚是因为气候还是成本？",
+          "url": "https://www.zhihu.com/question/2052696986457827081",
+          "source": "知乎",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时09分 ~ 12时03分]"
+        },
+        {
+          "title": "头条世界杯｜50场比赛打进148球，B组基本锁定三队出线",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449066",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时02分 ~ 16时26分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 01时09分]"
+        },
+        {
+          "title": "黄金价格年内下跌超5%",
+          "url": "https://www.toutiao.com/trending/7655161705609039366/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时26分"
         }
       ]
     },
@@ -284,34 +381,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://www.douyin.com/hot/2546511",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 01时09分]"
-        },
-        {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时02分 ~ 12时03分]"
         }
       ]
     },
