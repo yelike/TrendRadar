@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T01:55:15.917923+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-06-27T03:58:25.949243+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时58分]"
         },
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
           "url": "https://www.zhihu.com/question/2053625552725079594",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时58分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时58分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -54,8 +55,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时58分]"
         }
       ]
     },
@@ -68,11 +69,12 @@
           "url": "https://www.zhihu.com/question/2053791037974483526",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 01时55分]"
+          "appearance_count": 3,
+          "time_info": "[01时54分 ~ 03时58分]"
         }
       ]
     }
