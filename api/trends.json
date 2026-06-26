@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-27T03:58:25.949243+08:00",
-  "total_titles_processed": 393,
+  "generated_at": "2026-06-27T05:25:46.394409+08:00",
+  "total_titles_processed": 468,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
+        {
+          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
+          "url": "https://www.zhihu.com/question/2053625552725079594",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
+        },
         {
           "title": "所有部门规模至少扩大一倍！DeepSeek发布“英雄帖”：人类正处于AGI前夜",
           "url": "https://m.thepaper.cn/newsDetail_forward_33454877",
@@ -15,20 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时58分]"
-        },
-        {
-          "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
-          "url": "https://www.zhihu.com/question/2053625552725079594",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -55,8 +56,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         }
       ]
     },
@@ -70,11 +71,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            11
+            11,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 03时58分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 05时25分]"
         }
       ]
     }
