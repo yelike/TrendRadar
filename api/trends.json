@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T11:56:12.171282+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-06-27T14:58:16.271210+08:00",
+  "total_titles_processed": 882,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 14时58分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -37,8 +37,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 14时58分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -49,8 +49,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时13分 ~ 11时56分]"
+          "appearance_count": 5,
+          "time_info": "[07时13分 ~ 14时58分]"
         },
         {
           "title": "AI投资可持续性遭质疑 美股期指集体走低 芯片股再度承压 | 今夜看点",
@@ -71,8 +71,19 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 14时58分]"
+        },
+        {
+          "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
+          "url": "https://wallstreetcn.com/articles/3775664",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
+          "time_info": "[14时57分 ~ 14时58分]"
         },
         {
           "title": "医疗业ETF收涨3%，与生物科技ETF领跑美股行业ETF",
@@ -89,8 +100,19 @@
     },
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "世界杯小组赛 H 组，佛得角 0-0 战平沙特阿拉伯，淘汰赛将对阵阿根廷，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053875905722672839",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时55分 ~ 14时58分]"
+        },
         {
           "title": "世界杯小组赛 I 组，挪威 vs 法国，如何评价本场比赛？哈兰德和姆巴佩会上演进球大战吗？",
           "url": "https://www.zhihu.com/question/2053791037974483526",
@@ -104,17 +126,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时54分 ~ 07时13分]"
-        },
-        {
-          "title": "世界杯小组赛 H 组，佛得角 0-0 战平沙特阿拉伯，淘汰赛将对阵阿根廷，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2053875905722672839",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 11时56分]"
         },
         {
           "title": "世界杯小组赛 I 组，法国 4 比 1 挪威，登贝莱半场帽子戏法，哈兰德姆巴佩王不见王，如何评价本场比赛？",
@@ -137,6 +148,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时55分 ~ 11时56分]"
+        },
+        {
+          "title": "世界杯小组赛 G 组，埃及 1-1 伊朗，哈利勒扎德绝杀无效，伊朗小组第 3，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2053876403502674506",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时57分 ~ 14时58分]"
         }
       ]
     },
