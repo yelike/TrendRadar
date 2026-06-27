@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T05:11:17.706898+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-06-28T07:09:12.146624+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时09分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -26,19 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时09分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
           "url": "https://wallstreetcn.com/articles/3775664",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时09分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -49,8 +50,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时09分]"
         }
       ]
     },
@@ -64,22 +65,24 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时09分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
           "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时17分 ~ 05时11分]"
+          "appearance_count": 5,
+          "time_info": "[01时17分 ~ 07时09分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -87,11 +90,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时17分 ~ 03时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时17分 ~ 07时09分]"
         }
       ]
     }
