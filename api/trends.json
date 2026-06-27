@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T21:54:13.074160+08:00",
-  "total_titles_processed": 1256,
+  "generated_at": "2026-06-27T23:20:29.176095+08:00",
+  "total_titles_processed": 1346,
   "failed_sources": [],
   "trends": [
     {
@@ -33,39 +33,42 @@
           "time_info": "[01时54分 ~ 07时13分]"
         },
         {
-          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
-          "url": "https://www.zhihu.com/question/2050591443664779181",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时33分 ~ 21时54分]"
-        },
-        {
           "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2054255700407055156",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时20分]"
         },
         {
           "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
           "url": "https://wallstreetcn.com/articles/3775676",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时53分 ~ 21时54分]"
+          "appearance_count": 3,
+          "time_info": "[21时53分 ~ 23时20分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
+          "url": "https://www.zhihu.com/question/2050591443664779181",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时33分 ~ 23时20分]"
         },
         {
           "title": "北大与DeepSeek联合开源DSpark框架，高并发下生成速度提升超60%",
@@ -116,19 +119,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时55分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[11时55分 ~ 23时20分]"
         },
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
           "url": "https://www.cls.cn/detail/2410784",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时55分 ~ 21时54分]"
+          "appearance_count": 9,
+          "time_info": "[11时55分 ~ 23时20分]"
         },
         {
           "title": "美股收盘：三大指数小幅收跌 存储概念股全线重挫",
@@ -136,11 +140,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时13分 ~ 21时54分]"
+          "appearance_count": 10,
+          "time_info": "[07时13分 ~ 23时20分]"
         },
         {
           "title": "美股连跌的“核心逻辑”:“最大权重”Mag 7陨落",
@@ -152,8 +157,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时57分 ~ 21时54分]"
+          "appearance_count": 7,
+          "time_info": "[14时57分 ~ 23时20分]"
         },
         {
           "title": "科技股拖累全球股市，美股指下挫，光通信板块普跌，美光跌6%，金银走高，油价跌近4%",
