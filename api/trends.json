@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T19:12:22.824011+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-06-28T22:00:15.602627+08:00",
+  "total_titles_processed": 1124,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,19 @@
           "time_info": "[01时17分 ~ 07时09分]"
         },
         {
+          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
+          "url": "https://www.cls.cn/detail/2411046",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时25分 ~ 22时00分]"
+        },
+        {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
           "url": "https://www.zhihu.com/question/2050591443664779181",
           "source": "知乎",
@@ -47,33 +60,22 @@
           "time_info": "[01时17分 ~ 07时09分]"
         },
         {
-          "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
-          "url": "https://www.cls.cn/detail/2411046",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时25分 ~ 19时12分]"
-        },
-        {
           "title": "豆包和DeepSeek的博弈",
           "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=19&Refer=top",
           "source": "微博",
           "ranks": [
-            19
+            19,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 22时00分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】美军再次对伊朗发动打击；美股半导体指数重挫5.29%；油价走低、黄金收涨；法国4-1击败挪威小组第一出线",
@@ -121,41 +123,35 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时17分 ~ 07时09分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英格兰 2-0 击败巴拿马，小组头名出线，凯恩独享英格兰队史世界杯射手王，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2054242044856328322",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时18分"
         },
         {
-          "title": "德法或提前相遇！美加墨世界杯32强对阵表、比赛时间来了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470810",
-          "source": "澎湃新闻",
+          "title": "美股近一个月触发7次，“兴登堡预兆”有多准？A股准确率高达92%！",
+          "url": "https://wallstreetcn.com/articles/3775701",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时59分 ~ 22时00分]"
+        },
         {
           "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
           "url": "https://flash.jin10.com/detail/20260628133655032800",
@@ -166,6 +162,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德法或提前相遇！美加墨世界杯32强对阵表、比赛时间来了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470810",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时12分 ~ 22时00分]"
+        },
+        {
+          "title": "英格兰 2-0 击败巴拿马，小组头名出线，凯恩独享英格兰队史世界杯射手王，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2054242044856328322",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
         }
       ]
     }
