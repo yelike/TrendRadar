@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T22:00:15.602627+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-06-28T23:25:10.830881+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,21 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时25分 ~ 23时25分]"
+        },
+        {
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            7,
+            15
+          ],
+          "is_new": false,
           "appearance_count": 5,
-          "time_info": "[16时25分 ~ 22时00分]"
+          "time_info": "[19时12分 ~ 23时25分]"
         },
         {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时17分 ~ 07时09分]"
-        },
-        {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 22时00分]"
         }
       ]
     },
@@ -129,11 +130,12 @@
           "url": "https://wallstreetcn.com/articles/3775701",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时25分]"
         }
       ]
     },
@@ -149,8 +151,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时59分 ~ 22时00分]"
+          "appearance_count": 4,
+          "time_info": "[21时59分 ~ 23时25分]"
         },
         {
           "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
@@ -178,8 +180,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时12分 ~ 22时00分]"
+          "appearance_count": 5,
+          "time_info": "[19时12分 ~ 23时25分]"
         },
         {
           "title": "英格兰 2-0 击败巴拿马，小组头名出线，凯恩独享英格兰队史世界杯射手王，如何评价本场比赛？",
