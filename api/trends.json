@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-29T07:10:05.658673+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-06-29T12:25:50.294135+08:00",
+  "total_titles_processed": 715,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 12时25分]"
         },
         {
           "title": "美股三大股指期货盘初小幅拉升，纳指期货现涨0.4%。",
@@ -26,7 +26,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         },
@@ -37,7 +37,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
@@ -83,11 +83,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 12时25分]"
         },
         {
           "title": "世界杯淘汰赛 1/16 决赛，南非 vs 加拿大，如何评价本场比赛？",
@@ -111,11 +112,12 @@
           "url": "https://wallstreetcn.com/articles/3775694",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时19分 ~ 07时10分]"
+          "appearance_count": 6,
+          "time_info": "[01时19分 ~ 12时25分]"
         }
       ]
     }
