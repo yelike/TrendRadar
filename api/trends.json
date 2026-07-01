@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-01T18:00:29.802643+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-07-01T20:42:10.855079+08:00",
+  "total_titles_processed": 1220,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时59分 ~ 20时42分]"
+        },
         {
           "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
           "url": "https://www.cls.cn/detail/2413612",
@@ -31,24 +42,13 @@
           "time_info": "[08时12分 ~ 13时28分]"
         },
         {
-          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
-          "url": "https://www.cls.cn/detail/2413957",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时59分 ~ 18时00分]"
-        },
-        {
           "title": "美股二季度太亮眼，连华尔街多头都在防大幅回撤",
           "url": "https://flash.jin10.com/detail/20260701173713822800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时00分"
         },
@@ -65,6 +65,18 @@
           "time_info": "[02时02分 ~ 08时13分]"
         },
         {
+          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3775893",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 20时42分]"
+        },
+        {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
@@ -76,15 +88,15 @@
           "time_info": "[02时02分 ~ 05时01分]"
         },
         {
-          "title": "“炒币”高手特朗普！官方披露2025年加密货币业务斩获超10亿美元，重仓美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3775893",
+          "title": "市场等待沃什讲话与非农数据，美股盘前存储芯片股走低，康宁跌超4%，黄金再跌1%",
+          "url": "https://wallstreetcn.com/articles/3775932",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 18时00分]"
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，上半年布油基金涨超43%，新兴市场ETF、纳指ETF等涨超20%",
@@ -121,6 +133,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时21分]"
+        },
+        {
+          "title": "美股盘前三大股指期货下跌",
+          "url": "https://www.douyin.com/hot/2554626",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "美股七巨头收盘播报｜美国科技股七巨头（Magnificent 7）指数6月份累计下跌8.9%，创2025年3月份以来最差单月表现。",
@@ -218,7 +241,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时00分"
         },
@@ -339,7 +362,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -350,8 +373,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时12分 ~ 18时00分]"
+          "appearance_count": 7,
+          "time_info": "[08时12分 ~ 20时42分]"
         },
         {
           "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
@@ -364,6 +387,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时21分]"
+        },
+        {
+          "title": "美国国债收益率在ADP就业数据公布后略微回落，10年期美债收益率最新上涨6.31个基点，报4.485%。",
+          "url": "https://flash.jin10.com/detail/20260701201812572800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     },
@@ -383,6 +417,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时02分 ~ 08时13分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "世界黄金协会：亚洲投资者（及消费者）在价格发现和金价走向中日益重要",
+          "url": "https://wallstreetcn.com/livenews/3127404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
         }
       ]
     }
