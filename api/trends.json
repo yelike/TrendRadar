@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-07-01T06:21:18.396571+08:00",
-  "total_titles_processed": 473,
+  "generated_at": "2026-07-01T08:13:14.750833+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "【早报】多只A股公司业绩大增；美股存储概念半年涨超3倍；黄金、原油收跌；法国、挪威晋级世界杯16强",
+          "url": "https://www.cls.cn/detail/2413612",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时12分 ~ 08时13分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升道指刷新高 费城半导体指数半年翻倍",
+          "url": "https://www.cls.cn/detail/2413598",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时12分 ~ 08时13分]"
+        },
         {
           "title": "美股冲击近6年最强季度表现 美伊代表齐赴多哈 | 今夜看点",
           "url": "https://www.cls.cn/detail/2413394",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时21分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时13分]"
         },
         {
           "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
@@ -84,7 +107,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -150,7 +173,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -175,6 +198,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "世界杯 1/16 决赛，法国 3-0 淘汰瑞典，姆巴佩双响、世界杯 18 场 18 球，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055237822475408966",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时12分 ~ 08时13分]"
+        },
+        {
+          "title": "世界杯 1/16 决赛，挪威 2-1 科特迪瓦，下场将战巴西，哈兰德绝杀，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055237467478005531",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时12分 ~ 08时13分]"
+        },
+        {
+          "title": "世界杯 1/16 决赛，科特迪瓦 vs 挪威，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055237467478005531",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时21分]"
+        },
+        {
+          "title": "世界杯 1/16 决赛，法国 vs 瑞典，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055237822475408966",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
@@ -211,38 +285,38 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "世界杯 1/16 决赛，科特迪瓦 vs 挪威，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2055237467478005531",
-          "source": "知乎",
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时00分 ~ 06时21分]"
+          "appearance_count": 2,
+          "time_info": "[08时12分 ~ 08时13分]"
         },
         {
-          "title": "世界杯 1/16 决赛，法国 vs 瑞典，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2055237822475408966",
-          "source": "知乎",
+          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
+          "url": "https://wallstreetcn.com/livenews/3126968",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            17,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时01分 ~ 06时21分]"
         }
       ]
     },
@@ -256,29 +330,12 @@
           "source": "知乎",
           "ranks": [
             1,
-            6
+            6,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时02分 ~ 06时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "6月份两年期美债实际收益率涨超77个基点，二季度两年期收益率涨超35个基点",
-          "url": "https://wallstreetcn.com/livenews/3126968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 06时21分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 08时13分]"
         }
       ]
     }
