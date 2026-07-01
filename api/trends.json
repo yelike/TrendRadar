@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T04:49:57.954857+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-07-02T06:22:41.374930+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
@@ -27,8 +27,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         },
         {
           "title": "美股低开 算力租赁商、存储股大跌",
@@ -47,33 +47,36 @@
           "url": "https://wallstreetcn.com/livenews/3127610",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时22分]"
         },
         {
           "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260702040547223800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时22分]"
         },
         {
           "title": "周三（7月1日），美股行业ETF涨跌各异，金融业ETF收涨2.18%，网络股指数ETF、区域银行ETF、银行业ETF至少涨1.70%，能源业ETF跌0.56%，工业指数ETF、公用事业ETF至多跌1.26%，科技行业ETF跌2.57%，全球科技股指数ETF跌3.17%，半导体ETF跌5.40%。 标普500指数的11个板块中，信息技术/科技板块收跌1.84%，能源板块跌0.56%，金融板块涨2.13%，电信板块涨2.62%。",
           "url": "https://wallstreetcn.com/livenews/3127607",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时49分 ~ 06时22分]"
         },
         {
           "title": "金十图示：2026年07月01日（周三）热门中概股行情一览（美股收盘）",
@@ -82,9 +85,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "周三（7月1日）纽约尾盘，现货黄金涨0.57%，报4030.87美元/盎司，日内交投于3960.30-4115.66美元区间，北京时间21:30美股开盘前后显著拉升。 现货白银涨0.90%，报59.0942美元/盎司。 COMEX铜期货跌1.61%，报6.1530美元/磅，日内绝大部分时间处于下跌状态。 现货铂金涨1.74%，现货钯金涨0.27%。",
+          "url": "https://wallstreetcn.com/livenews/3127621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美股收盘：金龙指数涨近3% 美光、闪迪跌10%",
@@ -93,7 +107,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         },
@@ -126,9 +140,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
+        },
+        {
+          "title": "美国财政部：特朗普账户的注资将投资于SPYM ETF。 SPYM将被视作所有账户的默认投资标的。 道富银行ETF（State Street SPDR Portfolio标普500 ETF）将是“特朗普账户”的默认投资（标的）。 iShares核心标普500 ETF、Vanguard Total Stock Market ETF、State Street SPDR Portfolio标普1500综合股市ETF、iShares核心标普总体美股ETF也被列入“投资（标的）阵容”。",
+          "url": "https://wallstreetcn.com/livenews/3127612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美银：机构客户抛售科技股 连续第四周成为美股主要净卖方",
@@ -140,6 +165,58 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时03分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（7月1日），美国科技股七巨头（Magnificent 7）指数涨1.43%，报210.60点，美股早盘持续上扬、北京时间23:00以来持续高位窄幅震荡。成分股Meta Platforms收涨8.8%，创1月29日以来最大单日涨幅。 “超大”市值科技股指数跌0.13%，报433.52点。",
+          "url": "https://wallstreetcn.com/livenews/3127602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "美股存储芯片指数收跌超9%，成分股泰瑞达、闪迪、美光跌超10%",
+          "url": "https://wallstreetcn.com/livenews/3127601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "世界杯 1/16 决赛，英格兰 vs 刚果金，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055624616605922427",
+          "source": "知乎",
+          "ranks": [
+            15,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
+        },
+        {
+          "title": "世界杯 1/16 决赛，比利时 vs 塞内加尔，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2055629959377444878",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         }
       ]
     },
@@ -155,8 +232,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         },
         {
           "title": "周三（7月1日）纽约尾盘，美国10年期国债收益率涨0.99个基点，报4.4752%，美股开盘前后出现一波冲高回落行情、北京时间21:08刷新日高至4.4970% 两年期美债收益率大致持平，报4.1702%，21:08刷新日高至4.1971%、随后快速回撤、22:09刷新日低至4.1311%；30年期美债收益率涨1.40个基点，报4.9653%。 2/10年期美债收益率利差涨1.817个基点，报+30.495个基点。 10年期通胀保值国债（TIPS）收益率涨0.85个基点，至2.2305%；两年期TIPS收益率跌0.77个基点，至2.1636%；30年期TIPS收益率涨0.82个基点，至2.7870%。",
@@ -165,7 +242,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时49分"
         }
@@ -181,11 +258,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         }
       ]
     },
@@ -207,24 +285,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世界杯 1/16 决赛，英格兰 vs 刚果金，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2055624616605922427",
-          "source": "知乎",
-          "ranks": [
-            15,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时49分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -234,11 +294,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时02分 ~ 04时49分]"
+          "appearance_count": 4,
+          "time_info": "[02时02分 ~ 06时22分]"
         }
       ]
     }
