@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-03T21:02:31.823816+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-07-03T23:20:52.587257+08:00",
+  "total_titles_processed": 1436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "【早报】美股存储、半导体板块连日大跌；一批A股公司中报业绩预计大增；油价微升、黄金走强；西班牙晋级世界杯16强",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 15时27分]"
+        },
+        {
+          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
+          "url": "https://wallstreetcn.com/articles/3776105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 23时20分]"
         },
         {
           "title": "美股收盘：芯片股续跌闪迪重挫14% 苹果涨5%领道指刷新高",
@@ -43,18 +56,6 @@
           "time_info": "05时14分"
         },
         {
-          "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
-          "url": "https://wallstreetcn.com/articles/3776105",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 21时02分]"
-        },
-        {
           "title": "7月3日投资避雷针：美股存储、半导体板块大跌 闪迪跌超14%",
           "url": "https://www.cls.cn/detail/2415987",
           "source": "财联社热门",
@@ -75,6 +76,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时14分"
+        },
+        {
+          "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
+          "url": "https://wallstreetcn.com/articles/3776091",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
         },
         {
           "title": "金十图示：2026年07月02日（周四）美股热门股票行情一览（美股收盘）",
@@ -230,7 +242,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -288,8 +300,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时45分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[11时45分 ~ 23时20分]"
         },
         {
           "title": "世界杯 1/16 决赛，葡萄牙 2-1 克罗地亚，C 罗进球被吹 + 点射破门，拉莫斯绝杀，如何评价本场比赛？",
