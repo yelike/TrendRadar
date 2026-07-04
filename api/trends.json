@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T21:45:15.695060+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-07-04T23:10:58.393177+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
@@ -55,6 +55,17 @@
           "time_info": "11时37分"
         },
         {
+          "title": "2026 年美加墨世界杯世界杯 1/16 决赛阿根廷 3:2 佛得角，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2056619237108606465",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
           "title": "世界杯 1/16 决赛，澳大利亚 vs 埃及，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2056418799423680843",
           "source": "知乎",
@@ -64,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "世界杯1/8决赛首个比赛日前瞻",
+          "url": "https://www.toutiao.com/trending/7658659516912766500/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         }
       ]
     },
@@ -82,8 +104,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时37分 ~ 21时45分]"
+          "appearance_count": 9,
+          "time_info": "[11时37分 ~ 23时10分]"
         },
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -111,6 +133,18 @@
           "time_info": "[01时38分 ~ 05时14分]"
         },
         {
+          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
+          "url": "https://wallstreetcn.com/articles/3776200",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时44分 ~ 23时10分]"
+        },
+        {
           "title": "美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁",
           "url": "https://wallstreetcn.com/articles/3776162",
           "source": "华尔街见闻",
@@ -120,17 +154,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时51分 ~ 17时27分]"
-        },
-        {
-          "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
-          "url": "https://wallstreetcn.com/articles/3776200",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时44分 ~ 21时45分]"
         }
       ]
     },
