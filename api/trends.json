@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-04T17:27:26.036351+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-07-04T19:38:13.495673+08:00",
+  "total_titles_processed": 1088,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 19时38分]"
         },
         {
           "title": "世界杯 1/16 决赛，阿根廷 vs 佛得角，如何评价本场比赛？",
@@ -71,6 +71,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 19时38分]"
+        },
+        {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
           "url": "https://wallstreetcn.com/articles/3776105",
           "source": "华尔街见闻",
@@ -82,18 +95,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时38分 ~ 11时37分]"
-        },
-        {
-          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
-          "url": "https://wallstreetcn.com/articles/3776174",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 17时27分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -130,11 +131,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时37分 ~ 17时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时37分 ~ 19时38分]"
         }
       ]
     },
