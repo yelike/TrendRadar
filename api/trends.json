@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-04T07:10:38.280885+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-07-04T11:37:41.178234+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "头条世界杯｜不用进球就能统治比赛，亚马尔帮西班牙重回热门",
@@ -19,15 +19,37 @@
           "time_info": "[01时38分 ~ 07时10分]"
         },
         {
+          "title": "极限过关！世界杯 1/16 决赛，阿根廷 3-2 险胜佛得角，佛得角门将屡次救险再次封神，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056419001685599487",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        },
+        {
           "title": "世界杯 1/16 决赛，阿根廷 vs 佛得角，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2056419001685599487",
           "source": "知乎",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
+        },
+        {
+          "title": "世界杯 1/16 决赛，埃及点球 5-3 澳大利亚，澳大利亚 119 分钟换门将，埃及 4 罚全中，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056418799423680843",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         },
         {
           "title": "世界杯 1/16 决赛，澳大利亚 vs 埃及，如何评价本场比赛？",
@@ -36,7 +58,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时10分"
         }
@@ -44,7 +66,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“大空头”Burry：周三在1051.87狙空美光！美股半导体面临30%回调",
@@ -52,11 +74,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时38分 ~ 07时10分]"
+          "appearance_count": 7,
+          "time_info": "[01时38分 ~ 11时37分]"
         },
         {
           "title": "Anthropic自研AI芯片计划引发美股半导体大跌！闪迪大跌14%，费城半导体指数两日重挫12%",
@@ -69,6 +92,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时38分 ~ 05时14分]"
+        },
+        {
+          "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
+          "url": "https://wallstreetcn.com/articles/3776174",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek高峰涨价意味着什么?高盛：国内大模型竞争正回归理性",
+          "url": "https://wallstreetcn.com/articles/3776170",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时37分"
         }
       ]
     },
