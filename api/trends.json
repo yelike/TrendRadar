@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T18:21:53.799582+08:00",
-  "total_titles_processed": 955,
+  "generated_at": "2026-07-05T20:20:44.338222+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
@@ -39,7 +39,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         },
@@ -70,8 +70,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 18时21分]"
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 20时20分]"
         },
         {
           "title": "美加墨世界杯16强产生（附对阵图、比赛时间）",
@@ -125,7 +125,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
