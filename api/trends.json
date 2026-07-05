@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T21:54:44.790563+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-07-05T23:18:40.845648+08:00",
+  "total_titles_processed": 1217,
   "failed_sources": [],
   "trends": [
     {
@@ -44,6 +44,20 @@
           "time_info": "[13时02分 ~ 21时54分]"
         },
         {
+          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
+          "url": "https://wallstreetcn.com/articles/3776207",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时02分 ~ 23时18分]"
+        },
+        {
           "title": "特朗普称内塔尼亚胡知道“谁是老大”",
           "url": "https://news.ifeng.com/c/8uVCbfraHd5",
           "source": "凤凰网",
@@ -69,30 +83,17 @@
           "time_info": "[13时02分 ~ 19时40分]"
         },
         {
-          "title": "与特朗普通话85分钟，普京称“俄军正全线进攻”，此前威胁夺乌克兰更多土地建安全区",
-          "url": "https://wallstreetcn.com/articles/3776207",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时02分 ~ 21时54分]"
-        },
-        {
           "title": "特朗普又把自己加上了“总统山”",
           "url": "https://news.ifeng.com/c/8uW6iftDRFS",
           "source": "凤凰网",
           "ranks": [
             2,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时54分]"
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时18分]"
         },
         {
           "title": "日本庆祝美国国庆，无人机展示特朗普与高市同框画面",
@@ -113,11 +114,24 @@
             15,
             17,
             14,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时02分 ~ 21时54分]"
+          "appearance_count": 7,
+          "time_info": "[13时02分 ~ 23时18分]"
+        },
+        {
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时39分 ~ 23时18分]"
         },
         {
           "title": "普京与特朗普通话85分钟",
@@ -140,18 +154,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
-        },
-        {
-          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
-          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时39分 ~ 21时54分]"
         },
         {
           "title": "泽连斯基：我已与特朗普讨论了乌克兰前线局势",
@@ -275,11 +277,12 @@
           "ranks": [
             11,
             19,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 21时54分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 23时18分]"
         },
         {
           "title": "普京与特朗普通话85分钟",
@@ -563,7 +566,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -670,7 +673,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "伊朗外长会晤黎真主党及哈马斯代表",
@@ -759,6 +762,17 @@
           "time_info": "04时13分"
         },
         {
+          "title": "伊拉克女信众：哈梅内伊不仅属于伊朗，是所有人的领袖",
+          "url": "https://news.ifeng.com/c/8uWHzcgIJ5I",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "梅德韦杰夫：伊朗手握有两大底牌，不亚于核武器",
           "url": "https://news.ifeng.com/c/8uVfRfTDNZu",
           "source": "凤凰网",
@@ -817,6 +831,30 @@
           "time_info": "[17时16分 ~ 19时40分]"
         },
         {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://wallstreetcn.com/livenews/3129009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 23时18分]"
+        },
+        {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://flash.jin10.com/detail/20260705195906511800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 23时18分]"
+        },
+        {
           "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
           "url": "https://wallstreetcn.com/livenews/3128953",
           "source": "华尔街见闻-快讯",
@@ -827,6 +865,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时02分 ~ 17时16分]"
+        },
+        {
+          "title": "伊朗已故最高领袖哈梅内伊三子现身",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%89%E5%AD%90%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 23时18分]"
         },
         {
           "title": "独立投资研究平台HFI Research：过去24小时，许多原本计划经阿曼航道通行的船只，转而选择了伊朗一侧航道。",
@@ -851,17 +901,6 @@
           "time_info": "02时07分"
         },
         {
-          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
-          "url": "https://wallstreetcn.com/livenews/3129009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "伊朗外交部长阿拉格齐在伊朗首都德黑兰分别会晤黎巴嫩真主党及哈马斯代表。",
           "url": "https://flash.jin10.com/detail/20260704220954516800",
           "source": "金十数据",
@@ -873,17 +912,6 @@
           "time_info": "00时09分"
         },
         {
-          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
-          "url": "https://flash.jin10.com/detail/20260705195906511800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
-        },
-        {
           "title": "伊朗驻华大使：计划按国际通行标准对霍尔木兹海峡通航收服务费",
           "url": "https://flash.jin10.com/detail/20260705010158919800",
           "source": "金十数据",
@@ -893,6 +921,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗议会议长卡利巴夫表示，伊朗认为尽管存在困难，但与美国达成共识是可能的。",
+          "url": "https://flash.jin10.com/detail/20260705223200385800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "阿里·奥兹马伊正式被任命为伊朗革命卫队海军司令。",
@@ -978,7 +1017,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时54分"
         },
@@ -1003,17 +1042,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
-        },
-        {
-          "title": "伊朗已故最高领袖哈梅内伊三子现身",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%89%E5%AD%90%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
         },
         {
           "title": "哈马斯代表团在德黑兰会见伊朗外长 重申支持巴勒斯坦事业",
@@ -1081,8 +1109,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时02分 ~ 21时54分]"
+          "appearance_count": 7,
+          "time_info": "[13时02分 ~ 23时18分]"
         },
         {
           "title": "韩国股市杠杆失控：450亿美元资金狂飙，SK海力士单只ETF规模碾压美股科技巨头",
@@ -1108,6 +1136,17 @@
           "time_info": "[06时04分 ~ 08时07分]"
         },
         {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 23时18分]"
+        },
+        {
           "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
           "url": "https://www.zhihu.com/question/2055415968537618014",
           "source": "知乎",
@@ -1117,17 +1156,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
-          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
-          "url": "https://wallstreetcn.com/articles/3776130",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
         },
         {
           "title": "如何看待字节员工靠炒美股财富自由后离职，称投资比大厂升职更容易实现财务自由？",
@@ -1201,8 +1229,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时15分 ~ 21时54分]"
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 23时18分]"
         }
       ]
     }
