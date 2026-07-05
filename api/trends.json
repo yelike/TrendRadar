@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-07-05T07:02:38.924713+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-07-05T11:56:48.791951+08:00",
+  "total_titles_processed": 659,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "火药味拉满！世界杯 1/8 决赛，法国 1-0 巴拉圭，双方冲突不断，姆巴佩点射杜埃造点，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056707285326325305",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "美加墨世界杯16强产生（附对阵图、比赛时间）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33517475",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "世界杯 1/8 决赛，摩洛哥 3-0 加拿大，乌纳希双响迪亚斯两助，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2056707078798799209",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -13,11 +52,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时12分 ~ 07时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时12分 ~ 11时56分]"
         },
         {
           "title": "美股现3个月最大资金流出，而日股迎来7周最大资金流入",
@@ -26,7 +66,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
@@ -43,7 +83,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         }
