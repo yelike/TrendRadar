@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T20:20:44.338222+08:00",
-  "total_titles_processed": 1056,
+  "generated_at": "2026-07-05T22:48:36.377963+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时32分 ~ 15时33分]"
+        },
+        {
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时48分"
         },
         {
           "title": "如何看待网传字节员工靠炒美股赚三千万财富自由后离职，称投资比升职更易财务自由，后回应了三个千万祝福？",
