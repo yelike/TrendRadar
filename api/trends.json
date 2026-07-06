@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T13:17:03.796397+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-07-06T18:48:09.022718+08:00",
+  "total_titles_processed": 1062,
   "failed_sources": [],
   "trends": [
     {
@@ -24,22 +24,24 @@
           "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 18时48分]"
         },
         {
           "title": "美股史上最大规模海外公司首次募资！“存储巨头”SK海力士本周五登陆纳斯达克",
           "url": "https://wallstreetcn.com/articles/3776235",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时16分 ~ 13时17分]"
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 18时48分]"
         },
         {
           "title": "环球下周看点：美联储会议纪要来袭 美股二季报大幕开启",
@@ -62,6 +64,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马士基股价下跌4.5%，消息面上，AE15 Gemini服务将通过苏伊士运河航行。",
+          "url": "https://flash.jin10.com/detail/20260706181642847800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "马士基表示，AE15 Gemini 服务将通过苏伊士运河航行。此决定标志着逐步恢复通过苏伊士运河的第一步。",
+          "url": "https://flash.jin10.com/detail/20260706180948644800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
