@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-07T19:58:22.530193+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-07-07T22:57:34.968036+08:00",
+  "total_titles_processed": 1456,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "芯片股领涨推动纳指反弹，道指首次站上5.3万点，油金承压，比特币随特朗普表态飙升",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时15分 ~ 19时58分]"
+          "appearance_count": 6,
+          "time_info": "[08时15分 ~ 22时57分]"
         },
         {
           "title": "“前线非常可怕”，特朗普称解决俄乌冲突将比人们认为的要快得多",
@@ -32,6 +32,18 @@
           "time_info": "[03时01分 ~ 08时15分]"
         },
         {
+          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时33分 ~ 22时57分]"
+        },
+        {
           "title": "特朗普：就红牌与国际足联主席通话",
           "url": "https://www.toutiao.com/trending/7659176770528395327/",
           "source": "今日头条",
@@ -44,18 +56,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时55分 ~ 06时22分]"
-        },
-        {
-          "title": "世界杯最大爽剧！特朗普来护航也没用，比利时打烂潜规则",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33532495",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时33分 ~ 19时58分]"
         },
         {
           "title": "特朗普一通电话后，国际足联“破例”了",
@@ -103,6 +103,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "特朗普称俄乌局势没有变化 但“双方都想达成协议”",
+          "url": "https://flash.jin10.com/detail/20260707222742140800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "比利时国防大臣警告特朗普：不准再骚扰“女王”梅洛尼",
+          "url": "https://news.ifeng.com/c/8uZavoCll5c",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "美国总统特朗普：我们对澳大利亚非常尊重。",
@@ -200,13 +222,36 @@
           "time_info": "[12时59分 ~ 19时58分]"
         },
         {
+          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 22时57分]"
+        },
+        {
+          "title": "特朗普一通电话毁了美国队",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E9%80%9A%E7%94%B5%E8%AF%9D%E6%AF%81%E4%BA%86%E7%BE%8E%E5%9B%BD%E9%98%9F&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：计划在周三与美国总统特朗普讨论空中防御问题。",
           "url": "https://flash.jin10.com/detail/20260707193628336800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -250,7 +295,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -319,17 +364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
-        },
-        {
-          "title": "特朗普承认了：我找了国际足联，美国球员吃红牌的动作不算犯规",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531585",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
         },
         {
           "title": "美国总统特朗普：做空者正遭受重创。",
@@ -448,7 +482,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         }
@@ -456,7 +490,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "本周重磅日程：中国通胀数据、三星业绩预告、SK海力士美股首秀、智谱MiniMax解禁",
@@ -569,6 +603,17 @@
           "time_info": "[04时58分 ~ 06时22分]"
         },
         {
+          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
+          "url": "https://wallstreetcn.com/articles/3776359",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 22时57分]"
+        },
+        {
           "title": "周一（7月6日），美股行业ETF多数收涨，全球科技股指数ETF涨2.18%，半导体ETF涨2.03%，科技行业ETF、网络股指数ETF至多涨1.67%，能源业ETF、生物科技指数ETF则至多收跌0.20%，公用事业ETF、医疗业ETF、日常消费品ETF至多跌1.05%。 标普500指数的11个板块中，电信板块收涨1.64%，信息技术/科技板块涨1.34%，房地产、日用消费品板块跌0.9%，公用事业、保健板块至多跌1.17%。",
           "url": "https://wallstreetcn.com/livenews/3129551",
           "source": "华尔街见闻-快讯",
@@ -592,17 +637,6 @@
           "time_info": "16时34分"
         },
         {
-          "title": "华尔街分析师警告：美股正形成\"双重泡沫\"，一旦破裂或引发30%-50%暴跌",
-          "url": "https://wallstreetcn.com/articles/3776359",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
           "title": "美股存储芯片股盘后普跌，闪迪(SNDK.O)现跌3.5%，美光科技(MU.O)跌2.3%，希捷科技(STX.O)跌2%，西部数据(WDC.O)跌2.8%。",
           "url": "https://flash.jin10.com/detail/20260707074846278800",
           "source": "金十数据",
@@ -612,6 +646,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时15分"
+        },
+        {
+          "title": "美股低开低走，纳斯达克100指数跌超2%，费城半导体指数跌超6%，闪迪(SNDK.O)、西部数据(WDC.O)现均跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260707221630076800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
+          "title": "美股芯片股持续走低，闪迪(SNDK.O)跌超11%，西部数据(WDC.O)跌近10%，美光科技(MU.O)<br/>、希捷科技(STX.O)跌超7%， 英伟达(NVDA.O)跌1.3%。",
+          "url": "https://flash.jin10.com/detail/20260707221359560800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "“特斯拉劲敌”Rivian Automotive二季度营收初步估算为15.5亿-16.5亿美元，分析师预期14.4亿美元。 二季度现金和现金等价物53亿美元。 申请（增加）发行7500万股股票。 Rivian美股盘后跌6%。",
@@ -653,7 +709,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -667,6 +723,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
+        },
+        {
+          "title": "跌个不停！美股半导体连跌第四天",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%8C%E4%B8%AA%E4%B8%8D%E5%81%9C%EF%BC%81%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%BF%9E%E8%B7%8C%E7%AC%AC%E5%9B%9B%E5%A4%A9",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "美股收盘：道指再创历史新高",
@@ -697,7 +764,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时58分"
         },
@@ -856,7 +923,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待华为首批天才少年计划入选者李博杰吐槽 DeepSeek 的面试流程拖沓，被面试官指控抄袭？",
@@ -868,8 +935,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时59分 ~ 19时58分]"
+          "appearance_count": 5,
+          "time_info": "[12时59分 ~ 22时57分]"
         },
         {
           "title": "前华为天才少年吐槽DeepSeek面试",
@@ -882,6 +949,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时59分 ~ 16时34分]"
+        },
+        {
+          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 22时57分]"
+        },
+        {
+          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
+          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时58分 ~ 22时57分]"
         },
         {
           "title": "DeepSeek面试",
@@ -906,32 +997,21 @@
           "time_info": "12时59分"
         },
         {
-          "title": "前华为“天才少年”公开发文称DeepSeek面试流程不规范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33531570",
-          "source": "澎湃新闻",
+          "title": "DeepSeek被曝自研芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%87%AA%E7%A0%94%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
-          "url": "https://tech.ifeng.com/c/8uYAqpu54ML",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "22时57分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "北美科技软件股指数ETF涨1.30%，报94.79美元。 Global X网络安全ETF涨3.41%，纳斯达克网络安全ETF涨2.47%，ETFMG网络安全ETF涨3.08%",
@@ -958,6 +1038,17 @@
           "time_info": "[04时58分 ~ 06时22分]"
         },
         {
+          "title": "美元指数大幅上升，我国6月外储规模环比下跌，央行连续20个月增持购金",
+          "url": "https://www.cls.cn/detail/2419496",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        },
+        {
           "title": "美元指数6日微涨",
           "url": "https://flash.jin10.com/detail/20260707045644750800",
           "source": "金十数据",
@@ -978,6 +1069,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美元指数DXY短线走高10点，向上触及101，日内涨0.13%。",
+          "url": "https://flash.jin10.com/detail/20260707220801467800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Alphabet旗下谷歌公司宣布，已向总部位于德国的Proxima Fusion提供4.11亿欧元（约合4.68亿美元）的融资，支持其建造欧洲首座商业聚变发电厂。",
+          "url": "https://wallstreetcn.com/livenews/3130034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         }
       ]
     },
@@ -995,6 +1114,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "意大利自2021年以来首次重返美元债市场，寻求融资60亿美元。 三种到期时间的意大利美元债发行已经吸引到将近200亿美元需求，预计各种久期的定价将较可比美债的收益率收窄至多10个基点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3130056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         }
       ]
     }
