@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-08T12:18:46.007060+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-07-08T15:33:16.567483+08:00",
+  "total_titles_processed": 1008,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,18 @@
           "time_info": "[01时22分 ~ 12时18分]"
         },
         {
+          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
+          "url": "https://www.cls.cn/detail/2419797",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 15时33分]"
+        },
+        {
           "title": "美伊局势叠加三星财报扰动，美股全线下挫，半导体指数大跌5%，原油大涨，金银承压",
           "url": "https://wallstreetcn.com/articles/3776355",
           "source": "华尔街见闻",
@@ -34,16 +46,17 @@
           "time_info": "[06时14分 ~ 06时15分]"
         },
         {
-          "title": "【早报】美方：强力打击伊朗、终止对伊油制裁豁免；美股科技股集体跳水；原油大涨、黄金收跌；阿根廷3-2逆转埃及",
-          "url": "https://www.cls.cn/detail/2419797",
+          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
+          "url": "https://www.cls.cn/detail/2419782",
           "source": "财联社热门",
           "ranks": [
-            3,
-            1
+            9,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时18分]"
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 15时33分]"
         },
         {
           "title": "跌个不停！美股半导体连跌第四天",
@@ -80,18 +93,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时22分 ~ 08时02分]"
-        },
-        {
-          "title": "美股收盘：AI牛股持续低迷 蓝筹股齐创新高 美伊战火推高油气板块",
-          "url": "https://www.cls.cn/detail/2419782",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时18分]"
         },
         {
           "title": "美股三大股指期货周三小幅低开。",
@@ -177,6 +178,18 @@
           "time_info": "[04时03分 ~ 06时15分]"
         },
         {
+          "title": "如何看待 2026 年世界杯 1/8 阿根廷对埃及比赛最后 5 分钟内，主裁判不吹罚阿根廷队禁区犯规？",
+          "url": "https://www.zhihu.com/question/2058011125409699747",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 15时33分]"
+        },
+        {
           "title": "世界杯 1/8 决赛，阿根廷 vs 埃及，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2057777297399321503",
           "source": "知乎",
@@ -193,22 +206,12 @@
           "url": "https://www.zhihu.com/question/2057777297399321503",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时18分]"
-        },
-        {
-          "title": "如何看待 2026 年世界杯 1/8 阿根廷对埃及比赛最后 5 分钟内，主裁判不吹罚阿根廷队禁区犯规？",
-          "url": "https://www.zhihu.com/question/2058011125409699747",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "appearance_count": 4,
+          "time_info": "[08时02分 ~ 15时33分]"
         },
         {
           "title": "世界杯 1/8 决赛，瑞士 4-3 哥伦比亚，如何评价本场比赛？",
@@ -226,11 +229,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33539156",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时18分 ~ 15时33分]"
         }
       ]
     },
@@ -245,11 +249,12 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时22分 ~ 12时18分]"
+          "appearance_count": 9,
+          "time_info": "[01时22分 ~ 15时33分]"
         },
         {
           "title": "前华为“天才少年”公开吐槽DeepSeek面试流程",
@@ -297,7 +302,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时18分"
         },
