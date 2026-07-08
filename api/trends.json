@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T01:43:15.305279+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-07-09T03:42:07.020218+08:00",
+  "total_titles_processed": 381,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时42分]"
         },
         {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
@@ -26,8 +26,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时42分]"
         },
         {
           "title": "特朗普讲话后，美股三大股指跌幅持续收窄，道指跌幅收窄至约1%，标普500跌0.41%，纳指跌0.15%。",
@@ -36,7 +36,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         },
@@ -47,7 +47,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         }
@@ -62,11 +62,12 @@
           "url": "https://www.zhihu.com/question/2058168270499176758",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时42分]"
         }
       ]
     },
@@ -79,11 +80,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33539156",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 01时43分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时42分]"
         }
       ]
     }
