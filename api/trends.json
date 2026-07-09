@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-09T07:13:32.466478+08:00",
-  "total_titles_processed": 537,
+  "generated_at": "2026-07-09T11:47:00.290589+08:00",
+  "total_titles_processed": 763,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
@@ -21,6 +21,39 @@
           "time_info": "[01时42分 ~ 07时13分]"
         },
         {
+          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
+          "url": "https://www.cls.cn/detail/2421032",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时13分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
+          "title": "【早报】美伊再起冲突；美股科技股大反弹，中概股大涨；原油大涨，黄金、白银大跌；长鑫科技，申购日定了",
+          "url": "https://www.cls.cn/detail/2421042",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
+        },
+        {
           "title": "一图看懂 | 美股医药板块指数刷新历史新高 A、H股创新药行情能否受提振?",
           "url": "https://www.cls.cn/detail/2420472",
           "source": "财联社热门",
@@ -33,15 +66,15 @@
           "time_info": "[01时42分 ~ 05时14分]"
         },
         {
-          "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
-          "url": "https://www.cls.cn/detail/2421032",
+          "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
+          "url": "https://www.cls.cn/detail/2421094",
           "source": "财联社热门",
           "ranks": [
-            2
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时46分 ~ 11时47分]"
         },
         {
           "title": "地产ETF收跌超1.6%，与道指ETF领跌美股大类资产类ETF，布油基金涨3.9%",
@@ -94,7 +127,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
