@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-09T19:09:52.726984+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-07-09T23:21:16.152761+08:00",
+  "total_titles_processed": 1332,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
+          "url": "https://wallstreetcn.com/articles/3776425",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[11时46分 ~ 23时21分]"
+        },
         {
           "title": "特朗普称美伊停火结束 美股期指集体下挫 国际油价飙升 | 今夜看点",
           "url": "https://www.cls.cn/detail/2420785",
@@ -19,18 +31,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时42分 ~ 07时13分]"
-        },
-        {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时46分 ~ 19时09分]"
         },
         {
           "title": "美股收盘：特朗普一句话挽回跌势 阿里巴巴闪耀全球市场",
@@ -67,6 +67,17 @@
           "time_info": "[01时42分 ~ 05时14分]"
         },
         {
+          "title": "华尔街的“甜蜜烦恼”：美股虽反弹，但“七巨头”正在掉队",
+          "url": "https://flash.jin10.com/detail/20260709230458887800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "美股AI牛市熄火？逾六成科技股“入熊”：较近期高点暴跌逾20%",
           "url": "https://www.cls.cn/detail/2421094",
           "source": "财联社热门",
@@ -76,6 +87,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时46分 ~ 15时42分]"
+        },
+        {
+          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
+          "url": "https://wallstreetcn.com/articles/3776523",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
+          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2422043",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
         },
         {
           "title": "地产ETF收跌超1.6%，与道指ETF领跌美股大类资产类ETF，布油基金涨3.9%",
@@ -139,7 +172,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
         },
@@ -178,9 +211,38 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "头条世界杯｜惊天逆转让阿根廷泪奔，埃及将帅抨击比赛被操控",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33539156",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时42分 ~ 07时13分]"
+        },
+        {
+          "title": "世界杯 1/4 决赛，法国 vs 摩洛哥，双方时隔四年再度会师淘汰赛，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2058142880246523378",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
         }
       ]
     },
@@ -199,24 +261,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时42分 ~ 03时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "头条世界杯｜惊天逆转让阿根廷泪奔，埃及将帅抨击比赛被操控",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33539156",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时42分 ~ 07时13分]"
         }
       ]
     },
