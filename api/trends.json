@@ -1,348 +1,127 @@
 {
-  "generated_at": "2026-07-10T22:39:32.203455+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-07-11T01:02:30.680371+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 9,
       "titles": [
         {
-          "title": "特朗普\"开火威胁\"搅动全球市场，降温表态后美股跌幅收窄，芯片股力撑纳指收涨，中概股大涨",
-          "url": "https://wallstreetcn.com/articles/3776425",
+          "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
+          "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
           "ranks": [
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时17分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
           "url": "https://wallstreetcn.com/articles/3776523",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时48分 ~ 22时39分]"
-        },
-        {
-          "title": "【早报】美股贵金属、存储股集体爆发；油价下挫，黄金走强；兆易创新、工业富联等业绩预计倍增；法国成首支四强球队",
-          "url": "https://www.cls.cn/detail/2422278",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时48分 ~ 15时41分]"
-        },
-        {
-          "title": "海力士美股IPO点燃AI热情，美股高开，科技股反弹，康宁涨超8%，黄金涨超1%，原油回落",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 05时39分]"
-        },
-        {
-          "title": "美股收盘：“AI的光”再度闪耀 纳指涨超1% 存储、光通信概念领涨",
-          "url": "https://www.cls.cn/detail/2422268",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时17分 ~ 15时41分]"
-        },
-        {
-          "title": "芯片股领涨提振美股，油价下跌令市场暂时搁置地缘风险，黄金加密货币反弹",
-          "url": "https://wallstreetcn.com/articles/3776523",
-          "source": "华尔街见闻",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时17分"
-        },
-        {
-          "title": "美股期指上涨 纳指期货涨近1% 芯片股盘前集体走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2422043",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时17分]"
-        },
-        {
-          "title": "据华尔街日报，奈飞正探索推出直播电视及捆绑服务。 该公司高管近期讨论了增加直播频道事宜。 该公司正讨论竞标2030年及2034年世界杯转播权。 奈飞美股盘后跌2%。",
-          "url": "https://wallstreetcn.com/livenews/3131557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时39分 ~ 07时17分]"
-        },
-        {
-          "title": "SK海力士据称每股定价149美元 或刷新美股最大外企上市纪录",
-          "url": "https://www.cls.cn/detail/2422169",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 11时49分]"
-        },
-        {
-          "title": "静待SK海力士IPO，美股指开盘涨跌互现，存储股走低，Meta涨5%，布油企稳",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "01时02分"
         },
         {
           "title": "万众瞩目！SK海力士今晚美股首秀 首日表现牵动全球存储板块走向",
           "url": "https://www.cls.cn/detail/2423160",
           "source": "财联社热门",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "静待SK海力士IPO，美股科技股盘前小幅下挫，日元走强，布油企稳，黄金承压",
-          "url": "https://wallstreetcn.com/articles/3776623",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时10分"
+          "time_info": "01时02分"
+        },
+        {
+          "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260711003130071800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
           "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "达美航空第二季度调整后营收为176.7亿美元，市场预期为175.3亿美元。 第二季度调整后净利润为10.3亿美元，市场预期为9.852亿美元。 第二季度调整后每股收益为1.56美元，市场预期为1.51美元。 达美航空仍预计全年调整后每股收益为6.50-7.50美元，市场预期为5.95美元。 达美航空美股盘前涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/3131990",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时10分"
+          "time_info": "01时02分"
         },
         {
-          "title": "美股大类资产类ETF多数收涨，纳指ETF涨超1.6%、与小盘股ETF、黄金ETF领跑",
-          "url": "https://wallstreetcn.com/livenews/3131543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美股三大股指开盘涨跌不一，道指开涨0.26%，标普500指数开涨0.08%，纳指跌0.15%。闪迪跌超4%，美光科技跌超3%；Meta涨4.9%；加密货币概念股Circle涨超11%，公司已获美国货币监理署（OCC）批准，可设立国家信托银行。沃达丰大涨12%，尼尔溢价收购阿联酋电信股权。",
-          "url": "https://wallstreetcn.com/livenews/3132112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
-        },
-        {
-          "title": "金十图示：2026年07月09日（周四）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260710040615773800",
+          "title": "金十图示：2026年07月10日（周五）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20260711003030791800",
           "source": "金十数据",
           "ranks": [
-            18
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时39分"
+          "time_info": "01时02分"
         },
         {
-          "title": "美股收盘：纳指涨超1% 存储光通信领涨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E7%BA%B3%E6%8C%87%E6%B6%A8%E8%B6%851%25+%E5%AD%98%E5%82%A8%E5%85%89%E9%80%9A%E4%BF%A1%E9%A2%86%E6%B6%A8",
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "存储芯片巨头SK海力士登陆美股",
+          "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
           "source": "百度热搜",
           "ranks": [
-            20
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时17分"
+          "time_info": "01时02分"
         },
         {
-          "title": "金十图示：2026年07月09日（周四）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260710040543739800",
+          "title": "SK海力士美股首日开盘报170美元 IPO发行价为149美元",
+          "url": "https://flash.jin10.com/detail/20260710234610274800",
           "source": "金十数据",
           "ranks": [
-            20
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "周四（7月9日），美股行业ETF多数收涨，半导体ETF涨2.48%，科技行业ETF涨2.18%，全球科技股指数ETF涨2.06%，日常消费品ETF、能源业ETF至少跌1.40%。",
-          "url": "https://wallstreetcn.com/livenews/3131539",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "美股收盘：三大股指收涨 芯片股走强",
-          "url": "https://flash.jin10.com/detail/20260710040126846800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "周四（7月9日），美国科技股七巨头（Magnificent 7）指数涨0.55%，报215.34点，盘初走低至210.23点、北京时间22:19开始平滑地持续需上扬。成分股Meta Platforms收涨4.7%，创5月29日以来收盘新高。 “超大”市值科技股指数涨2.15%，报442.37点。 美股存储芯片与硬件供应链指数涨5.11%，报227.13点，大部分时间持稳于232点、02:30开始持续回吐涨幅。 美股超大规模云服务商（Hyperscalers）涨1.24%，报盘93.47点，走势与七巨头指数相仿。 信息科技指数涨3.35%，报426.06点，走势与存储芯片指数类似。 人工智能（AI）赢家指数涨3.14%，报418.79点。 AI软件先驱指数涨1.48%，报112.09点。",
-          "url": "https://wallstreetcn.com/livenews/3131534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时39分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3132101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时39分"
+          "time_info": "01时02分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "世界杯 1/4 决赛，法国 vs 摩洛哥，双方时隔四年再度会师淘汰赛，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2058142880246523378",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时17分]"
-        },
-        {
-          "title": "法国 2-0 摩洛哥晋级世界杯四强，姆巴佩传射 + 失点，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2058142880246523378",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时48分 ~ 11时49分]"
-        },
-        {
-          "title": "如何看待 Archivo VAR 认为 2026 世界杯法国 - 摩洛哥比赛中姆巴佩点球系误判，应给假摔黄牌？",
-          "url": "https://www.zhihu.com/question/2058796272027542564",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌公司在广告中提高AI透明度。 谷歌在搜索、Youtube广告中新增AI信息披露标签。",
-          "url": "https://wallstreetcn.com/livenews/3131470",
-          "source": "华尔街见闻-快讯",
+          "title": "世界杯 1/4 决赛，西班牙 vs 比利时，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2058965616472450804",
+          "source": "知乎",
           "ranks": [
-            23
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "PGIM：30年期美债收益率的重新定价已经开始",
-          "url": "https://wallstreetcn.com/livenews/3131473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "01时02分"
         }
       ]
     }
