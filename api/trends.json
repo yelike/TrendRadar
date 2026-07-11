@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-11T08:03:59.378896+08:00",
-  "total_titles_processed": 609,
+  "generated_at": "2026-07-11T12:17:22.194059+08:00",
+  "total_titles_processed": 800,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "市场暂时搁置地缘风险，油价下跌，芯片股再撑美股，黄金加密货币反弹",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 08时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 12时17分]"
         },
         {
           "title": "SK海力士首日开盘价170美元，美股指盘中涨跌互现，英伟达涨超3%，布油跌超1%",
@@ -44,6 +45,20 @@
           "time_info": "[01时02分 ~ 04时28分]"
         },
         {
+          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
+          "url": "https://wallstreetcn.com/articles/3776651",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 12时17分]"
+        },
+        {
           "title": "AI叙事助美股三连阳，SK海力士ADR首日大涨13%，布油冲高转跌，黄金走V仍收跌",
           "url": "https://wallstreetcn.com/articles/3776623",
           "source": "华尔街见闻",
@@ -55,28 +70,16 @@
           "time_info": "06时10分"
         },
         {
-          "title": "华尔街还愿意给AI存储多少溢价？今夜，SK海力士美股首秀或揭晓答案",
-          "url": "https://wallstreetcn.com/articles/3776651",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 08时03分]"
-        },
-        {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2423243",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 08时03分]"
+          "appearance_count": 6,
+          "time_info": "[01时02分 ~ 12时17分]"
         },
         {
           "title": "周五（7月10日），美股行业ETF普遍上涨，日常消费品ETF收涨超1.1%，银行业ETF、半导体ETF至少涨0.54%，科技行业ETF、全球科技股指数ETF、网络股指数ETF涨约0.2%，全球航空业ETF跌0.99%，生物科技指数ETF跌2.68%。 2026年迄今，半导体ETF累涨69.67%，全球科技股指数ETF累涨34.19%，科技行业ETF、能源业ETF至少涨24.89%，可选消费ETF则跌1.42%。",
@@ -92,6 +95,31 @@
           "time_info": "[04时28分 ~ 08时03分]"
         },
         {
+          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
+          "url": "https://wallstreetcn.com/articles/3776680",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时10分 ~ 12时17分]"
+        },
+        {
+          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
+          "url": "https://www.cls.cn/detail/2423438",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时17分]"
+        },
+        {
           "title": "存储芯片巨头SK海力士登陆美股",
           "url": "https://www.baidu.com/s?wd=%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87%E5%B7%A8%E5%A4%B4SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%99%BB%E9%99%86%E7%BE%8E%E8%82%A1",
           "source": "百度热搜",
@@ -101,18 +129,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 06时10分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 08时03分]"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，日元做多收涨超0.4%",
@@ -125,17 +141,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 08时03分]"
-        },
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
         },
         {
           "title": "金十图示：2026年07月10日（周五）美股热门股票行情一览（美股盘中）",
@@ -182,6 +187,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "一周热榜精选：美国要求伊朗周六给承诺！SK海力士美股首日涨超12%",
+          "url": "https://flash.jin10.com/detail/20260711094525096800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        },
+        {
           "title": "美股收盘：三大股指小幅走高 SK海力士收涨近13%",
           "url": "https://flash.jin10.com/detail/20260711040123431800",
           "source": "金十数据",
@@ -207,19 +223,8 @@
     },
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "西班牙 2-1 比利时晋级世界杯半决赛，梅里诺替补绝杀，拉门斯送礼，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2058965616472450804",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时03分"
-        },
         {
           "title": "世界杯 1/4 决赛，西班牙 vs 比利时，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2058965616472450804",
@@ -233,6 +238,46 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 06时10分]"
+        },
+        {
+          "title": "西班牙 2-1 比利时晋级世界杯半决赛，梅里诺替补绝杀，拉门斯送礼，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2058965616472450804",
+          "source": "知乎",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时03分 ~ 12时17分]"
+        },
+        {
+          "title": "德布劳内等比利时黄金一代结束了他们最后的世界杯旅途，他们本届比赛表现怎么样？你对黄金一代有哪些记忆？",
+          "url": "https://www.zhihu.com/question/2059159511039055807",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "30年期美债拍卖海外机构需求强劲，外资大举接盘背后藏着关键信号",
+          "url": "https://flash.jin10.com/detail/20260711100226871800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时17分"
         }
       ]
     }
