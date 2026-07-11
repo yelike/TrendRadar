@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-12T04:56:51.434486+08:00",
-  "total_titles_processed": 420,
+  "generated_at": "2026-07-12T05:57:15.712633+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
       "match_count": 5,
       "titles": [
+        {
+          "title": "美股处于“极度脆弱”的时候，财报季开启了",
+          "url": "https://wallstreetcn.com/articles/3776694",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时57分]"
+        },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
           "url": "https://wallstreetcn.com/articles/3776680",
@@ -19,28 +31,6 @@
           "time_info": "[00时03分 ~ 04时56分]"
         },
         {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时56分]"
-        },
-        {
-          "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
-          "url": "https://flash.jin10.com/detail/20260712034752790800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
           "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
           "url": "https://www.cls.cn/detail/2423438",
           "source": "财联社热门",
@@ -49,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时57分]"
         },
         {
           "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
@@ -61,8 +51,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时57分]"
+        },
+        {
+          "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
+          "url": "https://flash.jin10.com/detail/20260712034752790800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时57分]"
         }
       ]
     },
@@ -76,11 +78,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时18分 ~ 04时56分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 05时57分]"
         }
       ]
     },
@@ -97,8 +100,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时56分]"
+          "appearance_count": 6,
+          "time_info": "[00时03分 ~ 05时57分]"
         }
       ]
     }
