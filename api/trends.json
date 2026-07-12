@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-13T01:05:20.351041+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-13T03:12:59.494115+08:00",
+  "total_titles_processed": 349,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时12分]"
         },
         {
           "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
           "url": "https://www.zhihu.com/question/2059562876868583536",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时12分]"
         }
       ]
     }
