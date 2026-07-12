@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T21:38:54.796941+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-07-12T23:02:57.746934+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时31分 ~ 21时38分]"
+          "appearance_count": 6,
+          "time_info": "[15时31分 ~ 23时02分]"
         },
         {
           "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
@@ -66,11 +66,12 @@
           "ranks": [
             19,
             18,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 21时38分]"
+          "appearance_count": 4,
+          "time_info": "[17时58分 ~ 23时02分]"
         },
         {
           "title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 逆转挪威，如何评价本场比赛？",
