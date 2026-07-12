@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-12T15:32:16.432516+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-07-12T17:58:54.934484+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "世界杯 1/4 决赛，挪威 vs 英格兰，如何评价本场比赛？",
@@ -29,19 +29,32 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 17时58分]"
         },
         {
           "title": "世界前四齐聚世界杯四强（附对阵图、比赛时间）",
           "url": "https://m.thepaper.cn/newsDetail_forward_33569729",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时58分]"
+        },
+        {
+          "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
+          "url": "https://www.zhihu.com/question/2059608160646555311",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时31分 ~ 17时58分]"
         },
         {
           "title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 逆转挪威，如何评价本场比赛？",
@@ -55,17 +68,6 @@
           "time_info": "[12时27分 ~ 12时28分]"
         },
         {
-          "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
-          "url": "https://www.zhihu.com/question/2059608160646555311",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        },
-        {
           "title": "世界杯半决赛对阵图和比赛时间",
           "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E5%9B%BE%E5%92%8C%E6%AF%94%E8%B5%9B%E6%97%B6%E9%97%B4",
           "source": "百度热搜",
@@ -75,6 +77,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时31分 ~ 15时32分]"
+        },
+        {
+          "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
+          "url": "https://www.zhihu.com/question/2059562876868583536",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
         }
       ]
     },
@@ -101,11 +114,12 @@
           "ranks": [
             7,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时03分 ~ 15时32分]"
+          "appearance_count": 13,
+          "time_info": "[00时03分 ~ 17时58分]"
         },
         {
           "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
