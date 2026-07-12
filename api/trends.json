@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-12T19:15:30.930545+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-07-12T21:38:54.796941+08:00",
+  "total_titles_processed": 1194,
   "failed_sources": [],
   "trends": [
     {
@@ -39,11 +39,12 @@
           "ranks": [
             6,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 21时38分]"
         },
         {
           "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
@@ -55,8 +56,21 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时31分 ~ 19时15分]"
+          "appearance_count": 5,
+          "time_info": "[15时31分 ~ 21时38分]"
+        },
+        {
+          "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
+          "url": "https://www.zhihu.com/question/2059562876868583536",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 21时38分]"
         },
         {
           "title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 逆转挪威，如何评价本场比赛？",
@@ -68,18 +82,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
-          "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
-          "url": "https://www.zhihu.com/question/2059562876868583536",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 19时15分]"
         },
         {
           "title": "世界杯半决赛对阵图和比赛时间",
