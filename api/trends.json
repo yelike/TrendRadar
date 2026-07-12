@@ -1,198 +1,33 @@
 {
-  "generated_at": "2026-07-12T23:02:57.746934+08:00",
-  "total_titles_processed": 1279,
+  "generated_at": "2026-07-13T01:05:20.351041+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "世界杯 1/4 决赛，挪威 vs 英格兰，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2059262837763961209",
-          "source": "知乎",
-          "ranks": [
-            6,
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 08时02分]"
-        },
-        {
-          "title": "世界杯 1/4 决赛，阿根廷加时 3-1 瑞士进 4 强，小蜘蛛破门恩博洛假摔染红，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2059262997873124815",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 19时15分]"
-        },
         {
           "title": "世界前四齐聚世界杯四强（附对阵图、比赛时间）",
           "url": "https://m.thepaper.cn/newsDetail_forward_33569729",
           "source": "澎湃新闻",
           "ranks": [
-            6,
-            4,
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时31分 ~ 23时02分]"
-        },
-        {
-          "title": "世界杯半决赛，阿根廷将和英格兰复刻英阿大战，两队历史上有何恩怨，对本场比赛你有什么期待？",
-          "url": "https://www.zhihu.com/question/2059608160646555311",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时31分 ~ 21时38分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         },
         {
           "title": "哈兰德以 5 场比赛 7 个进球告别本届世界杯，这一成绩如何？他给你留下哪些令人印象深刻的瞬间？",
           "url": "https://www.zhihu.com/question/2059562876868583536",
           "source": "知乎",
           "ranks": [
-            19,
-            18,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时58分 ~ 23时02分]"
-        },
-        {
-          "title": "世界杯 1/4 决赛，贝林厄姆补射破门连场双响，英格兰 2-1 逆转挪威，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2059262837763961209",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时27分 ~ 12时28分]"
-        },
-        {
-          "title": "世界杯半决赛对阵图和比赛时间",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%E5%9B%BE%E5%92%8C%E6%AF%94%E8%B5%9B%E6%97%B6%E9%97%B4",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美股处于“极度脆弱”的时候，财报季开启了",
-          "url": "https://wallstreetcn.com/articles/3776694",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 08时02分]"
-        },
-        {
-          "title": "美股收盘：Meta、英伟达推动指数小幅收高 SK海力士闪耀纳斯达克",
-          "url": "https://www.cls.cn/detail/2423438",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时03分 ~ 19时15分]"
-        },
-        {
-          "title": "AI狂欢持续！SK海力士创海外赴美最大IPO，美股首秀收涨13%",
-          "url": "https://wallstreetcn.com/articles/3776680",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时03分 ~ 04时56分]"
-        },
-        {
-          "title": "SK海力士创纪录赴美上市 美股期指涨跌不一 芯片股盘前普遍下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2423243",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 08时02分]"
-        },
-        {
-          "title": "美股涨势背后存在隐忧 数据显示市场内部广度正在收窄",
-          "url": "https://flash.jin10.com/detail/20260712034752790800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时56分 ~ 08时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek V4 正式版将于 7 月中旬上线，你有什么期待？",
-          "url": "https://www.zhihu.com/question/2055029429290771542",
-          "source": "知乎",
-          "ranks": [
-            13,
-            8,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时18分 ~ 08时02分]"
-        },
-        {
-          "title": "商业航天“DeepSeek时刻”到了吗",
-          "url": "https://www.baidu.com/s?wd=%E5%95%86%E4%B8%9A%E8%88%AA%E5%A4%A9%E2%80%9CDeepSeek%E6%97%B6%E5%88%BB%E2%80%9D%E5%88%B0%E4%BA%86%E5%90%97",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时31分 ~ 15时32分]"
+          "appearance_count": 1,
+          "time_info": "01时05分"
         }
       ]
     }
