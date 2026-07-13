@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-14T01:59:47.564516+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-14T03:42:06.427168+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 03时42分]"
         },
         {
           "title": "高盛：盈利增长仍是美股驱动力，但美联储加息将从三方面造成影响",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 03时42分]"
         },
         {
           "title": "美股半导体大跌！闪迪跌超10%",
@@ -48,8 +48,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 03时42分]"
         }
       ]
     },
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
+          "appearance_count": 3,
+          "time_info": "[01时59分 ~ 03时42分]"
         }
       ]
     }
