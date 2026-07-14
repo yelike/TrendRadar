@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-14T14:17:04.569812+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-07-14T17:08:52.335780+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 17时08分]"
         },
         {
           "title": "【早报】美伊冲突升级；美股存储股再度重挫；国际油价暴涨9%，金价大跌",
@@ -55,6 +55,19 @@
           "time_info": "[01时59分 ~ 05时02分]"
         },
         {
+          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
+          "url": "https://wallstreetcn.com/articles/3776816",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时01分 ~ 17时08分]"
+        },
+        {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金重挫",
           "url": "https://wallstreetcn.com/articles/3776754",
           "source": "华尔街见闻",
@@ -88,19 +101,6 @@
           "time_info": "05时02分"
         },
         {
-          "title": "高盛、美银齐发卖出警报，对冲基金却重返科技股，美股仓位信号现分歧",
-          "url": "https://wallstreetcn.com/articles/3776816",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 14时17分]"
-        },
-        {
           "title": "布伦特原油日内涨幅达10.0%，特朗普在美股收盘后称美国今晚和明天将“重击”伊朗。",
           "url": "https://wallstreetcn.com/livenews/3133078",
           "source": "华尔街见闻-快讯",
@@ -132,6 +132,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时59分 ~ 05时02分]"
+        },
+        {
+          "title": "AI恐慌缓和，美股盘前存储芯片股普涨，韩股深V反弹，原油上涨，黄金小幅上扬",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时08分"
         },
         {
           "title": "周一（7月13日），美股行业ETF涨跌各异，半导体ETF收跌4.16%，全球科技股指数ETF、全球航空业ETF、科技行业ETF至多跌2.88%，金融业ETF涨0.65%，能源业ETF涨3.03%。",
@@ -234,7 +245,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时17分"
         },
@@ -246,8 +257,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时16分 ~ 14时17分]"
+          "appearance_count": 3,
+          "time_info": "[14时16分 ~ 17时08分]"
         }
       ]
     },
@@ -261,11 +272,12 @@
           "source": "澎湃新闻",
           "ranks": [
             14,
-            15
+            15,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时25分 ~ 14时17分]"
+          "appearance_count": 4,
+          "time_info": "[11时25分 ~ 17时08分]"
         }
       ]
     },
