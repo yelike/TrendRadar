@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-15T01:20:25.431722+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-15T03:27:34.790896+08:00",
+  "total_titles_processed": 404,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3776859",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时27分]"
         },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -26,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时27分]"
         },
         {
           "title": "金十图示：2026年07月14日（周二）美股热门股票行情一览（美股盘中）",
@@ -76,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时27分]"
         }
       ]
     },
@@ -107,11 +108,12 @@
           "url": "https://www.zhihu.com/question/2060325379596933035",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
+          "appearance_count": 2,
+          "time_info": "[01时20分 ~ 03时27分]"
         }
       ]
     },
