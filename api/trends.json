@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T05:05:20.941912+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-07-15T07:01:45.751364+08:00",
+  "total_titles_processed": 600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国通胀降温，美股盘初涨跌互现，存储芯片股大涨，IBM跌26%，原油涨3%，黄金涨2%",
@@ -31,13 +31,35 @@
           "time_info": "[01时20分 ~ 05时05分]"
         },
         {
+          "title": "美国通胀降温，美股指全线反弹，存储芯片股大涨，IBM暴跌25%，油金齐涨",
+          "url": "https://wallstreetcn.com/articles/3776859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美股收盘：CPI降温叠加银行财报开门红 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2426541",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "周二（7月14日），美股降息赢家指数涨1.04%，报95.79点，整体维持上涨状态，在美国CPI通胀数据发布之后高开，美联储主席沃什听证会期间回吐涨幅。",
           "url": "https://wallstreetcn.com/livenews/3133875",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -48,7 +70,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -59,7 +81,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -70,7 +92,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -114,15 +136,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "Lionsgate Studio Corp.（LION，狮门影业）美股盘后涨11%，据路透报道，该公司探索出售，获得来自Bollore SE（BOL.FP）的兴趣。",
+          "url": "https://wallstreetcn.com/livenews/3133888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股美债黄金跌！美联储理事沃勒：若核心通胀持续高企，美联储或需加息",
@@ -142,9 +175,51 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "据知情人士透露，高盛100亿美元高评级债券发行获得大约320亿美元认购。 在6-31年的三部分到期时间债券供应中，久期最长的债券收益率定价较可比美债溢价大约113个基点，最初讨论的收窄大约22个基点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3133904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "世界杯半决赛，法国 vs 西班牙，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2060325379596933035",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时01分]"
+        },
+        {
+          "title": "2026 年美加墨世界杯世界杯半决赛法国 0:2 西班牙，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2060590007564363522",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
@@ -160,8 +235,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时05分]"
+          "appearance_count": 4,
+          "time_info": "[01时20分 ~ 07时01分]"
         }
       ]
     },
@@ -179,25 +254,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世界杯半决赛，法国 vs 西班牙，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2060325379596933035",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 05时05分]"
         }
       ]
     }
