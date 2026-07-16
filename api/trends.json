@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T06:07:16.726640+08:00",
-  "total_titles_processed": 605,
+  "generated_at": "2026-07-16T08:03:26.047092+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -15,8 +15,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 08时03分]"
+        },
+        {
+          "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
+          "url": "https://www.zhihu.com/question/2060658036918719165",
+          "source": "知乎",
+          "ranks": [
+            17,
+            12,
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "美国通胀降温提振美股，存储跌幅扩大，戴尔重挫13%，油价转跌",
@@ -31,20 +46,6 @@
           "time_info": "[00时38分 ~ 04时15分]"
         },
         {
-          "title": "韩国股市大反弹，SK 海力士美股隔夜暴涨 27%，散户大规模爆仓强平后指数强势反弹，为何波动如此极端？",
-          "url": "https://www.zhihu.com/question/2060658036918719165",
-          "source": "知乎",
-          "ranks": [
-            17,
-            12,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 06时07分]"
-        },
-        {
           "title": "PPI确认通胀降温，美股小幅收涨，美光、闪迪暴跌8%，原油、黄金走V",
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
@@ -54,6 +55,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 06时07分]"
+        },
+        {
+          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2427604",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 08时03分]"
         },
         {
           "title": "SK海力士美股单日暴涨27%，较韩股溢价超50%！期权上市刺激交投，资金押注短期看涨",
@@ -68,16 +81,37 @@
           "time_info": "[00时38分 ~ 06时07分]"
         },
         {
-          "title": "美国6月PPI低于预期 美股期指走高 阿斯麦财报提振芯片股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2427604",
+          "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，美光、闪迪暴跌8%，原油黄金走V",
+          "url": "https://wallstreetcn.com/articles/3776964",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
+          "url": "https://www.cls.cn/detail/2427818",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 06时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
+        },
+        {
+          "title": "巴菲特警告美股投机狂热：市场像赌场，同时称沃什是美联储“好选择”",
+          "url": "https://flash.jin10.com/detail/20260716073709471800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "周三（7月15日，美国PPI通胀数据发布日），美股降息赢家指数涨1.44%——延续CPI数据出炉当天反弹的表现，报97.17点，美股早盘持续上涨，北京时间22:00以来主要持稳于97点上方。",
@@ -86,9 +120,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "美股中概股集体走强 SK海力士跌9%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%AD%E6%A6%82%E8%82%A1%E9%9B%86%E4%BD%93%E8%B5%B0%E5%BC%BA+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E8%B7%8C9%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         },
         {
           "title": "周三（7月15日），美股存储芯片与硬件供应链指数跌6.36%，报207.63点。 成分股全线溃败，西部数据收跌8.78%，闪迪跌8.12%，美光科技跌8.02%，希捷科技、泰瑞达、拉姆研究、应用材料、Rambus也跌5.69%-2.36%。",
@@ -97,7 +142,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -119,7 +164,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -130,7 +175,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -141,7 +186,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -191,7 +236,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -202,7 +247,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -213,7 +258,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -235,6 +280,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek工资待遇太恐怖了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时38分 ~ 08时03分]"
+        },
+        {
           "title": "身家飙升至 360 亿美元，为什么梁文锋能超越奥特曼和达里奥成全球 AI 大模型创始人首富？",
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
@@ -245,24 +303,12 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时38分 ~ 06时07分]"
-        },
-        {
-          "title": "DeepSeek工资待遇太恐怖了",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B7%A5%E8%B5%84%E5%BE%85%E9%81%87%E5%A4%AA%E6%81%90%E6%80%96%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 06时07分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "世界杯半决赛，英格兰 vs 阿根廷，如何评价本场比赛？",
@@ -276,6 +322,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时12分 ~ 06时07分]"
+        },
+        {
+          "title": "世界杯半决赛，阿根廷 2-1 英格兰，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2060732712101716234",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时03分"
         }
       ]
     },
