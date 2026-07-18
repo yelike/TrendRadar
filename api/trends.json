@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T11:12:56.115248+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-07-18T14:09:42.131455+08:00",
+  "total_titles_processed": 897,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时54分 ~ 11时12分]"
+          "appearance_count": 4,
+          "time_info": "[06时54分 ~ 14时09分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -111,11 +111,12 @@
           "url": "https://www.douyin.com/hot/2575548",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时12分 ~ 14时09分]"
         },
         {
           "title": "美股半导体指数跌入熊市",
@@ -124,9 +125,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
+        },
+        {
+          "title": "美股芯片股，距熊市仅一步之遥",
+          "url": "https://wallstreetcn.com/articles/3777197",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "金十图示：2026年07月17日（周五）美股热门股票行情一览（美股盘中）",
@@ -157,7 +169,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时12分"
         },
@@ -242,11 +254,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时57分 ~ 11时12分]"
+          "appearance_count": 3,
+          "time_info": "[07时57分 ~ 14时09分]"
         }
       ]
     },
