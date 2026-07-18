@@ -1,8 +1,41 @@
 {
-  "generated_at": "2026-07-19T06:56:33.574197+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-07-19T07:59:36.711824+08:00",
+  "total_titles_processed": 599,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "世界杯季军赛，法国 vs 英格兰，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2061740947776579179",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            14,
+            7,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时04分 ~ 06时56分]"
+        },
+        {
+          "title": "世界杯季军赛，法国 4-6 英格兰，萨卡戴帽，姆巴佩双响创纪录，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2061740947776579179",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "美股",
       "match_count": 2,
@@ -15,8 +48,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时56分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时59分]"
         },
         {
           "title": "美股半导体指数跌入熊市，芯片股溃败时苹果盘中夺回市值第一，AI牛市迎来“换锚”时刻？",
@@ -45,11 +78,12 @@
             16,
             12,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时59分 ~ 06时56分]"
+          "appearance_count": 7,
+          "time_info": "[01时59分 ~ 07时59分]"
         }
       ]
     },
@@ -66,30 +100,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时04分 ~ 06时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "世界杯季军赛，法国 vs 英格兰，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2061740947776579179",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            14,
-            7,
-            4,
-            1
-          ],
-          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时56分]"
+          "time_info": "[00时04分 ~ 07时59分]"
         }
       ]
     }
