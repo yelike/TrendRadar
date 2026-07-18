@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-18T18:23:08.379034+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-07-18T19:57:01.451402+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时54分 ~ 18时23分]"
+          "appearance_count": 9,
+          "time_info": "[06时54分 ~ 19时57分]"
         },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
@@ -48,11 +48,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时52分 ~ 18时23分]"
+          "appearance_count": 3,
+          "time_info": "[16时52分 ~ 19时57分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -200,7 +201,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Kimi K3再掀“DeepSeek时刻”？高盛警告：\"算力扩张时代\"或已走到尽头",
@@ -212,19 +213,31 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时57分 ~ 18时23分]"
+          "appearance_count": 8,
+          "time_info": "[07时57分 ~ 19时57分]"
         },
         {
           "title": "DeepSeek最新估值意外曝光",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%9C%80%E6%96%B0%E4%BC%B0%E5%80%BC%E6%84%8F%E5%A4%96%E6%9B%9D%E5%85%89",
           "source": "百度热搜",
           "ranks": [
-            19
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 19时57分]"
+        },
+        {
+          "title": "Kimi K3重演“DeepSeek时刻”",
+          "url": "https://www.toutiao.com/trending/7663776827566984767/",
+          "source": "今日头条",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
+          "time_info": "[19时56分 ~ 19时57分]"
         }
       ]
     },
