@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:57:18.928734+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-07-20T05:59:56.392955+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时59分]"
         },
         {
           "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            4
+            4,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时59分]"
         }
       ]
     },
@@ -44,8 +45,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时03分 ~ 04时57分]"
+          "appearance_count": 4,
+          "time_info": "[01时03分 ~ 05时59分]"
         }
       ]
     },
@@ -58,11 +59,12 @@
           "url": "https://www.zhihu.com/question/2062177729605284253",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时14分 ~ 04时57分]"
+          "appearance_count": 3,
+          "time_info": "[03时14分 ~ 05时59分]"
         }
       ]
     }
