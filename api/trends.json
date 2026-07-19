@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T21:28:33.540229+08:00",
-  "total_titles_processed": 1392,
+  "generated_at": "2026-07-19T23:02:48.709761+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
@@ -102,11 +102,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时35分 ~ 21时28分]"
+          "appearance_count": 4,
+          "time_info": "[14时35分 ~ 23时02分]"
         },
         {
           "title": "金十数据整理：下周重要事件与数据预告——欧央行利率决议，谷歌、英特尔、特斯拉等科技股财报密集来袭",
@@ -115,7 +116,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时28分"
         }
@@ -178,7 +179,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
@@ -189,8 +190,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时35分 ~ 21时28分]"
+          "appearance_count": 5,
+          "time_info": "[14时35分 ~ 23时02分]"
         },
         {
           "title": "DeepSeek V4 正式版即将发布，有哪些值得关注的亮点？",
@@ -207,6 +208,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时59分 ~ 07时59分]"
+        },
+        {
+          "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
+          "url": "https://www.zhihu.com/question/2062188301013071138",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时02分"
         }
       ]
     }
