@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-07-20T23:55:32.852728+08:00",
-  "total_titles_processed": 1468,
+  "generated_at": "2026-07-21T02:09:34.829685+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "芯片股抛售暂歇，美股期指齐涨，存储股盘前走高，SK海力士涨5%，油价回吐涨幅",
-          "url": "https://wallstreetcn.com/articles/3777383",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3777383",
@@ -25,43 +14,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "达美乐比萨第二季度营收11.9亿美元，同比增长4.3%，预估11.8亿美元。 第二季度每股收益4.07美元，上年同期3.81美元，预估4.18美元。 达美乐比萨美股盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3136804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "Tempus AI美股盘前跌近4%，报道称医疗科技公司Tempus AI将以每股16.25美元的价格收购Personalis。",
-          "url": "https://wallstreetcn.com/livenews/3136909",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
-          "url": "https://www.cls.cn/detail/2430704",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 14时52分]"
+          "time_info": "02时09分"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
@@ -70,53 +25,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "花旗：美股“科技7巨头”的标签已经过时",
-          "url": "https://flash.jin10.com/detail/20260720180357146800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "汇丰策略师称，目前很难判断亚洲市场的降杠杆和散户抛售何时结束，尽管芯片股的技术面信号正进一步接近超卖区间，但尚未跌至极低水平。 在配置上，更看好欧洲股票、标普500等权重指数成份股以及美股科技七巨头，而非美国芯片股。",
-          "url": "https://wallstreetcn.com/livenews/3137005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "美股股指期货周一基本平开。",
-          "url": "https://flash.jin10.com/detail/20260720060012850800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时03分"
-        },
-        {
-          "title": "花旗：在人工智能股票赢家中，美股“科技7巨头”的标签已经过时。",
-          "url": "https://flash.jin10.com/detail/20260720175653296800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "02时09分"
         },
         {
           "title": "美股存储芯片反弹",
@@ -125,272 +36,54 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "DeepTalk：46年老手警告，美股大崩盘已经来了？",
-          "url": "https://flash.jin10.com/detail/20260720205939853800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货跌0.6%，道指期货跌0.4%。 布伦特原油5分钟内下跌1.32美元/桶，报86.9美元/桶；WTI原油5分钟内下跌1.28美元/桶，报80.24美元/桶。 现货黄金5分钟内上涨12.21美元/盎司，报4034.4美元/盎司。 据报道，调解人已向伊朗提出一项与美国停火10天的提议，以寻找途径重振双方上月达成的临时协议。",
-          "url": "https://wallstreetcn.com/livenews/3136884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "高盛：美股指数看似平静，个股和债市已提前起风？",
-          "url": "https://flash.jin10.com/detail/20260720141241061800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "02时09分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "DeepSeek V4「满血版」曝光了！最快明天发布",
-          "url": "https://wallstreetcn.com/articles/3777339",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 07时03分]"
-        },
-        {
-          "title": "如何看待部分社区认为 DeepSeek-V4 的灰度测试是路由 Claude Fable 、 Opus 等模型？",
-          "url": "https://www.zhihu.com/question/2062188301013071138",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 05时59分]"
-        },
         {
           "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
           "url": "https://www.zhihu.com/question/2059057378591613636",
           "source": "知乎",
           "ranks": [
-            8,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 23时55分]"
-        },
-        {
-          "title": "中信建投：Kimi K3模型达全球Tier1，国产模型再现DeepSeek时刻",
-          "url": "https://wallstreetcn.com/livenews/3136627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时52分"
+          "time_info": "02时09分"
         },
         {
           "title": "为什么豆包没有被 DeepSeek「斩杀」？",
           "url": "https://www.zhihu.com/question/2061575313973416591",
           "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时55分"
-        },
-        {
-          "title": "DeepSeekV4能超越KimiK3吗",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeekV4%E8%83%BD%E8%B6%85%E8%B6%8AKimiK3%E5%90%97%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "下周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 07时03分]"
-        },
-        {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 18时16分]"
-        },
-        {
-          "title": "据The Information：谷歌(GOOG.O)计划最早于2028年部署Frozen V2芯片。",
-          "url": "https://flash.jin10.com/detail/20260720210614896800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "谷歌(GOOG.O)美股盘前拉升，现涨1.2%。",
-          "url": "https://flash.jin10.com/detail/20260720210524607800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "据The Information：谷歌(GOOG.O)的新“Frozen”芯片预计效率将比其现有的TPU高出6到10倍。",
-          "url": "https://flash.jin10.com/detail/20260720210447128800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "据The Information：谷歌(GOOG.O)正在开发“Frozen V2”芯片，以更高效地服务其Gemini人工智能模型。",
-          "url": "https://flash.jin10.com/detail/20260720210331676800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
+          "time_info": "02时09分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai 世界杯 欧洲杯 亚洲杯 金价",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美加墨世界杯决赛，西班牙 vs 阿根廷，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2062177729605284253",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时14分 ~ 05时59分]"
-        },
-        {
-          "title": "美加墨世界杯决赛，西班牙 1-0 加时胜阿根廷，费兰 - 托雷斯打入加时制胜球，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2062177729605284253",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 07时03分]"
-        },
-        {
-          "title": "2026 年世界杯决赛，恩佐下半场两黄变一红被罚下，对此你怎么看？这是本场比赛的转折点吗？",
-          "url": "https://www.zhihu.com/question/2062406274260492889",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时37分 ~ 18时16分]"
-        },
-        {
-          "title": "西班牙 1-0 战胜阿根廷，夺得美加墨世界杯冠军，费兰 - 托雷斯加时赛打入制胜球，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2062177729605284253",
-          "source": "知乎",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时37分 ~ 14时52分]"
-        },
         {
           "title": "西班牙中场罗德里获 2026 世界杯金球奖，怎样评价他在本届比赛中的表现？对于西班牙队有多重要？",
           "url": "https://www.zhihu.com/question/2062428579145540871",
           "source": "知乎",
           "ranks": [
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时10分 ~ 23时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元 AI 特朗普 科技 伊朗 A股 上证 深证",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大指数涨跌不一",
-          "url": "https://www.toutiao.com/trending/7664463165929521178/",
-          "source": "今日头条",
-          "ranks": [
-            26
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "02时09分"
         }
       ]
     }
