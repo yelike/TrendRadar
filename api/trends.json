@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T08:02:01.743486+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-07-21T11:37:14.531193+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 11时37分]"
+        },
+        {
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 11时37分]"
         },
         {
           "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
@@ -30,15 +42,16 @@
           "time_info": "[02时09分 ~ 04时25分]"
         },
         {
-          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
-          "url": "https://www.cls.cn/detail/2431956",
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
           "source": "财联社热门",
           "ranks": [
-            4
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 4,
+          "time_info": "[08时01分 ~ 11时37分]"
         },
         {
           "title": "中东局势与财报季双重压力下，美股高开走低，芯片股抛售暂歇，中概收涨，油价过山车",
@@ -110,15 +123,15 @@
           "time_info": "[02时09分 ~ 06时05分]"
         },
         {
-          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
-          "url": "https://www.cls.cn/detail/2431934",
+          "title": "美股回调背后暗藏激烈博弈：空头押注水平创纪录",
+          "url": "https://www.cls.cn/detail/2431824",
           "source": "财联社热门",
           "ranks": [
-            7
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "time_info": "[11时36分 ~ 11时37分]"
         },
         {
           "title": "标普500指数初步收跌0.2%，保健板块跌1%，原材料、工业、房地产板块至多跌0.9%，科技板块大致收平，电信板块涨0.8%。 纳斯达克100指数初步大致收平，成分股中，“新成员”霍尼韦尔航空初步收跌4.5%，，西部数据跌3.7%，RKLB跌3.1%，SpaceX跌3%，特斯拉跌2.8%，苹果跌2%，拼多多涨2.4%，闪迪涨2.7%，Strategy涨3%，泰瑞达涨3.4%，Lumentum涨4.5%。 美股存储芯片指数高开低走，初步收涨大约1.3%于日低附近；费城半导体指数涨0.4%。",
@@ -189,8 +202,30 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 11时37分]"
+        },
         {
           "title": "周一（7月20日），美股存储芯片与硬件供应链指数涨1.43%，报192.09点，整体高开低走。 美股超大规模云服务商（Hyperscalers）涨0.67%，报92.61点，美股早盘持续上涨，之后逐步回吐涨幅。 信息科技指数涨1%，报378.18点。 人工智能（AI）赢家指数涨0.73%，报378.70点。 AI软件先驱指数涨0.84%，报109.45点，美股早盘持续反弹，00:00以来高位震荡。 美国科技股七巨头（Magnificent 7）指数涨0.09%，报217.20点。成分股中，特斯拉收跌2.96%，苹果跌2.14%，亚马逊、谷歌A至多涨1.51%，微软涨2.15%。 “超大”市值科技股指数涨0.11%，报431.23点，整体呈现出两波M形走势。",
           "url": "https://wallstreetcn.com/livenews/3137082",
