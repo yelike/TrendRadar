@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T14:22:26.866520+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-07-25T17:03:57.926858+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "url": "https://wallstreetcn.com/articles/3777833",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 17时03分]"
         },
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -49,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 17时03分]"
         },
         {
           "title": "TACO交易油价回落，科技股打压美股，芯片指数暴跌4%，存储芯片板块重挫",
@@ -80,11 +81,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时15分 ~ 14时22分]"
+          "appearance_count": 3,
+          "time_info": "[11时15分 ~ 17时03分]"
         },
         {
           "title": "金十图示：2026年07月24日（周五）美股热门股票行情一览（美股收盘）",
