@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-27T06:03:40.865326+08:00",
-  "total_titles_processed": 443,
+  "generated_at": "2026-07-27T08:05:29.338207+08:00",
+  "total_titles_processed": 561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股芯片股重挫；油价跳水、黄金微涨；视网膜芯片获准在欧上市；宁德时代抛出A股史上最大规模回购方案",
@@ -35,11 +35,23 @@
           "url": "https://wallstreetcn.com/articles/3777937",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 06时03分]"
+          "appearance_count": 6,
+          "time_info": "[00时06分 ~ 08时05分]"
+        },
+        {
+          "title": "环球下周看点：美联储决议携AI巨头财报来袭 美股迎来“超级周”",
+          "url": "https://www.cls.cn/detail/2437061",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时05分"
         }
       ]
     }
