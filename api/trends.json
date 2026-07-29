@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-29T12:16:34.402891+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-07-29T15:47:16.115755+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,21 @@
           "time_info": "[00时44分 ~ 08时02分]"
         },
         {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 15时47分]"
+        },
+        {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
           "url": "https://wallstreetcn.com/articles/3778058",
           "source": "华尔街见闻",
@@ -32,30 +47,28 @@
           "time_info": "[00时44分 ~ 04时20分]"
         },
         {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 12时16分]"
-        },
-        {
           "title": "美股半导体崩盘,闪迪跌破新低",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
           "source": "贴吧",
           "ranks": [
             11,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 12时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 15时47分]"
+        },
+        {
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时02分 ~ 15时47分]"
         },
         {
           "title": "长鑫上市后，美股「半导体 - 芯片板块」普跌，SK 海力士破发，早盘韩股熔断，日经大跌，对此你怎么看？",
@@ -69,17 +82,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 06时25分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时02分 ~ 12时16分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -145,7 +147,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         },
