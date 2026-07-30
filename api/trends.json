@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-30T10:45:17.573846+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-07-30T13:47:08.604348+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,18 @@
           "time_info": "[01时20分 ~ 10时45分]"
         },
         {
+          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
+          "url": "https://www.cls.cn/detail/2440737",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 13时47分]"
+        },
+        {
           "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
           "url": "https://wallstreetcn.com/articles/3778080",
           "source": "华尔街见闻",
@@ -52,18 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
-        },
-        {
-          "title": "美股收盘：特朗普最后时刻砸盘 纳斯达克100指数坠入回调区间",
-          "url": "https://www.cls.cn/detail/2440737",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 10时45分]"
         },
         {
           "title": "星巴克美股盘后涨11%，该公司上调全年调整后每股收益（EPS）指引。",
@@ -92,11 +92,12 @@
           "url": "https://www.douyin.com/hot/2590070",
           "source": "抖音",
           "ranks": [
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时44分 ~ 10时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时44分 ~ 13时47分]"
         },
         {
           "title": "美股尾盘大跳水原因",
@@ -234,8 +235,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 10时45分]"
+          "appearance_count": 5,
+          "time_info": "[07时02分 ~ 13时47分]"
         },
         {
           "title": "阿波罗首席经济学家：美联储放弃前瞻指引，导致美债“溜溜球”式波动",
