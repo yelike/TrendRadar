@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-31T08:08:27.775194+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-07-31T12:27:03.463480+08:00",
+  "total_titles_processed": 876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
+          "url": "https://www.cls.cn/detail/2441995",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时08分 ~ 12时27分]"
+        },
         {
           "title": "逢低买盘推动美股走高，费城半导体指数涨超7%，微软涨超14%，油价转跌",
           "url": "https://wallstreetcn.com/articles/3778287",
@@ -27,7 +38,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -43,26 +54,26 @@
           "time_info": "04时18分"
         },
         {
-          "title": "美股收盘：满屏都是两位数涨幅 微软单日市值暴增3万亿",
-          "url": "https://www.cls.cn/detail/2441995",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时08分"
-        },
-        {
           "title": "美股收盘：满屏都是两位数涨幅",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E6%BB%A1%E5%B1%8F%E9%83%BD%E6%98%AF%E4%B8%A4%E4%BD%8D%E6%95%B0%E6%B6%A8%E5%B9%85",
           "source": "百度热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
+        },
+        {
+          "title": "一图看懂丨AI算力军备持续升温：美股四巨头开支指引再度上调",
+          "url": "https://www.cls.cn/detail/2442218",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时26分 ~ 12时27分]"
         },
         {
           "title": "亚马逊高管预计2026年资本开支2200亿美元，主要用于AI。 亚马逊美股盘后涨幅扩大至超过10%。",
@@ -93,7 +104,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         },
@@ -188,7 +199,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时08分"
         }
