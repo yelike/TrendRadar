@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-02T21:39:24.163287+08:00",
-  "total_titles_processed": 1133,
+  "generated_at": "2026-08-02T23:07:34.529332+08:00",
+  "total_titles_processed": 1218,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "ranks": [
             8,
             9,
-            18
+            18,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时13分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[17时13分 ~ 23时07分]"
         },
         {
           "title": "马斯克关注DeepSeek账号",
@@ -72,8 +73,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时05分 ~ 21时39分]"
+          "appearance_count": 15,
+          "time_info": "[01时05分 ~ 23时07分]"
         },
         {
           "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
