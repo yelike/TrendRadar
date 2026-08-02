@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T03:18:29.412583+08:00",
-  "total_titles_processed": 372,
+  "generated_at": "2026-08-03T05:01:40.104740+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时01分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -27,8 +28,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时01分]"
+        },
+        {
+          "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
+          "url": "https://www.zhihu.com/question/2065010626171293829",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -44,8 +56,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时18分]"
+          "appearance_count": 3,
+          "time_info": "[01时06分 ~ 05时01分]"
         }
       ]
     }
