@@ -1,145 +1,50 @@
 {
-  "generated_at": "2026-08-02T23:07:34.529332+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-08-03T01:06:19.277727+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "为什么 DeepSeek-V4-Flash-0731 的后训练如此有效？",
-          "url": "https://www.zhihu.com/question/2066595452238160814",
+          "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
+          "url": "https://www.zhihu.com/question/2067212789714778007",
           "source": "知乎",
           "ranks": [
-            13,
-            15
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时05分 ~ 11时46分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "印度韩国突然宣称有媲美DeepSeek大模型",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%B0%E5%BA%A6%E9%9F%A9%E5%9B%BD%E7%AA%81%E7%84%B6%E5%AE%A3%E7%A7%B0%E6%9C%89%E5%AA%B2%E7%BE%8EDeepSeek%E5%A4%A7%E6%A8%A1%E5%9E%8B&t=31&band_rank=8&Refer=top",
-          "source": "微博",
+          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
+          "url": "https://www.cls.cn/detail/2443548",
+          "source": "财联社热门",
           "ranks": [
-            8,
-            9,
-            18,
-            29
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时13分 ~ 23时07分]"
-        },
-        {
-          "title": "马斯克关注DeepSeek账号",
-          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%85%B3%E6%B3%A8DeepSeek%E8%B4%A6%E5%8F%B7&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 08时02分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "美股收盘：超级权重托举指数V型反转 中国金龙指数五连阳",
-          "url": "https://www.cls.cn/detail/2443155",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时05分 ~ 19时21分]"
-        },
         {
           "title": "美股财报季AI赛道赢家显现：云计算三巨头本周市值暴增10万亿",
           "url": "https://www.cls.cn/detail/2443270",
           "source": "财联社热门",
           "ranks": [
-            6,
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时05分 ~ 23时07分]"
-        },
-        {
-          "title": "高盛：7月砸穿拥挤交易，美股牛市没断但更难做了",
-          "url": "https://wallstreetcn.com/articles/3778494",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时46分 ~ 17时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Gemini直播",
-          "url": "https://s.weibo.com/weibo?q=Gemini%E7%9B%B4%E6%92%AD&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“黑色黄金”价格打下来了",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%BB%91%E8%89%B2%E9%BB%84%E9%87%91%E2%80%9D%E4%BB%B7%E6%A0%BC%E6%89%93%E4%B8%8B%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 19时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI盈利兑现主导交易，亚马逊涨15%力撑纳指收涨，苹果重挫7%，30年美债收益率涨破5.27%",
-          "url": "https://wallstreetcn.com/articles/3778379",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时05分 ~ 06时06分]"
+          "time_info": "01时06分"
         }
       ]
     }
