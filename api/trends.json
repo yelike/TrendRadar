@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T01:06:19.277727+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-03T03:18:29.412583+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2067212789714778007",
           "source": "知乎",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 03时18分]"
         },
         {
           "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
@@ -26,8 +27,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 03时18分]"
         }
       ]
     },
@@ -43,8 +44,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 03时18分]"
         }
       ]
     }
