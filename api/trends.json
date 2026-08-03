@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T07:06:30.969246+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-08-03T11:36:06.762250+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时06分 ~ 07时06分]"
+        },
+        {
+          "title": "伊朗看到了美国的3个软肋",
+          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
         },
         {
           "title": "海湾国家对美国缺乏针对伊朗的战略感到不满",
@@ -179,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 06时01分]"
+        },
+        {
+          "title": "伊朗袭击乌军基地？实为纽约大火",
+          "url": "https://www.toutiao.com/trending/7669212085427339283/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
         },
         {
           "title": "伊朗总统：与美国的谅解备忘录将成为我们未来外交关系的核心",
@@ -383,7 +405,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 33,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -393,8 +415,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 11时36分]"
         },
         {
           "title": "特朗普相关的超过300个银行帐户被关闭，原因公布",
@@ -408,23 +430,57 @@
           "time_info": "[00时06分 ~ 07时06分]"
         },
         {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 07时06分]"
-        },
-        {
           "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
           "url": "https://www.cls.cn/detail/2443463",
           "source": "财联社热门",
           "ranks": [
             8,
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 11时36分]"
+        },
+        {
+          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
+          "url": "https://www.cls.cn/detail/2443662",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "接连反转！特朗普透露三个信息",
+          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "特朗普：已决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "特朗普：同意取消对伊朗的打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
+          "source": "澎湃新闻",
+          "ranks": [
             7,
             6
           ],
@@ -450,7 +506,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -554,6 +610,17 @@
           "time_info": "[02时04分 ~ 04时14分]"
         },
         {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
           "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
           "url": "https://wallstreetcn.com/livenews/3143688",
           "source": "华尔街见闻-快讯",
@@ -583,7 +650,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -594,7 +661,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -605,7 +672,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -616,7 +683,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -627,7 +694,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -638,7 +705,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -649,7 +716,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -660,9 +727,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
+        },
+        {
+          "title": "特朗普再度TACO，宣布美伊谈判即将重启，现货黄金多头占比飙升至85%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260803104538415800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时36分"
         },
         {
           "title": "美国总统特朗普：（当被问及美军撤出科威特和巴林）不予置评。",
@@ -671,7 +749,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -682,7 +760,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -693,7 +771,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -704,7 +782,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         }
@@ -734,11 +812,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 11时36分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -757,7 +836,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -765,11 +844,23 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时06分 ~ 07时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时06分 ~ 11时36分]"
+        },
+        {
+          "title": "如何看待 OpenAI 宣布 Astra 在十个长期开放的数学与理论计算机问题上取得重大进展？",
+          "url": "https://www.zhihu.com/question/2066921241156523798",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时35分 ~ 11时36分]"
         }
       ]
     },
