@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T11:36:06.762250+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-08-03T15:35:59.867467+08:00",
+  "total_titles_processed": 966,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 43,
       "titles": [
         {
           "title": "美以拟周末对伊朗能源基础设施实施“猛烈轰炸” ，瞄准发电厂、炼油厂，伊朗：全面反击方案已就绪",
@@ -26,8 +26,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 15时35分]"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：德黑兰方面已与阿曼“进行了7到8天的会谈”。已取得一些进展，目前正与地区内外官员举行会谈。",
+          "url": "https://flash.jin10.com/detail/20260803152911592800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "伊朗：我们目前没有与美国进行谈判。 正在与阿曼就霍尔木兹海峡通行问题举行谈判。 伊朗与美国之间的问题应在稍后阶段解决。",
+          "url": "https://wallstreetcn.com/livenews/3143976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "海湾国家对美国缺乏针对伊朗的战略感到不满",
@@ -50,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗外长阿拉格齐今天将前往伊拉克参加阿尔巴因朝圣活动。",
+          "url": "https://flash.jin10.com/detail/20260803152649019800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "沙特外交大臣与伊朗外长讨论如何缓和地区局势。（沙特官方媒体SPA）",
@@ -237,6 +270,39 @@
           "time_info": "00时06分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：伊朗与美国的问题应在后续阶段予以解决。",
+          "url": "https://flash.jin10.com/detail/20260803152147388800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：与阿曼就航线达成协议不足以重新开放霍尔木兹海峡，只要美国的“侵略”持续，局势将保持不变。",
+          "url": "https://flash.jin10.com/detail/20260803152028058800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "美、布两油短线小幅走高，伊朗方面表示没有在与美国进行对话。",
+          "url": "https://flash.jin10.com/detail/20260803151931867800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "伊朗外交部发言人：与巴基斯坦和土耳其官员的对话中涉及到针对美国威胁的警告和回应，如果伊朗受到攻击，将进行报复。",
           "url": "https://flash.jin10.com/detail/20260803010226366800",
           "source": "金十数据",
@@ -248,6 +314,17 @@
           "time_info": "02时04分"
         },
         {
+          "title": "伊朗外交部发言人巴加埃：正与阿曼合作在霍尔木兹海峡开辟临时安全通道。",
+          "url": "https://flash.jin10.com/detail/20260803151831827800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "伊朗外交部发言人：任何与美国合作或共谋攻击伊朗的国家将面临伊朗的正当防卫。向侵略方提供基地或军事、后勤设施的国家将被视为侵略者。",
           "url": "https://flash.jin10.com/detail/20260803005746377800",
           "source": "金十数据",
@@ -257,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "伊朗外交部：目前没有在与美国进行对话",
+          "url": "https://flash.jin10.com/detail/20260803151804344800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "伊朗外交部发言人：霍尔木兹海峡未来的管理工作，将由伊朗与阿曼协商进行。",
@@ -400,12 +488,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "伊朗外长与沙特和巴基斯坦高官举行电话会谈",
+          "url": "https://wallstreetcn.com/livenews/3143944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
@@ -451,8 +550,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 15时35分]"
         },
         {
           "title": "接连反转！特朗普透露三个信息",
@@ -489,6 +588,17 @@
           "time_info": "[00时06分 ~ 07时06分]"
         },
         {
+          "title": "特朗普称决定惩罚加拿大",
+          "url": "https://news.ifeng.com/c/8vHh8bqoTlY",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "金十整理：特朗普八次叫停对伊打击",
           "url": "https://flash.jin10.com/detail/20260803044202027800",
           "source": "金十数据",
@@ -511,6 +621,17 @@
           "time_info": "07时06分"
         },
         {
+          "title": "特朗普：日本向我们求助",
+          "url": "https://news.ifeng.com/c/8vHueaJjUVf",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
           "title": "以色列对特朗普二度取消伊朗打击行动感到失望",
           "url": "https://wallstreetcn.com/livenews/3143717",
           "source": "华尔街见闻-快讯",
@@ -523,6 +644,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时04分 ~ 07时06分]"
+        },
+        {
+          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
+          "url": "https://www.cls.cn/detail/2443690",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时35分 ~ 15时35分]"
         },
         {
           "title": "8 月 1 日特朗普称同意取消军事打击伊朗，这次军事打击行动终于要结束了吗？",
@@ -610,17 +743,6 @@
           "time_info": "[02时04分 ~ 04时14分]"
         },
         {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时35分 ~ 11时36分]"
-        },
-        {
           "title": "特朗普预计将于9月12日访问爱尔兰。（爱尔兰时报）",
           "url": "https://wallstreetcn.com/livenews/3143688",
           "source": "华尔街见闻-快讯",
@@ -642,6 +764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "特朗普盟友威胁杀死普京，俄媒怒怼",
+          "url": "https://news.ifeng.com/c/8vHyypr7Wj0",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         },
         {
           "title": "美国总统特朗普：伊朗政权内部有人希望达成协议。",
@@ -738,7 +871,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时36分"
         },
@@ -790,7 +923,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek v4 flash 如此强大，接下来发布的 pro 会不会让美国御三家全部倒闭？",
@@ -831,12 +964,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时14分 ~ 07时06分]"
+        },
+        {
+          "title": "研究公司：DeepSeek的新AI模型是迄今为止运行成本最低的知名模型",
+          "url": "https://wallstreetcn.com/livenews/3143957",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        },
+        {
+          "title": "全球大模型进入DeepSeek斩杀区",
+          "url": "https://s.weibo.com/weibo?q=%E5%85%A8%E7%90%83%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%BF%9B%E5%85%A5DeepSeek%E6%96%A9%E6%9D%80%E5%8C%BA&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "神了,OpenAI攻克十年数学难题",
@@ -861,6 +1016,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时35分 ~ 11时36分]"
+        },
+        {
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债彻底陷入“失控边缘”：真正的风暴才刚开始？",
+          "url": "https://www.cls.cn/detail/2443731",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时35分"
         }
       ]
     },
