@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T06:06:06.363080+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-08-03T08:03:12.903267+08:00",
+  "total_titles_processed": 560,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://www.cls.cn/detail/2443548",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 08时03分]"
         },
         {
           "title": "deepseek 定价按 10 个月回本算都这么便宜了，为什么谷歌投资 ai 还会现金流转负？",
@@ -38,11 +39,12 @@
           "source": "知乎",
           "ranks": [
             14,
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 06时06分]"
+          "appearance_count": 5,
+          "time_info": "[05时01分 ~ 08时03分]"
         }
       ]
     },
@@ -58,8 +60,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时06分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[01时06分 ~ 08时03分]"
         }
       ]
     }
