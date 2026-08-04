@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T16:47:05.153158+08:00",
-  "total_titles_processed": 1088,
+  "generated_at": "2026-08-04T19:29:46.855862+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时56分 ~ 16时47分]"
+          "appearance_count": 6,
+          "time_info": "[10时56分 ~ 19时29分]"
         },
         {
           "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
@@ -188,9 +188,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "麦当劳第二季度营收71.0亿美元，预估71.2亿美元。 第二季度调整后每股收益3.38美元，预估3.32美元。 第二季度每股收益3.32美元，上年同期3.14美元。 第二季度美国同店销售增长0.8％，预估增长0.93％。 麦当劳美股盘前涨约1%。",
+          "url": "https://wallstreetcn.com/livenews/3144701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "Palantir二季度调整后每股收益（EPS）为0.41美元，分析师预期0.35美元。 二季度营收19.4亿美元，分析师预期18.1亿美元。 预计全年营收81.5亿-81.6亿美元，公司原本预计76.5亿-76.6亿美元。 预计全年调整后运营利润48.9亿-49亿美元，分析师预期45.1亿美元。 Palantir美股盘后涨7%。",
@@ -213,6 +224,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时07分"
+        },
+        {
+          "title": "辉瑞第二季度营收150.3亿美元，预估144.1亿美元。 第二季度调整后每股收益0.77美元。 第二季度ELIQUIS收入 24.3亿美元，预估20.9亿美元。 第二季度PREVNAR特许费收入 13.4亿美元。 辉瑞预计全年营收605亿美元至625亿美元，市场预估617.6亿美元。 辉瑞美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3144692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "美股收盘：道指创收盘新高 纳指涨超2%",
@@ -243,7 +265,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
         },
@@ -254,15 +276,37 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时47分"
+        },
+        {
+          "title": "卡特彼勒公司第二季度营收205.4亿美元，同比增长24%，预估190.1亿美元。 第二季度每股收益7.77美元，上年同期4.62美元。 第二季度调整后每股收益8.17美元，预估6.17美元。 卡特彼勒美股盘前涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3144682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
+        },
+        {
+          "title": "美股盘前光通信股拉升，Coherent涨超15%，Lumentum涨近12%，康宁涨超9%，Credo涨近10%，迈威尔科技涨近8%。",
+          "url": "https://wallstreetcn.com/livenews/3144681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
@@ -315,6 +359,19 @@
           "time_info": "[01时56分 ~ 07时07分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 19时29分]"
+        },
+        {
           "title": "DeepSeek斩杀线斩的是什么",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "百度热搜",
@@ -338,18 +395,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
-        },
-        {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 16时47分]"
         },
         {
           "title": "DeepSeek模型单日吞下8万亿Token",
@@ -379,6 +424,18 @@
           "time_info": "[01时56分 ~ 07时07分]"
         },
         {
+          "title": "DeepSeek斩杀了谁",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时46分 ~ 19时29分]"
+        },
+        {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
           "url": "https://www.baidu.com/s?wd=OpenAI%E7%AD%89%E5%B7%A8%E5%A4%B4%E5%A4%A7%E5%B9%85%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%A0%87DeepSeek",
           "source": "百度热搜",
@@ -390,15 +447,15 @@
           "time_info": "[10时56分 ~ 10时57分]"
         },
         {
-          "title": "DeepSeek斩杀了谁",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E4%BA%86%E8%B0%81",
+          "title": "DeepSeek低价风暴打服硅谷",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E4%BD%8E%E4%BB%B7%E9%A3%8E%E6%9A%B4%E6%89%93%E6%9C%8D%E7%A1%85%E8%B0%B7",
           "source": "百度热搜",
           "ranks": [
-            28
+            12
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时46分 ~ 16时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时29分"
         },
         {
           "title": "华为半导体首席科学家大赞梁文锋",
@@ -454,8 +511,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 16时47分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 19时29分]"
         },
         {
           "title": "花旗：日本捍卫日元不必抛售逾1.1万亿美元的美债持仓",
