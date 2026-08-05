@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-05T15:44:26.930189+08:00",
-  "total_titles_processed": 1058,
+  "generated_at": "2026-08-05T18:42:01.547972+08:00",
+  "total_titles_processed": 1234,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
@@ -88,6 +88,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "美股史上最大解禁冲击来袭！SpaceX即将迎来真正考验",
+          "url": "https://www.cls.cn/detail/2446161",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
         },
         {
           "title": "美股科技泡沫要破了吗",
@@ -269,7 +280,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek斩杀了谁",
@@ -319,6 +330,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时56分 ~ 04时37分]"
+        },
+        {
+          "title": "梁文锋会不会成为中国AI里程碑人物？",
+          "url": "https://www.zhihu.com/question/10315979917",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
+        },
+        {
+          "title": "DeepSeek干完活自己写了个游戏",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时41分 ~ 18时42分]"
         }
       ]
     },
@@ -348,8 +381,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时15分 ~ 15时44分]"
+          "appearance_count": 5,
+          "time_info": "[12时15分 ~ 18时42分]"
         }
       ]
     },
