@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-05T12:16:14.934448+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-08-05T15:44:26.930189+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时09分 ~ 12时16分]"
+          "appearance_count": 4,
+          "time_info": "[08时09分 ~ 15时44分]"
         },
         {
           "title": "美股期指全线上涨 卡特彼勒大涨逾10%领涨道指期货 | 今夜看点",
@@ -56,6 +56,17 @@
           "time_info": "[00时56分 ~ 08时09分]"
         },
         {
+          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
+          "url": "https://www.cls.cn/detail/2445853",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 15时44分]"
+        },
+        {
           "title": "美股收盘：标普500再创历史新高 光通信、存储涨幅居前",
           "url": "https://www.cls.cn/detail/2445760",
           "source": "财联社热门",
@@ -66,17 +77,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时17分 ~ 12时16分]"
-        },
-        {
-          "title": "美股存储板块爆发！SK海力士ADR大涨逾8% 投行集体看涨",
-          "url": "https://www.cls.cn/detail/2445853",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
         },
         {
           "title": "金融博客零对冲此前发贴表示：“SpaceX财报前出现大规模卖空：可借出的SpaceX股票中有95%已被借出，占流通股比例的空头仓位达到34%。”马斯克回复该帖称：“我试图提醒他们，但他们只是进一步加码押注。”（SpaceX(SPCX.O)将于今日美股盘后公布Q2业绩）",
@@ -344,11 +344,12 @@
           "url": "https://www.zhihu.com/question/2067002987545884316",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时15分 ~ 12时16分]"
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 15时44分]"
         }
       ]
     },
