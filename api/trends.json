@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-08-06T01:46:02.014044+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-08-06T03:43:08.455445+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。",
+          "url": "https://flash.jin10.com/detail/20260806032320074800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
         {
           "title": "谷歌将因被指滥用广告权力而在英国面临集体诉讼",
           "url": "https://wallstreetcn.com/livenews/3145526",
@@ -14,7 +25,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
         }
@@ -62,11 +73,12 @@
           "url": "https://www.zhihu.com/question/10315979917",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 03时43分]"
         },
         {
           "title": "DeepSeek把Claude拉进“斩杀线”",
@@ -90,11 +102,12 @@
           "url": "https://wallstreetcn.com/articles/3778704",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 03时43分]"
         },
         {
           "title": "美股期指延续涨势 SpaceX、AMD盘前大跌 | 今夜看点",
@@ -104,8 +117,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 01时46分]"
+          "appearance_count": 4,
+          "time_info": "[01时45分 ~ 03时43分]"
         }
       ]
     }
