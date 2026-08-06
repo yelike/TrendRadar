@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-06T13:56:03.940948+08:00",
-  "total_titles_processed": 913,
+  "generated_at": "2026-08-06T16:45:26.643797+08:00",
+  "total_titles_processed": 1095,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊谈判悬而未决，经济数据与AI需求驱动美股走高，SpaceX跌12%、AMD跌7%，黄金涨3%突破4200，布油涨1%",
@@ -60,11 +60,12 @@
           "url": "https://www.cls.cn/detail/2446947",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时45分]"
         },
         {
           "title": "闪迪(SNDK.O)美股盘后跌超3%。",
@@ -100,6 +101,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "美股盘前，存储芯片股延续跌势，SK海力士跌超5%，美光科技跌近3%，闪迪跌超8%，上季营收超预期增近四倍，拟豪掷140亿回购，但本季指引逊色；西部数据跌近12%，第四财季营收、利润超预期，业绩指引令市场失望。",
+          "url": "https://wallstreetcn.com/livenews/3145913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "闪迪第四财季调整后每股收益（EPS）为39.25美元，分析师预期34.37美元。 第四财季营收89.7亿美元，增幅51%。 2026财年营收202.5亿美元，较上年增长175%。 （公司董事会）批准140亿美元股票回购计划。 预计第一财季营收103亿-108亿美元，分析师预期111.6亿美元。 预计第一财季调整后EPS为44-46美元，分析师预期45.58美元。 闪迪美股盘后跌8%。",
           "url": "https://wallstreetcn.com/livenews/3145593",
           "source": "华尔街见闻-快讯",
@@ -133,6 +145,17 @@
           "time_info": "05时17分"
         },
         {
+          "title": "美股存储板块盘前集体走低，闪迪(SNDK.O)跌超8%，公司业绩指引不佳。西部数据(WDC.O)跌12%，SK海力士(SKHY.O)跌6%。",
+          "url": "https://flash.jin10.com/detail/20260806160328237800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "金十图示：2026年08月05日（周三）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260806040522076800",
           "source": "金十数据",
@@ -147,40 +170,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "DeepSeek拟调高API价格",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时56分]"
-        },
-        {
-          "title": "DeepSeek拟上调API服务定价",
-          "url": "https://www.douyin.com/hot/2599312",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时56分]"
-        },
         {
           "title": "如何看待 DeepSeek 8 月 6 日公告称即将大幅度涨价？",
           "url": "https://www.zhihu.com/question/2068628771687625392",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时45分]"
         },
         {
           "title": "梁文锋会不会成为中国AI里程碑人物？",
@@ -193,6 +195,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 03时43分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务定价",
+          "url": "https://www.douyin.com/hot/2599312",
+          "source": "抖音",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时45分]"
+        },
+        {
+          "title": "DeepSeek预告将大幅涨价 V4正式版发布进入倒计时",
+          "url": "https://www.cls.cn/detail/2447135",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "DeepSeek拟调高API价格",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%8B%9F%E8%B0%83%E9%AB%98API%E4%BB%B7%E6%A0%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时45分]"
         },
         {
           "title": "DeepSeek API即将大幅涨价",
@@ -211,11 +248,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33728016",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时54分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时54分 ~ 16时45分]"
         },
         {
           "title": "DeepSeek把Claude拉进“斩杀线”",
@@ -240,6 +278,28 @@
           "time_info": "[13时54分 ~ 13时56分]"
         },
         {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
+          "title": "DeepSeek推理到一半说自己饿了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%8E%A8%E7%90%86%E5%88%B0%E4%B8%80%E5%8D%8A%E8%AF%B4%E8%87%AA%E5%B7%B1%E9%A5%BF%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
+        },
+        {
           "title": "DeepSeek拟上调API服务定价，预计涨幅较大",
           "url": "https://wallstreetcn.com/livenews/3145744",
           "source": "华尔街见闻-快讯",
@@ -254,7 +314,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌首席科学家Jeff Dean：明天将是我在谷歌工作的最后一天。",
@@ -277,6 +337,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "谷歌将在华盛顿地区裁员52人，于2026年9月6日生效。",
+          "url": "https://flash.jin10.com/detail/20260806161117591800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时45分"
         },
         {
           "title": "谷歌A跌超5%，谷歌DeepMind负责人哈萨比斯转任主席，公司进行重大人事调整",
