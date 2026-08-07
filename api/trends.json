@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T18:57:44.943171+08:00",
-  "total_titles_processed": 875,
+  "generated_at": "2026-08-07T19:52:00.143475+08:00",
+  "total_titles_processed": 987,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 18时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 19时52分]"
         },
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -38,11 +38,34 @@
             19,
             23,
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 18时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 19时52分]"
+        },
+        {
+          "title": "王兴兴回应DeepSeek参与宇树科技IPO战略配售",
+          "url": "https://wallstreetcn.com/livenews/3146694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 19时52分]"
         },
         {
           "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
@@ -55,17 +78,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时24分 ~ 18时57分]"
-        },
-        {
-          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
-          "url": "https://www.zhihu.com/question/2069015264461579129",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时57分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -103,8 +115,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时53分 ~ 18时57分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 19时52分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -123,11 +135,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时57分]"
+          "appearance_count": 4,
+          "time_info": "[17时06分 ~ 19时52分]"
         },
         {
           "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
