@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T11:53:55.115206+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-08-07T14:22:53.033954+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时22分]"
         },
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -26,8 +26,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时22分]"
+        },
+        {
+          "title": "DeepSeek拟上调API服务价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
+          "source": "贴吧",
+          "ranks": [
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时22分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -41,15 +53,15 @@
           "time_info": "11时53分"
         },
         {
-          "title": "DeepSeek拟上调API服务价格",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356822&amp;topic_name=DeepSeek%E6%8B%9F%E4%B8%8A%E8%B0%83API%E6%9C%8D%E5%8A%A1%E4%BB%B7%E6%A0%BC",
-          "source": "贴吧",
+          "title": "DeepSeek豪掷1.4亿护航宇树IPO",
+          "url": "https://www.toutiao.com/trending/7671088097861307923/",
+          "source": "今日头条",
           "ranks": [
-            14
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时53分"
+          "time_info": "14时22分"
         }
       ]
     },
@@ -65,8 +77,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时22分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -76,8 +88,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 14时22分]"
         }
       ]
     },
