@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T15:24:37.792002+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-08-07T17:06:24.045233+08:00",
+  "total_titles_processed": 731,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待梁文锋旗下幻方量化多只产品收益转负，单月跌幅超 20%？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 17时06分]"
         },
         {
           "title": "宇树科技IPO定价150.8元，DeepSeek、腾讯等获战略配售",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 17时06分]"
         },
         {
           "title": "DeepSeek拟上调API服务价格",
@@ -36,11 +36,24 @@
           "ranks": [
             14,
             19,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 17时06分]"
+        },
+        {
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时24分 ~ 17时06分]"
         },
         {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
@@ -54,17 +67,6 @@
           "time_info": "11时53分"
         },
         {
-          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
-          "url": "https://wallstreetcn.com/articles/3778849",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时24分"
-        },
-        {
           "title": "DeepSeek豪掷1.4亿护航宇树IPO",
           "url": "https://www.toutiao.com/trending/7671088097861307923/",
           "source": "今日头条",
@@ -74,12 +76,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时22分"
+        },
+        {
+          "title": "怎么看 OpenCode 创始人说「DeepSeek 涨价不是因为亏钱，而是为了劝退用户」？",
+          "url": "https://www.zhihu.com/question/2069015264461579129",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -89,8 +102,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时53分 ~ 15时24分]"
+          "appearance_count": 4,
+          "time_info": "[11时53分 ~ 17时06分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
@@ -102,13 +115,57 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时53分 ~ 15时24分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3146560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
+        {
+          "title": "KOSPI下跌引发美股淘金热，韩国散户加速转投华尔街",
+          "url": "https://flash.jin10.com/detail/20260807163047609800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌将人工智能管理重心迁至加州 全力迎战Anthropic与OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3146580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时06分"
+        },
         {
           "title": "新闻蒸馏器｜谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
           "url": "https://m.thepaper.cn/newsDetail_forward_33727851",
@@ -133,7 +190,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时24分"
         }
