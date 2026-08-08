@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T21:52:00.711733+08:00",
-  "total_titles_processed": 1470,
+  "generated_at": "2026-08-08T22:36:49.816931+08:00",
+  "total_titles_processed": 1526,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时56分 ~ 21时52分]"
+          "appearance_count": 18,
+          "time_info": "[09时56分 ~ 22时36分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -32,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时02分 ~ 21时52分]"
+          "appearance_count": 25,
+          "time_info": "[00时02分 ~ 22时36分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -47,8 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[06时42分 ~ 21时52分]"
+          "appearance_count": 20,
+          "time_info": "[06时42分 ~ 22时36分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -270,7 +270,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "核心团队跑路,Gemini陷大危机",
@@ -297,11 +297,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时52分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时36分]"
+        },
+        {
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时36分"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -366,11 +378,12 @@
           "source": "金十数据",
           "ranks": [
             14,
-            18
+            18,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时58分 ~ 21时52分]"
+          "appearance_count": 3,
+          "time_info": "[20时58分 ~ 22时36分]"
         }
       ]
     }
