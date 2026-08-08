@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T17:43:30.613688+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-08-08T18:39:13.840115+08:00",
+  "total_titles_processed": 1229,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 17时43分]"
+          "appearance_count": 12,
+          "time_info": "[09时56分 ~ 18时39分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -32,8 +32,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 17时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 18时39分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -47,8 +47,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时42分 ~ 17时43分]"
+          "appearance_count": 14,
+          "time_info": "[06时42分 ~ 18时39分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -139,11 +139,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             3,
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时49分 ~ 17时43分]"
+          "appearance_count": 4,
+          "time_info": "[16时49分 ~ 18时39分]"
         },
         {
           "title": "美股收盘： 三大股指收涨 SpaceX大涨近16%",
@@ -209,8 +210,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时56分 ~ 17时43分]"
+          "appearance_count": 12,
+          "time_info": "[09时56分 ~ 18时39分]"
         },
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -223,8 +224,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[05时25分 ~ 17时43分]"
+          "appearance_count": 16,
+          "time_info": "[05时25分 ~ 18时39分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -284,8 +285,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时02分 ~ 17时43分]"
+          "appearance_count": 19,
+          "time_info": "[00时02分 ~ 18时39分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
@@ -312,8 +313,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时01分 ~ 17时43分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 18时39分]"
         }
       ]
     },
