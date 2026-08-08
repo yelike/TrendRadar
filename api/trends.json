@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T11:39:12.573785+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-08-08T13:03:27.771414+08:00",
+  "total_titles_processed": 894,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 11时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时03分]"
         },
         {
           "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
@@ -32,6 +33,18 @@
           "time_info": "[00时02分 ~ 06时42分]"
         },
         {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 13时03分]"
+        },
+        {
           "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
           "url": "https://wallstreetcn.com/articles/3778924",
           "source": "华尔街见闻",
@@ -43,18 +56,6 @@
           "time_info": "[00时02分 ~ 05时44分]"
         },
         {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 11时39分]"
-        },
-        {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
           "url": "https://www.cls.cn/detail/2448974",
           "source": "财联社热门",
@@ -63,8 +64,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时42分 ~ 11时39分]"
+          "appearance_count": 7,
+          "time_info": "[06时42分 ~ 13时03分]"
         },
         {
           "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
@@ -178,7 +179,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "业绩如何支撑高估值？与DeepSeek如何合作？如何看待股价炒作？王兴兴回应多个热点",
@@ -187,11 +188,24 @@
           "ranks": [
             18,
             14,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时25分 ~ 11时39分]"
+          "appearance_count": 9,
+          "time_info": "[05时25分 ~ 13时03分]"
+        },
+        {
+          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
+          "url": "https://www.zhihu.com/question/2068108635620774765",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时56分 ~ 13时03分]"
         },
         {
           "title": "梁文锋 只想用座机",
@@ -220,15 +234,15 @@
           "time_info": "[00时02分 ~ 07时38分]"
         },
         {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
+          "title": "梁文锋为何重仓宇树科技",
+          "url": "https://www.toutiao.com/trending/7671445304096345619/",
+          "source": "今日头条",
           "ranks": [
-            7
+            22
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时56分 ~ 11时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
         }
       ]
     },
@@ -244,11 +258,12 @@
             18,
             19,
             17,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时02分 ~ 11时39分]"
+          "appearance_count": 12,
+          "time_info": "[00时02分 ~ 13时03分]"
         },
         {
           "title": "奥士康：与AMD合作尚处送样阶段，未与英伟达、谷歌开展订单合作",
