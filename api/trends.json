@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T01:36:18.811763+08:00",
-  "total_titles_processed": 361,
+  "generated_at": "2026-08-10T02:49:27.652636+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时49分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时41分 ~ 01时36分]"
+          "appearance_count": 4,
+          "time_info": "[00时41分 ~ 02时49分]"
         }
       ]
     }
