@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T21:02:12.635374+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2026-08-09T21:56:26.015445+08:00",
+  "total_titles_processed": 1307,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 21时56分]"
         },
         {
           "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
@@ -68,22 +68,24 @@
           "ranks": [
             12,
             11,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 21时02分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 21时56分]"
         },
         {
           "title": "一边买黄金，一边买美股",
           "url": "https://wallstreetcn.com/articles/3779012",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 21时56分]"
         }
       ]
     },
