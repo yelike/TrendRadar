@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-09T13:51:57.532564+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-08-09T15:06:10.838100+08:00",
+  "total_titles_processed": 861,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "伊媒发布伊朗最高领袖视频",
@@ -74,11 +74,12 @@
             8,
             17,
             19,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 13时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 15时06分]"
         },
         {
           "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
@@ -104,8 +105,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 15时06分]"
         },
         {
           "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
@@ -121,6 +122,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 12时22分]"
+        },
+        {
+          "title": "伊朗开出6项条件，美国该如何应对？",
+          "url": "https://news.ifeng.com/c/8vRTyrZzuDS",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时06分]"
+        },
+        {
+          "title": "伊朗：美国不改，海峡不开",
+          "url": "https://news.ifeng.com/c/8vRHg8IEQV7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时06分]"
         },
         {
           "title": "伊朗：与阿曼“接近”达成协议，但并不意味重开海峡",
@@ -149,15 +172,17 @@
           "time_info": "[00时42分 ~ 07时35分]"
         },
         {
-          "title": "伊朗开出6项条件，美国该如何应对？",
-          "url": "https://news.ifeng.com/c/8vRTyrZzuDS",
-          "source": "凤凰网",
+          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
+          "url": "https://wallstreetcn.com/livenews/3147045",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 15时06分]"
         },
         {
           "title": "伊朗革命卫队指挥官：美国和以色列在实现其针对伊斯兰体制的目标上已完全失败，其领导人在面对公众舆论、精英和本国人民时，对其接连不断的失败已无任何回应。",
@@ -171,27 +196,15 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
-          "title": "伊朗：美国不改，海峡不开",
-          "url": "https://news.ifeng.com/c/8vRHg8IEQV7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时51分]"
-        },
-        {
-          "title": "伊朗：重开霍尔木兹海峡的前提是美国满足5个条件",
-          "url": "https://wallstreetcn.com/livenews/3147045",
+          "title": "伊朗总统说必须摆脱非战非和局面",
+          "url": "https://wallstreetcn.com/livenews/3147050",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            4
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "伊朗媒体发布伊朗最高领袖视频",
@@ -204,6 +217,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时42分 ~ 05时37分]"
+        },
+        {
+          "title": "伊朗外长称将继续坚持抵抗立场",
+          "url": "https://flash.jin10.com/detail/20260809145146414800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "美媒：伊朗战争导致国防库存锐减，五角大楼敦促国防企业加快武器生产",
@@ -241,6 +265,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时37分 ~ 07时35分]"
+        },
+        {
+          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
+          "url": "https://wallstreetcn.com/articles/3778994",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时06分]"
+        },
+        {
+          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
+          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时06分]"
         },
         {
           "title": "伊朗总统佩泽希齐扬：问题不能仅靠战争解决。致力于根据谅解备忘录的条款推进和平进程。",
@@ -314,29 +361,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时36分 ~ 05时37分]"
-        },
-        {
-          "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
-          "url": "https://wallstreetcn.com/articles/3778994",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时51分]"
-        },
-        {
-          "title": "美国乡村小镇突发停水，FBI：可能是伊朗黑客干的",
-          "url": "https://news.ifeng.com/c/8vQiHqeUsfl",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时51分]"
         },
         {
           "title": "美国副总统万斯：已经大幅削弱了伊朗的非对称军事能力。",
@@ -435,7 +459,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -445,8 +469,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 15时06分]"
         },
         {
           "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
@@ -469,11 +493,12 @@
             4,
             13,
             15,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 13时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 15时06分]"
         },
         {
           "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
@@ -497,11 +522,12 @@
             9,
             18,
             20,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时42分 ~ 13时51分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 15时06分]"
         },
         {
           "title": "美上诉法院叫停白宫宴会厅施工，特朗普怒了：国家耻辱！",
@@ -512,8 +538,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 15时06分]"
         },
         {
           "title": "据塔斯社报道，美国中东问题特使威特科夫和特朗普高级顾问库什纳可能在接下来七到十天内访问基辅和莫斯科。",
@@ -521,11 +547,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 15时06分]"
         },
         {
           "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
@@ -547,8 +574,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时06分]"
         },
         {
           "title": "特朗普政府冻结石油大亨萨金特资产，施压其退出委内瑞拉",
@@ -573,6 +600,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 06时36分]"
+        },
+        {
+          "title": "泰勒·斯威夫特下架特朗普团队音频",
+          "url": "https://flash.jin10.com/detail/20260809135228907800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时06分"
         },
         {
           "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
@@ -607,11 +645,12 @@
           "url": "https://www.cls.cn/detail/2448991",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 15时06分]"
         },
         {
           "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
@@ -619,11 +658,12 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 15时06分]"
         },
         {
           "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
@@ -643,11 +683,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时22分 ~ 13时51分]"
+          "appearance_count": 4,
+          "time_info": "[12时22分 ~ 15时06分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -658,8 +699,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时10分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[10时10分 ~ 15时06分]"
         }
       ]
     },
@@ -708,11 +749,12 @@
             7,
             5,
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时42分 ~ 13时51分]"
+          "appearance_count": 14,
+          "time_info": "[00时42分 ~ 15时06分]"
         },
         {
           "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
@@ -727,6 +769,37 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时42分 ~ 10时10分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价猛涨踏空的人哭麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            16,
+            11,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 07时35分]"
+        },
+        {
+          "title": "金价为何突然大涨",
+          "url": "https://www.douyin.com/hot/2602679",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时05分 ~ 15时06分]"
         }
       ]
     },
@@ -749,26 +822,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时42分 ~ 10时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价猛涨踏空的人哭麻了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%8C%9B%E6%B6%A8%E8%B8%8F%E7%A9%BA%E7%9A%84%E4%BA%BA%E5%93%AD%E9%BA%BB%E4%BA%86%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            16,
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时42分 ~ 07时35分]"
         }
       ]
     }
