@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T10:17:49.790832+08:00",
-  "total_titles_processed": 688,
+  "generated_at": "2026-08-10T12:45:44.892683+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "万斯称美伊冲突仍处于“博弈中段”，美军“寻找出口”，伊朗开出“重开海峡6大条件”",
@@ -31,29 +31,31 @@
           "time_info": "[00时43分 ~ 10时17分]"
         },
         {
+          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
+          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 12时45分]"
+        },
+        {
           "title": "伊朗最高领袖与总统会谈",
           "url": "https://www.toutiao.com/trending/7670941843498287158/",
           "source": "今日头条",
           "ranks": [
             4,
             2,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 10时17分]"
-        },
-        {
-          "title": "伊朗最高领袖与总统会谈，重点讨论了这几个问题",
-          "url": "https://news.ifeng.com/c/8vS3pS8BvYm",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 10时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 12时45分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -87,9 +89,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时17分 ~ 12时45分]"
         },
         {
           "title": "伊朗议会批准霍尔木兹海峡安全纲要",
@@ -98,7 +100,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
         },
@@ -109,7 +111,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
         },
@@ -272,6 +274,17 @@
           "time_info": "[00时43分 ~ 02时51分]"
         },
         {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时17分 ~ 12时45分]"
+        },
+        {
           "title": "伊朗陆军司令：将回应任何敌对行动",
           "url": "https://www.toutiao.com/trending/7671949132243763263/",
           "source": "今日头条",
@@ -283,15 +296,15 @@
           "time_info": "[02时50分 ~ 02时51分]"
         },
         {
-          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
-          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
-          "source": "凤凰网",
+          "title": "伊朗机场公司首席执行官：尽管遭受重大破坏，但受战争影响的机场已恢复运营。",
+          "url": "https://flash.jin10.com/detail/20260810122646591800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "12时45分"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -344,7 +357,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
         }
@@ -352,7 +365,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -372,11 +385,12 @@
           "ranks": [
             5,
             6,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时43分 ~ 10时17分]"
+          "appearance_count": 14,
+          "time_info": "[00时43分 ~ 12时45分]"
         },
         {
           "title": "鲁比奥一句“别回头”，特朗普：这画不错，我要带走",
@@ -454,6 +468,18 @@
           "time_info": "[03时39分 ~ 05时39分]"
         },
         {
+          "title": "特朗普公布新任总统助理人选",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
+          "source": "凤凰网",
+          "ranks": [
+            12,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时17分 ~ 12时45分]"
+        },
+        {
           "title": "据英国金融时报：前美国安全官员警告，美国总统特朗普正在拆除美国的防护屏障。",
           "url": "https://flash.jin10.com/detail/20260810025259260800",
           "source": "金十数据",
@@ -465,6 +491,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时39分 ~ 05时39分]"
+        },
+        {
+          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
+          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时17分 ~ 12时45分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -479,6 +517,18 @@
           "time_info": "[04时41分 ~ 05时39分]"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时17分 ~ 12时45分]"
+        },
+        {
           "title": "内塔尼亚胡认为在加沙计划上跟特朗普作对“没有风险”",
           "url": "https://flash.jin10.com/detail/20260809224743402800",
           "source": "金十数据",
@@ -491,37 +541,26 @@
           "time_info": "[00时43分 ~ 01时38分]"
         },
         {
-          "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
-          "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
-          "source": "凤凰网",
+          "title": "美国高级国防官员科尔比：北约在美国总统特朗普领导下显著增强，实力远超以往。",
+          "url": "https://flash.jin10.com/detail/20260810122310879800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "12时45分"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
           "source": "凤凰网",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "特朗普公布新任总统助理人选",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUQr",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "time_info": "12时45分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -541,7 +580,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
         }
@@ -580,11 +619,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时39分 ~ 10时17分]"
+          "appearance_count": 9,
+          "time_info": "[03时39分 ~ 12时45分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -597,6 +637,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时38分 ~ 07时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI曝光GPT-6！传10万亿参数，8月强行发布",
+          "url": "https://wallstreetcn.com/articles/3779038",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "非农意外转负助推金价，4300之后本周要看什么？",
+          "url": "https://flash.jin10.com/detail/20260810122012069800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时45分"
         }
       ]
     },
