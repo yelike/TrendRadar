@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-10T07:36:54.333469+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-08-10T10:09:30.329404+08:00",
+  "total_titles_processed": 693,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 10时09分]"
         },
         {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
@@ -27,19 +27,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时41分 ~ 07时36分]"
+          "appearance_count": 11,
+          "time_info": "[00时41分 ~ 10时09分]"
         },
         {
           "title": "一边买黄金，一边买美股",
           "url": "https://wallstreetcn.com/articles/3779012",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时38分 ~ 07时36分]"
+          "appearance_count": 7,
+          "time_info": "[03时38分 ~ 10时09分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
