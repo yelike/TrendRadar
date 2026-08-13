@@ -1,274 +1,23 @@
 {
-  "generated_at": "2026-08-14T05:54:17.369846+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-08-14T07:50:33.534180+08:00",
+  "total_titles_processed": 615,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
-          "source": "澎湃新闻",
-          "ranks": [
-            1,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
-        },
-        {
-          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
-          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
-        },
-        {
-          "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
-          "url": "https://flash.jin10.com/detail/20260814004157850800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
-          "url": "https://wallstreetcn.com/livenews/3149281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "特朗普对特定无人机进口加征100%关税",
-          "url": "https://flash.jin10.com/detail/20260814054149150800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "澳大利亚总理阿尔巴尼斯：与美国总统特朗普进行了夜间交谈。",
-          "url": "https://flash.jin10.com/detail/20260814054026468800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
-          "url": "https://news.ifeng.com/c/8vYj1925EKl",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
-        },
-        {
-          "title": "美新闻机构起诉特朗普",
-          "url": "https://www.douyin.com/hot/2607917",
-          "source": "抖音",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 05时54分]"
-        },
-        {
-          "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
-          "url": "https://wallstreetcn.com/livenews/3149255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 03时11分]"
-        },
-        {
-          "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
-          "url": "https://wallstreetcn.com/livenews/3149316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时54分]"
-        },
-        {
-          "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
-          "url": "https://flash.jin10.com/detail/20260814053520853800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260814043950826800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "白宫：美国总统特朗普已指示国防部长，在CVN-81航母建造期间，将先进电磁弹射系统和先进武器升降机更换为传统的蒸汽和液压系统。",
-          "url": "https://flash.jin10.com/detail/20260814052949951800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "白宫：美国总统特朗普签署的备忘录指示五角大楼参照“芬兰模式”，加大对美国造船工业基础的直接投资。",
-          "url": "https://flash.jin10.com/detail/20260814052933295800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "白宫：美国总统特朗普已签署一份国家安全总统备忘录，旨在解决海军舰船建造与维修计划中长期存在的关键问题。",
-          "url": "https://flash.jin10.com/detail/20260814052911469800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将对英国输美无人机加征10%从价关税。",
-          "url": "https://flash.jin10.com/detail/20260814052728079800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将对欧盟、日本、列支敦士登、韩国、瑞士输美的无人机及零部件加征15%从价关税。",
-          "url": "https://flash.jin10.com/detail/20260814052706154800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将对特定尺寸或具备敏感性能的无人机加征100%从价关税。",
-          "url": "https://flash.jin10.com/detail/20260814052625841800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将对部分缺乏特定能力的小型无人机加征25%从价关税，理由是相关产品涉及国家安全问题。",
-          "url": "https://flash.jin10.com/detail/20260814052554722800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "霉霉特朗普 版权",
-          "url": "https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E7%89%B9%E6%9C%97%E6%99%AE%20%E7%89%88%E6%9D%83&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
-          "url": "https://flash.jin10.com/detail/20260814041817349800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        },
-        {
-          "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
-          "url": "https://wallstreetcn.com/livenews/3149298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗：将以持久战消耗美国",
           "url": "https://news.ifeng.com/c/8vYfWkn57YW",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "被伊朗打成外交收缩？美驻中东使馆拟长期精简人员",
@@ -278,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "伊朗将正式加入金砖国家新开发银行",
@@ -304,6 +53,17 @@
           "time_info": "04时51分"
         },
         {
+          "title": "美国财长贝森特：我们将继续对伊朗经济实施制裁，并在霍尔木兹海峡保持持续的封锁。我们将禁止任何物品进出伊朗港口。",
+          "url": "https://flash.jin10.com/detail/20260814073702603800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "美防长称可“无限期维持”对伊朗海上封锁",
           "url": "https://wallstreetcn.com/livenews/3149317",
           "source": "华尔街见闻-快讯",
@@ -326,6 +86,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时54分]"
+        },
+        {
+          "title": "美国财长贝森特：我们正在针对伊朗的全球银行账户实施最大力度的施压，我们采取的施压行动使伊朗银行业崩溃。",
+          "url": "https://flash.jin10.com/detail/20260814073516828800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "伊朗议会国家安全委员会主席阿齐兹：若有人继续向伊朗的敌人屈服，你们的主权就将持续面临风险，国家地位也会被削弱。但若有人甘当敌人的工具，在地区内轻举妄动，伊朗将作出果断而强硬的回应。",
@@ -361,6 +132,28 @@
           "time_info": "03时11分"
         },
         {
+          "title": "美国能源部长赖特：美国知道每天有多少艘船只进出霍尔木兹海峡。 每天有800万至900万桶石油经由霍尔木兹海峡运输。 伊朗正试图以全球经济为要挟。 美国护送和运送货物的能力正在增强。 霍尔木兹海峡石油运输量将继续增加。",
+          "url": "https://wallstreetcn.com/livenews/3149346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "美国财长贝森特：我们将针对伊朗采取前所未有的措施。",
+          "url": "https://flash.jin10.com/detail/20260814071558616800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "伊朗外交部再次谴责美以违反国际人道法",
           "url": "https://flash.jin10.com/detail/20260814020208321800",
           "source": "金十数据",
@@ -372,6 +165,39 @@
           "time_info": "03时11分"
         },
         {
+          "title": "据伊朗法尔斯通讯社：巴勒斯坦消息人士称，以色列军队对加沙东部的多个地点发动了攻击。",
+          "url": "https://flash.jin10.com/detail/20260814071431945800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "伊朗：美若敢用核弹 全球基地将成靶子",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E8%8B%A5%E6%95%A2%E7%94%A8%E6%A0%B8%E5%BC%B9+%E5%85%A8%E7%90%83%E5%9F%BA%E5%9C%B0%E5%B0%86%E6%88%90%E9%9D%B6%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "伊朗划“红线” 美军组特遣队 海峡博弈再度升级",
+          "url": "https://wallstreetcn.com/livenews/3149343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "美国副总统万斯：（关于伊朗）霍尔木兹海峡冲突结束后，油价将回归稳定。",
           "url": "https://flash.jin10.com/detail/20260814042159496800",
           "source": "金十数据",
@@ -381,6 +207,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美国能源部长赖特：我们对伊朗的制裁扼杀了其经济，使其在地区的影响力减弱。对其经济的压制最终将导致伊朗政权崩溃。",
+          "url": "https://flash.jin10.com/detail/20260814070112323800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "美国副总统万斯：美国在对伊朗的政策上有很多工具可用。",
@@ -436,23 +273,311 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "美国能源部长赖特：伊朗正试图以全球经济为要挟。",
+          "url": "https://flash.jin10.com/detail/20260814064748613800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33773012",
+          "source": "澎湃新闻",
+          "ranks": [
+            1,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
+        },
+        {
+          "title": "特朗普秘密“换机”返美，除赫格塞思外的3名亲信都是谁？",
+          "url": "https://news.ifeng.com/c/8vYQf5wseR7",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
+          "url": "https://flash.jin10.com/detail/20260814004157850800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普：今天在“最低限额（de minimis）豁免”问题上取得重大胜利。",
+          "url": "https://wallstreetcn.com/livenews/3149281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
+          "url": "https://news.ifeng.com/c/8vYj1925EKl",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
+        },
+        {
+          "title": "特朗普对特定无人机进口加征100%关税",
+          "url": "https://flash.jin10.com/detail/20260814054149150800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "澳大利亚总理阿尔巴尼斯：与美国总统特朗普进行了夜间交谈。",
+          "url": "https://flash.jin10.com/detail/20260814054026468800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "美新闻机构起诉特朗普",
+          "url": "https://www.douyin.com/hot/2607917",
+          "source": "抖音",
+          "ranks": [
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 05时54分]"
+        },
+        {
+          "title": "特朗普品牌马尔代夫度假村推迟数字代币计划，伊朗战争扰乱地区旅游",
+          "url": "https://wallstreetcn.com/livenews/3149255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 03时11分]"
+        },
+        {
+          "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
+          "url": "https://wallstreetcn.com/livenews/3149316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时51分 ~ 05时54分]"
+        },
+        {
+          "title": "据Axios：特朗普女婿库什纳预计下周前往开罗，与埃及调解人进行会谈。",
+          "url": "https://flash.jin10.com/detail/20260814053520853800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普下令海军移除航母电磁弹射系统，恢复蒸汽弹射方案，预计相关改装将推高成本数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814043950826800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "白宫：美国总统特朗普已指示国防部长，在CVN-81航母建造期间，将先进电磁弹射系统和先进武器升降机更换为传统的蒸汽和液压系统。",
+          "url": "https://flash.jin10.com/detail/20260814052949951800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署的备忘录指示五角大楼参照“芬兰模式”，加大对美国造船工业基础的直接投资。",
+          "url": "https://flash.jin10.com/detail/20260814052933295800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "白宫：美国总统特朗普已签署一份国家安全总统备忘录，旨在解决海军舰船建造与维修计划中长期存在的关键问题。",
+          "url": "https://flash.jin10.com/detail/20260814052911469800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "最高100%关税！特朗普突然对无人机下狠手，俄乌冲突让美国警醒",
+          "url": "https://flash.jin10.com/detail/20260814071926003800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "白宫：美国总统特朗普将对英国输美无人机加征10%从价关税。",
+          "url": "https://flash.jin10.com/detail/20260814052728079800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "白宫：美国总统特朗普将对欧盟、日本、列支敦士登、韩国、瑞士输美的无人机及零部件加征15%从价关税。",
+          "url": "https://flash.jin10.com/detail/20260814052706154800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "白宫：美国总统特朗普将对特定尺寸或具备敏感性能的无人机加征100%从价关税。",
+          "url": "https://flash.jin10.com/detail/20260814052625841800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "白宫：美国总统特朗普将对部分缺乏特定能力的小型无人机加征25%从价关税，理由是相关产品涉及国家安全问题。",
+          "url": "https://flash.jin10.com/detail/20260814052554722800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "美媒：肯尼迪中心决定将特朗普名字印在大楼外墙上",
+          "url": "https://flash.jin10.com/detail/20260814065155550800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "霉霉特朗普 版权",
+          "url": "https://s.weibo.com/weibo?q=%E9%9C%89%E9%9C%89%E7%89%B9%E6%9C%97%E6%99%AE%20%E7%89%88%E6%9D%83&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普女婿计划下周访问以色列，就加沙问题进行会谈",
+          "url": "https://flash.jin10.com/detail/20260814041817349800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
+        },
+        {
+          "title": "美国法院裁定特朗普可以暂停对低价商品的关税豁免",
+          "url": "https://wallstreetcn.com/livenews/3149298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时51分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
           "url": "https://www.zhihu.com/question/2071318356477662328",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "如何评价在 8 月 13 日发布的 DeepSeek Harness？",
@@ -460,11 +585,12 @@
           "source": "知乎",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -474,8 +600,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -486,8 +612,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "DeepSeek API确认涨价",
@@ -513,8 +639,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "梁文锋打新宇树科技 1.8 亿获配 120 万股，账面浮盈或超 7.04 亿元，怎样解读他的这一布局？",
@@ -524,11 +650,12 @@
             5,
             13,
             12,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "DeepSeek智能体曝光！人人用得起的Agent？",
@@ -536,11 +663,26 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
+        },
+        {
+          "title": "DeepSeek官方Agent发布",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            23,
+            14,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -554,19 +696,6 @@
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
-        },
-        {
-          "title": "DeepSeek官方Agent发布",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%AE%98%E6%96%B9Agent%E5%8F%91%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            23,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
           "time_info": "[01时02分 ~ 05时54分]"
         },
         {
@@ -593,6 +722,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "让DeepSeek给小说取架空国名",
           "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -602,12 +742,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "DeepSeek官网撤公告疑似回滚",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%AE%98%E7%BD%91%E6%92%A4%E5%85%AC%E5%91%8A%E7%96%91%E4%BC%BC%E5%9B%9E%E6%BB%9A&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -632,6 +783,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时02分 ~ 05时54分]"
+        },
+        {
+          "title": "美股收盘：三大指数齐升标普收新高 存储板块走强闪迪涨逾13%",
+          "url": "https://www.cls.cn/detail/2453979",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "金十图示：2026年08月13日（周四）美股热门股票行情一览（美股盘中）",
@@ -685,7 +847,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -729,26 +891,27 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "OpenAI 上市前年化营收突破 400 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3149336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
           "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
           "url": "https://flash.jin10.com/detail/20260814053819730800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 07时50分]"
         },
         {
           "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
@@ -820,8 +983,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "谷歌推出Gemini 3.7 Flash模型",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E6%8E%A8%E5%87%BAGemini+3.7+Flash%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
         {
           "title": "谷歌发布Gemini 3.7 Flash 但旗舰模型仍遥遥无期",
           "url": "https://flash.jin10.com/detail/20260814012101785800",
@@ -904,8 +1078,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时54分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 07时50分]"
         },
         {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
@@ -916,8 +1090,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时51分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[04时51分 ~ 07时50分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
