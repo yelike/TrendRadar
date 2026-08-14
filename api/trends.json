@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T14:20:00.717347+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-08-14T18:11:16.349984+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -37,11 +37,12 @@
           "url": "https://news.ifeng.com/c/8vYz7iCdmvg",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 18时11分]"
         },
         {
           "title": "以色列发警报迫使特朗普换飞机，美中情局质疑以方用意",
@@ -76,6 +77,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时11分"
+        },
+        {
+          "title": "事关特朗普与马斯克，美媒最新爆料",
+          "url": "https://news.ifeng.com/c/8vaHza2NSPn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "鲁比奥吐槽：特朗普总先发帖再通知，我都不知道自己要当国务卿",
@@ -120,6 +132,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时26分 ~ 14时20分]"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 18时11分]"
         },
         {
           "title": "特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -167,17 +190,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时51分 ~ 05时54分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "特朗普专机上全是一箱又一箱麦当劳",
@@ -443,6 +455,17 @@
           "time_info": "[10时26分 ~ 14时20分]"
         },
         {
+          "title": "美防长称可“无限期”对伊朗进行海上封锁",
+          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 18时11分]"
+        },
+        {
           "title": "伊朗：美若敢用核弹 全球基地将成靶子",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E8%8B%A5%E6%95%A2%E7%94%A8%E6%A0%B8%E5%BC%B9+%E5%85%A8%E7%90%83%E5%9F%BA%E5%9C%B0%E5%B0%86%E6%88%90%E9%9D%B6%E5%AD%90",
           "source": "百度热搜",
@@ -453,17 +476,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时50分 ~ 10时27分]"
-        },
-        {
-          "title": "美防长称可“无限期”对伊朗进行海上封锁",
-          "url": "https://news.ifeng.com/c/8vZaxoRoYIe",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
         },
         {
           "title": "美防长称可“无限期维持”对伊朗海上封锁",
@@ -680,7 +692,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -688,11 +700,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 18时11分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -704,8 +717,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时02分 ~ 14时20分]"
+          "appearance_count": 10,
+          "time_info": "[01时02分 ~ 18时11分]"
         },
         {
           "title": "怎么看 DeepSeek 8 月 17 日涨价后的价格，这个峰谷定价你接受吗？",
@@ -798,6 +811,19 @@
           "time_info": "[14时19分 ~ 14时20分]"
         },
         {
+          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
+          "url": "https://wallstreetcn.com/articles/3779385",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时50分 ~ 18时11分]"
+        },
+        {
           "title": "DeepSeek Harness发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
@@ -862,28 +888,17 @@
           "time_info": "[01时02分 ~ 07时50分]"
         },
         {
-          "title": "DeepSeek Harness 开发者预览版：一切皆插件",
-          "url": "https://wallstreetcn.com/articles/3779385",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时50分 ~ 14时20分]"
-        },
-        {
           "title": "DeepSeek Harness 来了，它不想做下一个Codex",
           "url": "https://wallstreetcn.com/articles/3779390",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[10时26分 ~ 18时11分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -934,6 +949,17 @@
           "time_info": "[10时26分 ~ 10时27分]"
         },
         {
+          "title": "如何评价 DeepSeek 与北大联合发布的新论文，有哪些亮点？对 Agent 发展有什么影响？",
+          "url": "https://www.zhihu.com/question/2071375581464343126",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
           "title": "让DeepSeek给小说取架空国名",
           "url": "https://s.weibo.com/weibo?q=%E8%AE%A9DeepSeek%E7%BB%99%E5%B0%8F%E8%AF%B4%E5%8F%96%E6%9E%B6%E7%A9%BA%E5%9B%BD%E5%90%8D&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -954,6 +980,145 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "OpenAI首席营收官任职不到一年离职",
+          "url": "https://wallstreetcn.com/livenews/3149682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
+          "url": "https://flash.jin10.com/detail/20260814053819730800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "OpenAI 上市前年化营收突破 400 亿美元",
+          "url": "https://wallstreetcn.com/livenews/3149336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时54分 ~ 07时50分]"
+        },
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "据Axios：OpenAI在IPO前进行高管更换。",
+          "url": "https://flash.jin10.com/detail/20260814173053117800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
+        },
+        {
+          "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
+          "url": "https://flash.jin10.com/detail/20260814000639384800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "OpenAI在不到一年内任命新首席营收官",
+          "url": "https://wallstreetcn.com/livenews/3149247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260814000628612800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
+          "url": "https://wallstreetcn.com/livenews/3149264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时11分"
+        },
+        {
+          "title": "OpenAI任命达利·拉季奇为首席营收官。",
+          "url": "https://flash.jin10.com/detail/20260814000501554800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "OpenAI在不到一年内任命新首席营收官。",
+          "url": "https://flash.jin10.com/detail/20260813235531398800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
+          "url": "https://wallstreetcn.com/livenews/3149391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     },
@@ -1088,112 +1253,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "市场消息：OpenAI年化营收在IPO前已突破400亿美元。",
-          "url": "https://flash.jin10.com/detail/20260814053819730800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "OpenAI 上市前年化营收突破 400 亿美元",
-          "url": "https://wallstreetcn.com/livenews/3149336",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时54分 ~ 07时50分]"
-        },
-        {
-          "title": "OpenAI：丹尼斯·德雷瑟将在过渡期后离开OpenAI，寻求其他发展机会。",
-          "url": "https://flash.jin10.com/detail/20260814000639384800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "OpenAI在不到一年内任命新首席营收官",
-          "url": "https://wallstreetcn.com/livenews/3149247",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "OpenAI：与查德·皮茨和RPT Partners建立了战略合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20260814000628612800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客户群体开放有限预览。",
-          "url": "https://wallstreetcn.com/livenews/3149264",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时11分"
-        },
-        {
-          "title": "OpenAI任命达利·拉季奇为首席营收官。",
-          "url": "https://flash.jin10.com/detail/20260814000501554800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "OpenAI在不到一年内任命新首席营收官。",
-          "url": "https://flash.jin10.com/detail/20260813235531398800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
-          "url": "https://wallstreetcn.com/livenews/3149391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 7,
       "titles": [
@@ -1278,7 +1337,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普或迎新“纪录”：30年期美债融资成本恐创2001年来最高",
@@ -1294,6 +1353,18 @@
           "time_info": "[01时02分 ~ 10时27分]"
         },
         {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时19分 ~ 18时11分]"
+        },
+        {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
           "url": "https://www.zhihu.com/question/2071179550575124530",
           "source": "知乎",
@@ -1306,15 +1377,15 @@
           "time_info": "[04时51分 ~ 07时50分]"
         },
         {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
+          "title": "美联储抗通胀信誉面临大考！华尔街借“蝴蝶”策略押注美债反转",
+          "url": "https://flash.jin10.com/detail/20260814171830547800",
+          "source": "金十数据",
           "ranks": [
-            9
+            19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时19分 ~ 14时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时11分"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
