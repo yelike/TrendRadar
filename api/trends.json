@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-15T02:01:55.834676+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-15T03:08:06.902824+08:00",
+  "total_titles_processed": 366,
   "failed_sources": [],
   "trends": [
     {
@@ -19,22 +19,23 @@
           "time_info": "02时01分"
         },
         {
+          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时08分]"
+        },
+        {
           "title": "金十图示：2026年08月14日（周五）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260815011719410800",
           "source": "金十数据",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
-        },
-        {
-          "title": "美疲弱零售销售数据再挫加息预期，美股涨跌互现，存储芯片股普涨，闪迪涨约7%，金涨油跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -73,11 +74,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E5%AE%9E%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时08分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -87,8 +89,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时08分]"
         },
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -98,8 +100,25 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时08分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "老虎环球Q2建仓SpaceX和AMD 减持谷歌、台积电、英伟达等",
+          "url": "https://flash.jin10.com/detail/20260815024758590800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时01分"
+          "time_info": "03时08分"
         }
       ]
     },
@@ -112,11 +131,12 @@
           "url": "https://wallstreetcn.com/articles/3779403",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时01分"
+          "appearance_count": 3,
+          "time_info": "[02时01分 ~ 03时08分]"
         }
       ]
     }
