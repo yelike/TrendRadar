@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T19:49:52.249316+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-08-14T21:17:34.498555+08:00",
+  "total_titles_processed": 1557,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 19时49分]"
+          "appearance_count": 15,
+          "time_info": "[01时01分 ~ 21时17分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -72,6 +73,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时01分 ~ 05时52分]"
+        },
+        {
+          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
+          "url": "https://wallstreetcn.com/articles/3779390",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时21分 ~ 21时17分]"
         },
         {
           "title": "DeepSeek Harness 开发者预览版：一切皆插件",
@@ -141,19 +156,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 07时48分]"
-        },
-        {
-          "title": "DeepSeek Harness 来了，它不想做下一个Codex",
-          "url": "https://wallstreetcn.com/articles/3779390",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时21分 ~ 19时49分]"
         },
         {
           "title": "DeepSeek官方Agent发布",
@@ -285,6 +287,17 @@
           "time_info": "[12时52分 ~ 12时53分]"
         },
         {
+          "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
+          "url": "https://wallstreetcn.com/articles/3779418",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "一个视频看懂DeepSeek Harness",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
           "source": "bilibili 热搜",
@@ -332,7 +345,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -392,6 +405,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3149772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "美股三大指数集体高开",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80",
           "source": "百度热搜",
@@ -424,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时52分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814210622788800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "美股三大指数集体收涨，道指涨0.13%，纳指涨0.81%，标普500指数涨0.65%。 存储板块大涨，闪迪涨13.67%，西部数据、海力士涨超7%。光通信板块走低，Coherent跌约8%，Lumentum、康宁、Applied Optoelectronics跌超5%。",
@@ -465,7 +500,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         }
@@ -495,11 +530,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时52分 ~ 19时49分]"
+          "appearance_count": 7,
+          "time_info": "[12时52分 ~ 21时17分]"
         },
         {
           "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
@@ -508,7 +544,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时49分"
         },
