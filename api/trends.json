@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T15:35:53.237885+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-08-16T16:36:38.452115+08:00",
+  "total_titles_processed": 712,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             2,
             10,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 16时36分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -69,11 +70,12 @@
           "ranks": [
             1,
             9,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 15时35分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 16时36分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -84,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时48分 ~ 15时35分]"
+          "appearance_count": 3,
+          "time_info": "[14时48分 ~ 16时36分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -114,11 +116,12 @@
             10,
             13,
             21,
-            23
+            23,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 16时36分]"
         },
         {
           "title": "美股收盘：三大指数小幅收低 存储概念逆市走强 闪迪周涨逾35%",
@@ -129,8 +132,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时40分 ~ 15时35分]"
+          "appearance_count": 6,
+          "time_info": "[09时40分 ~ 16时36分]"
         }
       ]
     },
