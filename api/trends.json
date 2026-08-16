@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T21:36:11.447581+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2026-08-16T23:27:47.980432+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
@@ -76,8 +76,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时48分 ~ 21时36分]"
+          "appearance_count": 10,
+          "time_info": "[14时48分 ~ 23时27分]"
+        },
+        {
+          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
+          "url": "https://wallstreetcn.com/articles/3779522",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时28分 ~ 23时27分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
@@ -94,19 +107,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时41分 ~ 19时25分]"
-        },
-        {
-          "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
-          "url": "https://wallstreetcn.com/articles/3779522",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时28分 ~ 21时36分]"
         },
         {
           "title": "段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位",
