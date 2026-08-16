@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-17T04:28:52.782024+08:00",
-  "total_titles_processed": 391,
+  "generated_at": "2026-08-17T05:26:02.098421+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 05时26分]"
         },
         {
           "title": "伯克希尔二季度13F持仓变阵：增持谷歌、达美航空，连续两季减持美银",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 05时26分]"
         }
       ]
     },
@@ -45,8 +45,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时24分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时24分 ~ 05时26分]"
         }
       ]
     }
