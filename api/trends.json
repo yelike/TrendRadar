@@ -1,298 +1,122 @@
 {
-  "generated_at": "2026-08-18T19:31:20.737574+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-08-19T18:45:22.661412+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美债",
-      "match_count": 12,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
       "titles": [
         {
-          "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 19时31分]"
-        },
-        {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 13时35分]"
-        },
-        {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时14分 ~ 19时31分]"
-        },
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 06时30分]"
-        },
-        {
-          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
-          "url": "https://www.cls.cn/detail/2457199",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 19时31分]"
-        },
-        {
-          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
-          "url": "https://www.cls.cn/detail/2456636",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 13时35分]"
-        },
-        {
-          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 19时31分]"
-        },
-        {
-          "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3150682",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "6月英国、日本和中国所持美债规模环比下降",
-          "url": "https://wallstreetcn.com/livenews/3150679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "汇丰：美联储缩减持仓将使美债只能依赖价格敏感型买家",
-          "url": "https://wallstreetcn.com/livenews/3150581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "中英日在6月均减持美债",
-          "url": "https://flash.jin10.com/detail/20260818041001621800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
-          "url": "https://flash.jin10.com/detail/20260818113355527800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "地缘风险推高油价，美股三大指数两连跌，存储芯片、光通信逆势大涨，黄金涨回4400",
-          "url": "https://wallstreetcn.com/articles/3779603",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "美股期指涨跌不一 芯片股盘前走高 国际油价上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2456385",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 06时30分]"
-        },
-        {
-          "title": "美联储加息预期降温，AI情绪回暖，美股指涨跌互现，存储芯片股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779603",
+          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
+          "url": "https://wallstreetcn.com/articles/3779762",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "18时45分"
         },
         {
-          "title": "美股存储芯片指数收涨将近4.8%，五天反弹超20%",
-          "url": "https://wallstreetcn.com/livenews/3150684",
-          "source": "华尔街见闻-快讯",
+          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
+          "url": "https://www.cls.cn/detail/2458007",
+          "source": "财联社热门",
           "ranks": [
-            21
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时30分"
+          "time_info": "18时45分"
         },
         {
-          "title": "金十图示：2026年08月17日（周一）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260818041647203800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "金十图示：2026年08月17日（周一）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260818041644628800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "美股行业ETF多数收跌，航空业ETF跌超2.2%表现最差，标普能源板块涨约0.9%",
-          "url": "https://wallstreetcn.com/livenews/3150681",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "美股收盘：三大股指收跌 存储概念再走强",
-          "url": "https://flash.jin10.com/detail/20260818040234156800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        },
-        {
-          "title": "标普500指数收跌40.70点，跌幅0.52%，报7745.06点，美股开盘以来处于持续下跌状态，8月4日以来持续胶着于7800点附近。 道琼斯工业平均指数收跌272.63点，跌幅0.51%，报53459.78点。 纳斯达克综合指数（纳指）收跌84.253点，跌幅0.32%，报26644.911点。 纳斯达克100指数收跌50.76点，跌幅0.17%，报29995.381点。",
-          "url": "https://wallstreetcn.com/livenews/3150675",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek Harness 一下子涌现出那么多插件，有没有大佬给一下推荐？",
-          "url": "https://www.zhihu.com/question/2072103596481683649",
+          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
+          "url": "https://www.zhihu.com/question/2072997638685864311",
           "source": "知乎",
           "ranks": [
-            17,
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时33分 ~ 12时15分]"
-        },
-        {
-          "title": "DeepSeek招聘土木人才释放一个信号",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 19时31分]"
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
-      "match_count": 1,
+      "keyword_group": "美债",
+      "match_count": 3,
       "titles": [
         {
-          "title": "【早报】美股AI板块逆势走强；原油、黄金双双上行；一线城市二手房价格连续5个月上涨",
-          "url": "https://www.cls.cn/detail/2456585",
+          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
+          "url": "https://www.cls.cn/detail/2458004",
           "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 13时35分]"
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "就在今晚！美债又将迎“大考”……",
+          "url": "https://www.cls.cn/detail/2457871",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "这是当前美股最大风险？华尔街策略师：一旦美债“破6”……",
+          "url": "https://www.cls.cn/detail/2457916",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "塔吉特第二季度净销售额265.4亿美元，预期261.1亿美元。 第二季度调整后每股收益4.11美元。 第二季度同店销售额增长3.8%，预期增长2.43%。 塔吉特预计全年调整后每股收益为9.90至10.90美元。 塔吉特美股盘前跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3151729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "雅诗兰黛第四季度净销售额36.3亿美元，预期35.5亿美元。 第四季度调整后每股收益39美分，预期32美分。 雅诗兰黛预计2027年净销售额增长3%至5%。 雅诗兰黛预计2027年调整后每股收益为3.10至3.35美元，市场预期3.19美元。 雅诗兰黛美股盘前一度涨8.5%。",
+          "url": "https://wallstreetcn.com/livenews/3151700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         }
       ]
     }
